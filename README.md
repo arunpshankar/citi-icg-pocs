@@ -1,6 +1,6 @@
 # CITI ICG
 
-This Proof of Concept (POC) is aimed at finding the differences in the processing of derivative contracts between proposed rules and existing rules (use case 2).
+This Proof of Concept (PoC) is aimed at finding the differences in the processing of derivative contracts between proposed rules and existing rules (use case 2).
 
 ## Setup
 
