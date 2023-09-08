@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# my repo specific 
+.DS_Store
+venv/
+.venv/
+credentials/
+
 # Distribution / packaging
 .Python
 build/
