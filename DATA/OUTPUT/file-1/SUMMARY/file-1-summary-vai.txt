@@ -1,0 +1,71 @@
+**Calculation of Adjusted Notional Amount**
+
+* The adjusted notional amount for an equity or commodity volatility derivative contract is calculated by replacing the unit price with the underlying volatility referenced by the contract and the number of units with the notional amount of the contract.
+* The supervisory delta adjustment for a derivative contract that is not an option contract or collateralized debt obligation tranche is 1 if the fair value of the contract increases when the value of the primary risk factor increases and -1 if the fair value of the contract decreases when the value of the primary risk factor increases.
+* For a derivative contract that is an option contract, the supervisory delta adjustment is determined by the formulas in Table 2 to this section.
+
+**Haircuts for Market Price Volatility**
+
+* The table shows the haircuts for market price volatility. The haircuts are based on a 10 business-day holding period.
+* For residual maturities of zero to 1 year, the haircut is 0.5% for investment grade securitization exposures, 1.0% for sovereign issuers, 2.0% for non-sovereign issuers, and 4.0% for other exposure types.
+* For residual maturities greater than 1 year and less than or equal to 5 years, the haircut is 2.0% for investment grade securitization exposures, 3.0% for sovereign issuers, 4.0% for non-sovereign issuers, and 6.0% for other exposure types.
+* For residual maturities greater than 5 years, the haircut is 4.0% for investment grade securitization exposures, 6.0% for sovereign issuers, 8.0% for non-sovereign issuers, and 12.0% for other exposure types.
+* For main index equities (including convertible bonds) and gold, the haircut is 15.0%.
+* For other publicly traded equities (including convertible bonds), the haircut is 25.0%.
+* For mutual funds, the haircut is the highest haircut applicable to any security in which the fund can invest.
+* For cash collateral held, the haircut is zero.
+* For other exposure types, the haircut is 25.0%.
+
+**Minimum Period of Risk**
+
+* The MPOR (Minimum Period of Risk) for a derivative contract is determined based on the type of contract and the counterparty.
+* For a non-client facing derivative contract, the MPOR cannot be less than 10 business days plus the periodicity of re-margining expressed in business days minus one business day.
+* For a client-facing derivative contract, the MPOR cannot be less than five business days plus the periodicity of re-margining expressed in business days minus one business day.
+* For a derivative contract that is within a netting set that is composed of more than 5,000 derivative contracts that are not cleared transactions, or a netting set that contains one or more trades involving illiquid collateral or a derivative contract that cannot be easily replaced, the MPOR cannot be less than twenty business days.
+* For a netting set subject to more than two outstanding disputes over margin that lasted longer than the MPOR over the previous two quarters, the applicable floor is twice the amount provided in paragraphs (c)(9)(iv)(A)(1) and (2) of this section.
+* The maturity factor of a derivative contract that is not subject to a variation margin agreement, or derivative contracts under which the counterparty is not required to post variation margin, is determined by the formula:
+Maturity factor = min{M;250}/250, where M equals the greater of 10 business days and the remaining maturity of the contract, as measured in business days.
+* If a Board-regulated institution has elected to treat a derivative contract that is a cleared transaction that is not subject to a variation margin agreement as one that is subject to a variation margin agreement, the Board-regulated institution must treat the derivative contract as subject to a variation margin agreement with maturity factor as determined according to (c)(9)(iv)(A) of this section, and daily settlement does not change the end date of the period referenced by the derivative contract.
+
+**Hedging Set Amount Formula**
+
+* The hedging set amount formula is:
+K
+= [(e • Σ AddOn(Type,₂))² + (1 − (p)²³)
+k=1
+K
+•Σ(AddOn (Type))²
+k=1
+2
+1
+2
+Where:
+* K is each commodity type within the hedging set.
+* Kis the number of commodity types within the hedging set.
+* AddOn (Typek) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference reference commodity type.
+* ρ equals the applicable supervisory correlation factor, as provided in Table 3 to this section.
+
+**Calculation of Replacement Cost and Potential Future Exposure**
+
+* This section of the regulation defines how to calculate the replacement cost and potential future exposure for derivative contracts that are subject to a single variation margin agreement or multiple variation margin agreements.
+* For multiple netting sets subject to a single variation margin agreement, the replacement cost is calculated as the maximum of the sum of the positive fair values of the derivative contracts within each netting set minus the maximum of the variation margin amount applicable to each netting set, and the sum of the negative fair values of the derivative contracts within each netting set minus the minimum of the variation margin amount applicable to each netting set.
+* The potential future exposure is calculated as the sum of the potential future exposure of each netting set, calculated as if the netting sets were not subject to a variation margin agreement.
+* For a netting set subject to multiple variation margin agreements or a hybrid netting set, the calculation for replacement cost is provided under paragraph (c)(6)(i) of the regulation.
+
+**Calculation of Adjusted Notional Amount for Interest Rate or Credit Derivative Contracts**
+
+* The adjusted notional amount for an interest rate or credit derivative contract is the product of the notional amount of the derivative contract and the supervisory duration.
+* The supervisory duration is calculated using the following formula:
+Supervisory duration = max(-0.05*e^(250/t), -0.05*t + 0.04)
+Where:
+* t is the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed; and
+* E is the number of business days from the present day until the end date of the derivative contract.
+
+**Calculation of Adjusted Notional Amount for Exchange Rate Derivative Contracts**
+
+* For an exchange rate derivative contract, the adjusted notional amount is the notional amount of the non-U.S. denominated currency leg of the derivative contract, measured in U.S. dollars using the exchange rate on the date of the calculation.
+* If both legs of the exchange rate derivative contract are denominated in currencies other than U.S. dollars, the adjusted notional amount of the derivative contract is the largest leg of the derivative contract, measured in U.S. dollars using the exchange rate on the date of the calculation.
+
+**Calculation of Adjusted Notional Amount for Equity Derivative Contracts or Commodity Derivative Contracts**
+
+* For an equity derivative contract or a commodity derivative contract, the adjusted notional amount is the product of the fair value of one unit of the reference instrument underlying the derivative contract and the number of such units referenced by the derivative contract.
