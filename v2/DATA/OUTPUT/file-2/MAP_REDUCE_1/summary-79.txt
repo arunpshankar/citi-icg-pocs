@@ -1,0 +1,10 @@
+ 1. The agencies propose a capital requirement for non-modellable risk factors that is similar to the IMCC for modellable risk factors, but with less recognition for hedging and portfolio diversification. 
+
+
+2. The proposal would require a banking organization to separately carry out the calculation for each non-modellable risk factor, apply a minimum liquidity horizon adjustment of at least 20 days, and separately identify for each risk class the stress period for which its market risk covered positions on model-eligible trading desks would experience the largest cumulative loss. 
+
+
+3. The proposal would allow a banking organization to use proxies in designing the stress scenario for each risk class of non-modellable risk factors, as long as such proxies satisfy the data quality requirements for modellable risk factors. 
+
+
+4. The proposal would retain the backtesting requirements in subpart F of the current capital rule, with two modifications: backtesting of VaR-based measures against both actual profit and loss as well as against hypothetical profit and loss, and a requirement to separately compare each business day's aggregate actual profit and loss for transactions on model-eligible trading desks and aggregate hypothetical profit and loss for transactions on model-eligible trading desks with the corresponding aggregate VaR-based measures for that business day calibrated

@@ -1,0 +1,5 @@
+ 1. The agencies propose using existing definitions for prime, subprime, and mid-prime residential mortgage-backed securities based on Regulation Z definitions. 
+2. The agencies seek comment on the appropriateness of adding a sub-speculative grade category for non-securitizations and correlation trading positions. 
+3. The agencies seek comment on the risk weight for covered bonds and alternative approaches to differentiate the credit quality of highly rated covered bonds without referring to credit ratings. 
+4. The agencies seek comment on whether the proposed definitions for each sector bucket appropriately capture the characteristics to distinguish between the categories of residential mortgage-backed securities. 
+5. The agencies seek comment on whether the proposed sector bucket definitions for residential mortgage-backed securities are sufficiently clear and what additional criteria should be considered to define "primarily."

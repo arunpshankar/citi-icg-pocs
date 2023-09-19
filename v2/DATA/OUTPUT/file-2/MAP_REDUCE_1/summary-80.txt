@@ -1,0 +1,13 @@
+ 1. A proposal is made to require banking organizations to apply a lower capital multiplier to modellable risk factors based on the number of exceptions in the entity-wide backtesting results. 
+
+
+2. The backtesting requirements aim to measure the conservatism of forecasting assumptions and valuation methods in expected shortfall models. 
+
+
+3. A PLA add-on is proposed to reflect an additional capital requirement for deficiencies in the accuracy of a banking organization's internal models. 
+
+
+4. The proposal requires all banking organizations to use the standardized default risk capital requirement, regardless of the method used for non-default market risk factors. 
+
+
+5. The PLA test metrics are designed to measure the materiality of the simplifications in internal risk management models relative to front-office models.

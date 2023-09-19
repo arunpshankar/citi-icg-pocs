@@ -1,0 +1,17 @@
+ 1. The agencies should consider alternative minimum haircut floors that are based on a
+percentage of the market value of the collateral, such as 10% or 20%. This would ensure
+that the haircuts are more closely aligned with the actual risk of the collateral.
+2. The advantages of setting the minimum haircuts at a higher level include:
+a. It would reduce the risk of the banking organization being exposed to losses if the
+collateral declines in value.
+b. It would make it more difficult for banking organizations to use low-quality collateral to
+meet the minimum haircut requirements.
+3. The disadvantages of setting the minimum haircuts at a higher level include:
+a. It would increase the cost of borrowing for banking organizations.
+b. It would make it more difficult for banking organizations to find counterparties who are
+willing to provide collateral.
+4. The agencies should provide banking organizations with the flexibility to apply a single-
+transaction haircut floor on a transaction-by-transaction basis for in-scope transactions within
+a netting set. This would allow banking organizations to recognize the risk-mitigation
+benefits of collateral for individual transactions that meet the single-transaction haircut floor,
+even if the netting set did not meet the portfolio

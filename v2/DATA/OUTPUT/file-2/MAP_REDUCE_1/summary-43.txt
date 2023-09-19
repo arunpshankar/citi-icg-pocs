@@ -1,0 +1,11 @@
+ 1. The agencies are proposing to enhance the risk-based capital rules for market risk to
+better align with the Basel Committee's Fundamental Review of the Trading Book (FRTB). 
+
+2. The proposal would replace the current value-at-risk (VaR)-based market risk capital
+framework with a new framework that includes stressed value-at-risk (SVaR) and incremental risk capital (IRC) requirements. 
+
+3. The proposal would also make changes to the internal models used to calculate market risk capital requirements, including requiring the use of more sophisticated models and data. 
+
+4. The proposal would also require banking organizations to disclose more information about their market risk exposures, including their SVaR and IRC requirements. 
+
+5. The proposal would also make changes to the market risk capital requirements for covered positions and trading positions.

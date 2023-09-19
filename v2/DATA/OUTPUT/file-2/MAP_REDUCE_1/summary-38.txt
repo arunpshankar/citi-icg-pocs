@@ -1,0 +1,13 @@
+ 1. The proposal defines the components of the business indicator, including the interest, lease, and dividend component, the services component, and the financial component.
+
+
+2. The interest, lease, and dividend component would capture a banking organization's interest income and expenses from financial assets and liabilities, as well as dividend income from investments in stocks and mutual funds.
+
+
+3. The services component would account for activities that result in fees and commissions and other financial activities not captured by the other components of the business indicator.
+
+
+4. The financial component would capture trading activities and other activities associated with a banking organization's assets and liabilities.
+
+
+5. The proposal includes definitions for each component and discusses the advantages and disadvantages of the proposed approach, as well as alternative approaches.

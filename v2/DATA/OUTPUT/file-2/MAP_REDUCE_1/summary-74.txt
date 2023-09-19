@@ -1,0 +1,24 @@
+ 1. The proposal defines a real price as a price, or other information, that is used to
+determine the fair value of a banking organization's covered positions and is obtained from
+either internal or external sources. 
+
+
+2. To qualify as a real price, the price or other information must meet certain
+requirements, including being observable, verifiable, and representative of the market
+liquidity of the risk factor.
+
+
+3. The proposal also provides a standard bucketing approach that banking organizations
+can use to group real prices for the purpose of determining whether a risk factor passes the
+risk factor eligibility test.
+
+
+4. The proposal allows banking organizations to use their own bucketing approach,
+provided that the internal risk management model uses the same buckets or segmentation of
+risk factors to calculate profits and losses for purposes of the PLA test.
+
+
+5. To determine whether the risk factors in a bucket pass the risk factor eligibility test, the
+proposal requires a banking organization to allocate a real price to any risk bucket for which
+the price is representative of the risk factors within the bucket and to count all real prices
+mapped to a risk bucket.

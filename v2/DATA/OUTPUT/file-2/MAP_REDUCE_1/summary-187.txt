@@ -1,0 +1,4 @@
+ 1. AOCI opt-out election must be made by national banks and Federal savings associations in their Call Report.
+2. The election must be made during the first reporting period after the institution becomes subject to or exempt from subpart E of this part.
+3. Subsidiary banking organizations of a national bank or Federal savings association must elect the same option as the parent institution.
+4. A national bank or Federal savings association resulting from a merger, acquisition, or purchase transaction may change its AOCI opt-out election in its Call Report filed for the

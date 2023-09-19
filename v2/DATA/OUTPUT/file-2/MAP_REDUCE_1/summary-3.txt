@@ -1,0 +1,13 @@
+ 1. The proposal would remove the use of internal models to set credit risk and operational risk capital requirements for banking organizations subject to Category I or II capital standards. 
+
+
+2. The proposal would continue to allow use of internal models to set market risk capital requirements for portfolios where modeling can be demonstrated to be appropriate. 
+
+
+3. The proposal's expanded risk-based approach would apply to banking organizations with total assets of $100 billion or more and their subsidiary depository institutions. 
+
+
+4. Banking organizations with significant trading activities would be subject to market risk capital requirements. 
+
+
+5. Large banking organizations would be subject to market risk capital requirements regardless of trading activities.

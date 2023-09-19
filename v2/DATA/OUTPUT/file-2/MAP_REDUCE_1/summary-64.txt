@@ -1,0 +1,13 @@
+ 1. The proposal introduces a lower risk weight for interest rate risk factors for listed liquid currencies and other currencies specified by the primary Federal supervisor. 
+
+
+2. The proposal defines delta credit spread risk buckets and corresponding risk weights for non-securitization positions, correlation trading positions, and securitization positions non-CTP based on investment grade, speculative grade, and sub-speculative grade. 
+
+
+3. The proposal includes GSE debt and public sector entities in the sector for government-backed non-financials, education, and public administration. 
+
+
+4. The proposal provides a separate risk bucket with higher risk weights for sub-speculative grade sovereigns and multilateral development banks. 
+
+
+5. The proposal clarifies the treatment of personal loans and dealer floorplan loans within the delta credit spread risk buckets and provides definitions for prime and sub-prime residential mortgage-backed securities.

@@ -1,0 +1,5 @@
+ 1. The final rule revises the definition of total capital to exclude goodwill and associated deferred tax liabilities. 
+2. The final rule revises the definition of total capital minority interest to exclude the portion of a subsidiary's total capital that is not owned by the Board-regulated institution. 
+3. The final rule revises the definition of risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
+4. The final rule revises the definition of standardized total risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
+5. The final rule revises the definition of total risk-based capital ratio to exclude goodwill and associated deferred tax liabilities.

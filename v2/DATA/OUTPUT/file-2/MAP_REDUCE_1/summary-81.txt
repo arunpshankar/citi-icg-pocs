@@ -1,0 +1,10 @@
+ 1. The proposal introduces PLA test metrics to assess the robustness of a banking 
+    organization's internal models. 
+2. The PLA test metrics include the Spearman correlation and the Kolmogorov-Smirnov 
+    metric. 
+3. The proposal requires banking organizations to allocate each model-eligible trading 
+    desk to a PLA test zone based on the test results. 
+4. The PLA add-on is calculated as the greater of zero and the aggregate capital 
+    benefit from the internal models approach, multiplied by a multiplication factor. 
+5. The multiplication factor gradually increases from 0 to 0.5 as the number of model-
+    eligible trading desks within the amber zone increases.

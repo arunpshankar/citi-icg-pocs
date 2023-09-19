@@ -1,0 +1,13 @@
+ 1. The definition of "market risk covered position" includes various financial instruments and exposures, such as debt securities, equity positions, and derivative instruments.
+
+
+2. A model-eligible trading desk is a trading desk approved by the agency to use internal models for calculating risk-weighted assets.
+
+
+3. A non-modellable risk factor is a risk factor that does not satisfy the risk factor eligibility test or does not have sufficient data to meet the requirements.
+
+
+4. A net short risk position is a position where the notional amounts of the short position exceed the notional amounts of the long position and arises from certain credit derivatives, internal risk transfers, or equity or credit positions.
+
+
+5. A non-securitization position is a market risk covered position that is not a securitization position or a correlation trading position and reacts primarily to changes in interest rates or credit spreads.

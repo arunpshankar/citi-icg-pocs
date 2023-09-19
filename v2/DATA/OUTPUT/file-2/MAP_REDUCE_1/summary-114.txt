@@ -1,0 +1,13 @@
+ 1. A regulatory retail exposure is a revolving credit, line of credit, term loan, or lease with an exposure amount and sum of all other retail exposures to the obligor and its affiliates not exceeding $1 million. 
+
+
+2. A retail exposure is an exposure that is not a real estate exposure and meets certain criteria, including being to a natural person or persons or to an SME that satisfies the criteria for regulatory retail exposure. 
+
+
+3. A senior securitization exposure has a first-priority claim on the cash flows from the underlying exposures. 
+
+
+4. A small or medium-sized entity (SME) is an entity with reported annual revenues or sales for the consolidated group of which the entity is a part of less than or equal to $50 million for the most recent fiscal year. 
+
+
+5. The loan-to-value (LTV) ratio is calculated as the extension of credit divided by the value of the property, with the value of the property being the market value of all real estate properties securing or being improved by the extension of credit plus the amount of any readily marketable collateral and other acceptable collateral.

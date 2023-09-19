@@ -1,0 +1,9 @@
+ The proposal expands the definition of market risk covered positions to include certain equity positions in investment funds, net short risk positions, publicly traded equity positions, embedded derivatives on instruments issued by the banking organization that relate to credit or equity risk, and certain positions associated with internal risk transfer. 
+
+Positions would be included if there is sufficient transparency to be reliably valued on a daily basis, either from an observable market price or from the banking organization's ability to identify the underlying positions held by the investment fund. 
+
+Net short risk positions are over-hedges of credit and equity exposures that are not market risk covered positions and would be included in market risk covered positions to help ensure that such exposures are appropriately reflected in banking organizations' risk-based capital requirements. 
+
+The proposal generally would include as market risk covered positions all publicly traded equity positions regardless of whether they are trading assets or trading liabilities and provided that there are no restrictions on the tradability of such positions. 
+
+A banking organization may issue hybrid instruments that contain an embedded derivative related to credit or equity risk and a host contract and bifurcate the derivative and the host contract for accounting purposes under GAAP. Under such circumstances, the proposal would include the embedded derivative in the definition of market risk covered position regardless of whether GA

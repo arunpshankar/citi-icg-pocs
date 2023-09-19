@@ -1,0 +1,5 @@
+ 1. The rule removes the reference to "bank or bank that is a Category III Board-regulated institution" and replaces it with "bank". 
+2. It revises Subpart G of Part 208 by removing paragraph (b) and redesignating paragraphs (c) through (f) as (b) through (e). 
+3. It amends Appendix C to Part 208 by revising footnote 2 to refer to the term "total capital" as defined in 12 CFR part 3, 12 CFR part 217, or 12 CFR part 324. 
+4. It removes Subparts E and F of Part 217 and replaces them with new Subparts E and F. 
+5. It makes various amendments to Subpart A and Subpart B of Part 217, including adding definitions for "Category IV Board-regulated institution", "CVA risk-weighted assets", and "Expanded total risk-weighted assets".

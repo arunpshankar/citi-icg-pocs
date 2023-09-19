@@ -1,0 +1,155 @@
+ **Section 1: Capital Conservation Buffer and Leverage Buffer**
+
+* The capital conservation buffer is the lowest of the common equity tier 1, tier 1, or total capital ratios minus the respective minimum capital ratios. 
+* The leverage buffer is the supplementary leverage ratio minus 3%. 
+
+**Section 2: GSIB Surcharge**
+
+* The GSIB surcharge is used to determine the maximum payout ratio. 
+
+**Section 3: Instruments Issued After a Board-Regulated Institution Becomes Subject to Subpart E**
+
+* Instruments issued after the date a Board-regulated institution becomes subject to subpart E must disclose that the holders may be fully subordinated to interests held by the U.S. government in the event of a receivership, insolvency, liquidation, or similar proceeding. 
+
+**Section 4: Minority Interest Limitations**
+
+* Minority interest limitations apply to Board-regulated institutions subject to subpart E if a consolidated subsidiary has issued regulatory capital that is not owned by the Board-regulated institution and exceeds certain capital ratios. 
+
+**Section 5: Total Capital**
+
+* The final rule revises the definition of total capital to exclude goodwill and associated deferred tax liabilities. 
+
+**Section 6: Total Capital Minority Interest**
+
+* The final rule revises the definition of total capital minority interest to exclude the portion of a subsidiary's total capital that is not owned by the Board-regulated institution. 
+
+**Section 7: Risk-Weighted Assets**
+
+* The final rule revises the definition of risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
+
+**Section 8: Standardized Total Risk-Weighted Assets**
+
+* The final rule revises the definition of standardized total risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
+
+**Section 9: Total Risk-Based Capital Ratio**
+
+* The final rule revises the definition of total risk-based capital ratio to exclude goodwill and associated deferred tax liabilities. 
+
+**Section 10: Deductions from Capital**
+
+* A Board-regulated institution must deduct from capital investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
+* Significant investments in the capital of unconsolidated financial institutions in the form of common stock are subject to a 10% common equity tier 1 capital deduction threshold. 
+* DTAs arising from temporary differences, MSAs net of associated DTLs, and significant investments in the capital of unconsolidated financial institutions in the form of common stock are deducted from common equity tier 1 capital elements. 
+
+**Section 11: Capital Rule for Bank Holding Companies and Savings and Loan Holding Companies with $100 Billion or More in Total Consolidated Assets**
+
+* The final rule amends the capital rule for bank holding companies and savings and loan holding companies with $100 billion or more in total consolidated assets. 
+
+**Section 12: Standardized Approach for Measuring Counterparty Credit Risk Exposures**
+
+* The final rule implements the standardized approach for measuring counterparty credit risk exposures. 
+
+**Section 13: Framework for Calculating Risk-Weighted Assets for Exposures to Covered Funds**
+
+* The final rule implements the framework for calculating risk-weighted assets for exposures to covered funds. 
+
+**Section 14: Trading Account**
+
+* The final rule revises the definition of "trading account" to exclude certain positions from the trading book. 
+
+**Section 15: Market Risk Capital Rule and Supplementary Leverage Ratio**
+
+* The final rule makes conforming changes to the market risk capital rule and the supplementary leverage ratio. 
+
+**Section 16: Removal of Advanced Approaches Definitions**
+
+* The definitions of "advanced approaches" are removed, and the definition of "regulatory capital ratio" is revised in the regulation. 
+
+**Section 17: Regulatory Capital Ratio**
+
+* The regulatory capital ratio is defined as a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including applicable regulatory capital ratios calculated under 12 CFR part 217 and deductions required under 12 CFR 248.12. 
+
+**Section 18: Calculation of Regulatory Capital Ratios for Savings and Loan Holding Companies**
+
+* For savings and loan holding companies, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
+
+**Section 19: Calculation of Regulatory Capital Ratios for State Member Banks with over $250 Billion in Total Consolidated Assets**
+
+* For state member banks with over $250 billion in total consolidated assets, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
+
+**Section 20: Calculation of Regulatory Capital Ratios for U.S. Banking Organizations with $100 Billion or More in Total Consolidated Assets**
+
+* For U.S. banking organizations with $100 billion or more in total consolidated assets, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
+
+**Section 21: Basel III Capital Framework**
+
+* The final rule amends the capital rules for bank holding companies and savings and loan holding companies to conform to the Basel III capital framework. 
+
+**Section 22: TLAC Requirements**
+
+* The final rule implements the TLAC requirements of the Dodd-Frank Act for U.S. global systemically important banking organizations (G-SIBs). 
+
+**Section 23: Single Counterparty Credit Limits**
+
+* The final rule implements the single counterparty credit limits requirements of the Dodd-Frank Act for bank holding companies, savings and loan holding companies, and U.S. branches and agencies of foreign banking organizations. 
+
+**Section 24: Enhanced Prudential Standards**
+
+* The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with $100 billion or more in total consolidated assets and combined U.S. assets of $100 billion or more. 
+
+**Section 25: Enhanced Prudential Standards for Foreign Banking Organizations with Total Consolidated Assets of $100 Billion or More and Combined U.S. Assets of Less Than $100 Billion**
+
+* The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion. 
+
+**Section 26: Counterparty Credit Risk Management**
+
+* A new category, Category IV FDIC-supervised institution, is added. 
+* The definition of "Category II FDIC-supervised institution" is revised to include institutions with $700 billion or more in total consolidated assets and $75 billion or more in cross-jurisdictional activity. 
+* The definition of "Category III FDIC-supervised institution" is revised to include institutions with $250 billion or more in total consolidated assets and at least one of the following: $75 billion or more in total nonbank assets, $75 billion or more in off-balance sheet exposure, or $75 billion or more in weighted short-term wholesale funding. 
+* The definitions for "Advanced approaches FDIC-supervised institution", "Advanced approaches total risk-weighted assets”, “Advanced market risk-weighted assets", "Credit-risk-weighted assets", "Eligible credit reserves", "Expected credit loss (ECL)", "Specific wrong-way risk”, “Unregulated financial institution”, and “Value-at-Risk (VaR)" are removed. 
+* The timing for institutions to comply with the requirements of their category is clarified to be no later than the first day of the second quarter following the effective date of the final rule. 
+
+**Section 27: Definitions**
+
+* A Category II FDIC-supervised institution is a financial institution that is not a subsidiary of a global systemically important banking organization, a Category III FDIC-supervised institution, or a Category IV FDIC-supervised institution. 
+
+
+* A cleared transaction is a transaction that is cleared through a central counterparty. 
+
+
+* Corporate exposure is an exposure to a company that is not a sovereign, a public sector entity, a Government-Sponsored Enterprise, a depository institution, a foreign bank, a credit union, a multi-lateral development bank, or a policy loan. 
+
+
+* CVA risk-weighted assets are the measure for CVA risk calculated under § 324.221(a) multiplied by 12.5. 
+
+
+* Eligible guarantee means a guarantee that is written, unconditional or a contingent obligation of the U.S. government or its agencies, covers all or a pro rata portion of all contractual payments of the obligated party on the reference exposure, gives the beneficiary a direct claim against the protection provider, is not unilaterally cancelable by the protection provider for reasons other than the breach of the contract by the beneficiary, is legally enforceable against the protection provider in a jurisdiction where the protection provider has
+ 
+**Section 28: Counterparty Credit Risk Management Framework**
+
+* An FDIC-supervised institution must have written policies and procedures that establish a framework for the management of counterparty credit risk, including the following:
+* A process to identify, measure, monitor, and control counterparty credit risk;
+* Limits on the amount of counterparty credit risk that the FDIC-supervised institution may assume;
+* Requirements for collateral and other credit enhancements;
+* Procedures for monitoring and managing collateral and other credit enhancements; and
+* Procedures for closing out or otherwise terminating transactions in the event of a counterparty default. 
+
+**Section 29: Counterparty Credit Risk Management Framework Elements**
+
+* The counterparty credit risk management framework must include the following elements:
+* A risk management process that is appropriate for the size, complexity, and risk profile of the FDIC-supervised institution;
+* A system for identifying, measuring, and monitoring counterparty credit risk;
+* Limits on the amount of counterparty credit risk that the FDIC-supervised institution may assume;
+* Requirements for collateral and other credit enhancements;
+* Procedures for monitoring and managing collateral and other credit enhancements; and
+* Procedures for closing out or otherwise terminating transactions in the event of a counterparty default. 
+
+**Section 30: Deductions from Regulatory Capital**
+
+* An FDIC-supervised institution subject to subpart E of this part must make deductions from regulatory capital for DTAs, MSAs, significant investments in the capital of unconsolidated financial institutions in the form of common stock, and non-significant investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
+
+* The amount to be deducted is the greater of the amount of the investment or 10% of the sum of the FDIC-supervised institution's common equity tier 1 capital elements. 
+
+* If the FDIC-supervised institution does not have a sufficient amount of a specific component of capital to effect the full amount of any deduction required, the FDIC-supervised institution must deduct the shortfall amount from the next higher (that is, more subordinated) component of regulatory capital. 
+
+* With the prior written approval of the FDIC, for the period of time

@@ -1,0 +1,5 @@
+ 1. The proposal specifies the capital treatment of internal CVA risk transfers between a CVA desk and a trading desk to hedge CVA risk. 
+2. An internal CVA risk transfer involves two perfectly offsetting positions of a derivative transaction. 
+3. The proposal requires a banking organization to maintain an internal written record of each internal derivative transaction. 
+4. If the internal risk transfer is subject to curvature risk, default risk, or the residual risk add-on, the trading desk would have to execute an external transaction with a third party. 
+5. The proposal sets forth general requirements for the recognition of CVA hedges that would be applicable to both internal transfers of CVA risk and external CVA hedges.

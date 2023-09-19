@@ -1,0 +1,5 @@
+ 1. The full look-through approach calculates a risk-weighted asset amount for each exposure held by the investment fund. 
+2.  If the banking organization is unable to meet the full look-through approach, it should apply the alternative modified look-through approach. 
+3.  If the banking organization is unable to apply either approach, it should assign a 1,250 percent risk weight to the adjusted carrying value of the equity exposure to the investment fund. 
+4.  Banking organizations generally would not be permitted to apply a combination of the above approaches. 
+5.  The proposal would largely maintain the same risk-weight treatment as provided under the full look-through approach in the advanced approaches of the current capital rule, with five exceptions.

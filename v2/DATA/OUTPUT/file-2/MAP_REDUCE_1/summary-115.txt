@@ -1,0 +1,5 @@
+ 1. The risk weight of an exposure to a sovereign is based on the sovereign's credit risk category (CRC).
+2. A sovereign exposure with a CRC of 0-1 is assigned a risk weight of 20%.
+3. A sovereign exposure with a CRC of 2 is assigned a risk weight of 50%.
+4. A sovereign exposure with a CRC of 3 is assigned a risk weight of 100%.
+5. A sovereign exposure with a CRC of 4-7 is assigned a risk weight of 150%.

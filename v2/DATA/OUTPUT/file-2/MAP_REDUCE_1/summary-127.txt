@@ -1,0 +1,9 @@
+ 1. The exposure amount for an individual eligible margin loan or repo-style transaction that is not part of a netting set is calculated using a formula that includes the current fair value of the specific instrument, cash, or gold the banking organization has lent, sold subject to repurchase, or posted as collateral to the counterparty, haircuts appropriate to the transaction, and the current fair value of the specific instrument, cash, or gold the banking organization has borrowed, purchased subject to resale, or taken as collateral from the counterparty. 
+
+2. Market price volatility and currency mismatch haircuts are applied to eligible margin loans and repo-style transactions. 
+
+3. For repo-style transactions, a banking organization may multiply the haircuts provided by the square root of 1/2. 
+
+4. Haircuts are adjusted upward on the basis of a holding period longer than ten business days for eligible margin loans or a holding period longer than five business days for repo-style transactions that are not cleared transactions under certain conditions. 
+
+5. A banking organization must apply minimum haircut floors to any of the following transactions with an unregulated financial institution that are not cleared transactions: eligible margin loans, repo-style transactions, and netting sets of such transactions.

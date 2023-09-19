@@ -1,0 +1,9 @@
+ 1. The proposal introduces a standardized approach to calculate the default risk capital requirement for correlation trading positions. 
+
+2. The gross default exposure is measured as the position's market value, and the net default exposure is calculated by offsetting long and short exposures in specific cases. 
+
+3. Risk buckets are defined by index, and a bespoke correlation trading position is assigned to its own unique bucket unless it is substantially similar to an index instrument. 
+
+4. The risk weights corresponding to the proposed risk buckets are based on the treatment under either subpart D or subpart E of the capital rule. 
+
+5. A residual risk add-on capital requirement is proposed to capture exotic risks and other residual risks not fully reflected in the sensitivities-based capital requirement or the standardized default risk capital requirement.

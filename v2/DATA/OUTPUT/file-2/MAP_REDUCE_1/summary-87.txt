@@ -1,0 +1,5 @@
+ 1. The proposal would introduce a capital requirement for CVA risk. 
+2. CVA risk is the risk of loss that arises when a counterparty to a derivative transaction defaults. 
+3. The proposal would require banking organizations to hold capital against their CVA risk exposures. 
+4. The proposal would also allow banking organizations to use certain CVA hedges to reduce their capital requirements. 
+5. The proposal would not allow banking organizations to recognize the risk mitigating benefits of CVA hedges that are securitization positions or correlation trading positions.

@@ -1,0 +1,9 @@
+ 1. The proposal retains the existing three-part structure of the definition of covered positions, with several modifications. 
+
+2. The proposal expands the definition of trading assets and trading liabilities that would be market risk covered positions to include any trading asset or trading liability that is held for the purpose of regular dealing or making a market in securities or other instruments. 
+
+3. The proposal includes as market risk covered positions certain positions or hedges of such positions regardless of whether the position is a trading asset or trading liability. 
+
+4. The proposal continues to allow a banking organization to exclude structural positions in a foreign currency from market risk covered positions with prior approval from its primary Federal supervisor. 
+
+5. The proposal excludes from market risk covered positions foreign exchange and commodity positions that are entered into for the purpose of hedging other positions that are not market risk covered positions.

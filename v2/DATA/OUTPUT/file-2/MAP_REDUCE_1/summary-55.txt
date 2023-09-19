@@ -1,0 +1,13 @@
+ 1. The proposal introduces enhanced operational requirements for banking organizations that use the internal models approach under the models-based measure for market risk. 
+
+
+2. These requirements include validation, documentation, model eligibility, ongoing eligibility, and changes to trading desk structure or internal models. 
+
+
+3. The proposal establishes a framework for initial approval of internal models, including criteria for trading desks to satisfy in order to be considered model-eligible. 
+
+
+4. Ongoing eligibility requirements include quarterly backtesting and PLA testing, and prior written approval from the primary Federal supervisor for any changes that could materially impact risk-weighted asset amounts or internal modelled capital calculations. 
+
+
+5. The proposal aims to ensure that internal models accurately capture market risk and are appropriate for the trading desks they are applied to.

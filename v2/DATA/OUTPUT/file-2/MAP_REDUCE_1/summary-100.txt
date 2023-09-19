@@ -1,0 +1,5 @@
+ 1. The proposal would increase RWA for trading activities, raising required capital ratios by as much as 67 basis points.
+2. The proposal would also affect large banking organizations through changes in the calculation of regulatory capital, TLAC, LTD, single counter-party credit limits, and method 2 GSIB scores.
+3. The proposal would require banking organizations subject to Category III or IV capital standards to include AOCI in their regulatory capital.
+4. The agencies estimate that the average long-run effect of both proposed changes on domestic holding companies subject to Category III standards would be equivalent to a 4.6-percent and 3.8-percent relative increase in the common equity tier 1 and leverage capital requirements, respectively.
+5. If affected banking organizations do not adjust their AOCI management, AOCI recognition could increase variation in regulatory capital ratios over time and make them more correlated with market cycles.

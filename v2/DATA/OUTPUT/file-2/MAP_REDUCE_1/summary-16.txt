@@ -1,0 +1,9 @@
+ The proposal would increase the credit risk-sensitivity of capital requirements for retail exposures by assigning risk weights that vary depending on product type and portfolio diversification. 
+
+The proposal introduces a new definition of retail exposure that includes exposures to natural persons, individuals, and small or medium-sized entities meeting specific criteria. 
+
+The proposal differentiates the risk-weight treatment for retail exposures based on whether the exposure qualifies as a regulatory retail exposure, a transactor exposure, or an other retail exposure. 
+
+Regulatory retail exposures are limited on an aggregate and granular basis, and only exposures up to 0.2% of the banking organization's total retail exposures would be considered regulatory retail exposures. 
+
+Transactor exposures, which are regulatory retail exposures with a history of full repayment, would receive a 55% risk weight, while other regulatory retail exposures would receive an 85% risk weight. All other retail exposures would be assigned a 110% risk weight.

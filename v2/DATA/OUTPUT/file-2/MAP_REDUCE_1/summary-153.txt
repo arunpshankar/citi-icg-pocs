@@ -1,0 +1,7 @@
+ Vega risk factors for interest rate risk are defined for each currency and consist of: 
+1) implied volatilities of inflation rate risk-sensitive options, 
+2) implied volatilities of cross-currency basis risk-sensitive options, and 
+3) implied volatilities of interest rate risk-sensitive options. 
+Vega is the change in the value of an option resulting from a small change in volatility. 
+For interest rate risk, a banking organization must map the implied volatility of the option to one or more tenors specified in the risk factors definitions. 
+A banking organization must assign market risk covered positions that are options or positions with embedded options that do not have a maturity to the longest prescribed maturity tenor.

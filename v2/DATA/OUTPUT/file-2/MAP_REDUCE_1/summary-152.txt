@@ -1,0 +1,9 @@
+ The proposed rule requires banking organizations to calculate and report delta and vega sensitivities and curvature scenarios for market risk covered positions. 
+
+The delta sensitivity measures the change in the value of a market risk covered position for a one basis point change in the relevant risk factor, such as interest rate, credit spread, equity spot price, equity repo rate, commodity spot price, or foreign exchange rate. 
+
+The vega sensitivity measures the change in the value of a market risk covered position for a one percentage point change in the volatility of the option. 
+
+The curvature scenarios measure the change in the value of a market risk covered position for a given change in the relevant risk factor. 
+
+The sensitivities and curvature scenarios must be calculated with respect to the spread of the tranche rather than the spread of the underlying position for securitization positions non-CTP and with respect to the underlying names of the securitization position or nth-to-default position for correlation trading positions.

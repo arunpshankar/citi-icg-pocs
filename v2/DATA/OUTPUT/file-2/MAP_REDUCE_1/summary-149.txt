@@ -1,0 +1,9 @@
+ 1. A banking organization may use an alternative modeling approach for calculating market risk capital requirements with prior approval from the [AGENCY]. 
+
+2. Equity positions in an investment fund where the underlying positions are not identifiable on a quarterly basis must be excluded from the calculation of IMAGA. 
+
+3. Term repo-style transactions can be included in market risk if certain conditions are met, such as marking to market and capturing market price and issuer-default risk. 
+
+4. Internal risk transfers can be used to hedge credit and interest rate risk, subject to certain criteria. 
+
+5. The sensitivities-based capital requirement is calculated by identifying market risks, determining relevant risk factors and buckets, and aggregating delta and vega sensitivities and curvature scenarios.

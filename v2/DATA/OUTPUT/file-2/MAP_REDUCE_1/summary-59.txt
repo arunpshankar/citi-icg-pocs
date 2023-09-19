@@ -1,0 +1,13 @@
+ 1. The sensitivities-based method for market risk proposed by the agencies captures the risks of positions subject to the market risk capital requirement by mapping them to specified risk factors and calculating capital requirements for delta, vega, and curvature. 
+
+
+2. The proposed risk factors differ for each risk class to reflect the specific market risk variables relevant for each class. 
+
+
+3. For risk classes that include specific tenors or maturities as risk factors, the proposal requires a banking organization to assign the risk factors to the proposed tenors through linear interpolation or a method that is most consistent with the pricing functions used by the internal risk management models. 
+
+
+4. The sensitivities-based method is intended to promote consistency and comparability in regulatory capital requirements across banking organizations and to help ensure the appropriate capitalization of market risk covered positions. 
+
+
+5. Comment is sought on the sensitivities-based method, including to what extent it appropriately captures the risks of positions subject to the market risk capital requirement, and what additional features, adjustments, or alternative methodology could be included to reflect these risks more appropriately.

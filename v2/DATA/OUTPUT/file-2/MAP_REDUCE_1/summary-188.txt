@@ -1,0 +1,5 @@
+ 1. Deductions from regulatory capital are required for certain items, including DTAs, MSAs, significant investments in the capital of unconsolidated financial institutions, and goodwill.
+2. The amount of the deduction is based on the sum of the bank's or savings association's common equity tier 1 capital elements, less adjustments and deductions required under other paragraphs.
+3. If the bank or savings association does not have a sufficient amount of a specific component of capital to effect the full amount of any deduction, the shortfall amount must be deducted from the next higher component of regulatory capital.
+4. Assets that are deducted from regulatory capital must be excluded from standardized and expanded total risk-weighted assets.
+5. Certain investments in the capital of unconsolidated financial institutions or investments in covered debt instruments may be excluded from deductions if the financial institution is in distress and the investment is made for the purpose of providing financial support.

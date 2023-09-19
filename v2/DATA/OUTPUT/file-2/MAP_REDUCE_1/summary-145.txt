@@ -1,0 +1,9 @@
+ 1. A banking organization must have a process for the prudent valuation of its market risk covered positions. 
+
+2. The process must include policies and procedures on the valuation of its market risk covered positions, determining the fair value of its market risk covered positions, independent price verification, and independent validation of the valuation models and valuation adjustments or reserves. 
+
+3. A banking organization must have a rigorous process for assessing its overall capital adequacy in relation to its market risk. 
+
+4. The assessment must take into account risks that may not be captured fully by the standardized measure for market risk or in the models-based measure for market risk, including concentration and liquidity risk under stressed market conditions. 
+
+5. A banking organization must demonstrate to the satisfaction of the [AGENCY] a comprehensive understanding of the features of a securitization position that would mater

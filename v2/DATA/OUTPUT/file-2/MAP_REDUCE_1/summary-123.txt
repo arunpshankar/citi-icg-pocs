@@ -1,0 +1,1 @@
+ 1. A clearing member [BANKING ORGANIZATION] must calculate a risk-weighted asset amount for any collateral provided to a CCP, c

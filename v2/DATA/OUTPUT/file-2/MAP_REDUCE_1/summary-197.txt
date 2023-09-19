@@ -1,0 +1,6 @@
+ The total leverage exposure of a Board-regulated institution is the sum of:
+(1) The total notional amount of all repo-style transactions,
+(2) The total notional amount of all derivative contracts,
+(3) The credit equivalent amount of all off-balance sheet exposures,
+(4) The total amount of all guarantees, and
+(5) The total amount of all other exposures that are not otherwise excluded.

@@ -1,0 +1,5 @@
+ 1. The exposure amount of a securitization exposure is generally the carrying value of the exposure for on-balance sheet exposures and the notional amount of the exposure for off-balance sheet exposures. 
+2. A banking organization may apply the SEC-SA to a securitization exposure if it has accurate information on certain parameters and the exposure meets certain requirements. 
+3. The risk-weighted asset amount of a securitization exposure to which the SEC-SA is applied is the product of the exposure amount and a risk weight. 
+4. The risk weight for a securitization exposure under the SEC-SA is determined based on the credit quality of the underlying exposures, the seniority of the exposure, and the interest rate or exchange rate risk of the exposure. 
+5. There are specific risk-weighting requirements for resecuritization exposures, exposures to ABCP programs, and exposures to securitizations of non-financial assets.

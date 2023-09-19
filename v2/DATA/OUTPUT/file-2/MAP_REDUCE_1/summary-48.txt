@@ -1,0 +1,5 @@
+ 1. The proposal defines market risk covered positions, excluding certain instruments and positions. 
+2. Excluded instruments generally are deducted from regulatory capital, explicitly addressed under subpart D or E, have constraints on liquidation and valuation, or are not held with trading intent. 
+3. The proposal would make certain changes to the definition, including excluding any derivative instrument or exposure to an investment fund that has material exposures to excluded instruments. 
+4. The proposal requests comment on the appropriateness of the proposed definition, challenges in valuing instruments daily, and the exclusion of certain positions. 
+5. The proposal also requests comment on the $20 million threshold for identifying significant net short risk exposures and alternatives to the total commitment for loans in calculating notional amount.

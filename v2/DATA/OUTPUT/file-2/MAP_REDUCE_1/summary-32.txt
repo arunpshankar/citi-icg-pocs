@@ -1,0 +1,9 @@
+ 1. The proposal introduces a 40 percent conversion factor for conditional commitments to acquire an equity exposure, replacing the current differentiation of conversion factors by maturity.
+
+2. The adjusted carrying value of an equity exposure is calculated as the effective notional principal amount multiplied by the conversion factor, minus the adjusted carrying value of the on-balance sheet component.
+
+3. Under the expanded simple risk-weight approach (ESRWA), the risk-weighted asset amount for an equity exposure (except for equity exposures to investment funds) is determined by multiplying the adjusted carrying value by the applicable risk weight.
+
+4. The proposal revises the risk weights for various types of equity exposures, including introducing a 1,250 percent risk weight for certain equity exposures to investment firms with greater than immaterial leverage.
+
+5. Community development investments and small business investment companies are assigned a 100 percent risk weight under the proposal, recognizing their favorable risk-return structure and importance in promoting public welfare goals.

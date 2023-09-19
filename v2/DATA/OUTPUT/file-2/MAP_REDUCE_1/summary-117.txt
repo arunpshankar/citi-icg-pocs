@@ -1,0 +1,4 @@
+ 1. A [BANKING ORGANIZATION] must assign a risk weight to an exposure to a QCCP based on the type of transaction and the collateral posted.
+2. A [BANKING ORGANIZATION] must assign a 150 percent risk weight to a corporate exposure that is a subordinated debt instrument or a covered debt instrument.
+3. A [BANKING ORGANIZATION] must assign a 100 percent risk weight to certain assets, including cash items in the process of collection, DTAs arising from temporary differences, MSAs, and DTAs arising from temporary differences that the [BANKING ORGANIZATION] could not realize through net operating loss carrybacks.
+4. A [BANKING ORGANIZATION] may assign an asset that is not included in one of the catego

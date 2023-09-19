@@ -1,0 +1,13 @@
+ 1. The proposal establishes minimum haircut floors for in-scope transactions, which are transactions with unregulated financial institutions that are not for providing financing. 
+
+
+2. The haircut floors are derived from observed historical price volatilities as well as existing market and central bank haircut conventions. 
+
+
+3. In-scope transactions that do not meet the applicable minimum haircut floor would be treated as uncollateralized exposures. 
+
+
+4. The proposal would require banking organizations to maintain sufficient written documentation to exempt transactions with an unregulated financial institution where the banking organization is seeking to borrow securities from an unregulated financial institution to meet a current or anticipated demand. 
+
+
+5. The proposal would not allow the banking organization to recognize the risk-mitigating benefits of the collateral and would require the banking organization to calculate the exposure amount of its repo-style transaction or eligible margin loan as if it had not received any collateral from its counterparty.

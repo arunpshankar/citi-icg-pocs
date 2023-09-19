@@ -1,0 +1,13 @@
+ 1. The proposal generally requires a look-through approach for index instruments and multi-underlying options, but it allows for a single sensitivity for listed and well-diversified credit or equity indices.
+
+
+2. For multi-underlying options (including index options), the proposal permits, but does not require, a banking organization to apply the look-through approach required for delta and calculate the vega capital requirements based on the implied volatility of options on the underlying constituents.
+
+
+3. The proposal requires a banking organization to apply the look-through approach when calculating the standardized default risk capital requirement for multi-underlying options that are non-securitization debt or equity positions.
+
+
+4. The proposal would provide greater hedging recognition by allowing such instruments to net with single-name positions issued by the same company.
+
+
+5. The agencies seek comment on the proposed 75 percent threshold for assigning a credit or equity index to the corresponding sector or the investment grade indices bucket, as well as on all aspects of the proposed treatment of index instruments and multi-underlying options under the standardized measure for market risk.

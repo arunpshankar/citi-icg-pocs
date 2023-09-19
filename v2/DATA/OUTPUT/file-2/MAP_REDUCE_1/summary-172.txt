@@ -1,0 +1,5 @@
+ 1. Counterparty risk exposure amount is calculated based on netting sets with different multipliers for different counterparties.
+2. Khedged is calculated as a function of correlation parameter, CVA risk covered positions, single-name eligible CVA hedges, and index hedges.
+3. SNHc is calculated as a summation of products of correlation, risk weight, remaining maturity, notional amount, and discount factor.
+4. IH is calculated as a summation of products of risk weight, remaining maturity, notional amount, and discount factor for index hedges.
+5. HMAc is calculated as a summation of products of squared terms of correlation, risk weight, remaining maturity, notional amount, and discount factor.

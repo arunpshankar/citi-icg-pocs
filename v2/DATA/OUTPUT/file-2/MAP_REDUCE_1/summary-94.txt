@@ -1,0 +1,5 @@
+ 1. The proposal requires banking organizations to separately calculate risk-based capital requirements for delta and vega using the specified steps. 
+2. Delta and vega risk factors are identified for each risk class, with specific treatment for counterparty credit spread risk and reference credit spread risk. 
+3. The proposal specifies the sensitivity calculations to measure the impact of risk factors on the aggregate regulatory CVA and eligible CVA hedges. 
+4. For vega risk factors, a banking organization should apply the shift to the relevant volatility used for generating risk factor simulation paths and, if applicable, the volatility used to price options. 
+5. The proposal allows the introduction of additional risk factors that directly correspond to qualified credit and equity indices, subject to certain conditions.

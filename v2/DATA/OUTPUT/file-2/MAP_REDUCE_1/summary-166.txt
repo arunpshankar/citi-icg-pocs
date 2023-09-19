@@ -1,0 +1,9 @@
+ 1. The [AGENCY] may require a [BANKING ORGANIZATION] to identify the PLA test zone of a trading desk's PLA test results as a different PLA test zone.
+
+2. A trading desk that produces results in the PLA test amber or red zone is subject to the PLA add-on or becomes a model-ineligible trading desk, respectively.
+
+3. A model-ineligible trading desk can regain eligibility by meeting certain conditions.
+
+4. The PLA add-on is calculated as a function of the standardized approach capital requirement for market risk covered positions.
+
+5. A [BANKING ORGANIZATION] must identify an appropriate set of risk factors for calculating capital measures, including modellable and non-modellable risk factors.

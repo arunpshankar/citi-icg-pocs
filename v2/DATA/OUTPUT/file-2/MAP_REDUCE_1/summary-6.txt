@@ -1,0 +1,5 @@
+ 1. The proposal aligns the capital standards for banking organizations subject to Category III or IV capital standards with those subject to Category I or II capital standards. 
+2. It requires banking organizations subject to Category III or IV capital standards to recognize most elements of AOCI in regulatory capital. 
+3. It applies capital deductions and minority interest treatments that are currently applicable to banking organizations subject to Category I or II capital standards to banking organizations subject to Category III or IV capital standards. 
+4. It also applies TLAC holdings deduction treatments to banking organizations subject to Category III or IV capital standards. 
+5. The proposal includes a three-year transition period for AOCI.

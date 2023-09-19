@@ -1,0 +1,534 @@
+ SECTION 1: GENERAL PROVISIONS 
+
+The agencies propose to revise the capital requirements for large banking organizations and those with significant trading activity. 
+
+SECTION 2: RISK-BASED CAPITAL REQUIREMENTS 
+
+The proposed revisions aim to improve risk-based capital requirements, reduce complexity, enhance consistency, and facilitate effective supervisory and market assessments. 
+
+SECTION 3: STANDARDIZED APPROACHES 
+
+The proposal includes replacing current requirements that use internal models for credit and operational risk with standardized approaches. 
+
+SECTION 4: MARKET RISK 
+
+The proposal replaces current market risk and credit valuation adjustment risk requirements with revised approaches. 
+
+SECTION 5: BASEL COMMITTEE ON BANKING SUPERVISION 
+
+The proposed revisions generally align with recent changes to international capital standards issued by the Basel Committee on Banking Supervision. 
+
+SECTION 6: LARGE BANKING ORGANIZATIONS AND BANKING ORGANIZATIONS WITH SIGNIFICANT TRADING ACTIVITY 
+
+The agencies are proposing to modify capital requirements for large banking organizations and banking organizations with significant trading activity. 
+
+SECTION 7: RISK-BASED CAPITAL REQUIREMENTS 
+
+The revisions aim to strengthen the calculation of risk-based capital requirements to better reflect the risks of these banking organizations' exposures. 
+
+SECTION 8: COUNTERCYCLICAL CAPITAL BUFFER AND SUPPLEMENTARY LEVERAGE RATIO 
+
+The proposal expands the application of the countercyclical capital buffer and supplementary leverage ratio to banking organizations subject to Category IV capital standards. 
+
+SECTION 9: STRESS CAPITAL BUFFER REQUIREMENT 
+
+The proposal revises the calculation of the stress capital buffer requirement for large banking organizations. 
+
+SECTION 10: ALIGNMENT WITH CATEGORY I OR II CAPITAL STANDARDS 
+
+The proposal aligns the capital standards for banking organizations subject to Category III or IV capital standards with those subject to Category I or II capital standards. 
+
+SECTION 11: DEDUCTIONS AND MINORITY INTEREST TREATMENTS 
+
+The capital rule requires banking organizations to deduct nonsignificant investments in the capital of unconsolidated financial institutions and significant investments not in the form of common stock. 
+
+SECTION 12: DEFINITION OF CAPITAL 
+
+The proposal makes changes to the definition of tier 2 capital applicable to large banking organizations by replacing references to the allowance for loan and lease losses (ALLL) with the adjusted allowance for credit losses (AACL). 
+
+SECTION 13: CREDIT RISK 
+
+The agencies propose a new expanded risk-based approach for credit risk applicable to large banking organizations. 
+
+SECTION 14: DEFAULTED EXPOSURES 
+
+The proposed definition of defaulted exposure is more conservative than banking organizations' existing policies and would capture exposures that are not currently considered defaulted. 
+
+SECTION 15: EXPOSURES TO DEPOSITORY INSTITUTIONS, FOREIGN BANKS, AND CREDIT UNIONS 
+
+The proposal would apply the same risk-weight treatment provided in the current standardized approach to certain on-balance sheet exposures, including exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, public sector entities (PSES), and other assets. 
+
+SECTION 16: REAL ESTATE EXPOSURES 
+
+The proposal would also apply the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures. 
+
+SECTION 17: RETAIL EXPOSURES 
+
+The proposal introduces a risk-based capital framework for regulatory residential and commercial real estate exposures. 
+
+SECTION 18: CORPORATE EXPOSURES 
+
+Corporate exposures are differentiated based on credit risk, with risk weights ranging from 65% to 150%. 
+
+SECTION 19: PROJECT FINANCE EXPOSURES 
+
+The proposal introduces a new framework for risk-weighting retail exposures, which includes a 35% risk weight for exposures to retail obligors that meet certain criteria. 
+
+SECTION 20: OFF-BALANCE SHEET ITEMS AND COMMITMENTS 
+
+The proposal introduces an averaging methodology to calculate the undrawn credit exposure amount for commitments without pre-set limits. 
+
+SECTION 21: CREDIT RISK MITIGATION 
+
+The proposal eliminates the internal models methodology as an available approach to calculate the exposure amount of derivative contracts. 
+
+SECTION 22: FINANCIAL COLLATERAL AND GUARANTEES 
+
+The proposal revises the exclusion of initial margin from the trade exposure amount for banking organizations under the advanced approaches to align with the standardized approach. 
+
+SECTION 23: CREDIT DERIVATIVES AND GUARANTEES 
+
+The proposal requires banking organizations to recognize the full effective notional amount of credit derivatives that do not include restructuring as a credit event, if certain conditions are met. 
+
+SECTION 24: ELIGIBLE MARGIN LOANS AND REPO-STYLE TRANSACTIONS 
+
+The proposal would also permit banking organizations to use the collateral haircut approach with standard supervisory market price volatility haircuts from subpart D with two proposed modifications to increase risk sensitivity. 
+
+SECTION 25: MINIMUM HAIRCUT FLOORS 
+
+The proposal introduces minimum haircut floors for certain eligible margin loan and repo-style transactions with unregulated financial institutions that banking organizations must meet in order to recognize the risk-mitigation benefits of financial collateral. 
+
+SECTION 26: SYNTHETIC SECURITIZATIONS 
+
+The proposal expands the applicability of operational requirements regarding early amortization provisions to synthetic securitizations. 
+
+SECTION 27: RISK-BASED CAPITAL REQUIREMENTS FOR SECURITIZATION EXPOSURES 
+
+The proposal requires banking organizations to determine the capital requirements for most securitization exposures under the SEC-SA, which is substantively similar to the SSFA in the current capital rule except for certain changes. 
+
+SECTION 28: RISK WEIGHT FLOOR FOR SECURITIZATION EXPOSURES 
+
+The proposal introduces a risk-weight floor of 100% for resecuritization exposures and NPL securitization exposures. 
+
+SECTION 29: EQUITY EXPOSURES 
+
+The proposal introduces a 40 percent conversion factor for conditional commitments to acquire an equity exposure, replacing the current differentiation of conversion factors by maturity. 
+
+SECTION 30: EQUITY EXPOSURES TO INVESTMENT FUNDS 
+
+The proposal introduces a full look-through approach for equity exposures to investment funds, with a 15% floor. 
+
+SECTION 31: ALTERNATIVE MODIFIED LOOK-THROUGH APPROACH 
+
+The proposal maintains largely the same risk-weight treatment as provided under the alternative modified look-through approach in the advanced approaches of the current capital rule. 
+
+SECTION 32: OPERATIONAL RISK 
+
+The proposal introduces a standardized approach for calculating risk-weighted assets for operational risk. 
+
+SECTION 33: BUSINESS INDICATOR 
+
+The business indicator component would increase at a rate of 12% per unit of business indicator for levels of business indicator up to $1 billion, 15% per unit of business indicator for levels of business indicator above $1 billion and up to $30 billion, and 18% per unit of business indicator for levels of business indicator above $30 billion. 
+
+SECTION 34: INTERNAL LOSS MULTIPLIER 
+
+The internal loss multiplier would increase operational risk capital requirements based on a banking organization's historical operational loss experience. 
+
+SECTION 35: OPERATIONAL LOSS 
+
+The proposal defines operational loss, operational loss event, and groups operational loss events into seven event types. 
+
+SECTION 36: CALCULATION OF AVERAGE ANNUAL TOTAL NET OPERATIONAL LOSSES 
+
+The calculation of average annual total net operational losses would be based on an average of ten years of data. 
+
+SECTION 37: INCLUSION OF LOSSES FROM MERGED OR ACQUIRED ENTITIES 
+
+The proposal requires banking organizations to include operational loss events incurred by acquired or merged entities in their calculation of total net operational losses. 
+
+SECTION 38: QUALITATIVE AND QUANTITATIVE DISCLOSURES 
+
+The proposal revises certain existing qualitative disclosure requirements and introduces new and enhanced qualitative disclosure requirements related to the proposed revisions. 
+
+SECTION 39: MARKET RISK 
+
+The proposal would replace the current value-at-risk (VaR)-based market risk capital framework with a new framework that includes stressed value-at-risk (SVaR) and incremental risk capital (IRC) requirements. 
+
+SECTION 40: SCOPE OF MARKET RISK REQUIREMENTS 
+
+The proposal revises criteria for determining whether a banking organization is subject to market risk-based capital requirements. 
+
+SECTION 41: MARKET RISK COVERED POSITIONS 
+
+The proposal retains the existing three-part structure of the definition of covered positions, with several modifications. 
+
+SECTION 42: EXCLUDED INSTRUMENTS AND POSITIONS 
+
+The proposal defines market risk covered positions, excluding certain instruments and positions. 
+
+SECTION 43: INTERNAL RISK TRANSFERS 
+
+The proposal defines internal risk transfers and establishes requirements for a banking organization to recognize certain types of internal risk transfers in risk-based capital requirements. 
+
+SECTION 44: GENERAL REQUIREMENTS FOR INTERNAL RISK TRANSFERS 
+
+The proposal specifies capital treatment of internal CVA risk transfers. 
+
+Banking organizations must maintain an internal written record of each internal derivative transaction. 
+
+If the internal risk transfer is subject to curvature risk, default risk, or the residual risk add-on, the trading desk would have to execute an external transaction with a third party. 
+
+The proposal sets forth general requirements for the recognition of CVA hedges that would be applicable to both internal transfers of CVA risk and external CVA hedges. 
+
+The agencies propose to introduce the concept of a trading desk and apply the proposed internal models approach at the trading desk level. 
+
+
+SECTION 45: TRADING DESK STRUCTURE AND REQUIREMENTS 
+
+Banking organizations should define their trading desk structure and identify trading desks that are used for internal risk transfers and notional trading desks. 
+
+Notional trading desks must satisfy all general requirements for trading desks and those applicable for the models-based measure. 
+
+The proposal would require a banking organization to have clearly defined trading and hedging strategies for their trading positions that are approved by senior management. 
+
+The proposal would maintain certain operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation. 
+
+The proposal would strengthen a banking organization's prudent valuation practices by incorporating requirements that build on the agencies' overall regulatory framework for market risk management. 
+
+
+SECTION 46: OPERATIONAL REQUIREMENTS FOR THE MODELS-BASED MEASURE 
+
+Banking organizations should have clear policies and procedures for actively managing and monitoring market risk covered positions, including daily monitoring of position limits and a broader set of risk metrics at the trading desk level. 
+
+Stress testing and internal assessment of capital adequacy should be conducted at both the entity-wide and trading desk level, and results should be reviewed by senior management and reflected in policies and limits set by management and the board of directors. 
+
+The independent risk control unit should have oversight responsibilities for the design and implementation of market risk management systems, and the internal audit function should assess the effectiveness of risk controls and the calculation of market risk capital requirements. 
+
+Banking organizations should maintain conceptually sound systems and processes for identifying, measuring, monitoring, and managing market risk, and the internal audit function should assess the effectiveness of these systems and processes. 
+
+The proposal enhances documentation requirements to reflect changes in the market risk capital framework, including the use of standardized and models-based measures for market risk and the introduction of a capital add-on requirement for re-designations. 
+
+
+SECTION 47: STANDARDIZED MEASURE FOR MARKET RISK 
+
+The agencies propose a standardized approach to calculating market risk capital requirements, replacing the current internal models approach. 
+
+The standardized measure for market risk consists of three main components: sensitivities-based method, standardized default risk capital requirement, and residual risk add-on. 
+
+The proposal also includes three additional components that would apply in more limited instances to specific positions: fallback capital requirement, capital add-on for re-designations, and any additional capital requirement established by the primary Federal supervisor. 
+
+The agencies view the proposed standardized measure for market risk as sufficiently risk sensitive to serve as a credible floor to the models-based measure for market risk. 
+
+The primary Federal supervisor may require a banking organization to calculate capital requirements for specific positions or categories of positions under either subpart D or E instead of under subpart F of the capital rule, or under subpart F instead of under subpart D or E of the capital rule, or under both subpart F and subpart D or E, as applicable, to more appropriately reflect the risks of the positions. 
+
+
+SECTION 48: SENSITIVITIES-BASED METHOD 
+
+The proposal introduces enhanced operational requirements for banking organizations that use the internal models approach under the models-based measure for market risk. 
+
+These requirements include validation, documentation, model eligibility, ongoing eligibility, and changes to trading desk structure or internal models. 
+
+The proposal establishes a framework for initial approval of internal models, including criteria for trading desks to satisfy in order to be considered model-eligible. 
+
+Ongoing eligibility requirements include quarterly backtesting and PLA testing, and prior written approval from the primary Federal supervisor for any changes that could materially impact risk-weighted asset amounts or internal modelled capital calculations. 
+
+The proposal aims to ensure that internal models accurately capture market risk and are appropriate for the trading desks they are applied to. 
+
+
+SECTION 49: STANDARDIZED DEFAULT RISK CAPITAL REQUIREMENT 
+
+The proposal defines market risk covered positions and introduces a standardized measure for market risk. 
+
+The standardized measure for market risk consists of three components: standardized approach capital requirement, fallback capital requirement, and capital add-on requirement for re-designations. 
+
+The proposal requires banking organizations to calculate the standardized measure for market risk at least weekly. 
+
+The sensitivities-based method under the standardized measure for market risk uses risk weights calibrated to a defined liquidity time horizon consistent with the expected shortfall measurement framework under stressed conditions. 
+
+The proposal establishes a process to determine the sensitivities-based capital requirement for the portfolio, including assigning market risk covered positions to risk classes and establishing risk factors, calculating the sensitivity of a market risk covered position for each risk factor, describing the shock applied to each risk factor, and aggregating the weighted sensitivities. 
+
+
+SECTION 50: RISK FACTORS 
+
+The sensitivities-based method for market risk proposed by the agencies captures the risks of positions subject to the market risk capital requirement by mapping them to specified risk factors and calculating capital requirements for delta, vega, and curvature. 
+
+The proposed risk factors differ for each risk class to reflect the specific market risk variables relevant for each class. 
+
+For risk classes that include specific tenors or maturities as risk factors, the proposal requires a banking organization to assign the risk factors to the proposed tenors through linear interpolation or a method that is most consistent with the pricing functions used by the internal risk management models. 
+
+The sensitivities-based method is intended to promote consistency and comparability in regulatory capital requirements across banking organizations and to help ensure the appropriate capitalization of market risk covered positions. 
+
+Comment is sought on the sensitivities-based method, including to what extent it appropriately captures the risks of positions subject to the market risk capital requirement, and what additional features, adjustments, or alternative methodology could be included to reflect these risks more appropriately. 
+
+
+SECTION 51: INTEREST RATE RISK 
+
+The proposal defines the construction and use of interest rate curves for the currency in which interest rate-sensitive market risk covered positions are denominated. 
+
+It also defines the delta, vega, and curvature risk factors for interest rate risk, credit spread risk, equity risk, and commodity risk. 
+
+For interest rate risk, the proposal requires the use of separate curves for onshore and offshore currencies, as well as for different interest rate curve types. 
+
+For credit spread risk, the proposal defines the delta, vega, and curvature risk factors for non-securitization positions, securitization positions that are not correlation trading positions, and correlation trading positions. 
+
+For equity risk, the proposal defines the delta, vega, and curvature risk factors for each issuer, and for commodity risk, the proposal defines the delta, vega, and curvature risk factors for each commodity type. 
+
+
+SECTION 52: FOREIGN EXCHANGE RISK 
+
+The proposal defines delta risk factors for foreign exchange risk as the exchange rate between the currency in which the market risk covered position is denominated and the reporting currency of the banking organization. 
+
+For positions referencing two currencies other than the reporting currency, the banking organization would calculate delta risk factors using exchange rates between each non-reporting currency and the reporting currency. 
+
+The proposal allows a banking organization to calculate delta risk factors for foreign exchange risk relative to a base currency instead of the reporting currency, if approved by the primary Federal supervisor. 
+
+The vega risk factors for foreign exchange risk are defined as the implied volatility of options that reference exchange rates between currency pairs along one dimension: the maturity of the option. 
+
+The proposal would allow (but not require) a banking organization to treat a currency's onshore exchange rate and an offshore exchange rate as two distinct risk factors in the delta, vega and curvature calculations for foreign exchange risk. 
+
+
+SECTION 53: DELTA, VEGA, AND CURVATURE 
+
+The delta sensitivity for positions with optionality is calculated using the sticky strike rule, sticky delta rule, or another assumption approved by the primary Federal supervisor. 
+
+The vega sensitivity is calculated as the vega of an option multiplied by the volatility of the option. 
+
+The vega capital requirement only applies to options or instruments with embedded optionality, including instruments with material prepayment risk. 
+
+The curvature capital requirements are intended to capture the price risks inherent in instruments with optionality that are not already captured by delta. 
+
+The proposal would require a banking organization to use the same risk buckets applied in the delta capital calculation to calculate curvature capital requirements. 
+
+
+SECTION 54: CALCULATION OF CURVATURE RISK-WEIGHTED SENSITIVITY 
+
+The calculation of curvature risk-weighted sensitivity involves applying upward and downward shocks to the yield curve and measuring the change in value. 
+
+The proposal requires a banking organization to apply the highest risk weight across risk buckets to each tenor point along the curve for conservatism. 
+
+For the foreign exchange and equity risk classes, the shocks represent a relative shift of the spot prices equal to the delta risk weight. 
+
+The proposal allows a banking organization to divide the net curvature risk positions by a scalar of 1.5 for positions that do not reference the reporting or base currency. 
+
+The agencies seek comment on the appropriateness of calculating the curvature risk-weighted sensitivity for the commodity risk class using a parallel shift of all tenors. 
+
+
+SECTION 55: RISK WEIGHTS 
+
+The proposal introduces a lower risk weight for interest rate risk factors for listed liquid currencies and other currencies specified by the primary Federal supervisor. 
+
+The proposal defines delta credit spread risk buckets and corresponding risk weights for non-securitization positions, correlation trading positions, and securitization positions non-CTP based on investment grade, speculative grade, and sub-speculative grade. 
+
+The proposal includes GSE debt and public sector entities in the sector for government-backed non-financials, education, and public administration. 
+
+The proposal provides a separate risk bucket with higher risk weights for sub-speculative grade sovereigns and multilateral development banks. 
+
+The proposal clarifies the treatment of personal loans and dealer floorplan loans within the delta credit spread risk buckets and provides definitions for prime and sub-prime residential mortgage-backed securities. 
+
+
+SECTION 56: DEFINITIONS 
+
+The agencies propose using existing definitions for prime, subprime, and mid-prime residential mortgage-backed securities based on Regulation Z definitions. 
+
+The agencies seek comment on the appropriateness of adding a sub-speculative grade category for non-securitizations and correlation trading positions. 
+
+The agencies seek comment on the risk weight for covered bonds and alternative approaches to differentiate the credit quality of highly rated covered bonds without referring to credit ratings. 
+
+The agencies seek comment on whether the proposed definitions for each sector bucket appropriately capture the characteristics to distinguish between the categories of residential mortgage-backed securities. 
+
+The agencies seek comment on whether the proposed sector bucket definitions for residential mortgage-backed securities are sufficiently clear and what additional criteria should be considered to define "primarily." 
+
+
+SECTION 57: LIQUIDITY 
+
+The proposal defines liquid market economies based on objective criteria, including GDP per capita, market capitalization, and trading volume. 
+
+The proposed risk buckets for equity risk group trading positions into sectors based on economic sensitivities and delineate emerging market economies from liquid market economies. 
+
+The proposed risk buckets for commodity risk are based on commodity classes and differentiated by underlying commodity types to reflect differences in volatility. 
+
+The proposal aligns the delta risk factor buckets and corresponding risk weights for commodities with those in the Basel III reforms, with one exception. 
+
+The proposal requires separate risk buckets for each exchange rate between the currency in which a market risk covered position is denominated and the reporting currency, with a 15 percent risk weight applied to each currency pair. 
+
+
+SECTION 58: CORRELATION PARAMETERS 
+
+The agencies propose correlation parameters for calculating capital requirements for market risk. 
+
+For securitization positions, a 100% correlation parameter is proposed for positions with more than 80% overlap in notional terms, and a 40% correlation parameter otherwise. 
+
+The agencies seek comment on alternative criteria for applying the 100% correlation parameter, such as allowing it if the securitization tranches can offset all or substantially all of the price risk of the position. 
+
+The agencies also request comment on the appropriateness of a higher intra-bucket correlation parameter of 99.5% to 99.9% for energy-carbon trading, and on the use of a 35% correlation parameter for Uniform Mortgage Backed Securities. 
+
+The standardized default risk capital requirement is intended to capture the incremental loss if the issuer of an equity or credit position were to immediately default. 
+
+
+SECTION 59: CALCULATION OF DEFAULT EXPOSURE 
+
+The proposal generally follows the Basel III calculation steps for non-securitization debt or equity positions. 
+
+The gross default exposure is calculated as the product of notional amount and LGD, plus cumulative profits (losses). 
+
+LGD rates are proposed for different categories of instruments, generally consistent with Basel III. 
+
+Net default exposure allows full or partial offsetting of long and short positions with the same obligor and seniority. 
+
+Scaling is applied to offsetting treatment for market risk covered positions with maturities of one year or less. 
+
+
+SECTION 60: NETTING 
+
+The agencies propose allowing banks to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract. 
+
+The agencies seek comment on the appropriateness of the proposed treatment of GSE exposures and alternative methods to measure more appropriately the default risk associated with such positions. 
+
+The agencies propose not allowing banks to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. They seek comment on alternative methods to measure more appropriately the default risk associated with such positions. 
+
+The agencies propose risk buckets and corresponding risk weights for non-securitization debt or equity positions and securitization positions non-CTP. They seek comment on the appropriateness of the proposed risk weights and granularity and alternative approaches for assigning risk weights. 
+
+The agencies propose netting and decomposition criteria for calculating the net default exposure for securitization positions non-CTP. They seek comment on alternative non-model-based methodologies that would conservatively recognize some hedging benefits but still capture the basis risk between non-identical positions. 
+
+
+SECTION 61: CORRELATION TRADING POSITIONS 
+
+The proposal introduces a standardized approach to calculate the default risk capital requirement for correlation trading positions. 
+
+The gross default exposure is measured as the position's market value, and the net default exposure is calculated by offsetting long and short exposures in specific cases. 
+
+Risk buckets are defined by index, and a bespoke correlation trading position is assigned to its own unique bucket unless it is substantially similar to an index instrument. 
+
+The risk weights corresponding to the proposed risk buckets are based on the treatment under either subpart D or subpart E of the capital rule. 
+
+A residual risk add-on capital requirement is proposed to capture exotic risks and other residual risks not fully reflected in the sensitivities-based capital requirement or the standardized default risk capital requirement. 
+
+
+SECTION 62: RESIDUAL RISK ADD-ON 
+
+The proposal requires banking organizations to calculate a residual risk add-on for market risk covered positions with exotic exposures and certain other residual risks. 
+
+The residual risk add-on capital requirement would equal the sum of such capital requirements across subject market risk covered positions. 
+
+Positions subject to the residual risk add-on include those with exotic exposures, certain correlation trading positions, options or positions with embedded optionality, and other positions as determined by the primary Federal supervisor. 
+
+Excluded positions include those that are listed on an exchange, eligible to be cleared by a CCP or QCCP, certain options, and certain offsetting positions. 
+
+The agencies seek comment on all aspects of the proposed residual risk add-on, including alternative methods to identify exotic exposures and other residual risks, additional instruments and offsetting positions that should be excluded, and quantitative measures to identify or distinguish residual risks. 
+
+
+SECTION 63: INDEX INSTRUMENTS AND MULTI-UNDERLYING OPTIONS 
+
+The proposal generally requires a look-through approach for index instruments and multi-underlying options, but it allows for a single sensitivity for listed and well-diversified credit or equity indices. 
+
+For multi-underlying options (including index options), the proposal permits, but does not require, a banking organization to apply the look-through approach required for delta and calculate the vega capital requirements based on the implied volatility of options on the underlying constituents. 
+
+The proposal requires a banking organization to apply the look-through approach when calculating the standardized default risk capital requirement for multi-underlying options that are non-securitization debt or equity positions. 
+
+The proposal would provide greater hedging recognition by allowing such instruments to net with single-name positions issued by the same company. 
+
+The agencies seek comment on the proposed 75 percent threshold for assigning a credit or equity index to the corresponding sector or the investment grade indices bucket, as well as on all aspects of the proposed treatment of index instruments and multi-underlying options under the standardized measure for market risk. 
+
+
+SECTION 64: INTERNAL MODELS APPROACH 
+
+The agencies seek comment on the internal models approach for market risk. 
+
+The proposal would require a banking organization to identify an appropriate set of risk factors that is sufficiently representative of the risks inherent in all of the market risk covered positions held by model-eligible trading desks. 
+
+For the identified risk factors, the proposal would require banking organization to conduct the risk factor eligibility test to determine which risk factors are modellable, and thus subject to the IMCC, and which are non-modellable, and thus subject to the SES capital requirements. 
+
+The agencies recognize that a banking organization may need to obtain pricing information from third parties to demonstrate the market liquidity of the underlying risk factors, and this may pose unique challenges for validation and other model risk management activities. 
+
+In certain cases, obtaining information on the prices of individual transactions from third parties may raise legal concerns for the banking organization, the third-party provider, or both. 
+
+
+SECTION 65: REAL PRICES 
+
+The proposal defines a real price as a price, or other information, that is used to determine the fair value of a banking organization's covered positions and is obtained from either internal or external sources. 
+
+To qualify as a real price, the price or other information must meet certain requirements, including being observable, verifiable, and representative of the market liquidity of the risk factor. 
+
+The proposal also provides a standard bucketing approach that banking organizations can use to group real prices for the purpose of determining whether a risk factor passes the risk factor eligibility test. 
+
+The proposal allows banking organizations to use their own bucketing approach, provided that the internal risk management model uses the same buckets or segmentation of risk factors to calculate profits and losses for purposes of the PLA test. 
+
+To determine whether the risk factors in a bucket pass the risk factor eligibility test, the proposal requires a banking organization to allocate a real price to any risk bucket for which the price is representative of the risk factors within the bucket and to count all real prices mapped to a risk bucket. 
+
+
+SECTION 66: DATA QUALITY 
+
+The proposal introduces data quality requirements for modellable risk factors. 
+
+Risk factors passing the eligibility test but failing to meet any of the seven data quality requirements would be non-modellable. 
+
+Data should reflect market prices or be reasonably representative of real market prices. 
+
+The proposal also establishes minimum data requirements for each data quality requirement and specifies the consequences for failing to meet each requirement. 
+
+For example, a banking organization that fails to meet the data quality requirement for the accuracy of the data must use the standardized approach to calculate the capital requirement for the risk factor. 
+
+
+SECTION 67: BACKTESTING AND PLA TESTING 
+
+The proposal requires banking organizations to conduct backtesting and PLA testing to assess the performance of their internal models. 
+
+Backtesting compares the model's expected losses to the actual losses over a historical period. 
+
+PLA testing measures the potential impact of stressed market conditions on the model's capital requirements. 
+
+The proposal specifies the frequency and methodology for conducting backtesting and PLA testing. 
+
+Banking organizations must also report the results of their backtesting and PLA testing to their primary Federal supervisor. 
+
+
+SECTION 68: MODEL APPROVAL AND VALIDATION 
+
+The proposal establishes a framework for the approval and validation of internal models. 
+
+Banking organizations must obtain prior approval from their primary Federal supervisor before using an internal model to calculate their capital requirements. 
+
+The primary Federal supervisor will review the model to ensure that it is sound and appropriate for the banking organization's use. 
+
+Banking organizations must also validate their internal models on an ongoing basis to ensure that they continue to perform as expected. 
+
+
+SECTION 69: MODEL DOCUMENTATION AND RECORDKEEPING 
+
+The proposal requires banking organizations to maintain comprehensive documentation and records of their internal models. 
+
+This documentation must include information on the model's design, development, implementation, and validation. 
+
+Banking organizations must also keep records of all data used to develop and validate the model. 
+
+
+SECTION 70: SUPERVISORY REVIEW 
+
+The primary Federal supervisor will review banking organizations' internal models on an ongoing basis to ensure that they are sound and appropriate for the banking organization's use. 
+
+The primary Federal supervisor may also require banking organizations to make changes to their internal models if they are found to be inadequate. 
+
+
+SECTION 71: TRANSITION 
+
+The proposal includes a transition period for banking organizations to implement the new market risk capital requirements. 
+
+Banking organizations will have until January 1, 2023, to implement the new requirements. 
+
+During the transition period, banking organizations may continue to use their existing internal models to calculate their capital requirements. 
+
+
+SECTION 72: IMPACT ON CAPITAL REQUIREMENTS 
+
+The proposal is expected to have a modest impact on banking organizations' capital requirements. 
+
+The impact will vary depending on the banking organization's risk profile and the complexity of its internal models. 
+
+The proposal is expected to increase capital requirements for banking organizations with complex internal models and decrease capital requirements for banking organizations with less complex internal models. 
+
+
+SECTION 73: REQUEST FOR COMMENT 
+
+The agencies request comment on all aspects of the proposed market risk capital requirements. 
+
+Comments should be submitted by [DATE].

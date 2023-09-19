@@ -1,0 +1,5 @@
+ 1. A new category, Category IV FDIC-supervised institution, is added. 
+2. The definition of "Category II FDIC-supervised institution" is revised to include institutions with $700 billion or more in total consolidated assets and $75 billion or more in cross-jurisdictional activity. 
+3. The definition of "Category III FDIC-supervised institution" is revised to include institutions with $250 billion or more in total consolidated assets and at least one of the following: $75 billion or more in total nonbank assets, $75 billion or more in off-balance sheet exposure, or $75 billion or more in weighted short-term wholesale funding. 
+4. The definitions for "Advanced approaches FDIC-supervised institution", "Advanced approaches total risk-weighted assets”, “Advanced market risk-weighted assets", "Credit-risk-weighted assets", "Eligible credit reserves", "Expected credit loss (ECL)", "Specific wrong-way risk”, “Unregulated financial institution”, and “Value-at-Risk (VaR)" are removed. 
+5. The timing for institutions to comply with the requirements of their category is clarified to be no later than the first day of the second

@@ -1,0 +1,2 @@
+ 1. The proposal eliminates the 100% risk weight for non-significant publicly traded equity exposures and introduces a 250% risk weight for publicly traded equity exposures with restrictions on tradability.
+2. Equity exposures to investment firms with greater than immaterial leverage and that would meet the definition of a traditional securitization were it not for the application 

@@ -1,0 +1,13 @@
+ 1. The proposal requires banking organizations to define their trading desk structure and identify trading desks that are used for internal risk transfers and notional trading desks. 
+
+
+2. Notional trading desks must satisfy all general requirements for trading desks and those applicable for the models-based measure. 
+
+
+3. The proposal would require a banking organization to have clearly defined trading and hedging strategies for their trading positions that are approved by senior management. 
+
+
+4. The proposal would maintain certain operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation. 
+
+
+5. The proposal would strengthen a banking organization's prudent valuation practices by incorporating requirements that build on the agencies' overall regulatory framework for market risk management.

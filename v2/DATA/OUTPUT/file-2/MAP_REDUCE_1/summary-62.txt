@@ -1,0 +1,13 @@
+ 1. The delta sensitivity for positions with optionality is calculated using the sticky strike rule, sticky delta rule, or another assumption approved by the primary Federal supervisor. 
+
+
+2. The vega sensitivity is calculated as the vega of an option multiplied by the volatility of the option. 
+
+
+3. The vega capital requirement only applies to options or instruments with embedded optionality, including instruments with material prepayment risk. 
+
+
+4. The curvature capital requirements are intended to capture the price risks inherent in instruments with optionality that are not already captured by delta. 
+
+
+5. The proposal would require a banking organization to use the same risk buckets applied in the delta capital calculation to calculate curvature capital requirements.

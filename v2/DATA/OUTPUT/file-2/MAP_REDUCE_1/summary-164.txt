@@ -1,0 +1,7 @@
+ 1. A model-eligible trading desk must conduct backtesting and PLA testing quarterly. 
+2. Backtesting compares actual and hypothetical profit and loss with the VaR-based measure. 
+3. PLA testing measures the potential impact of stressed market conditions on the trading desk. 
+4. The trading desk must provide 250 business days of backtesting and PLA test results to the 
+    regulator. 
+5. The regulator may rescind approval of a model-eligible trading desk if it no longer complies 
+    with the requirements.

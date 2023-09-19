@@ -1,0 +1,5 @@
+ 1. The proposal maintains largely the same risk-weight treatment as provided under the alternative modified look-through approach in the advanced approaches of the current capital rule. 
+2. The proposal specifies methods to calculate risk-weighted assets for underlying exposures to investment funds with investment policies that permit equity exposures to other investment funds or securitization exposures. 
+3. The proposal captures the risk of equity exposures to investment funds with investment policies that permit the use of off-balance sheet transactions or derivative contracts. 
+4. The proposal captures the risk of equity exposures to investment funds with leverage by adjusting the average risk weight upwards by the ratio of the total assets to the total equity of the investment fund. 
+5. The proposal floors the minimum risk weight that may be assigned to the adjusted carrying value of any equity exposure to an investment fund under the proposed look-through approaches at 20 percent.

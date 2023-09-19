@@ -1,0 +1,9 @@
+ 1. The proposal requires banking organizations to recognize the full effective notional amount of credit derivatives that do not include restructuring as a credit event, if certain conditions are met. 
+
+2. The exemption from the 40 percent haircut is not overly broad because it is limited to credit derivatives that provide protection similar to credit derivatives that include restructuring as a credit event. 
+
+3. The proposed treatment of eligible credit derivatives that do not include restructuring of the reference exposure as a credit event is relevant outside of the United States because it would ensure that such derivatives are recognized in a consistent manner across jurisdictions. 
+
+4. The proposal would only allow a banking organization to recognize the risk-mitigating benefits of a corporate debt security that meets the definition of financial collateral in expanded risk-weighted assets if the corporate issuer of the debt security has a publicly traded security outstanding or is controlled by a company that has a publicly traded security outstanding. 
+
+5. The proposal would retain the simple approach of the current capital rule, including restrictions on collateral eligibility and the risk-weight floor, except for the proposed requirement for certain corporate debt securities.

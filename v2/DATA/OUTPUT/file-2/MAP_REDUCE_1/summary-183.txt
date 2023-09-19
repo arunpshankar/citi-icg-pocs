@@ -1,0 +1,7 @@
+ 1. Standardized market risk-weighted assets are calculated by multiplying the standardized measure for market risk by 12.5. 
+
+
+2. Standardized total risk-weighted assets are market risk-weighted assets minus any amount of the national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of allocated transfer risk reserves. 
+
+
+3. Sub-speculative grade means that the entity to which the national bank or Federal savings association is expose

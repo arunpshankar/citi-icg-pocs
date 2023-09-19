@@ -1,0 +1,5 @@
+ 1. The proposal requires banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.
+2. The proposal requires banking organizations to include defaulted and distressed market risk covered positions in only the standardized default risk capital requirement.
+3. For equity positions in an investment fund, the proposal allows banking organizations to apply the look-through approach under the standardized measure for market risk.
+4. For equity positions in an investment fund that closely tracks an index benchmark, the proposal allows banking organizations to treat the equity position as if it was the tracked index in calculating the delta, vega, and curvature capital requirements.
+5. For equity positions in an investment fund for which the banking organization is unable to use the look-through approach, the proposal allows the banking organization to calculate capital requirements in one of three ways under the standardized measure for market risk.

@@ -1,0 +1,9 @@
+ 1. The final rule implements the leverage ratio framework established in section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). 
+
+2. The final rule requires all banking organizations with $50 billion or more in total consolidated assets to calculate a leverage ratio. 
+
+3. The leverage ratio is a simple ratio of Tier 1 capital to total assets, measured on a quarterly basis. 
+
+4. The final rule also establishes a minimum leverage ratio of 5% for all banking organizations subject to the rule. 
+
+5. The final rule will be effective on January 1, 2018.

@@ -1,0 +1,11 @@
+ The regulation defines the risk factors and corresponding risk weights and correlation parameters for calculating sensitivities-based capital requirements for market risk covered positions. 
+
+For interest rate risk, delta risk factors are defined for each currency and tenor, with risk weights specified in Table 1. 
+
+For credit spread risk, delta, vega, and curvature risk factors are defined for each credit spread curve. 
+
+For equity risk, delta, vega, and curvature risk factors are defined for each issuer. 
+
+For commodity risk, delta, vega, and curvature risk factors are defined for each commodity and maturity. 
+
+For foreign exchange risk, delta, vega, and curvature risk factors are defined for each currency pair and maturity.

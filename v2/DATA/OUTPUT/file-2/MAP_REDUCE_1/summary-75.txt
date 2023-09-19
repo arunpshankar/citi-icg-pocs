@@ -1,0 +1,13 @@
+ 1. The proposal introduces data quality requirements for modellable risk factors.
+
+
+2. Risk factors passing the eligibility test but failing to meet any of the seven data quality requirements would be non-modellable.
+
+
+3. Data should reflect market prices or be reasonably representative of real prices.
+
+
+4. Data should capture systematic and idiosyncratic risk, volatility, and correlation of risk factors.
+
+
+5. Data should be updated weekly, and expected shortfall models calibrated to current market prices regularly.

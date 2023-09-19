@@ -1,0 +1,5 @@
+ 1. The rule specifies capital requirements for securitization exposures. 
+2. A 1,250 percent risk weight applies if the standardized approach is not used. 
+3. After-tax gain-on-sale resulting from a securitization, as well as the portion of a CEIO that does not constitute an after-tax gain-on-sale, must be deducted from common equity tier 1 capital. 
+4. Overlapping exposures may be assigned the applicable risk-based capital treatment that results in the highest risk-based capital requirement. 
+5. Implicit support provided to a securitization requires the calculation of a risk-weighted asset amount and disclosure of the risk-based capital impact.

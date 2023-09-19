@@ -1,0 +1,5 @@
+ 1. The exposure amount of an on-balance sheet exposure is the carrying value of the exposure. 
+2. The exposure amount of an off-balance sheet exposure is the notional amount of the off-balance sheet component multiplied by the appropriate credit conversion factor. 
+3. The exposure amount of an OTC derivative contract is the exposure amount determined under § 3.34 or § 3.113, as applicable. 
+4. The exposure amount of a cleared transaction is the exposure amount determined under § 3.35 or § 3.114, as applicable. 
+5. The exposure amount of an eligible margin loan or repo-style transaction is the exposure amount determined under § 3.37 or § 3.121, as applicable.

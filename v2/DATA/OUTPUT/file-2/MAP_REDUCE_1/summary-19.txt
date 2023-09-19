@@ -1,0 +1,5 @@
+ 1. The proposal introduces an averaging methodology to calculate the undrawn credit exposure amount for commitments without pre-set limits. 
+2. The averaging methodology uses an eight-quarter average balance and applies a multiplier of 10 to the average total drawn amount. 
+3. The proposal retains the current credit conversion factors for most exposures but revises the treatment of commitments by applying a 40% credit conversion factor to all commitments, except for unconditionally cancellable commitments, which would be subject to a 10% credit conversion factor. 
+4. The proposal expands the scope of banking organizations required to use the SA-CCR approach for calculating risk-weighted assets and makes technical revisions to SA-CCR, including the treatment of collateral held by a QCCP and collateral held in a bankruptcy-remote manner. 
+5. The proposal eliminates the internal models methodology as an available approach to calculate the exposure amount of derivative contracts.

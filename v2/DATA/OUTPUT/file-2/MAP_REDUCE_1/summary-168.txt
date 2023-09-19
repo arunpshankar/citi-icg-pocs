@@ -1,0 +1,5 @@
+ (1) The liquidity horizon is the period over which a [BANKING ORGANIZATION] measures the change in the risk factors. 
+(2) The liquidity horizon is determined by the type of risk factor and the maturity of the market risk covered position. 
+(3) A [BANKING ORGANIZATION] must update its input data for internal models used to calculate the ES-based measure no less frequently than quarterly. 
+(4) Internal models used to calculate the ES-based measure must address non-linearities, as well as correlation and relevant basis risks. 
+(5) A [BANKING ORGANIZATION] must consistently assign a liquidity horizon to each of its risk factors and map each of its risk factors to one of the risk factor categories and corresponding liquidity horizons in Table 2 of this section.

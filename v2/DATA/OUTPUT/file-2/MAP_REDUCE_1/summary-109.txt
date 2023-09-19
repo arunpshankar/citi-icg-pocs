@@ -1,0 +1,9 @@
+ 1. Banking organizations are required to submit a complete history of operational losses at and above the institution's established collection threshold(s). 
+
+2. The collection and reporting threshold on Schedules E.1 and E.4 should be no greater than $20,000 on a nominal and net loss basis. 
+
+3. Insurance recoveries are excluded from the "Recovery Amount ($USD))" item in Schedule E.1 and added as the "Insurance Recovery Amount ($USD))" item. 
+
+4. Banking organizations subject to the advanced approaches framework report probability of default (PD), loss given default (LGD), expected loss given default (ELGD), and exposure at default (EAD) values on FR Y-14Q, Schedule A (Retail) and Schedule H (Wholesale). 
+
+5. The Board is proposing to amend the FR Y-15 form and instructions to align with the proposed capital rule.

@@ -1,0 +1,9 @@
+ 1. The total risk-weighted assets for equity exposures equal the sum of risk-weighted asset amounts for each equity exposure not subject to section 142 and risk-weighted asset amounts for each equity exposure subject to section 142. 
+
+2. Equity exposures to certain entities such as sovereigns, the Bank for International Settlements, and MDBs may be assigned a zero percent risk weight. 
+
+3. Equity exposures to PSEs, Federal Home Loan Banks, and Farmer Mac are assigned a 20 percent risk weight. 
+
+4. Certain equity exposures such as community development investments and investments in small business investment companies are assigned a 100 percent risk weight. 
+
+5. Publicly traded equity exposures and significant investments in the capital of unconsolidated financial institutions are assigned a 250 percent risk weight.

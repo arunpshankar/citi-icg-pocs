@@ -1,0 +1,13 @@
+ 1. The final rule implements the risk-based capital rules issued by the Basel Committee on Banking Supervision (Basel III) and endorsed by the Financial Stability Board (FSB). 
+
+
+2. The final rule revises the risk-weighted asset (RWA) framework for exposures to certain types of counterparties and exposures secured by financial collateral. 
+
+
+3. The final rule also revises the standardized approach for calculating RWA for derivative contracts and revises the treatment of cleared transactions. 
+
+
+4. The final rule implements the Basel III leverage ratio framework, which is a non-risk-based measure of capital adequacy. 
+
+
+5. The final rule revises the risk-based capital framework for exposures to securitizations and revises the definition of “well capitalized” for purposes of the risk-based capital rules.

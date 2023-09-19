@@ -1,0 +1,6 @@
+ 1. The proposal defines market risk covered positions and introduces a standardized 
+measure for market risk. 
+2. The standardized measure for market risk consists of three components: standardized approach capital requirement, fallback capital requirement, and capital add-on requirement for re-designations. 
+3. The proposal requires banking organizations to calculate the standardized measure for market risk at least weekly. 
+4. The sensitivities-based method under the standardized measure for market risk uses risk weights calibrated to a defined liquidity time horizon consistent with the expected shortfall measurement framework under stressed conditions. 
+5. The proposal establishes a process to determine the sensitivities-based capital requirement for the portfolio, including assigning market risk covered positions to risk classes and establishing risk factors, calculating the sensitivity of a market risk covered position for each risk factor, describing the shock applied to each risk factor, and aggregating the weighted sensitivities.

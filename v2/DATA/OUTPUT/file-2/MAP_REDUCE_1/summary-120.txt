@@ -1,0 +1,5 @@
+ 1. The formulas for calculating the hedging set amount for different types of derivative contracts are provided. 
+2. The adjusted derivative contract amount is calculated by multiplying the adjusted notional amount by the supervisory delta adjustment, maturity factor, and applicable supervisory factor. 
+3. The supervisory delta adjustment is 1 if the fair value of the derivative contract increases when the value of the primary risk factor increases and -1 if the fair value of the derivative contract decreases when the value of the primary risk factor increases. 
+4. For an option contract, the supervisory delta adjustment is determined by the formulas in Table 1 to this section. 
+5. A separate hedging set amount must be calculated for each basis derivative contract hedging set and each volatility derivative contract hedging set.

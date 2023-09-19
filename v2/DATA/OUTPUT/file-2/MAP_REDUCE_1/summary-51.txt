@@ -1,0 +1,13 @@
+ 1. The agencies propose to introduce the concept of a trading desk and apply the proposed internal models approach at the trading desk level.
+
+
+2. The proposal would define trading desk as a unit of organization of a banking organization that purchases or sells market risk covered positions and satisfies three requirements.
+
+
+3. The proposed trading desk definition is intended to help ensure that a banking organization structures its trading desks to capture the level at which trading activities are managed and operated and at which the profit and loss of the trading strategy is attributed.
+
+
+4. The proposal would also introduce the concept of a notional trading desk to which certain types of positions that may not arise from, and may be unrelated to, a banking organization's trading activities would be allocated.
+
+
+5. Notional trading desks would be subject to only a subset of the general risk management requirements applicable to trading desks.

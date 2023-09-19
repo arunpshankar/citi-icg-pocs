@@ -1,0 +1,5 @@
+ 1. The proposal revises the calculation of the stress capital buffer requirement for large banking organizations. 
+2. Both the stress test losses and dividend add-on components would be calculated using the binding common equity tier 1 capital ratio. 
+3. The proposal also amends the Board's stress testing and capital plan rules to require banking organizations to project their risk-based capital ratios in their company-run stress tests and capital plans using the calculation approach that results in the binding ratios. 
+4. The use of the binding approach aims to conform company-run stress tests and capital plans with the binding risk-based capital ratios in the proposed capital rule and promote simplicity. 
+5. The Board invites comment on the appropriate level of risk capture for the risk-weighted assets framework and the stress capital buffer requirement.

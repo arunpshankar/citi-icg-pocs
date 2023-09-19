@@ -1,0 +1,13 @@
+ 1. Risk class, risk factor, risk factor classes, risk-theoretical profit and loss, and residential mortgage-backed security (RMBS) are defined. 
+
+
+2. Securitization position, securitization position non-CTP, small market cap, sovereign position, standardized CVA hedge, standardized CVA risk covered position, structural position in a foreign currency, sub-prime RMBS, systematic risk, systematic risk factors, term repo-style transaction, trading desk, trading position, two-way market, Value-at-Risk (VaR), and vega risk are defined. 
+
+
+3. Requirements for market risk covered positions are listed, including identification, measurement, and management of market risk. 
+
+
+4. The standardized CVA approach capital requirement is described, including the calculation of the CVA risk-weighted assets and the risk factors used in the calculation. 
+
+
+5. The sensitivities-based capital requirement is described, including the calculation of the sensitivities-based risk-weighted assets and the risk factors used in the calculation.

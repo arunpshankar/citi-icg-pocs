@@ -1,0 +1,13 @@
+ 1. Banking organizations should have clear policies and procedures for actively managing and monitoring market risk covered positions, including daily monitoring of position limits and a broader set of risk metrics at the trading desk level.
+
+
+2. Stress testing and internal assessment of capital adequacy should be conducted at both the entity-wide and trading desk level, and results should be reviewed by senior management and reflected in policies and limits set by management and the board of directors.
+
+
+3. The independent risk control unit should have oversight responsibilities for the design and implementation of market risk management systems, and the internal audit function should assess the effectiveness of risk controls and the calculation of market risk capital requirements.
+
+
+4. Banking organizations should maintain conceptually sound systems and processes for identifying, measuring, monitoring, and managing market risk, and the internal audit function should assess the effectiveness of these systems and processes.
+
+
+5. The proposal enhances documentation requirements to reflect changes in the market risk capital framework, including the use of standardized and models-based measures for market risk and the introduction of a capital add-on requirement for re-designations.

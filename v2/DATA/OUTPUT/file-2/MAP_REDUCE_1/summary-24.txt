@@ -1,0 +1,5 @@
+ 1. The proposal specifies term-based haircuts for investment grade senior securitization exposures and a 30% market price volatility haircut for other securitization exposures.
+2. It requires a 20% haircut for main index equities and gold, 30% for other publicly traded equities and convertible bonds, and 30% for other exposure types.
+3. For mutual fund shares, the proposal provides an alternative method to calculate the haircut based on the weighted average of haircuts applicable to the instruments held by the fund.
+4. The proposal includes minimum haircut floors for certain eligible margin loans and repo-style transactions with unregulated financial institutions to limit excessive leverage outside the banking system.
+5. It defines unregulated financial institutions as those not subject to prudential regulation, including hedge funds and private equity firms.

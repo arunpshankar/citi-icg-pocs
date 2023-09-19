@@ -1,0 +1,13 @@
+ (1) Apply the risk-weighting approach for securitization exposures in § ___.114 to the
+securitization exposure held by the investment fund; and
+(2) Multiply the risk-weighted asset amount determined in paragraph (d)(1) of this section
+by the ratio of the adjusted carrying value of the equity exposure to the total assets of the
+investment fund.
+(e) Equity exposures to investment funds with underlying investment funds. To determine
+the risk-weighted asset amount for an equity investment in an investment fund held by another
+investment fund, a [BANKING ORGANIZATION] must:
+(1) Apply the full look-through approach in paragraph (b) of this section to the
+investment fund that holds the equity investment; and
+(2) Multiply the risk-weighted asset amount determined in paragraph (e)(1) of this section
+by the ratio of the adjusted carrying value of the equity exposure to the total assets of the
+investment fund.

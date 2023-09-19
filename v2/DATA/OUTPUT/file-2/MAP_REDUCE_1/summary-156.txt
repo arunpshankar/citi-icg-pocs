@@ -1,0 +1,9 @@
+ 1. For credit spread risk for non-securitizations, a [BANKING ORGANIZATION] must establish 19 delta buckets along two dimensions: credit quality and sector. 
+
+2. For credit spread risk for correlation trading positions, a [BANKING ORGANIZATION] must establish buckets along two dimensions: credit quality and sector. 
+
+3. For calculating risk weighted delta sensitivities for credit spread risk for correlation trading positions, a [BANKING ORGANIZATION] must use the risk weights in Table 5 of this section. 
+
+4. For purposes of aggregating risk weighted delta sensitivities of credit spread risk for correlation trading positions within a bucket, a [BANKING ORGANIZATION] must use the correlation parameters in the regulation. 
+
+5. For purposes of aggregating delta bucket-level risk positions across buckets within the credit spread risk for correlation trading positions risk class, a [BANKING ORGANIZATION] must calculate the cross-bucket correlation parameter Ybc as specified in the regulation.

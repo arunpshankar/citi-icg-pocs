@@ -1,0 +1,5 @@
+ 1. The proposal requires a banking organization to apply the look-through approach when calculating capital requirements for equity positions in investment funds. 
+2. For equity positions in publicly traded real estate investment trusts, the proposal requires a banking organization to treat the exposures as a single exposure. 
+3. The proposal only allows a banking organization to use the internal models approach for equity positions in an investment fund for which the banking organization is able to identify the underlying positions held by the fund on a quarterly basis. 
+4. The proposal would permit a banking organization to include term repo-style transactions in market risk covered positions, where the transactions are marked to market and provided that it includes all of such term repo-style transactions in market risk covered positions consistently over time. 
+5. The proposal does not change the requirements under subpart F regarding public disclosure policy and attestation, the frequency of required disclosures, the location of disclosures, or the treatment of proprietary and confidential information.

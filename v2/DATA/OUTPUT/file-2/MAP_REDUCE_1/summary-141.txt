@@ -1,0 +1,5 @@
+ 1. Foreign exchange risk is the risk of loss from changes in foreign exchange rates.
+2. Foreign exchange position is a position for which price risk arises from changes in foreign exchange rates.
+3. GSE debt is an exposure to a GSE that is not an equity exposure or exposure to a subordinated debt instrument issued by a GSE.
+4. A hedge is a position or positions that offset all, or substantially all, of the price risk of another position or positions.
+5. A hybrid instrument is an instrument that has characteristics in common with both debt and equity instruments, including traditional convertible bonds.

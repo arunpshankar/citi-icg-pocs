@@ -1,0 +1,13 @@
+ 1. A national bank or Federal savings association is a Category I bank if it has less than $10 billion in total consolidated assets. 
+
+
+2. A national bank or Federal savings association is a Category II bank if it has total consolidated assets of $10 billion or more but less than $50 billion. 
+
+
+3. A national bank or Federal savings association is a Category III bank if it has total consolidated assets of $50 billion or more but less than $250 billion. 
+
+
+4. A national bank or Federal savings association is a Category IV bank if it has total consolidated assets of $250 billion or more. 
+
+
+5. The expanded total risk-weighted assets are the greater of two calculations.

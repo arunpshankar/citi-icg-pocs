@@ -1,0 +1,13 @@
+ 1. The IMCC for modellable risk factors is intended to capture potential losses from market risk covered positions on model-eligible trading desks during substantial market stress. 
+
+
+2. The proposal requires daily calculation of an expected shortfall-based measure for each risk class and across risk classes under stressed market conditions. 
+
+
+3. Expected shortfall internal models must satisfy backtesting and PLA testing requirements, capture risks associated with options, and appropriately model the volatility surface. 
+
+
+4. A banking organization may exclude non-modellable risk factors from expected shortfall-based internal models with approval from its primary Federal supervisor. 
+
+
+5. The proposal allows the use of either the full set of modellable risk factors or an appropriate subset to estimate potential losses throughout a twelve-month stress period.

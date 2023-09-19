@@ -1,0 +1,13 @@
+ 1. The proposal specifies that TLAC risk-weighted asset buffer items be reported similarly to FR Y-9C and requires expanded risk-based approach firms to report certain capital ratios if binding. 
+
+
+2. The proposal eliminates the AOCI opt-out option for banking organizations subject to expanded risk-based standards. 
+
+
+3. The proposal revises regulatory capital deductions to align thresholds for expanded risk-based standards with other categories. 
+
+
+4. The proposal replaces references to the IRB approach in RWA schedules and specifies calculation methods for expanded risk-based standards. 
+
+
+5. The proposal introduces two market risk RWA methodologies, revises market risk RWA items, and adds items for model-ineligible desks and approved models.

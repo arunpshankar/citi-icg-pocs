@@ -1,0 +1,13 @@
+ 1. The proposal modifies reporting, recordkeeping, and disclosure requirements for regulatory capital rules. 
+
+
+2. It adds new requirements and revises existing ones. 
+
+
+3. It includes new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP, the management of hedged exposures during bankruptcy, reorganization, or restructuring, and the monitoring of operational risk. 
+
+
+4. It includes new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. 
+
+
+5. It revises existing disclosure requirements and adds new ones.

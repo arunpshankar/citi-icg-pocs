@@ -1,0 +1,5 @@
+ 1. The proposal expands the application of the countercyclical capital buffer and supplementary leverage ratio to banking organizations subject to Category IV capital standards.
+2. The proposal would modify how the countercyclical capital buffer amount is determined to reflect the proposed changes to market risk capital requirements.
+3. The proposal would also expand application of the supplementary leverage ratio requirement to banking organizations subject to Category IV capital standards.
+4. The proposal would require large banking organizations to calculate total risk-weighted assets under two approaches: (1) the expanded risk-based approach, and (2) the standardized approach.
+5. The proposal would introduce an "output floor" to the calculation of expanded total risk-weighted assets.

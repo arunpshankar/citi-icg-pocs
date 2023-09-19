@@ -1,0 +1,9 @@
+ 1. The proposal defines operational loss, operational loss event, and groups operational loss events into seven event types. 
+
+2. The calculation of average annual total net operational losses would be based on an average of ten years of data. 
+
+3. The proposal includes a $20,000 net loss threshold for inclusion of an operational loss in the calculation of average annual total net operational losses. 
+
+4. A banking organization would group losses with a common underlying trigger into the same operational loss event. 
+
+5. Recoveries would be included in the quarter in which they are paid to the banking organization.

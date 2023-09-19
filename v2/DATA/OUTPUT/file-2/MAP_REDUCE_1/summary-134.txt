@@ -1,0 +1,9 @@
+ 1. The risk-weighted asset amount for an equity exposure to an investment fund held by another investment fund is determined using a full look-through approach, an alternative modified look-through approach, or a 1,250 percent risk weight.
+
+2. The risk-weighted assets for operational risk equals the operational risk capital requirement multiplied by 12.5.
+
+3. The operational risk capital requirement equals the Business Indicator Component multiplied by the Internal Loss Multiplier.
+
+4. The Business Indicator Component is calculated based on the interest, lease, and dividend component; the services component; and the financial component.
+
+5. The Internal Loss Multiplier is calculated using a formula that includes the average annual total net operational losses and the Business Indicator Component.

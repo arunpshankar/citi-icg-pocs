@@ -1,0 +1,13 @@
+ 1. The proposal requires banking organizations to include exposure models for regulatory CVA calculation in their CVA risk management framework and define criteria to assess the models and their inputs.
+
+
+2. The proposal requires banking organizations to validate their CVA models, including exposure models, annually and conduct additional validation under certain circumstances.
+
+
+3. The proposal requires banking organizations to obtain current and historical market data that are either independent of the line of business or validated independently of the line of business, to be used as an input for an exposure model.
+
+
+4. The proposal provides a basic measure for CVA risk and a standardized measure for CVA risk.
+
+
+5. The proposal requires banking organizations to calculate the CVA capital requirement using either the basic measure for CVA risk or the standardized measure for CVA risk, and the total capital requirements for CVA risk would equal the CVA capital requirement multiplied by 12.5.

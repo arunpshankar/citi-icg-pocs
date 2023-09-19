@@ -1,0 +1,5 @@
+ 1. A banking organization must account for dependence between exposure and counterparty's credit quality in regulatory CVA calculations. 
+2. For margined counterparties, only qualifying financial collateral can be recognized as a risk mitigant. 
+3. Simulated paths of discounted future exposure must capture the effects of margining collateral and relevant contractual features. 
+4. A banking organization must obtain simulated paths using the same CVA exposure models used for financial reporting, adjusted to meet the requirements of this section. 
+5. CVA delta and vega sensitivities must be calculated in accordance with specified definitions and methodologies.

@@ -1,0 +1,5 @@
+ 1. The risk weight of a securitization exposure is calculated using the SEC-SA formula. 
+2. RW FLOOR is 100% for resecuritization and NPL securitization exposures and 15% for all other securitization exposures. 
+3. KA is calculated under paragraph (b) of this section. 
+4. A (attachment point) equals the greater of zero and the ratio of the outstanding balance of all underlying assets minus the outstanding balance of all senior tranches to the outstanding balance of all underlying assets. 
+5. D (detachment point) equals the greater of zero and the ratio of the outstanding balance of all underlying assets minus the outstanding balance of all senior tranches to the outstanding balance of all underlying assets.

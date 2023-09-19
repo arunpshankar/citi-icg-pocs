@@ -1,0 +1,9 @@
+ 1. The proposal introduces a new framework for risk-weighting retail exposures, which includes a 35% risk weight for exposures to retail obligors that meet certain criteria. 
+
+2. The proposal also includes a 1.5x multiplier for certain retail and residential mortgage exposures with currency mismatch. 
+
+3. Corporate exposures are differentiated based on credit risk, with risk weights ranging from 65% to 150%. 
+
+4. A 65% risk weight is assigned to corporate exposures that are investment grade and have publicly traded securities outstanding. 
+
+5. The proposal requests feedback on alternative criteria for identifying corporate exposures that would warrant a risk weight of 65% or a risk weight between 65% and 100%.

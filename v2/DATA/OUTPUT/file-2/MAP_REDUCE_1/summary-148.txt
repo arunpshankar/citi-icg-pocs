@@ -1,0 +1,13 @@
+ 1. A banking organization must apply the look-through approach for index instruments and multi-underlying options, netting curvature scenarios and delta sensitivities with single-name positions.
+
+
+2. For listed and well-diversified indices, a banking organization may choose not to apply the look-through approach and assign a single sensitivity to the index based on the relevant sector or index bucket.
+
+
+3. For vega capital requirement calculation, a banking organization may use implied volatility of the option or the implied volatility of options on the underlying constituents, and for indices, the vega capital requirement must be calculated based on the same sector-specific bucket or index bucket used for delta and curvature capital requirements.
+
+
+4. For standardized default risk capital requirement calculation, a banking organization may apply the look-through approach for multi-underlying options that are non-securitization debt or equity positions.
+
+
+5. For equity positions in an investment fund, a banking organization may use the look-through approach, the tracked index method, the hypothetical portfolio approach, or the fall-back method to calculate the standardized measure for market risk, and must calculate IMAG,A using the look-through approach or based on the hypothetical portfolio of the investment fund.

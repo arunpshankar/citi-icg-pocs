@@ -1,0 +1,5 @@
+ 1. An FDIC-supervised institution subject to subpart E of this part may elect the 2020 CECL transition provision. 
+2. The election allows the institution to increase its total leverage exposure for purposes of the supplementary leverage ratio by a specified percentage of its modified CECL transitional amount during each of the five years of the transition period. 
+3. The modified CECL transitional amount is the amount by which the institution's total allowance for loan losses would have increased if the institution had adopted CECL on January 1, 2020, using a phase-in approach. 
+4. The total leverage exposure for purposes of the supplementary leverage ratio is calculated by multiplying the institution's total leverage exposure by the applicable percentage for the year. 
+5. The applicable percentage is 100% for the first year, 100% for the second year, 75% for the third year, 50% for the fourth year, and 25% for the fifth year.

@@ -1,0 +1,9 @@
+ 1. The proposal defines risk factors for counterparty credit spread risk, reference credit spread risk, equity risk, commodity risk, interest rate risk, and foreign exchange risk. 
+
+2. For counterparty credit spread risk, the proposal defines risk factors for each constituent of the index, as well as an optional approach that introduces additional index risk factors for qualified indices. 
+
+3. For market risk factors, the proposal defines risk factors in a much less granular way than under the sensitivity-based method for market risk. 
+
+4. The proposal sets the risk buckets for delta and vega risk factors generally matching the risk buckets for equity risk and commodity risk in the proposed sensitivities-based method for market risk. 
+
+5. For exposure-related risk classes, the proposal uses the bucket structure that matches the bucket structure of the corresponding risk classes in the sensitivities-based method for market risk.

@@ -1,0 +1,5 @@
+ 1. The proposal requires banking organizations to include operational loss events incurred by acquired or merged entities in their calculation of total net operational losses. 
+2.  A formula is provided for calculating annual total net operational losses for missing years for merged or acquired entities. 
+3.  Banking organizations with five to nine years of loss data meeting the collection requirements would use as many years of loss data as available in the calculation. 
+4.  The internal loss multiplier would equal one if the years of loss data are less than five, but the primary federal supervisor may require higher capital requirements if deemed insufficient. 
+5.  Banking organizations may request supervisory approval to exclude operational loss events that are no longer relevant to their risk profile, subject to certain conditions.

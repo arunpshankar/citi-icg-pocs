@@ -1,0 +1,13 @@
+ 1. Exposure models used in calculating regulatory CVA must be part of a CVA risk management framework subject to senior management oversight.
+
+
+2. An independent risk control unit must validate exposure models annually and report directly to senior management.
+
+
+3. The validation process must be documented in detail, including the frequency of validation and circumstances requiring more frequent validation.
+
+
+4. Pricing models must be tested against independent benchmarks, and an independent review of the CVA risk management process must be conducted regularly.
+
+
+5. A [BANKING ORGANIZATION] must define criteria to assess exposure models, verify transactions are assigned to the appropriate netting set, and ensure transaction terms and specifications are accurately reflected in the model.

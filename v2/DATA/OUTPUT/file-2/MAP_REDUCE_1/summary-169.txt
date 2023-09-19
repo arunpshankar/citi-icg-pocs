@@ -1,0 +1,5 @@
+ 1. A [BANKING ORGANIZATION] must calculate an aggregate capital measure for modellable risk factors, IMCC, on each business day. 
+2. The [BANKING ORGANIZATION] must also calculate a series of partial liquidity horizon-adjusted ES-based measures (with risk factors of all other risk factor classes held constant) for each risk factor class. 
+3. The aggregate capital measure for modellable risk factors, IMCC, must be calculated as the weighted average of the constrained and unconstrained ES-based measures. 
+4. A [BANKING ORGANIZATION] must calculate an aggregate capital measure for non-modellable risk factors, SES, using stressed expected shortfall methodologies. 
+5. A [BANKING ORGANIZATION] must make timely public reports and disclosures each calendar quarter.

@@ -1,0 +1,13 @@
+ 1. The proposal introduces a backtesting requirement for model-eligible trading desks, which compares actual and hypothetical profit and loss with the VaR-based measure calculated by the expected shortfall model.
+
+
+2. A trading desk would become model-ineligible if it experiences 13 or more exceptions for actual or hypothetical profit and loss at the 99th percentile, or 31 or more exceptions at the 97.5th percentile in the most recent 250 business days.
+
+
+3. The proposal clarifies the treatment of certain market risk covered positions under the standardized and models-based measures for market risk, including net short risk positions, securitization positions, and defaulted and distressed market risk covered positions.
+
+
+4. Net short risk positions exceeding $20 million would be included in the total market risk capital requirement for the entire quarter, under both the standardized and models-based measures.
+
+
+5. If a banking organization is unable to calculate a risk factor sensitivity for a net short risk position, it would be required to calculate market risk capital requirements using the fallback capital requirement.

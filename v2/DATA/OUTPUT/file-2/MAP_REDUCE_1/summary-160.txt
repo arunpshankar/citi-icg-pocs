@@ -1,0 +1,5 @@
+ (i) Credit spread risk for non-securitization positions;
+(ii) Credit spread risk for correlation trading positions;
+(iii) Credit spread risk for securitization positions non-CTP;
+(iv) Credit spread risk for securitization positions CTP; and
+(v) Commodity risk.

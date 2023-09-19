@@ -1,0 +1,5 @@
+ The proposal would strengthen risk-based capital requirements for large banking organizations by improving their comprehensiveness and risk sensitivity. It would do so by: 
+1) eliminating the use of internal models for most parts of the framework and replacing them with a simpler and more consistent standardized framework; 
+2) retaining the ability for banking organizations to use internal models for market risk, with an improved models-based measure that better accounts for potential losses; 
+3) adopting new standardized approaches for market risk and credit valuation adjustment risk that better reflect the risks of banking organizations' exposures. 
+The proposal would also maintain the capital rule's dual-requirement structure, align the calculation of regulatory capital for banking organizations subject to Category III or IV capital standards with the calculation for banking organizations subject to Category I or II capital standards, and expand application of the supplementary leverage ratio and the countercyclical capital buffer to banking organizations subject to Category IV capital standards.

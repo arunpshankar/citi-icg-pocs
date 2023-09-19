@@ -1,0 +1,13 @@
+ 1. A 100 percent CCF is applied to certain off-balance-sheet items and other similar transactions, including guarantees, repurchase agreements, credit-enhancing representations and warranties, off-balance sheet securities lending and borrowing transactions, financial standby letters of credit, and forward agreements.
+
+
+2. The exposure amount for derivative contracts is determined using the standardized approach for counterparty credit risk (SA-CCR).
+
+
+3. Credit derivatives are treated as exposures to the reference obligor, and equity derivative contracts are treated as equity exposures.
+
+
+4. The exposure amount of a netting set is calculated as 1.4 multiplied by the sum of the replacement cost and potential future exposure of the netting set.
+
+
+5. There are certain exceptions and adjustments to the exposure amount calculation, such as for netting sets subject to variation margin agreements or consisting of only sold options with fully paid premiums.

@@ -1,0 +1,5 @@
+ 1. The capital conservation buffer is the lowest of the common equity tier 1, tier 1, or total capital ratios minus the respective minimum capital ratios. 
+2. The leverage buffer is the supplementary leverage ratio minus 3%. 
+3. The GSIB surcharge is used to determine the maximum payout ratio. 
+4. Instruments issued after the date a Board-regulated institution becomes subject to subpart E must disclose that the holders may be fully subordinated to interests held by the U.S. government in the event of a receivership, insolvency, liquidation, or similar proceeding. 
+5. Minority interest limitations apply to Board-regulated institutions subject to subpart E if a consolidated subsidiary has issued regulatory capital that is not owned by the Board-regulated institution and exceeds certain capital ratios.
