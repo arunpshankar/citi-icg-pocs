@@ -1,5 +1,5 @@
- 1. Delta risk factors and weights are assigned to counterparty credit spread risk and reference credit spread risk. 
+ 1. Delta risk factors and weights are defined for counterparty credit spread risk and reference credit spread risk. 
 2. Counterparty credit spread risk is divided into 7 buckets, while reference credit spread risk is divided into 17 buckets. 
 3. Delta risk weights for counterparty credit spread risk range from 0.5% to 12%, while delta risk weights for reference credit spread risk range from 0.5% to 12%. 
-4. Delta cross-bucket correlation parameters are provided for both counterparty credit spread risk and reference credit spread risk. 
-5. The calculation of delta risk factors and weights is based on the sensitivity of the hedge to each index constituent.
+4. Delta cross-bucket correlation parameters are defined for both counterparty credit spread risk and reference credit spread risk. 
+5. The cross-bucket correlation parameters for reference credit spread risk are the same for all credit qualities.

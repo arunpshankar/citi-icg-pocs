@@ -4,10 +4,10 @@
 2. The definition of the W parameter would exclude underlying securitization exposures from the numerator for resecuritization exposures. 
 
 
-3. The delinquency-adjusted (KA) and non-adjusted (KG) weighted-average capital requirement would be modified for SEC-SA. 
+3. The delinquency-adjusted (KA) and non-adjusted (KG) weighted-average capital requirement would be a function of KG and W. 
 
 
-4. A supervisory parameter p of 1.0 would be applied to securitization exposures that are not resecuritization exposures and a supervisory parameter p of 1.5 to resecuritization exposures. 
+4. The supervisory parameter p would be 1.0 for securitization exposures that are not resecuritization exposures and 1.5 for resecuritization exposures. 
 
 
-5. A risk weight floor of 15 percent would be applied to securitization exposures that are not resecuritization exposures.
+5. The SEC-SA would require banking organizations to apply a risk weight floor of 15 percent for securitization exposures that are not resecuritization exposures.

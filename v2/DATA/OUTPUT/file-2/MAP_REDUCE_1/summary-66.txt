@@ -1,11 +1,6 @@
  1. The proposal defines liquid market economies based on objective criteria, including GDP per capita, 
 market capitalization, and trading volume.
-2. The proposed risk buckets for equity risk group trading positions into sectors based on 
-economic sensitivities and delineate emerging market economies from liquid market economies.
-3. The proposed risk buckets for commodity risk are based on commodity classes and 
-differentiated by underlying commodity types to reflect differences in volatility.
-4. The proposal aligns the delta risk factor buckets and corresponding risk weights for 
-commodities with those in the Basel III reforms, with one exception.
-5. The proposal requires separate risk buckets for each exchange rate between the currency in 
-which a market risk covered position is denominated and the reporting currency, with a 15 
-percent risk weight applied to each currency pair.
+2. The proposal groups trading positions into risk buckets based on sector and market capitalization for large market capitalization issuers and by emerging market economy or liquid market economy for small market capitalization issuers.
+3. The proposal includes three additional risk buckets for equity indices and other equity indices.
+4. The proposal defines commodity risk factors into eleven risk buckets based on commodity classes.
+5. The proposal requires a banking organization to establish separate risk buckets for each exchange rate between the currency in which a market risk covered position is denominated and the reporting currency.

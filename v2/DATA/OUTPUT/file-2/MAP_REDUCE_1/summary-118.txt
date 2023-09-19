@@ -4,10 +4,10 @@
 2. The exposure amount for derivative contracts is determined using the standardized approach for counterparty credit risk (SA-CCR).
 
 
-3. Credit derivatives are treated as exposures to the reference obligor, and equity derivative contracts are treated as equity exposures.
+3. Credit derivatives purchased as credit risk mitigants for exposures that are not market risk covered positions are not subject to a separate counterparty credit risk capital requirement.
 
 
-4. The exposure amount of a netting set is calculated as 1.4 multiplied by the sum of the replacement cost and potential future exposure of the netting set.
+4. Equity derivative contracts are treated as equity exposures and risk-weighted asset amounts are computed under relevant sections.
 
 
-5. There are certain exceptions and adjustments to the exposure amount calculation, such as for netting sets subject to variation margin agreements or consisting of only sold options with fully paid premiums.
+5. The exposure amount of a netting set is calculated as 1.4 multiplied by the sum of the replacement cost and potential future exposure of the netting set, subject to certain exceptions for variation margin agreements and netting sets consisting of only sold options with fully paid premiums.

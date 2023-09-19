@@ -1,5 +1,13 @@
- 1. The proposal revises the exclusion of initial margin from the trade exposure amount for banking organizations under the advanced approaches to align with the standardized approach. 
-2. The proposal revises the supervisory delta adjustment for CDO tranches and option contracts to ensure the correct sign of the adjustment and to allow for negative values of the underlying instrument or risk factor. 
-3. The proposal clarifies that the option to decompose a non-linear index is not available under SA-CCR and that if electing to decompose a linear index, banking organizations must apply the weights used by the index when determining the exposure amounts for the underlying instrument. 
-4. The proposal does not make any changes to the existing capital rule's recognition of credit risk mitigants, such as guarantees, credit derivatives, and collateral. 
-5. Questions 46 and 47 seek feedback on specific aspects of the proposal, including the calibration of the lambda parameter for non-interest-rate asset classes and alternative approaches to index decomposition.
+ 1. The proposal revises the sign specification for the supervisory delta adjustment for CDO tranches to ensure the correct aggregation of CDO tranches with linear credit derivative contracts in PFE calculations.
+
+
+2. The proposal extends the use of the shift parameter λ to all asset classes to ensure that a banking organization can calculate the supervisory delta adjustment for option contracts when the underlying instrument or risk factor has a negative value.
+
+
+3. The proposal clarifies that the option to decompose a non-linear index is not available under SA-CCR and that if electing to decompose a linear index, banking organizations must apply the weights used by the index when determining the exposure amounts for the underlying instrument.
+
+
+4. The proposal does not require banking organizations to recognize any instrument as a credit risk mitigant, but credit derivatives that a banking organization cannot or chooses not to recognize as a credit risk mitigant would be subject to a separate counterparty credit risk capital requirement.
+
+
+5. Questions raised for consideration include alternative approaches to calibrate the lambda parameter for non-interest-rate asset classes, potential values besides 1.1 for the multiplier in the proposed formula, and the rationale behind these alternatives.

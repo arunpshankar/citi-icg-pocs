@@ -1,5 +1,5 @@
- 1. The agencies seek comment on the internal models approach for market risk. 
-2. The proposal would require a banking organization to identify an appropriate set of risk factors that is sufficiently representative of the risks inherent in all of the market risk covered positions held by model-eligible trading desks. 
-3. For the identified risk factors, the proposal would require banking organization to conduct the risk factor eligibility test to determine which risk factors are modellable, and thus subject to the IMCC, and which are non-modellable, and thus subject to the SES capital requirements. 
-4. The agencies recognize that a banking organization may need to obtain pricing information from third parties to demonstrate the market liquidity of the underlying risk factors, and this may pose unique challenges for validation and other model risk management activities. 
-5. In certain cases, obtaining information on the prices of individual transactions from third parties may raise legal concerns for the banking organization, the third-party provider, or both.
+ 1. The agencies propose an internal models approach for market risk capital requirements. 
+2. The approach includes three components: modellable risk factors, non-modellable risk factors, and standardized default risk capital requirement. 
+3. The capital requirement for modellable risk factors is the expected shortfall (ES) of the risk factor, multiplied by a capital multiplier of at least 1.5. 
+4. The capital requirement for non-modellable risk factors is the sum of the standardized unexpected shortfall (SES) of the risk factor and the product of the average capital requirements for modellable risk factors over the prior 60 business days and a multiplication factor of at least 1.5. 
+5. The overall capital requirement under the internal models approach is the sum of the capital requirements for modellable and non-modellable risk factors, plus the standardized default risk capital requirement.

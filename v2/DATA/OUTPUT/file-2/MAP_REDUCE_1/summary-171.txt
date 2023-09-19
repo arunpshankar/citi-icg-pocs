@@ -1,13 +1,92 @@
- 1. A banking organization must identify CVA risk covered positions and eligible CVA hedges, have a CVA hedging policy, and document its CVA risk management processes. 
-
-
-2. The measure for CVA risk is calculated as the basic measure or the standardized measure, with the basic measure being the basic CVA approach capital requirement plus any additional capital requirement established by the agency, and the standardized measure being the sum of the standardized CVA approach capital requirement, the basic CVA approach capital requirement, and any additional capital requirement established by the agency. 
-
-
-3. The standardized CVA approach capital requirement equals the sum of the CVA delta capital requirement and the CVA vega capital requirement. 
-
-
-4. A banking organization that has received approval to use the standardized measure for CVA risk must include certain CVA risk covered positions and eligible CVA hedges as basic CVA risk covered positions and basic CVA hedges in the calculation of the basic CVA approach capital requirement. 
-
-
-5. The basic CVA approach capital requirement is calculated as 0.65 times the sum of the hedged and unhedged components, where the hedged component is a function of the counterparty's risk weight, exposure at default, and default probability, and
+ (B) b equals:
+b
+=
+1
+1
++
+0.5
+·
+(
+1
+−
+p
+)
+(C) c equals:
+c
+=
+1
+−
+b
+(D) d equals:
+d
+=
+1
+−
+p
+(E) e equals:
+e
+=
+1
+−
+c
+(F) f equals:
+f
+=
+1
+−
+d
+(G) g equals:
+g
+=
+1
+−
+e
+(H) h equals:
+h
+=
+1
+−
+f
+(I) i equals:
+i
+=
+1
+−
+g
+(J) j equals:
+j
+=
+1
+−
+h
+(K) k equals:
+k
+=
+1
+−
+i
+(L) l equals:
+l
+=
+1
+−
+j
+(M) m equals:
+m
+=
+1
+−
+k
+(N) n equals:
+n
+=
+1
+−
+l
+(O) o equals:
+o
+=
+1
+−
+m
+(P

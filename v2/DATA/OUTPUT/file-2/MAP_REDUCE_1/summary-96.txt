@@ -10,4 +10,4 @@
 4. The proposal would merge the investment grade bucket and speculative and sub-speculative grade bucket of each sector into a single bucket for the counterparty credit spread risk class.
 
 
-5. The agencies propose to set the cross-bucket correlations, Yûc, equal to the corresponding correlations that would be applicable under the assumption of the same credit quality in the non-securitization credit spread risk class in the sensitivities-based method for market risk.
+5. The proposal would merge the sovereign exposures and MDBs sector and the PSE, government-backed non-financials, GSE debt, education, and public administration sector into a single risk bucket for the counterparty credit spread risk class.

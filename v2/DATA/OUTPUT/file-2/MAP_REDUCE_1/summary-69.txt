@@ -1,10 +1,10 @@
- 1. The agencies propose allowing banks to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract. 
+ 1. The agencies propose allowing banking organizations to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract. 
 
 
 2. The agencies seek comment on the appropriateness of the proposed treatment of GSE exposures and alternative methods to measure more appropriately the default risk associated with such positions. 
 
 
-3. The agencies propose not allowing banks to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. They seek comment on alternative methods to measure more appropriately the default risk associated with such positions. 
+3. The agencies propose not allowing banking organizations to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. They seek comment on alternative methods to measure more appropriately the default risk associated with such positions. 
 
 
 4. The agencies propose risk buckets and corresponding risk weights for non-securitization debt or equity positions and securitization positions non-CTP. They seek comment on the appropriateness of the proposed risk weights and granularity and alternative approaches for assigning risk weights. 

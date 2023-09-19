@@ -1,5 +1,5 @@
- 1.	The RWA changes would affect risk-based TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and LTD requirement by 2.0%.
+ 1.	The RWA changes would affect TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and the average LTD requirement by 2.0%.
 2.	The proposal eliminates the internal models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach, which may result in higher derivative exposures and more stringent credit limits.
 3.	The RWA changes would decrease the method 2 scores of U.S. GSIBs by 32 points on average, reducing their GSIB capital surcharges by about 16 basis points.
-4.	The proposal makes technical corrections and clarifications to the capital rule, including removing expired transition provisions and updating terminology.
-5.	The OCC proposes to revise the methodology for identifying national banks and federal savings associations subject to the enhanced supplementary leverage ratio standard.
+4.	The proposal makes technical corrections and clarifications to the capital rule, including updates to terminology, removal of expired provisions, and addressing errors.
+5.	The OCC proposes to revise the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard.

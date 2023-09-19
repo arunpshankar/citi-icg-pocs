@@ -1,4 +1,4 @@
- 1. The proposed definition of defaulted exposure is more conservative than banking organizations' existing policies and would capture exposures that are not currently considered defaulted. 
+ 1. The proposed definition of defaulted exposure is more conservative than banking organizations' existing policies and would result in more exposures being classified as defaulted. 
 2. There are several operational challenges in identifying defaulted exposures, including obtaining information on obligors' credit obligations to other creditors and bankruptcy proceedings. 
 3. The agencies request comment on the appropriateness of including a borrower's bankruptcy as a criterion for a defaulted exposure for retail exposures. 
 4. The agencies request comment on alternatives to the proposed treatment of defaulted exposures, such as limiting the scope to obligations of the borrower with the banking organization. 

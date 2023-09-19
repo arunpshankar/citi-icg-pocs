@@ -1,9 +1,9 @@
  1. The regulation describes the parameters for calculating capital requirements for counterparty credit risk, equity risk, commodity risk, and foreign exchange risk. 
 
-2. Counterparty credit risk is divided into 14 credit quality buckets, with different delta and vega risk weights assigned to each bucket. 
+2. Counterparty credit risk is divided into 14 credit quality buckets, with different risk weights assigned to each bucket. 
 
-3. Equity risk is divided into 13 delta risk buckets and 11 vega risk buckets, with different risk weights assigned to each bucket. 
+3. Equity risk is divided into 10 delta risk buckets and 2 vega risk buckets, with different risk weights assigned to each bucket. 
 
-4. Commodity risk is divided into 11 delta risk buckets and 11 vega risk buckets, with different risk weights assigned to each bucket. 
+4. Commodity risk is divided into 11 delta risk buckets and 1 vega risk bucket, with different risk weights assigned to each bucket. 
 
-5. Foreign exchange risk is divided into separate vega risk buckets for each currency, with a vega risk weight of 100 percent and a vega cross-bucket correlation parameter of 50 percent for all currency pairs.
+5. Foreign exchange risk is divided into separate vega risk buckets for each currency, with a risk weight of 100 percent assigned to each bucket.

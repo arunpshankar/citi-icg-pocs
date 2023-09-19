@@ -1,9 +1,9 @@
- The proposal eliminates existing quantitative disclosures for calculating risk-based capital requirements, but retains existing quantitative disclosures related to securitizations and correlation trading positions. 
+ The proposal eliminates existing quantitative disclosures for calculating risk-based capital requirements, but retains existing quantitative disclosures related to securitizations and adds a new quantitative disclosure requiring a comparison of VaR-based estimates to actual gains or losses. 
 
-It adds a new quantitative disclosure requiring a comparison of VaR-based estimates to actual gains or losses, and an analysis of important outliers. 
+The proposal revises existing qualitative disclosures for material portfolios and adds new qualitative disclosures related to a banking organization's processes and policies for managing market risk. 
 
-The proposal retains existing qualitative disclosures for material portfolios with certain revisions, and adds new qualitative disclosures related to a banking organization's processes and policies for managing market risk. 
+In addition to public disclosure requirements, the proposal requires a banking organization to provide a quarterly public regulatory report of its measure for market risk and submit confidential supervisory reports containing backtesting and PLA testing data. 
 
-In addition to public disclosure requirements, the proposal requires a banking organization to provide a quarterly public regulatory report of its measure for market risk. 
+The proposal streamlines the definitions related to securitizations in subpart F with those in subparts D and E of the capital rule. 
 
-The proposal also requires a banking organization using the models-based measure to calculate market risk capital requirements to submit confidential supervisory reports containing backtesting and PLA testing data.
+The proposal also makes technical amendments to the market risk rule to conform to the revisions made to the standardized approach in the Basel III framework.

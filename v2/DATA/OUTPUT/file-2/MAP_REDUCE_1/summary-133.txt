@@ -1,13 +1,5 @@
- (1) Apply the risk-weighting approach for securitization exposures in § ___.114 to the
-securitization exposure held by the investment fund; and
-(2) Multiply the risk-weighted asset amount determined in paragraph (d)(1) of this section
-by the ratio of the adjusted carrying value of the equity exposure to the total assets of the
-investment fund.
-(e) Equity exposures to investment funds with underlying investment funds. To determine
-the risk-weighted asset amount for an equity investment in an investment fund held by another
-investment fund, a [BANKING ORGANIZATION] must:
-(1) Apply the full look-through approach in paragraph (b) of this section to the
-investment fund that holds the equity investment; and
-(2) Multiply the risk-weighted asset amount determined in paragraph (e)(1) of this section
-by the ratio of the adjusted carrying value of the equity exposure to the total assets of the
-investment fund.
+ 1. The risk-weighted asset amount of an equity exposure to an investment fund is determined using one of three approaches: full look-through approach, alternative modified look-through approach, or 1250% risk weight. 
+2. Under the full look-through approach, the risk-weighted asset amount is calculated as the adjusted carrying value multiplied by the risk weight, which is a function of the risk-weighted asset amounts of the investment fund's on-balance sheet and off-balance sheet exposures, as well as the derivative contracts held by the investment fund. 
+3. Under the alternative modified look-through approach, the risk-weighted asset amount is calculated similarly to the full look-through approach, but with certain modifications, such as assigning the investment fund's total assets to different risk weight categories based on the investment limits in the investment fund's prospectus. 
+4. If the [BANKING ORGANIZATION] does not have sufficient information to use either the full look-through approach or the alternative modified look-through approach, it must assign a risk-weighted asset amount equal to the adjusted carrying value of the equity exposure multiplied by a 1,250 percent risk weight. 
+5. To determine the risk

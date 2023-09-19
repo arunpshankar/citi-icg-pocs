@@ -2,109 +2,114 @@
 
 The sensitivities-based capital requirement is calculated for each risk class by aggregating the bucket-level risk positions for delta risk, vega risk, and curvature risk. 
 
-DELTA, VEGA, AND CURVATURE DEFINITIONS 
+DELTA CAPITAL REQUIREMENT 
 
-Delta sensitivities measure the change in the value of a market risk covered position for a one basis point change in the relevant risk factor. 
+The delta capital requirement is calculated for each risk class by aggregating the delta bucket-level risk positions across all of the buckets within the risk class. 
 
-Vega sensitivities measure the change in the value of a market risk covered position for a one percentage point change in the volatility of the option. 
+VEGA CAPITAL REQUIREMENT 
 
-Curvature scenarios measure the change in the value of a market risk covered position for a given change in the relevant risk factor. 
+The vega capital requirement is calculated for each risk class by aggregating the vega bucket-level risk positions across all of the buckets within the risk class. 
 
-SENSITIVITIES-BASED CAPITAL REQUIREMENT CALCULATION 
+CURVATURE CAPITAL REQUIREMENT 
+
+The curvature capital requirement is calculated for each risk class by applying an upward shock and a downward shock to each risk factor and calculating the incremental loss in excess of that already captured by the delta capital requirement. 
+
+SENSITIVITIES-BASED CAPITAL REQUIREMENT 
 
 The sensitivities-based capital requirement equals the largest capital requirement produced under three correlation scenarios. 
 
-MODEL INPUTS 
+MODEL PARAMETERS 
 
-A [BANKING ORGANIZATION] must calculate delta and vega sensitivities and curvature scenarios with respect to the spread of the tranche rather than the spread of the underlying position for securitization positions non-CTP and with respect to the underlying names of the securitization position or nth-to-default position for correlation trading positions. 
+The Black-Scholes-Merton model with parameters calibrated to observed market prices; 
+
+An alternative option pricing model that is approved by the [AGENCY]; or 
+
+The delta sensitivities may be calculated using a non-model based approach that is approved by the [AGENCY]. 
+
+CALCULATION FREQUENCY 
+
+A [BANKING ORGANIZATION] must calculate the delta sensitivities, vega sensitivities, and curvature scenarios for each market risk covered position at least once per day. 
+
+DOCUMENTATION 
+
+A [BANKING ORGANIZATION] must document the methodologies, models, and parameters used to calculate the delta sensitivities, vega sensitivities, and curvature scenarios. 
+
+DELTA SENSITIVITIES 
+
+For each risk factor k, the delta sensitivity of an option is calculated as follows: 
+
+k 
+= 
+∂ V 
+∂ S k 
+ 
+Delta sensitivities are assigned to different buckets based on the type of risk, with different risk weights applied to each bucket. 
+
+For equity risk, delta sensitivities are further categorized into 13 buckets based on market capitalization and liquidity, with correlation parameters defined for each bucket. 
+
+For commodity risk, delta sensitivities are assigned to 11 buckets based on the commodity type, with risk weights and correlation parameters specified for each bucket. 
+
+For foreign exchange risk, buckets are established for each exchange rate, with delta sensitivities assigned to each bucket and risk weights applied accordingly. 
+
+Cross-bucket correlation parameters are defined for aggregating delta bucket-level risk positions across buckets within each risk class. 
+
+VEGA SENSITIVITIES 
 
 Vega risk factors for interest rate risk are defined for each currency and consist of: 
 
-Implied volatilities of inflation rate risk-sensitive options 
+Implied volatilities of inflation rate risk-sensitive options, 
 
-Implied volatilities of cross-currency basis risk-sensitive options 
+Implied volatilities of cross-currency basis risk-sensitive options, and 
 
-Implied volatilities of interest rate risk-sensitive options 
+Implied volatilities of interest rate risk-sensitive options. 
+
+Vega is the change in the value of an option resulting from a small change in volatility. 
 
 For interest rate risk, a banking organization must map the implied volatility of the option to one or more tenors specified in the risk factors definitions. 
 
 A banking organization must assign market risk covered positions that are options or positions with embedded options that do not have a maturity to the longest prescribed maturity tenor. 
 
-CREDIT SPREAD, EQUITY, COMMODITY, AND FOREIGN EXCHANGE RISK 
-
-For credit spread risk, delta, vega, and curvature risk factors are defined for each credit spread curve. 
-
-For equity risk, delta, vega, and curvature risk factors are defined for each issuer. 
-
-For commodity risk, delta, vega, and curvature risk factors are defined for each commodity and maturity. 
-
-For foreign exchange risk, delta, vega, and curvature risk factors are defined for each currency pair and maturity. 
-
-CREDIT SPREAD RISK 
-
-For credit spread risk for non-securitizations, a [BANKING ORGANIZATION] must establish 19 delta buckets along two dimensions: credit quality and sector. 
-
-For credit spread risk for correlation trading positions, a [BANKING ORGANIZATION] must establish buckets along two dimensions: credit quality and sector. 
-
-For calculating risk weighted delta sensitivities for credit spread risk for correlation trading positions, a [BANKING ORGANIZATION] must use the risk weights in Table 5 of this section. 
-
-For purposes of aggregating risk weighted delta sensitivities of credit spread risk for correlation trading positions within a bucket, a [BANKING ORGANIZATION] must use the correlation parameters in the regulation. 
-
-For purposes of aggregating delta bucket-level risk positions across buckets within the credit spread risk for correlation trading positions risk class, a [BANKING ORGANIZATION] must calculate the cross-bucket correlation parameter Ybc as specified in the regulation. 
-
-SECURITIZATION POSITIONS NON-CTP 
-
-The table in section 7 of this section specifies delta buckets, risk weights, and correlations for credit spread risk for securitization positions non-CTP. 
-
-For equity risk, section 8 of this section specifies delta buckets, risk weights, and correlations. 
-
-A banking organization must establish buckets along two dimensions, credit quality and sector, for credit spread risk for securitization positions non-CTP. 
-
-A banking organization must establish buckets along three dimensions, market capitalization, economy and sector, for equity risk. 
-
-For purposes of aggregating delta bucket-level risk positions across buckets within the credit spread risk for securitization positions non-CTP risk class as specified in § 206(b)(3), the cross-bucket correlation parameter Ybc equals zero percent. 
-
-EQUITY RISK 
-
-Delta sensitivities are assigned to different buckets based on the type of risk (equity, commodity, or foreign exchange), and the risk weight for each bucket is specified. 
-
-For equity risk, delta sensitivities are further categorized into 13 buckets based on market capitalization and liquidity, and the correlation between delta sensitivities within a bucket is determined based on the Pkl parameter. 
-
-COMMODITY RISK 
-
-For commodity risk, delta sensitivities are assigned to 11 buckets based on the commodity type, and the correlation between delta sensitivities within a bucket is determined using the Pkl parameter and the intra-bucket correlation parameters from Table 10. 
-
-FOREIGN EXCHANGE RISK 
-
-For foreign exchange risk, delta sensitivities are assigned to buckets based on the exchange rate between the currency of the market risk covered position and the reporting currency, and the correlation between delta sensitivities within a bucket is determined using the Pkl parameter. 
-
-The cross-bucket correlation parameter Ybc is used to aggregate delta bucket-level risk positions across buckets within a risk class. 
-
-FOREIGN EXCHANGE RISK CALCULATION 
-
-The risk-weighted delta sensitivities for foreign exchange risk are calculated by applying a risk weight of 15%, except for certain currency pairs where the risk weight can be divided by the square root of 2. 
-
-For aggregating delta bucket-level risk positions across buckets within the foreign exchange risk class, the cross-bucket correlation parameter is set at 60%. 
-
 Vega risk weights are specified for each risk class, and vega bucket-level risk positions are aggregated within a bucket using specified correlation parameters. 
 
 For aggregating vega bucket-level risk positions across different buckets within a risk class, the same cross-bucket correlation parameters as specified for delta risk are used. 
 
-The curvature risk weights for foreign exchange risk and equity risk are based on the delta risk weights, while for interest rate risk and other risk classes, the curvature risk weights are based on the highest prescribed delta risk weight for each bucket. 
+CURVATURE RISK 
 
-CREDIT RISK 
+The curvature risk weights for foreign exchange risk and equity risk are based on the delta risk weights, while for other risk classes, the curvature risk weights are based on the highest prescribed delta risk weight for each bucket. 
 
-For purposes of calculating the standardized total risk-weighted assets for securitization exposures, the banking organization must multiply the corresponding risk weight for the exposure by 8%. 
+CREDIT SPREAD RISK 
+
+For credit spread risk, delta, vega, and curvature risk factors are defined for each credit spread curve. 
+
+For non-securitization debt or equity positions, the standardized default risk capital requirement is the sum of the default risk capital requirement for each default risk category. 
+
+A banking organization must calculate the gross default exposure for each non-securitization debt or equity position. 
+
+A banking organization must assign LGD rates to non-securitization debt or equity positions based on the position's seniority and the credit quality of the reference exposure. 
+
+A banking organization must calculate the standardized default risk capital requirement for securitization positions non-CTP by summing the bucket-level default risk capital requirements. 
+
+The standardized default risk capital requirement for securitization positions non-CTP is calculated by assigning each position to a bucket and calculating the bucket-level default risk capital requirement. 
+
+The standardized default risk capital requirement for correlation trading positions is calculated by assigning each index to a bucket and calculating the bucket-level default risk capital requirement. 
+
+The gross default exposure for a correlation trading position is its market value, and the net default exposure is calculated by recognizing offsetting for otherwise identical positions. 
+
+A [BANKING ORGANIZATION] may offset long and short gross default exposures of different tranches of the same index and series through replication and decomposition, if the residual component has the attachment and detachment point nested with the original tranche or the combination of tranches. 
+
+For a non-securitization position that hedges a correlation trading position, a [BANKING ORGANIZATION] must assign such position and the related correlation trading position to the same bucket. 
+
+The standardized total risk-weighted assets for securitization exposures are calculated by multiplying the corresponding risk weight for the exposure by 8%. 
 
 Non-tranched hedges of correlation trading positions use the same risk weights as non-securitization debt or equity positions, excluding them from the standardized default risk capital requirement. 
 
-The residual risk add-on is calculated for market risk covered positions that have an exotic exposure, are correlation trading positions with three or more underlying exposures, are subject to the curvature capital requirement or vega capital requirements, are options or positions with embedded options that do not have a maturity or strike price, or are determined by the [AGENCY] to require the add-on. 
+The residual risk add-on is calculated for market risk covered positions that have an exotic exposure, are correlation trading positions with three or more underlying exposures, are subject to the curvature capital requirement, are options or positions with embedded options that do not have a maturity or strike price, or are determined by the [AGENCY] to require the add-on. 
 
-The residual risk add-on is calculated by multiplying the sum of the gross effective notional amounts of market risk covered positions by the prescribed risk weight. 
+The residual risk add-on is calculated as the sum of the gross effective notional amounts of market risk covered positions identified above, multiplied by the prescribed risk weight. 
 
-MODELS-BASED MEASURE 
+MODEL-BASED MEASURE 
 
-To use the models-based measure for market risk, a [BANKING ORGANIZATION] must have at least one model-eligible trading desk and receive prior written approval from the [AGENCY]. 
+To use the models-based measure for market risk, a [BANKING ORGANIZATION] must have at least one model-eligible trading desk and receive prior written approval from the [AGENCY] for the trading desk structure. 
 
 BACKTESTING AND PLA TESTING 
 
@@ -114,9 +119,11 @@ Backtesting compares actual and hypothetical profit and loss with the VaR-based 
 
 PLA testing measures the potential impact of stressed market conditions on the trading desk. 
 
-The trading desk must provide 250 business days of backtesting and PLA test results to the regulator. 
+The trading desk must provide 250 business days of backtesting and PLA test results to the 
+regulator. 
 
-The regulator may rescind approval of a model-eligible trading desk if it no longer complies with the requirements. 
+The regulator may rescind approval of a model-eligible trading desk if it no longer complies 
+with the requirements. 
 
 PLA TEST EXCEPTIONS 
 
@@ -136,21 +143,19 @@ A model-ineligible trading desk can regain eligibility by meeting certain condit
 
 The PLA add-on is calculated as a function of the standardized approach capital requirement for market risk covered positions. 
 
-IDENTIFYING RISK FACTORS 
+LIQUIDITY HORIZON-ADJUSTED ES-BASED MEASURE 
 
 A [BANKING ORGANIZATION] must identify an appropriate set of risk factors for calculating capital measures, including modellable and non-modellable risk factors. 
 
-ES-BASED MEASURE 
+The ES-based measure must be calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks. 
 
-The ES-based measure is calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks. 
+The ES-based measure must be calculated using a one-tail, 97.5th percentile confidence level. 
 
-The ES-based measure is calculated using a one-tail, 97.5th percentile confidence level. 
+A liquidity horizon-adjusted ES-based measure must be calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result. 
 
-A liquidity horizon-adjusted ES-based measure is calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result. 
+The aggregate capital measure for modellable risk factors (IMCC) must be equal to the sum of the ES-based measure and the aggregate capital measure for non-modellable risk factors (SES). 
 
-The aggregate capital measure for modellable risk factors (IMCC) is the sum of the ES-based measure and the aggregate capital measure for non-modellable risk factors (SES). 
-
-The non-default risk capital measure is the sum of the IMCC and the SES. 
+The non-default risk capital measure must be equal to the sum of the IMCC and the aggregate capital measure for non-modellable risk factors (SES). 
 
 LIQUIDITY HORIZON 
 
@@ -186,32 +191,4 @@ A [BANKING ORGANIZATION] must either provide all of the public reports and discl
 
 A [BANKING ORGANIZATION] must disclose publicly the following information at least quarterly: 
 
-The aggregate amount of CVA risk-weighted assets 
-
-The CVA risk-weighted assets for each risk class 
-
-The CVA risk-weighted assets for each counterparty 
-
-The CVA risk-weighted assets for each type of CVA risk exposure 
-
-The CVA risk-weighted assets for each type of CVA risk hedge 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk hedge that is not effective 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged 
-
-The CVA risk-weighted assets for each type of CVA risk hedge that is not effective and is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective and is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged 
-
-The CVA risk-weighted assets for each type of CVA risk exposure that is not effectively hedged and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that is not effective and is not hedged by a CVA risk hedge that
+The aggregate amount of o

@@ -39,7 +39,7 @@ banking organizations and to banking organizations with significant trading acti
 the organization and distribution of the comments. You may submit comments by any of the
 following methods:
 ●
-Federal eRulemaking Portal – Regulations.gov: Go to https://www.regulations.gov/. Enter
+Federal eRulemaking Portal - Regulations.gov: Go to https://www.regulations.gov/. Enter
 "Docket ID OCC-2023-0008" in the Search Box and click "Search." Public comments can be
 submitted via the “Comment” box below the displayed document information or by clicking
 on the document title and then clicking the "Comment" box on the top-left side of the screen.
@@ -94,7 +94,7 @@ between 9:00 a.m. and 5:00 p.m. on weekdays.
 FDIC: The FDIC encourages interested parties to submit written comments. Please include your
 name, affiliation, address, email address, and telephone number(s) in your comment. You may
 submit comments to the FDIC, identified by RIN 3064-AF29 by any of the following methods:
-Agency Web Site: https:// www.fdic.gov/resources/regulations/federal-register-publications.
+Agency Web Site: https://www.fdic.gov/resources/regulations/federal-register-publications.
 Follow instructions for submitting comments on the FDIC's website.
 Page 4 of 1089
 Mail: James P. Sheesley, Assistant Executive Secretary, Attention: Comments/Legal OES
@@ -274,7 +274,7 @@ Requirements under the proposal would generally be consistent with international
 standards issued by the Basel Committee, commonly known as the Basel III reforms.7 Where
 appropriate, the proposal differs from the Basel III reforms to reflect, for example, specific
 characteristics of U.S. markets, requirements under U.S. generally accepted accounting
-principles (GAAP),8 practices of U.S. banking organizations, and U.S. legal requirements and
+principles (GAAP), practices of U.S. banking organizations, and U.S. legal requirements and
 policy objectives.
 The proposal would strengthen risk-based capital requirements for large banking
 organizations by improving their comprehensiveness and risk sensitivity. These proposed
@@ -314,7 +314,7 @@ Information.
 Page 12 of 1089
 ability to use internal models, with an improved models-based measure for market risk that better
 accounts for potential losses. The use of internal models would be subject to enhanced
-requirements for model approval and performance and a new “output floor" to limit the extent to
+requirements for model approval and performance and a new "output floor" to limit the extent to
 which a banking organization's internal models may reduce its overall capital requirement. The
 proposal would also adopt new standardized approaches for market risk and credit valuation
 adjustment (CVA) risk that better reflect the risks of banking organizations' exposures.
@@ -630,7 +630,7 @@ Risk-weighted assets (RWA) under the output floor
 Output Floor = 0.725
 * [credit RWA + equity RWA + operational RWA + CVA RWA
 + market RWA under the standardized measure]
-- adjusted allowance for credit losses not included in tier 2 capital
+– adjusted allowance for credit losses not included in tier 2 capital
 - allocated transfer risk reserves
 The output floor would serve as a lower bound on the risk-weighted assets under the
 expanded risk-based approach. In other words, if the risk-weighted assets under the expanded
@@ -1143,7 +1143,7 @@ is a credit obligation and that meets the proposed criteria related to reduced e
 repayment, and that is not an exposure to a sovereign entity,5² a real estate exposure,³³ or a policy
 loan.54 The proposal would define a credit obligation as any exposure where the lender but not
 the obligor is exposed to credit risk. In other words, for these exposures, the lender would have a
-claim on the obligor that does not give rise to counterparty credit risk ³5 and would exclude
+claim on the obligor that does not give rise to counterparty credit risk55 and would exclude
 52
 53
 52 Under the proposal, the expanded risk-based approach would rely on the treatment of
@@ -1293,7 +1293,7 @@ under the current standardized approach.
 Page 49 of 1089
 instrument, depending on the contractual terms of the preferred stock instrument. Equity
 exposures to a GSE must be assigned a risk-weighted asset amount as calculated under sections
-____.140 through ____.142 of subpart E. An exposure to a subordinated debt instrument issued by a
+____.140 through ___.142 of subpart E. An exposure to a subordinated debt instrument issued by a
 GSE must be assigned a 150 percent risk weight, unless issued by a FHLB or Farmer Mac. As
 discussed later in sections III.E. and III.C.2.d. of this Supplementary Information, equity
 exposures and exposures to subordinated debt instruments would generally be subject to an
@@ -1333,12 +1333,13 @@ limitations on distributions and discretionary bonus payments under the capital 
 by the prudential supervisor of the depository institution, foreign bank, or credit union, and (b) if
 applicable, the capital ratio requirements for the well-capitalized category under the agencies'
 prompt corrective action framework,62 or under similar rules of the National Credit Union
-Administration. 63 For example, an exposure to an investment grade depository institution could
+Administration. For example, an exposure to an investment grade depository institution could
 qualify as a Grade A bank exposure if the depository institution was not subject to limitations on
 distributions and discretionary bonus payments under the capital rules and had risk-based capital
 ratios that met the well capitalized thresholds under the agencies' prompt corrective action
 framework. Further, a bank exposure to a depository institution that had opted into the
 community bank leverage ratio (CBLR) framework and is investment grade would be considered
+63
 62
 The capital ratios used for this determination are the ratios on the depository institution's most
 recent quarterly Consolidated Report of Condition and Income (Call Report).
@@ -1389,7 +1390,7 @@ based on the risk weight applicable to a sovereign exposure for the jurisdiction
 bank is incorporated when (1) the exposure is not in the local currency of the jurisdiction where
 the foreign bank is incorporated; or (2) the exposure to a foreign bank branch that is not in the
 local currency of the jurisdiction in which the foreign branch operates (sovereign risk-weight
-floor).68 The risk weight floor would not apply to short-term self-liquidating, trade-related
+floor). 68 The risk weight floor would not apply to short-term self-liquidating, trade-related
 contingent items that arise from the movement of goods.
 68
 See §.111 for the proposed sovereign risk-weight table, which is identical to Table 1 to
@@ -1455,7 +1456,7 @@ means the most recent consensus CRC published by the Organization for Economic C
 and Development (OECD) as of December 31st of the prior calendar year that provides a view of
 the likelihood that the sovereign will service its external debt. See 12 CFR 3.2 (OCC); 12 CFR
 217.2 (Board); 12 CFR 324.2 (FDIC). For more information on the OECD country risk
-classification methodology, see OECD, "Country Risk Classification,” available at
+classification methodology, see OECD, "Country Risk Classification," available at
 https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-
 understandings/financing-terms-and-conditions/country-risk-classification/.
 70 The CRCs reflect an assessment of country risk, used to set interest rate charges for
@@ -1529,7 +1530,7 @@ The proposal would define a real estate exposure as an exposure that is neither 
 sovereign exposure nor an exposure to a PSE and that is (1) a residential mortgage exposure, (2)
 secured by collateral in the form of real estate,7² (3) a pre-sold construction loan,7³ (4) a statutory
 72 For purposes of the proposal, "secured by collateral in the form of real estate” should be
-interpreted in a manner that is consistent with the current definition for “a loan secured by real
+interpreted in a manner that is consistent with the current definition for "a loan secured by real
 estate" in the Call Report and Consolidated Financial Statements for Holding Companies (FR Y-
 9C) instructions.
 7³ The Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991
@@ -1580,7 +1581,7 @@ default or properties are unexpectedly vacant. In addition, LTV ratios can be a 
 indicator because the amount of a borrower's equity in a real estate property correlates inversely
 with default risk and provides banking organizations with a degree of protection against losses.7⁹
 Therefore, exposures with lower LTV ratios generally would receive a lower risk weight than
-comparable real estate exposures with higher LTV ratios under the proposal.80 The following
+comparable real estate exposures with higher LTV ratios under the proposal. 80 The following
 chart illustrates how the proposal would require a banking organization to assign risk weights to
 various real estate exposures, as described in more detail below:
 78
@@ -1809,7 +1810,7 @@ The proposal would require a banking organization also to use LTV ratios to assi
 weight to a regulatory residential or regulatory commercial real estate exposure. Under the
 proposal, LTV ratio would be calculated as the extension of credit divided by the value of the
 iv.
-86 See Garcia, Daniel (2019). "Second Home Buyers and the Housing Boom and Bust," Finance
+86 See Garcia, Daniel (2019). "Second Home Buyers and the Housing Boom and Bust,” Finance
 and Economics Discussion Series 2019-029. Washington: Board of Governors of the Federal
 Reserve System, https://www.federalreserve.gov/econres/feds/files/2019029pap.pdf.
 Page 66 of 1089
@@ -2801,7 +2802,7 @@ of the underlying instrument or risk factor and the strike price of the option c
 CCR final rule uses modified Black-Scholes formulas that are based on a shifted lognormal
 probability distribution, which allows negative values of the underlying instrument or risk factor
 with the magnitude not exceeding the value of a shift parameter λ (lambda). The SA-CCR final
-rule sets ▸ to zero (thus precluding negative values) for all asset classes except the interest rate
+rule sets à to zero (thus precluding negative values) for all asset classes except the interest rate
 asset class, which has exhibited negative values in some currencies in recent years. For the
 interest rate asset class, a banking organization must set the value of for a given currency equal
 to the greater of (i) the negative of the lowest value of the strike prices and the current values of
@@ -3191,7 +3192,7 @@ correlations in the movement of market prices for instruments lent and received.
 because the contribution from the gross exposure component to the exposure amount would
 decrease proportionally with an increase in the number of unique instruments by CUSIP
 designations or foreign equivalent, the gross exposure would capture the impact of portfolio
-diversification. The fourth component, (Σfx(Eƒx × Hƒx)), would capture any adjustment to
+diversification. The fourth component, (Σfx(Efx × Hƒx)), would capture any adjustment to
 reflect currency mismatch, if applicable.
 Systematic risk represents risks that are impacted by broad market variables (such as
 economy, region, and sector). Idiosyncratic risk represents risks that are endemic to a specific
@@ -3551,7 +3552,7 @@ Page 127 of 1089
 Table 2: The minimum haircut floors (f) by collateral types and maturity
 Haircut level (in percentage)
 Residual maturity of collateral
-≤ 1 year debt securities and floating
+< 1 year debt securities and floating
 rate notes (FRNS)
 > 1 year, ≤ 5 years debt securities
 > 5 years, ≤ 10 years debt securities
@@ -3606,7 +3607,7 @@ counterparty (L), minus one. The single-transaction haircut floor (f) of the tra
 incorporate the corresponding haircut applicable to the collateral received (f) and collateral lent
 (f) in Table 2. The single-transaction haircut floor for the two types of collateral would be
 computed as follows:
-ƒ = ((1 + (0) / (1+f)) - 1
+ƒ = ((1 + (0) / (1+1)) - 1
 The single transaction floor then would be compared to the haircut of the transaction,
 determined as follows:
 H=CB-1
@@ -3632,7 +3633,7 @@ collateral received and would be required to calculate the exposure amount of it
 transaction or eligible margin loan as if it had not received any collateral from its counterparty.
 For a netting set of in-scope transactions, the haircut floor of the netting set would be
 computed as follows:
-f₂)) (Σ(CB /(1+
+f₂)) (Σ(CB /
 *Portfolio = ((ECC, /(L + f.)))/(ECB ((1 + fn)))
 · 1
 Σ CL
@@ -3688,7 +3689,7 @@ use the collateral haircut approach formula in §___.121(c) and the standard mar
 haircuts in Table 1 of §___.121 and set N to 3:
 E*
 = max {0; ((100 + 100) – (102 + 104) + (0.4 × 21.04) + (0.6 x ²
-+(0.6 × 45,04))}
++(0.6 x 45,04))}
 √3
 = = 18.018
 Page 131 of 1089
@@ -3723,7 +3724,7 @@ haircut floor would be: fportfolio
 1 =
 =
 2.9642 percent. Since the portfolio haircut is less than the portfolio haircut floor (H =
-1.5 percent < 2.9642 percent= fportfolio), the banking organization would not be able to
+1.5 percent < 2.9642 percent = fportfolio), the banking organization would not be able to
 recognize the risk-mitigating benefits of the collateral received.
 Instead, the banking organization would be required to separately risk-weight the on-
 balance sheet and off-balance sheet portion of each individual transaction. In this example,
@@ -3964,7 +3965,7 @@ does not provide credit enhancement to any of the tranches of the securitization
 Page 141 of 1089
 banking organization may recognize a nonrefundable purchase price discount ¹35 when
 calculating the attachment point of a securitization exposure. A similar modification would be
-made to the definition of detachment point.136
+made to the definition of detachment point. 136
 b. Definition of W parameter
 Under the current capital rule, parameter W, which is expressed as a decimal value
 between zero and one, reflects the proportion of underlying exposures that are not performing or
@@ -4002,7 +4003,7 @@ denominator for the W parameter would be $10 million. This would be true regardl
 delinquency status of any of the securitization exposures.
 c. Delinquency-adjusted (KA) and non-adjusted (KG) weighted-average capital requirement
 of the underlying exposures
-Under the proposal, KĄ would reflect the delinquency-adjusted, weighted-average capital
+Under the proposal, K would reflect the delinquency-adjusted, weighted-average capital
 requirement of the underlying exposures and would be a function of KG and W. Under this
 approach, in order to calculate parameter W, and thus KÃ, the banking organization must know
 the delinquency status of all underlying exposures in the securitization. KG would equal the
@@ -5142,7 +5143,7 @@ standards are required to calculate risk-weighted assets for operational risk us
 175
 See 12 CFR 3.101 (OCC), 217.101 (Board), and 12 CFR 324.101 (FDIC).
 Page 185 of 1089
-measurement approaches (AMA), ¹76 which are based on a banking organization's internal
+measurement approaches (AMA), 1¹76 which are based on a banking organization's internal
 models. The AMA results in significant challenges for banking organizations, market
 participants, and the supervisory process. AMA exposure estimates can present substantial
 uncertainty and volatility, which introduces challenges to capital planning processes. ¹77 In
@@ -5257,7 +5258,7 @@ The proposal includes the following definitions:
 ●
 = min (Avg3y(Abs(total interest income
 - total interest expense)), 0.0225 * Avg3y(interest earning assets))
-+ Avgay (dividend income)
++ Avg3y (dividend income)
 ●
 Total interest income would mean interest income from all financial assets and other
 interest income; ¹
@@ -5486,13 +5487,13 @@ $4.47 billion + 0.18 * (BI - $30 billion)
 1⁹0 $120 million is equal to 0.12 * $1 billion. $4.47 billion is equal to 0.12 * $1 billion + 0.15 *
 ($30 billion - $1 billion).
 191
-See Basel Committee (2014), “Operational risk - Revisions to the simpler approaches,"
-https://www.bis.org/publ/bcbs291.htm and Basel Committee (2016), "Standardized
+See Basel Committee (2014), “Operational risk – Revisions to the simpler approaches,"
+https://www.bis.org/publ/bcbs291.htm and Basel Committee (2016), “Standardized
 Measurement Approach for operational risk," https://www.bis.org/bcbs/publ/d355.htm.
-192 See Curti, Mih, and Mihov (2022), “Are the Largest Banking Organizations Operationally
+192 See Curti, Mih, and Mihov (2022), "Are the Largest Banking Organizations Operationally
 More Risky?, Journal of Money, Credit and Banking," DOI: 10.111/jmcb.12933; and Frame,
-McLemore, and Mihov (2020), “Haste Makes Waste: Banking Organization Growth and
-Operational Risk,” Federal Reserve Bank of Dallas,
+McLemore, and Mihov (2020), "Haste Makes Waste: Banking Organization Growth and
+Operational Risk," Federal Reserve Bank of Dallas,
 https://www.dallasfed.org/research/papers/2020/wp2023.
 Page 198 of 1089
 Higher historical operational losses are associated with higher future operational risk
@@ -5597,7 +5598,7 @@ Page 202 of 1089
 5 - Damage to physical assets, which means the operational loss event type that
 comprises operational losses resulting from the loss of or damage to physical assets from natural
 disasters or other events.
-6 – Business disruption and system failures, which means the operational loss event type
+6 - Business disruption and system failures, which means the operational loss event type
 that comprises operational losses resulting from disruption of business or system failures,
 including hardware, software, telecommunications, or utility outage or disruptions.
 7 - Execution, delivery, and process management, which means the operational loss
@@ -6438,7 +6439,7 @@ securities are purchased by the banking organization on the settlement date, exc
 that are held to maturity or available for sale purposes.
 244
 A position that hedges a trading position must be within the scope of the banking
-organization's hedging strategy as described in section ___.203(a)(2) of the proposed rule.
+organization's hedging strategy as described in section__.203(a)(2) of the proposed rule.
 245
 Extending market risk covered positions to also include such hedges is intended to encourage
 sound risk management by allowing a banking organization to capture both the underlying
@@ -7754,7 +7755,7 @@ entity-wide market risk capital requirement under the models-based measure for m
 model-ineligible trading desks, according to the following formula, as provided under section
 _.204(c) of the proposed rule:
 IMATotal
-= min ((IMAG,A + PLA add-on + SÃ¸), SAall desks
+= min ((IMAG,A + PLA add-on + SÃµ), SAall desks
 + max :((IMAGA — SAGA),0) + fallback capital requirement
 + capital add-ons
 Under the proposal, the core components of the models-based measure for market risk
@@ -7777,14 +7778,14 @@ standardized approach.
 Page 287 of 1089
 standardized approach, the models-based measure for market risk would cap the sum of IMAG,A,
 the PLA add-on, and SAu at the capital required for all trading desks under the standardized
-approach (min ((IMAG,A + PLA add-on + SAu), SAall desks
+approach (min ((IMAGA + PLA add-on + SAU), SA all desks
 s)).
 The other components of the models-based measure for market risk include four other
 components that would only apply in more limited circumstances; these include the capital
 requirement for instances where the capital requirements for model-eligible desks under the
 internal models approach exceed those under the standardized approach (max
 ((IMAGA
-SAG,A),0)),2⁹5 the fallback capital requirement for instances where a banking organization is not
+SAG,A), 0)),2⁹5 the fallback capital requirement for instances where a banking organization is not
 able to apply the standardized approach and the internal models approach, if eligible,2⁹6 and the
 capital add-on to offset any potential capital benefit that otherwise might have been received
 either from re-designating an instrument or from including ineligible positions on a model-
@@ -8478,7 +8479,7 @@ of the market risk covered position. To avoid double counting, the banking organ
 calculate the incremental loss in excess of that already captured by the delta capital requirement
 for all market risk covered positions subject to the curvature capital requirements. The larger
 incremental loss resulting from the upward and the downward shock would be the curvature risk-
-weighted sensitivity. 323 The below graphic provides a conceptual illustration of the calculation of
+weighted sensitivity 323 The below graphic provides a conceptual illustration of the calculation of
 the curvature risk-weighted sensitivity based on the upward and the downward shock scenarios.
 323
 To promote consistency and comparability in regulatory capital requirements across banking
@@ -8843,7 +8844,7 @@ alternative approaches should the agencies consider to more appropriately distin
 the categories of residential mortgage-backed securities?
 Question 115: The agencies seek comment on whether the proposed sector bucket
 definitions for residential mortgage-backed securities are sufficiently clear. What, if any,
-additional criteria should the agencies consider to define “primarily" in the context of
+additional criteria should the agencies consider to define “primarily” in the context of
 Page 328 of 1089
 residential mortgage-backed securities (for example, quantitative limits or other thresholds) and
 what are the associated benefits and drawbacks of doing so?
@@ -9000,7 +9001,7 @@ Page 334 of 1089
 for highly correlated risks among different commodity types that are currently in different risk
 buckets and why? Please describe the historical correlations between such commodities, and
 historical price shocks for purposes of assigning the appropriate risk weight.
-Question 121: The agencies solicit comment on the risk bucket for energy – carbon
+Question 121: The agencies solicit comment on the risk bucket for energy - carbon
 trading. To what extent is the proposed 60 percent risk weight reflective of the risk in carbon
 trading under stressed conditions?
 V. Foreign exchange risk
@@ -9373,7 +9374,7 @@ position in a mezzanine tranche that attaches at 3 percent and detaches at 10 pe
 proposal would permit the banking organization to decompose the securitization into three
 tranches and offset the gross default exposures for the common portion of the securitization (3 -
 10 percent). In this case, the net default exposure would reflect the long positions in the 0 - 3
-percent tranche and in the 10- 100 percent tranche.
+percent tranche and in the 10 - 100 percent tranche.
 Question 131: The agencies seek comment on the proposed netting and decomposition
 criteria for calculating the net default exposure for securitization positions non-CTP. What, if
 any, alternative non-model-based methodologies should the agencies consider that would
@@ -9510,7 +9511,7 @@ For consistency in the capital requirements for securitizations under either sub
 subpart E of the capital rule and to recognize credit subordination,370 the proposed risk weights
 369
 A non-exhaustive list of indices include: the CDX North America IG, iTraxx Europe IG,
-CDX HY, ITraxx XO, LCDX (loan index), iTraxx LevX (loan index), Asia Corp, Latin America
+CDX HY, iTraxx XO, LCDX (loan index), iTraxx LevX (loan index), Asia Corp, Latin America
 Corp, Other Regions Corp, Major Sovereign (G7 and Western Europe) and Other Sovereign.
 370
 For example, the general credit risk framework would apply the SSFA to calculate the risk
@@ -9803,7 +9804,7 @@ or (ii) the sum of the average capital requirements for non-modellable risk fact
 60 business days (SESaverage) and the product of the average capital requirements for
 modellable risk factors over the prior 60 business days (IMCCaverage) and a multiplication factor
 (mc) of at least 1.5, which serves to capture model risk (the aggregate trading portfolio
-backtesting multiplier). 377 The overall capital requirement under the internal models approach
+backtesting multiplier).377 The overall capital requirement under the internal models approach
 can be expressed by the following formula:
 IMAGA = DRCSA + (max ((IMCC₁-1 + SESt-1), ((mc × IMCCaverage) + SESaverage
 377
@@ -9984,7 +9985,7 @@ To enable banking organizations’ internal models to capture market-wide moveme
 a given economy, region, or sector, the proposal would allow, but not require, a banking
 organization to decompose risks associated with credit or equity indices into systematic risk
 factors384 within its internal models.385 The proposal would only allow the banking organization
-to include idiosyncratic risk factors 386 related to the credit spread or equity risk of a specific
+to include idiosyncratic risk factors386 related to the credit spread or equity risk of a specific
 384 The proposal would define systematic risk factors as categories of risk factors that present
 systematic risk, such as economy, region, and sector. Systematic risk would be defined as the
 risk of loss that could arise from changes in risk factors that represent broad market movements
@@ -10026,7 +10027,7 @@ Model eligibility of risk factors
 For a risk factor to pass the risk factor eligibility test, a banking organization would be
 required on a quarterly basis to either identify for each risk factor (i) at least 100 real prices in
 the previous twelve-month period or (ii) at least 24 real prices in the previous twelve-month
-period, if each 90-day period contains at least four real prices. ³87 The proposed criteria are
+period, if each 90-day period contains at least four real prices.³87 The proposed criteria are
 intended to help ensure real prices capture products that exhibit either a minimum level of
 trading activity throughout the year, or seasonal periods of liquidity, such as commodities.
 For any market risk covered position, the banking organization could not count more than
@@ -10308,7 +10309,7 @@ the current period based on the full set of risk factors (ESF,C) to the lesser o
 horizon adjusted expected shortfall-based measure using the reduced set of risk factors or ESF,C
 (ESR,c), as provided according to the following formula under section ____.215(b)(6)(ii)(B) of the
 proposed rule, ES:
-ES = ESRS max | 1,.
+ES = ESRS max 1,
 ESF.C
 ESR.C
 The proposal would floor this ratio at one to prevent a reduction in capital requirements due to
@@ -10328,7 +10329,7 @@ Page 386 of 1089
 2
 7,c))²
 60
-Σ6⁰ (ESF,c,t – Mean(ESf,c.
+Σ6⁰ (ESF,c,t — Mean(ESf,c.
 4t
 Mean(ESF,c) would be the mean of ESF,C over the previous 60 business days. This formula is
 intended to help ensure that the potential losses estimated under the indirect approach
@@ -10418,7 +10419,7 @@ Equity (large market cap or
 index)
 Equity (small market cap)
 Equity (large market cap or
-index): volatility
+index); volatility
 40
 40
 60
@@ -10558,7 +10559,7 @@ in the above formula and repeated below, to the base 10-day liquidity horizon sq
 calculate the square root of the sum of (1) and (2)
 -
 399 The incremental increase in time is represented by the difference in the liquidity horizons,
-LH; – LH;–1. In the example, from liquidity horizon 20 days to 40 days, this amount is 20 days,
+LH; – LH¡–1. In the example, from liquidity horizon 20 days to 40 days, this amount is 20 days,
 or 40 days - 20 days. The incremental increase in time is divided by the base horizon of 10 days.
 Thus, the time scaling factor for credit spread risk is the square root of 2.
 Page 393 of 1089
@@ -10663,7 +10664,7 @@ Where:
 =
 ISES M,i
 +
-ISESZ/M.j+
+ISES /M.j+
 K
 (PΣ
 Р
@@ -10890,12 +10891,12 @@ eligible trading desk, must compute and rank order, for each of the most recent 
 days, the rank order of the daily hypothetical profit and loss (RHPL) and the rank order of the
 daily risk-theoretical profit and loss (RRTPL), with the lowest profit and loss value in the time
 series receiving a rank of 1, the next lowest value receiving a rank of 2, etc. The Spearman
-correlation coefficient for the two rank orders, Røpl and RRTpl, would be based on the following
+correlation coefficient for the two rank orders, Rµpl and RRTPL, would be based on the following
 rs =
 cov (RHPL, RRTPL)
 ORHPL
 X ORRTPL
-where cov(RµPL, RRTPL) is the covariance between RHPL and RRTPLand ORHPLand ORRTPL are the
+where cov(Rápl, RRTPL) is the covariance between RHPL and RRTPLand ORHPLand ORRTPL are the
 standard deviations of rank orders RHPL and RRTPL, respectively.
 Page 406 of 1089
 As a testing metric, the Spearman correlation coefficient is intended to support sound risk
@@ -10985,7 +10986,7 @@ max ((SAGA - IMAG,A), 0)
 Under the proposal, the value of k would equal half of the ratio of the sum of the
 standardized approach capital requirements for each model-eligible trading desk within the
 amber zone (ΣiEA SA;) and those for each of the model-eligible trading desks within either the
-green or amber zone (LiEG,A SA₁), as defined according to the following formula under section
+green or amber zone (ZiEG,A SA;), as defined according to the following formula under section
 _.213(c)(4)(i) of the proposed rule:
 ΣiEA SAi
 EiEG,A SAi'
@@ -11467,7 +11468,7 @@ a. Definition of securitization
 The proposal would streamline the definitions related to securitizations in subpart F with
 those in subparts D and E of the capital rule. Specifically, the proposal would eliminate the
 definition of "securitization" from subpart F of the capital rule and revise the definitions of
-"securitization position” and “resecuritization position" to refer to the terms “securitization
+“securitization position” and “resecuritization position" to refer to the terms “securitization
 exposure" and "resecuritization exposure," which are defined in section 2 of the capital rule.”423
 These modifications would not change the scope of positions that would be considered
 securitization positions and resecuritization positions under subpart F of the capital rule, as
@@ -11497,7 +11498,7 @@ securitization exposures could include, among other things, asset-backed securit
 mortgage-backed securities, loans, lines of credit, liquidity facilities, financial standby letters of
 credit, credit derivatives and guarantees, loan servicing assets, servicer cash advance facilities,
 reserve accounts, credit-enhancing representations and warranties, and credit-enhancing interest-
-only strips (CEIOs). Securitization exposures would also include assets sold with retained
+only strips (CEIOS). Securitization exposures would also include assets sold with retained
 tranches. 424
 In contrast, mortgage-backed pass-through securities (for example, those guaranteed
 by the Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association)
@@ -12028,7 +12029,7 @@ Calculation of Kunhedged
 Under BA-CVA, the proposal would first require a banking organization to calculate the
 risk-based capital requirements for CVA risk covered positions without recognizing the risk
 mitigating effect of eligible CVA hedges, Kunhedged, for each counterparty on a stand-alone
-basis (SCVAC) and then aggregate the respective standalone counterparty capital requirements
+basis (SCVA) and then aggregate the respective standalone counterparty capital requirements
 across counterparties, as expressed by the following formula:
 Khasic = 0.65- (Kunhedged)
 I.
@@ -12036,10 +12037,10 @@ I.
 ·((0.ΣSCVA.) + (12
 +
 Kunhedged =
-(1-p²) . Σ SCVA
-The first term under the square root in the formula ((p · ESCVA)²) aggregates the
+(1-p²). Σ SCVA
+The first term under the square root in the formula ((p · Ec SCVA)²) aggregates the
 systematic components of CVA risk, while the second term under the square root in the formula
-((1 − p²) · Σc SCVA?) aggregates the idiosyncratic components of CVA risk. The purpose of the
+((1 − p²) · Σc SCVA²) aggregates the idiosyncratic components of CVA risk. The purpose of the
 Kunhedged formula is intended to reflect the potential losses arising from unhedged CVA risk.
 Regulatory correlation parameter
 One of the basic assumptions underlying the BA-CVA is that a single risk factor drives
@@ -12055,7 +12056,7 @@ consistent with historically observed correlations between credit spreads and wo
 recognize the diversification of CVA risk by ensuring that a banking organization's exposure
 would be less than the sum of the CVA risks for each counterparty.
 Standalone CVA capital requirement for each counterparty (SCVA)
-SCVAc represents the capital requirement a banking organization would be subject to
+SCVAC represents the capital requirement a banking organization would be subject to
 under the BA-CVA if a single counterparty were the only counterparty with which the banking
 organization has CVA risk covered positions (that is ignoring the existence of the other
 counterparties), and there are no eligible CVA hedges to consider. For purposes of calculating
@@ -12213,13 +12214,13 @@ Khedged
 ii.
 =
 2
-Σ(SCVA - SNH¹₂) - IH) + (1 − p²) · Σ(SCV A¸ - SNH₂)² + ΣHMA
+Σ(SCVA - SNH₂) - IH) + (1 - p²) · Σ(SCVA₁ - SNH₂)² + ΣHMA
 C
 C
 446
 In general, the calculation of Khedged follows that of Kunhedged, but introduces new
 terms to reflect the risk-mitigating effect of eligible CVA hedges. The first term,
-((p Ec(SCVAC - SNH) – IH)²), recognizes the risk mitigating effect of single-name hedges
+((p Ec(SCVAC - SNHċ) – IH)²), recognizes the risk mitigating effect of single-name hedges
 (SNHC) and index hedges (IH) on the systematic component of a banking organization's
 aggregate CVA risk. The second term, ((1 − p²) · Σc(SCVAc – SNH)²), recognizes the risk
 mitigating effect of single-name hedges on the aggregate idiosyncratic component of aggregate
@@ -12246,7 +12247,7 @@ following formula:
 I.
 447
 SN
-SNHc = [(Thc · RWh · MEN · BEN · DFSN)
+SNHc = [(The · RWh · MEN · BEN · DFSN)
 hec
 447
 Risk weights (RW₁) would be based on a combination of the sector and the credit quality
@@ -12290,8 +12291,7 @@ which would be calculated for each such hedge as the product of the supervisory 
 discount factor (DFind) – as expressed by the following formula:
 Page 460 of 1089
 IH =
-.
-Σ(RW₁ - Mind · Bind - DFind)
+Σ(RW₁ · Mind. Bind. DFind)
 Each term in the summation in the formula for IH above is a simplified representation of
 how the expected shortfall for the market value of a given index hedge can be calculated.
 Because of the BA-CVA's underlying assumption that each credit index is driven by the same
@@ -12793,14 +12793,14 @@ market risk, except for accommodating the reduced granularity of exposure-relate
 the SA-CVA. Accordingly, for both delta and vega risk factors in the exposure-related risk
 classes, the SA-CVA would use the bucket structure that matches the bucket structure of the
 corresponding risk classes in the sensitivities-based method for market risk. Furthermore, the
-proposal would set the values of all cross-bucket correlations, bc, used for aggregation of
+proposal would set the values of all cross-bucket correlations, Ybc, used for aggregation of
 Page 480 of 1089
 bucket-level capital requirements across risk buckets within each exposure-related risk class
 equal to the corresponding values used in the sensitivities-based method for market risk.
 For the foreign exchange, reference credit spread, equity, and commodity risk classes, the
 SA-CVA would assign one delta (and, separately, one vega) risk factor per risk bucket.
 Therefore, in contrast to the sensitivities-based method for market risk, the SA-CVA does not
-need to provide intra-bucket correlations, Pki, for these risk classes. Furthermore, because the
+need to provide intra-bucket correlations, Pkl, for these risk classes. Furthermore, because the
 sensitivities-based method for market risk provides no more than one risk weight per risk bucket
 for the corresponding risk classes (foreign exchange, non-securitization credit spread, equity, and
 commodity), the SA-CVA would generally match the values of these risk weights for both delta
@@ -12927,7 +12927,7 @@ Kb
 keb
 2
 2
-wsk? + ΣΣ Pkl. WSk · WS₁) + R. (WSHdg) ²
+wsk? + ΣΣ Pkl · WSK · WS₁) + R. (WSHdg) ²
 keb leb,l+k
 keb
 k
@@ -12944,15 +12944,15 @@ Second, a banking organization would aggregate bucket-level capital requirements
 risk buckets within the same risk class according to the following formula:
 K = MCVA
 2
-K₂² + Σ Σ Ybc • Sp• Sc
+K₂² + Σ Σ Ybc · Sp• Sc
 ΣΣ
 b c#b
 Page 486 of 1089
 where ybc is the regulatory correlation parameter between bucket b and bucket c; S₁ is the sum
-of the net weighted sensitivities WS over all risk factors k in bucket b, floored by - K₁ and
-capped by K₂; and Se is the sum of the net weighted sensitivities WS over all risk factors k in
-bucket c, floored by - Ke and capped by Kc, as given by the following formulas:457
-(min (Σ WSK, K₂), -Kb)
+of the net weighted sensitivities WSk over all risk factors k in bucket b, floored by – K₁ and
+capped by K₁; and Se is the sum of the net weighted sensitivities WS over all risk factors k in
+bucket c, floored by -K and capped by Kc, as given by the following formulas: 457
+(min (Σ WS₁, K₂), -Kb)
 keb
 Sb = max(min
 WSK,
@@ -13310,7 +13310,7 @@ Model of the Modern Banking System," The Review of Economic Studies 89(4): 1748-
 and Jose-Luis Peydro, 2021, “The Rise of Shadow Banking: Evidence from Capital
 Regulation." The Review of Financial Studies 34: 2181-2235.
 470 Studies suggesting generally higher optimal capital requirements include Miles, David, Jing
-Yang, and Gilberto Marcheggiano, 2013, "Optimal Bank Capital," The Economic Journal 123:
+Yang, and Gilberto Marcheggiano, 2013, “Optimal Bank Capital," The Economic Journal 123:
 1-37; Dagher et al. (2016); Firestone, Lorenc, and Ranish (2019); Begenau and Landvoigt
 (2022); and Van den Heuvel, Skander, 2022, "The Welfare Effects of Bank Liquidity and Capital
 Requirements," FEDS Working Paper. Some studies suggest somewhat lower optimal capital
@@ -13422,7 +13422,7 @@ market liquidity, especially during stress periods. Higher capital requirements 
 474
 See, e.g., Grossman, Sanford and Merton Miller, 1988, “Liquidity and Market Structure,"
 Journal of Finance 43: 617-633; Duffie, Darrell, Nicolae Gârleanu, and Lasse Pedersen, 2005,
-"Over-the-Counter Markets,” Econometrica 73: 1815-1847; and Duffie, Darrell and Bruno
+"Over-the-Counter Markets," Econometrica 73: 1815-1847; and Duffie, Darrell and Bruno
 Strulovici, 2012, "Capital Mobility and Asset Pricing," Econometrica 80: 2469-2509.
 Page 502 of 1089
 could also discourage the type of excessive risk-taking that resulted in large losses during the
@@ -13453,7 +13453,7 @@ Maxwell, and K. Venkataraman, 2018, "Capital Commitment and Illiquidity in Corpo
 Bonds," Journal of Finance 73(4): 1615–1661, although this paper confirms that postcrisis
 transaction costs have not increased materially. For evidence that bank dealers did not
 differentially decrease intermediation activity relative to non-bank dealers, see Boyarchenko,
-Nina, Anna Kovner, and Or Shachar, 2022, “It’s What You Say and What You Buy: A Holistic
+Nina, Anna Kovner, and Or Shachar, 2022, “It's What You Say and What You Buy: A Holistic
 Evaluation of the Corporate Credit Facilities," Journal of Financial Economics, Vol. 144(3):
 Page 503 of 1089
 requirements on market making activity and market liquidity remains a research question
@@ -13477,7 +13477,7 @@ In recent years, the aggregate AOCI related to the security holdings of holding 
 subject to Category III or IV capital standards fluctuated between an unrealized gain of
 695-731. For evidence based on German bank data that largely confirms findings in
 Bessembinder (2018), see Haselmann, Rainer, Thomas Kick, Shikhar Singla, and Vikrant Vig,
-2022, "Capital Regulation, Market-Making, and Liquidity," Goethe University LawFin Working
+2022, "Capital Regulation, Market-Making, and Liquidity,” Goethe University LawFin Working
 Paper No. 44.
 Page 504 of 1089
 $25 billion and an unrealized loss of $108 billion. Therefore, the agencies assessed the impact of
@@ -13610,7 +13610,7 @@ remove §.300(f) to (h).
 §.303 of the capital rule covers a temporary exclusion from total leverage exposure that
 ended March 31, 2021. §___.304 of the capital rule covers temporary changes to the community
 bank leverage ratio framework that applied until after December 31, 2021. The proposal would
-remove § .303 and §____.304 of the capital rule. Similarly, §__.12(a)(4) of the capital rule covers
+remove §.303 and §____.304 of the capital rule. Similarly, §__.12(a)(4) of the capital rule covers
 temporary relief for the community bank leverage ratio that applied until after December 31,
 2021, and would therefore be removed from
 capital rule.
@@ -13690,7 +13690,7 @@ Proposed amendments to related rules and related proposals
 A. OCC amendments
 Lending Limits Rule
 487
-The OCC's lending limit rule 486 includes a definition of eligible credit derivative, which
+The OCC's lending limit rule486 includes a definition of eligible credit derivative, which
 references the definition of eligible guarantee in the capital rule. This proposed rule would
 revise the definition of eligible guarantee in 12 CFR part 3 to add a requirement that an eligible
 guarantee must be provided by an eligible guarantor, also as defined in 12 CFR part 3. To avoid
@@ -15521,7 +15521,7 @@ based on the exposure's LTV in accordance with Table 8 to § .111.
 125%
 TABLE 7 TO §____.111-RISK WEIGHTS FOR REGULATORY COMMERCIAL REAL ESTATE
 EXPOSURES NOT DEPENDENT ON REAL ESTATE CASH FLOWS
-LTV ratio > 60%
+LTV ratio >60%
 Risk weight applicable to the
 borrower under this section
 Page 583 of 1089
@@ -15770,7 +15770,7 @@ derivative as a market risk covered position under subpart F of this part, in wh
 under this section).
 (d) Equity derivatives. A [BANKING ORGANIZATION] must treat an equity derivative
 contract as an equity exposure and compute a risk-weighted asset amount for the equity
-derivative contract under §§ ___.140-_.142 (unless the [BANKING ORGANIZATION] is
+derivative contract under §§__.140-_.142 (unless the [BANKING ORGANIZATION] is
 treating the contract as a market risk covered position under subpart F of this part). In addition, if
 the [BANKING ORGANIZATION] is treating the contract as a market risk covered position
 under subpart F of this part, the [BANKING ORGANIZATION] must also calculate a risk-based
@@ -15870,7 +15870,7 @@ set is the product of the PFE multiplier and the aggregated amount.
 (1) PFE multiplier. The PFE multiplier is calculated according to the following
 formula:
 V-C
-PFE multiplier = min {1; 0.05 + 0.95 × e (1.9*A
+PFE multiplier = min {1; 0.05 + 0.95 * e (1.9*A
 {1;0.0
 e (XS+A)}
 Where:
@@ -15901,13 +15901,12 @@ Page 599 of 1089
 Hedging set amount
 IR
 IR
-= [(AddOnF₁)² + (AddOn 2)² + (AddOn3)² + 1.4 * AddOn 31
+= [(AddOn ₁)² + (AddOn 2)² + (AddOn3)² + 1.4 * AddOn 31
 IR
 TB2.
 IR
 IR
-IR
-* AddOnT2 + 1.4 * AddOnT2* AddOnT3 + 0.6* AddOnTB1
+* AddOn2 + 1.4 * AddOnB2 * AddOnT3 + 0.6* AddOnTB1
 1
 IR
 * AddOnT B3)]²
@@ -15955,9 +15954,8 @@ Hedging set amount
 Where:
 2
 K
-= [(p = Σ*__AddOn (Typer))² + (1 - (0)²) + [K
 *
-*
+= [(p + Σ*__AddOn (Typer))² + (1 - (0)²) + [K
 k=1
 k=1
 k is each commodity type within the hedging set.
@@ -16485,7 +16483,7 @@ calculated under the methodology set forth in paragraph (d)(4) of this section, 
 (4) Capital requirement for default fund contributions to a QCCP. A clearing member
 [BANKING ORGANIZATION]'s capital requirement for its default fund contribution to a
 QCCP (KCM) is equal to:
-Kcm = max{Kccp *
+KCM = max{Kccp *
 Where:
 KCCP is the hypothetical capital requirement of the QCCP, as determined under paragraph
 (d)(5) of this section;
@@ -16766,7 +16764,7 @@ Page 630 of 1089
 (2) The [BANKING ORGANIZATION] must apply the following adjustment to reduce
 the effective notional amount of any eligible credit derivative that is subject to adjustment under
 paragraph (e)(1) of this section:
-Pr = Pm × 0.60, where:
+Pr - Pm × 0.60, where:
 (i) Pr = effective notional amount of the credit risk mitigant, adjusted for lack of
 restructuring event (and maturity mismatch, if applicable); and
 (ii) Pm = effective notional amount of the credit risk mitigant (adjusted for maturity
@@ -17136,7 +17134,7 @@ H =
 (Σ
 and
 (1 f₂))` (Σ(CB/(1+ƒB)
-f (((C₁/(a + f))/(ECB/(a + Fo)))) - 1
+f (((C₁/(a + f))/(ECB/(a + fo)))) – 1
 -
 Σ CL
 Σ
@@ -17304,7 +17302,7 @@ apply a 1,250 percent risk weight to the exposure.
 (b) Total risk-weighted assets for securitization exposures. A [BANKING
 ORGANIZATION]'s total risk-weighted assets for securitization exposures equals the sum of
 the risk-weighted asset amount for securitization exposures that the [BANKING
-ORGANIZATION] risk weights under §§__.132 through ___.134, as applicable.
+ORGANIZATION] risk weights under §§ __.132 through ____.134, as applicable.
 (c) After-tax gain-on-sale resulting from a securitization. Notwithstanding any other
 provision of this subpart, a [BANKING ORGANIZATION] must deduct from common equity
 tier 1 capital any after-tax gain-on-sale resulting from a securitization as well as the portion of a
@@ -17476,7 +17474,7 @@ D-A
 -
 KA≤A
 D
-(B-K₁). ·1,250% · Ksec-SA), A<KA <D
+(B-K₁). ·1,250% · Ksec-sa), A<KA <D
 D A
 D≤ KA
 . 1,250% +
@@ -17510,7 +17508,7 @@ ea.l
 p.KA
 resecuritization exposure and 1 for all other securitization exposures;
 (ii) u equals D – K (as D and Kỵ are defined in this paragraph (a));
-(iii) l equals max (A — K₁, 0) (as A and K are defined in this paragraph (a)); and
+(iii) l equals max (A – K₁, 0) (as A and K are defined in this paragraph (a)); and
 (iv) e equals the base of the natural logarithm.
 (6) A [BANKING ORGANIZATION] must include in the calculation of A and D the
 funded portion of any reserve account funded by the accumulated cash flows from the underlying
@@ -17520,11 +17518,10 @@ Page 659 of 1089
 related to these contracts must not be included in the calculation of A and D. If the securitization
 exposure includes a nonrefundable purchase price discount, the nonrefundable purchase price
 discount must be included in the numerator and denominator of A and D.
-(b) Calculation of K₁. K is calculated under this paragraph (b) according to the
+(b) Calculation of K. K is calculated under this paragraph (b) according to the
 following formula:
 Where:
-K₁ (1-W). KG + (W.0.5)
-=
+K₁ = (1-W). KG + (W.0.5)
 (1) W equals the ratio, expressed as a decimal value between zero and one, of the sum of
 the outstanding balance of any underlying exposures of the securitization that are not
 securitization exposures and that meet any of the criteria in paragraphs (b)(1)(i) through (vi) of
@@ -17612,7 +17609,7 @@ the exposure as an equity derivative with an adjusted carrying value determined 
 paragraphs (b)(1) and (2) of this section.
 .142.
 Page 663 of 1089
-(b) Adjusted carrying value. For purposes of §§_.140 through ___.142, the adjusted
+(b) Adjusted carrying value. For purposes of §§_.140 through ____.142, the adjusted
 carrying value of an equity exposure is:
 (1) For the on-balance sheet component of an equity exposure, the [BANKING
 ORGANIZATION]'s carrying value of the exposure;
@@ -17705,7 +17702,7 @@ asset amount for an equity exposure to an investment fund is equal to the adjust
 multiplied by the risk weight (RWIF), which equals:
 RWIF
 ((₁
-(RWAon+RWAoff+RW A derivatives
+(RWAon+RWAoff+RW Aderivatives
 Total AssetSIF
 = min max
 *
@@ -17774,7 +17771,7 @@ applicable risk weight.
 investment fund invests to the maximum extent permitted under its investment limits in the
 transactions with the highest applicable credit conversion factor under § ____.112 and with the
 highest applicable risk weight under this subpart.
-(3) To calculate RWA derivatives, the [BANKING ORGANIZATION] must assume that
+(3) To calculate RWAderivatives, the [BANKING ORGANIZATION] must assume that
 the investment fund has the maximum volume of derivative contracts permitted under its
 investment limits and must assume, notwithstanding paragraphs (b)(3)(ii)-(iii), that the
 replacement cost plus potential future exposure under § ____.113 equals 115 percent of the
@@ -17831,7 +17828,7 @@ financial component.
 Page 672 of 1089
 Interest, lease, and divided component
 = min (Avg3y(Abs(total interest income
-– total interest expense)), 0.0225 · Avg3y(interest earning assets)
+— total interest expense)), 0.0225 · Avg3y(interest earning assets)
 + Avg3y (dividend income)
 where Avg3y refers to the three-year average of the expression in parenthesis; Abs refers
 to the absolute value of the expression in parenthesis; and total interest income, total interest
@@ -18003,7 +18000,7 @@ the comprehensiveness and accuracy of operational loss event data.
 audit functions.
 Disclosures
 §.160 Purpose and scope.
-Sections ___.160 through ___.162 of this subpart establish public disclosure requirements
+Sections.160 through ____.162 of this subpart establish public disclosure requirements
 related to the capital requirements for a [BANKING ORGANIZATION] subject to subpart E of
 this part, unless the [BANKING ORGANIZATION] is a consolidated subsidiary of a bank
 holding company, savings and loan holding company, or depository institution that is subject to
@@ -18290,7 +18287,7 @@ disclosures
 (1) Differentiation between holdings on which capital gains are expected and
 those taken under other objectives including for relationship and strategic
 reasons; and
-TABLE 10 TO §__.162-INTEREST RATE RISK FOR NON-TRADING ACTIVITIES
+TABLE 10 TO §__.162—INTEREST RATE RISK FOR NON-TRADING ACTIVITIES
 Qualitative
 Disclosures
 (2) Discussion of important policies covering the valuation of and accounting
@@ -18321,7 +18318,7 @@ CVA
 (c)
 The scope of exposures that qualify as "loan modification to borrowers
 experiencing financial difficulty” for accounting purposes and the differences,
-if any, between the scope of exposures treated as "defaulted exposures" or
+if any, between the scope of exposures treated as “defaulted exposures" or
 "defaulted real estate exposures" due to the [BANKING ORGANIZATION]
 having agreed to a distressed restructuring of the exposure for regulatory
 capital purposes.
@@ -18465,7 +18462,7 @@ writeup mechanism.
 including by specifying the instrument type immediately senior to instrument in
 the insolvency creditor hierarchy of the legal entity concerned.
 Page 693 of 1089
-Subpart F – Risk-weighted Assets - Market Risk and Credit Valuation Adjustment (CVA)
+Subpart F - Risk-weighted Assets - Market Risk and Credit Valuation Adjustment (CVA)
 §.201 Purpose, Applicability, and Reservations of Authority
 (a) Purpose. This subpart establishes risk-based capital requirements in a manner that:
 (1) For [BANKING ORGANIZATIONS] with significant exposure to market risk,
@@ -19351,10 +19348,10 @@ fallback capital requirement.
 [BANKING ORGANIZATION] that calculates the models-based measure for market risk:
 Page 733 of 1089
 (A) Notwithstanding paragraph (c) of this section, in cases where, for any reason, a
-[BANKING ORGANIZATION] is unable to calculate any portion of IMAG,A, SAU, SA all desks,
+[BANKING ORGANIZATION] is unable to calculate any portion of IMAG,A, SAU, SAall desks,
 SAG,A, or SA; as part of the calculation of the PLA add-on for a market risk covered position,
 that market risk covered position must be excluded from the calculation of IMAG,A, SAU,
-SAall desks, SAGA, or SA₁, respectively; and
+SAall desks, SAG,A, or SA₁, respectively; and
 (B) Notwithstanding paragraph (f) of this section, for a [BANKING ORGANIZATION]
 that has any securitization positions or correlation trading positions or equity positions in an
 investment fund, where a [BANKING ORGANIZATION] is not able to identify the underlying
@@ -19804,10 +19801,10 @@ K² + Σ Σ Ybc SpSc.
 b c b
 (i) Sb = Σk WSk for all risk factors in bucket b and Sc = Ek WSk for all risk factors in
 bucket c; and
-(ii) If S and Se produce a negative number for the overall sum of Σ₁ K² +
+(ii) If S and Sc produce a negative number for the overall sum of Σ₁ K² +
 Σb Ec+bYbc SpSc, the [BANKING ORGANIZATION] must calculate the delta capital
 requirement using an alternative specification, whereby:
-(A) Sp = max(min(Σk WSk, K₂), – K₂) for all risk factors in bucket b; and
+(A) Sp = max(min(Σk WSk, K₂), –K₂) for all risk factors in bucket b; and
 = max(min(Σk WSk, Kc), −Kc) for all risk factors in bucket c.
 (c) Vega capital requirement. For each risk class, a [BANKING ORGANIZATION]
 must calculate the vega capital requirement for market risk covered positions that are options or
@@ -19844,20 +19841,20 @@ Page 754 of 1089
 vega capital requirement(risk class)
 Where,
 time.
-(i) Sp = Ek WSk for all risk factors in bucket b and Sc = Ek WSk for all risk factors in
+(i) Sp = Σk WSk for all risk factors in bucket b and Sc = Ek WSk for all risk factors in
 bucket c; and
 (A) Sp
 (B) Sc
 =
-(ii) If S and So produce a negative number for the overall sum of Σ K² +
+(ii) If S and Sc produce a negative number for the overall sum of Σ K² +
 Σb Ec‡b Ybc SpSc, the [BANKING ORGANIZATION] must calculate the vega capital
 requirement using an alternative specification, whereby:
 ·ΣΣ Vbc SpSc.
 b c b
 =
 K² +
-max (min (Ek WSk, K₂), -Kb) for all risk factors in bucket b; and
-= max(min (Ek WSk, Kc), -Kc) for all risk factors in bucket c.
+max (min (Ek WSk, Kb), -Kb) for all risk factors in bucket b; and
+= max(min (Ek WSk, Kc), –Kc) for all risk factors in bucket c.
 (d) Curvature capital requirement. For each risk class, a [BANKING ORGANIZATION]
 must calculate the curvature capital requirement by applying an upward shock and a downward
 shock to each risk factor and calculate the incremental loss in excess of that already captured by
@@ -19952,7 +19949,7 @@ curvature capital requirement(1
 risk class)
 = max
 ((Σ^+ΣΣ5555) 0)
-[ K² + Σ Σ Ybc Sp Sc4 (Sp₁ Sc)
+[ K² + Σ Σ Ybc SpS c4 (Sp₁ Sc)
 b
 Page 758 of 1089
 (1) Sb = Σk CVR for all risk factors in bucket b when the upward scenario has been
@@ -19972,7 +19969,7 @@ uniformly multiplied by 1.25, with Pkɩ and Ybc subject to a cap at 100 percent;
 (3) For the low correlation scenario, the specified correlation parameters Pki and Ybc are
 replaced by,
 low
-PIL = max((2 × Pki) – 100%, 75% × Pkl), and
+PIL = max((2 × Pki) — 100%, 75% × Pkl), and
 ylow = max((2 × Ybc) — 100%, 75% × Ybc).
 §.207 Sensitivities-based capital requirement: calculation of delta sensitivities, vega
 sensitivities and curvature scenarios.
@@ -20066,7 +20063,7 @@ follows:
 where,
 (A) k is a given equity;
 Sk =
-Vi (1.01 EQ) - Vi (EQk)
+Vi (1.01 EQk) - Vi (EQk)
 0.01
 (B) i is a given market risk covered position;
 (C) EQk is the value of equity k; and
@@ -20083,7 +20080,7 @@ Sk =
 (D) V; is the value of market risk covered position i as a function of the repo term
 structure of equity k.
 where,
-Vi (RTSK +0.0001) – Vį (RTSk)
+Vi (RTSK +0.0001) — Vi(RTSk)
 0.0001
 (4) Commodity risk. A [BANKING ORGANIZATION] must calculate the delta
 sensitivity for commodity risk by changing the relevant commodity spot price by one percentage
@@ -20428,7 +20425,7 @@ year
 %
 (C) The correlation parameter Pki between risk-weighted delta sensitivities WS and WS₁
 within the same bucket, with different tenors and different interest rate curves equals the
-correlation parameter ki specified in Table 2 of this section multiplied by 99.9 percent.
+correlation parameter Pkl specified in Table 2 of this section multiplied by 99.9 percent.
 98.5%
 (D) The correlation parameter pkl between risk-weighted delta sensitivities WS and WS₁
 to different inflation curves within the same bucket equals 99.9 percent.
@@ -20581,7 +20578,7 @@ Kb(other bucket)
 x Pkl
 Pkl= Pkl
 =
-(C) For buckets 18 and 19, the correlation parameter PKI between risk weighted delta
+(C) For buckets 18 and 19, the correlation parameter Pkl between risk weighted delta
 sensitivities WSk and WS₁ equals:
 ΣIWSKI.
 k
@@ -21188,7 +21185,7 @@ correlation parameters:
 two risk weighted delta sensitivities WS and WS₁ is as follows:
 k
 Page 790 of 1089
-(1) Pkl equals 99.9 percent, where one delta sensitivity is to an equity spot price and the
+(1) Pki equals 99.9 percent, where one delta sensitivity is to an equity spot price and the
 other delta sensitivity is to an equity repo rate, and both are related to the same equity issuer;
 (2) Where both delta sensitivities are to equity spot prices, or both delta sensitivities are
 to equity repo rates, Pki equals:
@@ -21331,7 +21328,7 @@ following correlation parameters:
 (A) For buckets 1 through 11, the correlation parameter pkl between two risk weighted
 delta sensitivities WS and WS₁ equals:
 (cty)
-Pkl= Pkl
+Pkl = Pkl
 (tenor)
 x Pkl
 (tenor)
@@ -21369,11 +21366,11 @@ number
 10
 11
 Commodity bucket
-Energy-Solid combustibles
-Energy - Liquid combustibles
+Energy - Solid combustibles
+Energy-Liquid combustibles
 Energy - Carbon trading
 Freight
-Metals - non-precious
+Metals -non-precious
 Gaseous combustibles and electricity
 Precious metals (including gold)
 Grains and oilseed
@@ -21462,7 +21459,7 @@ equals e
 Risk weights
 100%
 (i) For interest rate risk, where tenor is a dimension of the risk factor, correlation
-parameter ki equals:
+parameter rk equals:
 100%
 -αx-
 100%
@@ -21516,7 +21513,7 @@ X Pkl
 (B) Pkl
 equals the correlation between the delta risk factors that correspond to vega
 risk factors k and 1. For instance, if k is the vega risk factor from equity option X and I is the
-vega risk factor from equity option Y then p (delta) is the delta correlation applicable between X
+vega risk factor from equity option Y then pdelta) is the delta correlation applicable between X
 and Y. Specifically:
 (1) For the risk classes of credit spread risk for non-securitization positions and credit
 spread risk for correlation trading positions, the vega risk correlation parameter, pl equals
@@ -21622,7 +21619,7 @@ credit spread risk for correlation trading positions, bucket 17 in Table 5 of th
 spread risk for securitization positions non-CTP, bucket 25 in Table 7 of this section, and for
 equity risk, bucket 11 in Table 8 of this section), the curvature bucket-level risk position equals:
 k
-max(CVR t,0), Σ max (CVR, 0)
+max(CVR£,0), Σ max (CVR, 0)
 k
 (4) For purposes of aggregating curvature bucket-level risk positions across buckets
 within each risk class as specified in § .206(d)(3), a [BANKING ORGANIZATION] must
@@ -21933,7 +21930,7 @@ iElong
 X
 (D) RW; equals:
 RW₁ x net default exposure; – HBRCTP
-Σ RW₁ × \net default exposure¡|
+Σ RW₁ x net default exposure¡|
 iEshort
 (A) i refers to a correlation trading position belonging to bucket b.
 (B) HBR CTP equals the hedge benefit ratio specified in paragraph (a)(2)(iv)(A) of this
@@ -21959,7 +21956,7 @@ requirements as follows:
 DRC CTP = max
 § ___.211 Residual risk add-on.
 Σ(max(DRCB,
-(max(DRCâ,0) + 0.5 × min(DRCâ,0)), 0
+(max(DRCâ,0) + 0.5 × min(DRCâ,0)),0
 b
 (a) A [BANKING ORGANIZATION] must calculate the residual risk add-on for all
 market risk covered positions identified as follows:
@@ -22433,7 +22430,7 @@ Bucket
 1
 0 ≤t<
 0.75
-0 ≤t<
+0 ≤ t <
 0.75
 0 ≤t<
 1.50
@@ -22446,7 +22443,7 @@ Bucket
 4.0
 0.75 ≤ t <
 4.0
-4 ≤t < 10
+4 ≤ t < 10
 4
 0.05 ≤ 8< 0.3 ≤ 8<
 0.3
@@ -22454,7 +22451,7 @@ Bucket
 4 ≤ t <7 7 ≤ t < 12
 10 ≤ t <
 18
-1.5 ≤ t < 3.5 ≤ t < 7.5 ≤t<
+1.5 < t < 3.5 ≤ t < 7.5 ≤t<
 3.5
 7.5
 15
@@ -22553,7 +22550,7 @@ ES =
 (ES₁(P))² + ΣES,(P‚j)
 - Σ (ES,
 j≥2
-|(LH; — LH₁_1)
+|(LH; — LH₁-1)
 T
 2
 (i) ES is the regulatory liquidity horizon-adjusted ES;
@@ -22603,7 +22600,7 @@ where,
 2
 ²,C))²
 60
-Σ6⁰ (ESF,c.t - Mean(ESF,c)
+Σ6⁰ (ESF,c,t — Mean(ESF,c)
 (1) ESF,C is the liquidity horizon-adjusted ES-based measure based on the most recent 12-
 month observation period (the current ES-based measure) using the full set of risk factors;
 (2) ESR,C is the lesser of (i) the current liquidity horizon-adjusted ES-based measure using
@@ -22837,18 +22834,17 @@ i=1
 where,
 ISES/M,i +
 ISES/M,j +
-(P
 K
 k=1
-§ __.216 [RESERVED]
 2
 K
-SESNM,K+ (1- p²)SES MK
+SESNM,K+ (1 - p²)SES MK
 MX) ² +
 NM,k
 k=1
 (i) ISESNM,i is the stress scenario capital measure for non-modellable idiosyncratic credit
 spread risk, i, aggregated with zero correlation;
+§ __.216 [RESERVED]
 (ii) I is a non-modellable idiosyncratic credit spread risk factor;
 (iii) ISESNM,j is the stress scenario capital measure for non-modellable idiosyncratic
 equity risk, j, aggregated with zero correlation;
@@ -23084,7 +23080,7 @@ Where,
 (1) The parameter, ß, equals 0.25;
 (2) Kunhedged
 Where,
-Kbasic = 0.65 (B. Kunhedged + (1-B). Khedged)
+Kbasic = 0.65 (B· Kunhedged + (1-B). Khedged)
 positions;
 is calculated as follows:
 Kunhedged
@@ -23097,7 +23093,7 @@ Where,
 SCVAC
 =
 2
-· [SCVA.) + (1 - p²) · [SCVAB
+· [SCVA.) + (1 - 0²). Σ SCVAB
 Σ
 1
 α
@@ -23147,7 +23143,7 @@ activities
 Other sector
 (3) Khedged is calculated as follows:
 Khedged =
-(P. Σ(SCVA, - SNH) - IH
+(P. Σ(SCVA, - SNH.) - IH
 ·Σ(SCVA - SNH₂)
 Where,
 1.0%
@@ -23335,20 +23331,20 @@ following six risk classes:
 (vi) Commodity risk.
 (2) Net weighted sensitivity calculation. For each risk factor, k, specified in § __.225(a), a
 [BANKING ORGANIZATION] must:
-(1) Calculate the CVA delta sensitivity of aggregate regulatory CVA to the risk factor,
+(i) Calculate the CVA delta sensitivity of aggregate regulatory CVA to the risk factor,
 SCVA, and the CVA delta sensitivity of the aggregate market value of standardized CVA hedges
 k
 to the risk factor, SHdg, pursuant to paragraph (e) of this section.
 Page 869 of 1089
 (ii) Calculate the weighted CVA delta sensitivity to the risk factor, WSCVA, and the
-weighted hedge delta sensitivity to the risk factor, WS, by multiplying SVA and Shag,
+weighted hedge delta sensitivity to the risk factor, WSd, by multiplying SAVA and Shag,
 respectively, by the corresponding risk weight, RWk, specified in § ____.225(a):
+WSEVA = RW SCVA
 CCVA
-WSEVA = RWK SCVA
 WsHag
 =
 RWK .SHdg
-(iii) Calculate the net weighted delta sensitivity, WS, by subtracting the weighted hedge
+(iii) Calculate the net weighted delta sensitivity, WSk, by subtracting the weighted hedge
 delta sensitivity, WSK Hdg, from the weighted CVA delta sensitivity, WSCVA:
 k
 WSK = WSCVA - WSHdg
@@ -23356,7 +23352,7 @@ k
 (3) Within bucket aggregation. For each bucket, b, as provided in § _.225(a), a
 [BANKING ORGANIZATION] must calculate the bucket-level CVA delta capital requirement,
 Kħ, by aggregating the net weighted delta sensitivities for each risk factor in a bucket, b, using
-the buckets and correlation parameters, Pki, applicable to each risk class as specified in §
+the buckets and correlation parameters, Pkl, applicable to each risk class as specified in §
 _.225(a), as follows:
 2
 K₂ = ΣWS² + Σ Σ (Pkl · WSK · WS₂₁) + R. Σ(WSHd) ²
@@ -23386,10 +23382,10 @@ ORGANIZATION] in writing that a different value must be used. The [AGENCY] may i
 a [BANKING ORGANIZATION]'s multiplier if it determines that the [BANKING
 ORGANIZATION]'s CVA model risk warrants it.
 (ii) Foreign exchange risk;
-(min (Σ WSK, Kc), - Kc)
+(min (Σ WSK, Kc), -Kc)
 k
 ΣΣ
-Σ Σ(Ybc • Sp • Sc)
+ΣΣ (Ybc • Sp• Sc)
 b c#b
 (1) The CVA vega capital requirement equals the sum of the risk class-level CVA vega
 capital requirements calculated pursuant to paragraph (c)(4) of this section for each of the
@@ -23416,10 +23412,10 @@ k
 WSHdg
 =
 RWk
-.
+•
 SHdg
 (iii) Calculate the net weighted vega sensitivity, WSk, by subtracting the weighted hedge
-vega sensitivity, WS, from the weighted CVA vega sensitivity, WSCVA:
+vega sensitivity, WSHd, from the weighted CVA vega sensitivity, WSCVA:
 k
 WSK = WSVA - WSK
 k
@@ -23427,14 +23423,14 @@ k
 (3) Within bucket aggregation. For each bucket, b, as provided in § ____.225(b), a
 [BANKING ORGANIZATION] must calculate the bucket-level CVA vega capital requirement,
 K₁, by aggregating the net weighted vega sensitivities for each risk factor in a bucket, b, using
-the buckets and correlation parameters, Pkl, applicable to each risk class as specified in
+the buckets and correlation parameters, Pki, applicable to each risk class as specified in
 § __.225(b), as follows:
 Page 872 of 1089
 2
-Kb = ΣWS² + Σ Σ (Pkl · WSK · WS₁) + RΣ(WSHd) ²
+Kb = [WS² + Σ Σ (Pkl · WSK · WS₁) + RΣ(WSHd) ²
 k
 keb
-kEb leb,l#k
+keb leb,l#k
 where R is the hedging disallowance parameter equal to 0.01.
 where,
 (4) Across bucket aggregation. A [BANKING ORGANIZATION] must calculate the risk
@@ -23442,12 +23438,12 @@ class-level CVA vega capital requirement, K, by aggregating the bucket-level CVA
 requirements, K₁, far each bucket in the risk class using the correlation parameters, Ybc,
 applicable to each risk class as specified in §.225(b), as follows:
 K = MCVA
-(i) Sz is defined for bucket b as:
+(i) So is defined for bucket b as:
 keb
-K² + Σ Σ ( Ybc • Sp • Sc)
+K² + Σ Σ ( Ybc · Sp · Sc)
 b c#b
 Sb = max (min
-: (min (Σ WS₁, K₂), -K₁)
+: (min (Σ WS₁, K₂), - K₁)
 k
 (ii) Sc is defined for bucket c as:
 Sc = max (min
@@ -23694,7 +23690,7 @@ Inflation
 1.11%
 Page 883 of 1089
 (C) Delta within-bucket correlation parameter for interest rate risk, specified currencies.
-The correlation parameters, pki, related to the specified currencies are set out in Table 2 of this
+The correlation parameters, Pki, related to the specified currencies are set out in Table 2 of this
 section.
 TABLE 2 TO §. .225—Delta CORRELATION PARAMETERS, Pkl, FOR INTEREST RATE RISK
 (SPECIFIED CURRENCIES)
@@ -23836,11 +23832,11 @@ Page 886 of 1089
 Other sector
 8 Qualified Indices
 follows:
-(iv) Delta within-bucket correlation parameters, Pkl, for counterparty credit spread risk.
+(iv) Delta within-bucket correlation parameters, Pkl for counterparty credit spread risk.
 The delta correlation parameters, Pkl, for counterpart credit spread risk must be defined as
 where,
 (A) For buckets 1 through 7, a [BANKING ORGANIZATION] must calculate the
-correlation parameter, pkl, between two weighted sensitivities WS and WSĮ as follows:
+correlation parameter, Pkl, between two weighted sensitivities WS and WSĮ as follows:
 (tenor)
 (1) Pkl
 (name)
@@ -23869,7 +23865,7 @@ Pkl = Pkl
 (tenor). (name)
 Pkl
 (B) For bucket 8, a [BANKING ORGANIZATION] must calculate the correlation
-parameter, Pkl, between two weighted sensitivities WS and WS, as follows:
+parameter, pkl, between two weighted sensitivities WS and WS, as follows:
 (quality)
 • Pkl
 Page 887 of 1089
@@ -23952,7 +23948,7 @@ credit spread risk equals the simultaneous absolute shift of all credit spreads 
 reference names in the bucket.
 (iii) Delta risk weights for reference credit spread risk. The delta risk weights, RWk, for
 reference credit spread risk are set out in Table 5 of this section.
-TABLE 5 TO §.225 DELTA AND VEGA BUCKETS AND DELTA RISK WEIGHTS FOR
+TABLE 5 TO §.225—DELTA AND VEGA BUCKETS AND DELTA RISK WEIGHTS FOR
 REFERENCE CREDIT SPREAD RISK
 Bucket
 number
@@ -24274,7 +24270,7 @@ number
 group
 (iii) Delta risk weights for commodity risk. The delta risk weights, RWk, for commodity
 risk are set out in Table 9 of this section.
-TABLE 9 TO §.225-DELTA AND VEGA BUCKETS AND DELTA RISK WEIGHTS FOR
+TABLE 9 TO §.225 DELTA AND VEGA BUCKETS AND DELTA RISK WEIGHTS FOR
 COMMODITY RISK
 Examples
 Delta
@@ -24372,7 +24368,7 @@ bucket correlation, Ybc, for commodity risk equals 20 percent for all cross-buck
 to bucket numbers 1 to 10 and zero percent for all cross-bucket pairs that include bucket 11.
 (b) CVA vega capital requirement.
 (1) Interest rate risk.
-(1) Vega buckets for interest rate risk. A [BANKING ORGANIZATION] must establish
+(i) Vega buckets for interest rate risk. A [BANKING ORGANIZATION] must establish
 a separate vega interest rate risk bucket for each currency.
 (ii) Vega risk factors for interest rate risk. The vega risk factors for interest rate risk for
 all currencies equal a simultaneous relative change of all inflation rate volatilities for each
@@ -24382,7 +24378,7 @@ risk equal 100 percent.
 (iv) Vega within-bucket correlation parameters for interest rate risk. The vega within-
 bucket correlation parameter, Pkl, for interest rate risk equals 40 percent.
 (v) Vega cross-bucket correlation parameter for interest rate risk. The vega cross-bucket
-correlation parameter, Vbc, for interest rate risk equals 50 percent for all currency pairs.
+correlation parameter, bc, for interest rate risk equals 50 percent for all currency pairs.
 (2) Foreign exchange risk.
 (i) Vega buckets for foreign exchange risk. A [BANKING ORGANIZATION] must
 establish a separate vega foreign exchange risk bucket for each currency, except for a
@@ -24406,7 +24402,7 @@ all tenors for all reference names in the bucket.
 (iii) Vega risk weights for reference credit spread risk. The vega risk weights, RW, for
 reference credit spread risk equal 100 percent.
 (iv) Vega cross-bucket correlation parameters for reference credit spread risk. The vega
-cross-bucket correlation parameter, bc, for reference credit spread risk is defined in the same
+cross-bucket correlation parameter, Ybc, for reference credit spread risk is defined in the same
 manner as the delta cross-bucket correlation parameter for reference credit spread risk, pursuant
 to paragraph (a)(4)(iv) of this section.
 Page 896 of 1089
@@ -24516,7 +24512,7 @@ following the change in the national bank's or Federal savings association's cat
 a. Remove the definitions for "Advanced approaches national bank or Federal savings
 association", "Advanced approaches total risk-weighted assets", and "Advanced market risk-
 weighted assets”;
-b. Revise the definitions for "Category II national bank or Federal savings association”
+b. Revise the definitions for “Category II national bank or Federal savings association”
 and “Category III national bank or Federal savings association";
 Page 901 of 1089
 c. Add, in alphabetical order, the definition for "Category IV national bank or Federal
@@ -24527,7 +24523,7 @@ e. Remove the definition for "Credit-risk-weighted assets";
 f. Add, in alphabetical order, the definition for "CVA risk-weighted assets";
 g. Revise the definition for "Effective notional amount”;
 h. Remove the definition for "Eligible credit reserves";
-i. Revise paragraph 10 of the definition for "Eligible guarantee”;
+i. Revise paragraph 10 of the definition for “Eligible guarantee”;
 j. Add, in alphabetical order, the definition for “Expanded total risk-weighted assets";
 k. Remove the definition for "Expected credit loss (ECL)";
 1. Revise the definition for "Exposure amount", paragraph (2) of the definition for
@@ -24538,7 +24534,7 @@ m. Add, in alphabetical order, the definition for "Market risk-weighted assets";
 n. Revise the definitions for "Net independent collateral amount", "Netting set", "Non-
 significant investment in the capital of an unconsolidated financial institution", "Protection
 amount (P)", paragraph (2) of the definition for "Qualifying central counterparty (QCCP)", and
-paragraphs (3) and (4) of the definition of “Qualifying master netting agreement";
+paragraphs (3) and (4) of the definition of "Qualifying master netting agreement";
 o. In the definition of "Residential mortgage exposure":
 i. Remove paragraph (2);
 ii. Redesignate paragraphs (1)(i) and (1)(ii) as paragraphs (1) and (2), respectively; and
@@ -24548,13 +24544,13 @@ place, the word “family.";
 p. Revise the definition for "Significant investment in the capital of an unconsolidated
 financial institution";
 q. Remove the definition for "Specific wrong-way risk”;
-r. Revise the definitions for "Speculative grade" and “Standardized market risk-weighted
+r. Revise the definitions for "Speculative grade” and “Standardized market risk-weighted
 assets", paragraphs (1)(vi) and (2) of the definition of "Standardized total risk-weighted assets",
 and the definitions of "Sub-speculative grade”, “Synthetic exposure", and “Unregulated financial
 institution";
 s. Add, in alphabetical order, the definition for “Total credit risk-weighted assets”;
 t. Remove the definition for "Value-at-risk (VaR)";
-u. Revise the definition for “Variation margin amount";
+u. Revise the definition for "Variation margin amount";
 v. Remove the definition for "Wrong-way risk"; and
 w. Redesignate all footnotes to start at "1".
 The additions and revisions read as follows:
@@ -25554,7 +25550,7 @@ national bank's or Federal savings association's common equity tier 1 capital el
 deductions from and adjustments to common equity tier 1 capital elements required under
 paragraphs (a) through (c)(3) of this section (the 10 percent threshold for non-significant
 investments) by applying the corresponding deduction approach in paragraph (c)(2) of this
-section.26 The deductions described in this paragraph are net of associated DTLs in accordance
+section. 26 The deductions described in this paragraph are net of associated DTLs in accordance
 with paragraph (e) of this section. In addition, with the prior written approval of the OCC, a
 national bank or Federal savings association subject to subpart E of this part that underwrites a
 failed underwriting, for the period of time stipulated by the OCC, is not required to deduct from
@@ -25853,7 +25849,7 @@ Page 950 of 1089
 a. Remove subparts E and F and replace with subparts E and F as set forth at the end of
 the common preamble;
 b. Remove "[AGENCY]" and add "OCC" in its place wherever it appears;
-c. Remove "[BANKING ORGANIZATION]" and add “national bank or Federal savings
+c. Remove "[BANKING ORGANIZATION]” and add “national bank or Federal savings
 association" in its place wherever it appears;
 d. Remove "[BANKING ORGANIZATION]'s" and add “national bank's or Federal
 savings association's" in its place, wherever it appears;
@@ -25861,7 +25857,7 @@ e. Remove "[REAL ESTATE LENDING GUIDELINES]" and add "12 CFR part 34,
 appendix A to subpart D” in its place wherever it appears;
 f. Remove "[APPRAISAL RULE]" and add "12 CFR part 34, subpart C" in its place
 wherever it appears;
-g. Remove "[REGULATORY REPORT]” and add “Call Report" in its place wherever it
+g. Remove “[REGULATORY REPORT]” and add “Call Report" in its place wherever it
 appears; and
 h. Remove "___." and add “3.” in its place wherever it appears.
 18. In § 3.100
@@ -26244,7 +26240,7 @@ For the reasons set forth in the common preamble, the Board of Governors of the 
 Reserve System proposes to amend chapter II of title 12 of the Code of Federal Regulations as
 follows:
 Page 963 of 1089
-PART 208 MEMBERSHIP OF STATE BANKING INSTITUTIONS IN THE FEDERAL
+PART 208 - MEMBERSHIP OF STATE BANKING INSTITUTIONS IN THE FEDERAL
 RESERVE SYSTEM (REGULATION H)
 34. The authority citation for part 208 continues to read as follows:
 Authority: 12 U.S.C. 24, 36, 92a, 93a, 248(a), 248(c), 321-338a, 371d, 461, 481-486,
@@ -26257,10 +26253,10 @@ Subpart D-Prompt Corrective Action
 a. Redesignate paragraphs (a) through (q) as un-numbered definitions in alphabetical
 order;
 b. Remove the definition of "advanced approaches bank" (as redesignated);
-c. Add the definition of “bank subject to subpart E of 12 CFR part 217❞ in alphabetical
+c. Add the definition of “bank subject to subpart E of 12 CFR part 217" in alphabetical
 order; and
 d. Revise the definitions of "common equity tier 1 risk-based capital ratio", "tier 1 risk-
-based capital ratio", "total leverage exposure", "total risk-based capital ratio", and "total risk-
+based capital ratio”, “total leverage exposure", "total risk-based capital ratio", and "total risk-
 weighted assets" (each as redesignated).
 The addition and revisions read as follows:
 § 208.41 Definitions for purposes of this subpart.
@@ -26295,10 +26291,10 @@ expanded risk-based bank also includes expanded total risk-weighted assets, as d
 217.2 of Regulation Q (12 CFR 217.2).
 36. In subpart D:
 a. Remove the words "advanced approaches bank" and "advanced approaches banks"
-wherever they appear and add, in their place, the words "bank subject to subpart E of 12 CFR
+wherever they appear and add, in their place, the words “bank subject to subpart E of 12 CFR
 part 217” and “banks subject to subpart E of 12 CFR part 217", respectively; and
 Page 965 of 1089
-b. Remove the words “bank or bank that is a Category III Board-regulated institution (as
+b. Remove the words "bank or bank that is a Category III Board-regulated institution (as
 defined in § 217.2 of this chapter)," wherever they appear and add, in their place, the word
 "bank,".
 Subpart G-Financial Subsidiaries of State Member Banks
@@ -26335,7 +26331,7 @@ Authority: 12 U.S.C. 248(a), 321–338a, 481–486, 1462a, 1467a, 1818, 1828, 18
 of part 217 as set forth at the end of the common preamble.
 41. Subpart E and subpart F of part 217 are amended as follows:
 a. Remove "[AGENCY]" and add “Board" in its place wherever it appears;
-b. Remove "[BANKING ORGANIZATION]" and add “Board-regulated institution” in
+b. Remove "[BANKING ORGANIZATION]" and add "Board-regulated institution” in
 its place wherever it appears;
 c. Remove "[BANKING ORGANIZATION]’s” and add “Board-regulated institution’s”
 in its place wherever it appears;
@@ -26344,7 +26340,7 @@ appendix C" in its place wherever it appears;
 e. Remove "[APPRAISAL RULE]" and add "12 CFR part 208, subpart E, or 12 CFR part
 225, subpart G, as applicable" in its place wherever it appears; and
 66
-f. Remove"___." and add “217.” in its place wherever it appears.
+f. Remove "___." and add “217.” in its place wherever it appears.
 Subpart A-General Provisions
 42. In § 217.1:
 a. Add paragraph (c)(6); and
@@ -26925,7 +26921,7 @@ counterparty credit risk (E*) for transactions with a counterparty must be calcu
 transaction by transaction basis, such that each transaction i is treated as its own netting set, in
 accordance with the following formula, where Ei is the fair value of the instruments, gold, or
 cash that the Board-regulated institution has lent, sold subject to repurchase, or provided as
-collateral to the counterparty, and Ci is the fair value of the instruments, gold, or cash that the
+collateral to the counterparty, and C¡ is the fair value of the instruments, gold, or cash that the
 Board-regulated institution has borrowed, purchased subject to resale, or received as collateral
 from the counterparty:
 E₁* = max {0, [Ei-Ci]}; and
@@ -26936,7 +26932,7 @@ or provided as collateral to a counterparty for all transactions included in the
 netting agreement (ZE;), less the total fair value of the instruments, gold, or cash that the Board-
 regulated institution borrowed, purchased subject to resale or received as collateral from the
 counterparty for those transactions (ZC;), in accordance with the following formula:
-E* = max {0, [Eei-ci]}
+E* = max {0, [Eei- Eci]}
 (vii) If a Board-regulated institution acting as an agent for a repo-style transaction
 provides a guarantee to a customer of the security or cash its customer has lent or borrowed with
 Page 988 of 1089
@@ -27355,7 +27351,7 @@ weighted assets).
 Page 1003 of 1089
 48. In § 217.21:
 a. In paragraph (a)(1), remove the words "an advanced approaches Board-regulated
-institution" and add, in their place, the words "subject to subpart E of this part"; and
+institution" and add, in their place, the words “subject to subpart E of this part"; and
 b. Revise paragraph (b).
 The revisions read as follows:
 *
@@ -27830,7 +27826,7 @@ Page 1020 of 1089
 7. Section 217.61; and
 8. Section 217.300(c).
 b. Remove the words "advanced approaches Board-regulated institution" and add, in their
-place, the words “Board-regulated institution subject to subpart E of this part” in the following
+place, the words “Board-regulated institution subject to subpart E of this part" in the following
 places:
 1. Section 217.1; and
 2. Section 217.2; and
@@ -27842,7 +27838,7 @@ place, the words "expanded total risk-weighted assets" in the following places:
 1. Section 217.1; and
 2. Section 217.10(d); and
 3. Section 217.22(g).
-d. Remove the word "§ 217.133" and add, in its place, the word "§ 217.114” in the
+d. Remove the word "§ 217.133" and add, in its place, the word "§ 217.114" in the
 following places:
 1. Section 217.2, in the definition of "qualifying central counterparty (QCCP)"; and
 2. Section 217.34(a); and
@@ -28167,7 +28163,7 @@ stress test; and
 *
 PART 252 - ENHANCED PRUDENTIAL STANDARDS (REGULATION YY)
 70. The authority citation for part 252 continues to read as follows:
-Authority: 12 U.S.C. 321-338a, 481–486, 1467a, 1818, 1828, 1831n, 1831o, 1831p-1,
+Authority: 12 U.S.C. 321-338a, 481–486, 1467a, 1818, 1828, 1831n, 18310, 1831p-1,
 1831w, 1835, 1844(b), 1844(c), 3101 et seq., 3101 note, 3904, 3906–3909, 4808, 5361, 5362,
 5365, 5366, 5367, 5368, 5371.
 Subpart B-Company-Run Stress Test Requirements for State Member Banks
@@ -28330,9 +28326,9 @@ b. Remove "[BANKING ORGANIZATION]" and add "FDIC-supervised institution” in
 its place wherever it appears;
 c. Remove "[BANKING ORGANIZATIONS]” and add "FDIC-supervised institutions"
 in its place wherever it appears;
-d. Remove "[BANKING ORGANIZATION]'s" and add "FDIC-supervised institution's"
+d. Remove "[BANKING ORGANIZATION]'s" and add “FDIC-supervised institution's"
 in its place, wherever it appears;
-e. Remove "[bank]" and add “FDIC-supervised institution" in its place, wherever it
+e. Remove "[bank]” and add “FDIC-supervised institution" in its place, wherever it
 appears;
 f. Remove "[REAL ESTATE LENDING GUIDELINES]” and add "12 CFR part 365,
 Subpart A, Appendix A” in its place wherever it appears;
@@ -28376,7 +28372,7 @@ Page 1036 of 1089
 guarantee", "Exposure amount", "Financial institution", "Market risk FDIC-supervised
 institution", "Netting set", "Net independent collateral amount", "Protection amount (P)",
 "Speculative grade”, “Standardized market risk-weighted assets", "Standardized total risk-
-weighted assets", "Sub-speculative grade", “Unregulated financial institution”, and “Variation
+weighted assets", "Sub-speculative grade”, “Unregulated financial institution”, and “Variation
 margin amount”;
 g Amend § 324.2 by redesignating footnotes 3 through 9 as footnotes 1 through 7,
 respectively.
@@ -28741,7 +28737,7 @@ and
 *
 Unregulated financial institution means a financial institution that is not a regulated
 financial institution, including any financial institution that would meet the definition of
-"financial institution" under this section but for the ownership interest thresholds set forth in
+“financial institution" under this section but for the ownership interest thresholds set forth in
 paragraph (4)(i) of that definition.
 *
 *
@@ -29570,7 +29566,7 @@ Market risk-weighted assets as calculated under subpart F of
 *
 *
 Page 1079 of 1089
-Subpart E-Risk-Weighted Assets — Expanded Risk-Based Approach
+Subpart E-Risk-Weighted Assets – Expanded Risk-Based Approach
 100. In § 324.100, revise paragraph (b)(1) as follows:
 § 324.100 Purpose and applicability.
 *
@@ -29616,7 +29612,7 @@ this part; and
 103. Amend § 324.162 as follows,
 a. Remove paragraph (c)(2); and
 b. Redesignate (c)(1) to (c) introductory text.
-Subpart F - Risk-weighted Assets – Market Risk and Credit Valuation Adjustment
+Subpart F - Risk-weighted Assets - Market Risk and Credit Valuation Adjustment
 104. Amend § 324.201, by
 a. Revise paragraphs (b)(1)(i),(b)(2), (b)(4)(i), and (b)(5)(i); and
 b. Remove "12 CFR 3.404, 12 CFR 263.202," in (c)(6).
@@ -29862,6 +29858,6 @@ place, the words “expanded total risk-weighted assets" in the following places
 3. Section 324.22(g); and
 4. Section 324.302; and
 5. Section 324.305.
-d. Remove the word “§ 324.133" and add, in its place, the word "§ 324.114" in Section
+d. Remove the word "§ 324.133" and add, in its place, the word "§ 324.114" in Section
 324.2, in the definition of "qualifying central counterparty (QCCP)"”.
 Page 1089 of 1089

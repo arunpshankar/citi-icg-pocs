@@ -1,15 +1,6 @@
- 1. The Black-Scholes-Merton option pricing model;
-2. A model that is based on the Black-Scholes-Merton option pricing model and that
-incorporates an adjustment for early exercise; or
-3. Another option pricing model that is approved by the [AGENCY].
-(b) Delta sensitivities. A [BANKING ORGANIZATION] must calculate delta
-sensitivities as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift in the level of a risk factor, assuming all other relevant risk factors are held at the
-current level.
-(c) Vega sensitivities. A [BANKING ORGANIZATION] must calculate vega
-sensitivities as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift in the volatility of a risk factor, assuming all other relevant risk factors are held at
-the current level.
-(d) Curvature scenarios. A [BANKING ORGANIZATION] must calculate curvature
-scenarios as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift and a 1 percent downward shift in the level of a risk factor, assuming all other
+ 1. The Black-Scholes-Merton model with parameters calibrated to observed market prices;
+2. An alternative option pricing model that is approved by the [AGENCY]; or
+3. The delta sensitivities may be calculated using a non-model based approach that is approved by the [AGENCY]. 
+(6) A [BANKING ORGANIZATION] must calculate the delta sensitivities, vega sensitivities, and curvature scenarios for each market risk covered position at least once per day.
+(7) A [BANKING ORGANIZATION] must calculate the delta sensitivities, vega sensitivities, and curvature scenarios for each market risk covered position at least once per day.
+(8) A [BANKING ORGANIZATION] must document the methodologies, models, and parameters used to calculate the delta sensitivities, vega sensitivities, and curvature scenarios.

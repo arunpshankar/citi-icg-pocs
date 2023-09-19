@@ -1,4 +1,4 @@
- 1. The risk-weighted asset amount for an equity exposure to an investment fund held by another investment fund is determined using a full look-through approach, an alternative modified look-through approach, or a 1,250 percent risk weight.
+ 1. The risk-weighted asset amount for an equity exposure to an investment fund held by another investment fund is determined using either the full look-through approach, the alternative modified look-through approach, or a 1,250 percent risk weight.
 
 2. The risk-weighted assets for operational risk equals the operational risk capital requirement multiplied by 12.5.
 

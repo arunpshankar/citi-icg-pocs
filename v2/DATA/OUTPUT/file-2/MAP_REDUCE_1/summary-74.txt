@@ -13,12 +13,12 @@ can use to group real prices for the purpose of determining whether a risk facto
 risk factor eligibility test.
 
 
-4. The proposal allows banking organizations to use their own bucketing approach,
-provided that the internal risk management model uses the same buckets or segmentation of
-risk factors to calculate profits and losses for purposes of the PLA test.
+4. The proposal allows banking organizations to use their own bucketing approach, provided
+that the internal risk management model uses the same buckets or segmentation of risk
+factors to calculate profits and losses for purposes of the PLA test.
 
 
 5. To determine whether the risk factors in a bucket pass the risk factor eligibility test, the
-proposal requires a banking organization to allocate a real price to any risk bucket for which
-the price is representative of the risk factors within the bucket and to count all real prices
-mapped to a risk bucket.
+proposal requires a banking organization to allocate a real price to any risk bucket for
+which the price is representative of the risk factors within the bucket and to count all real
+prices mapped to a risk bucket.

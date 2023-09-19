@@ -4,6 +4,6 @@
 
 3. Table 15 to §.162 provides the main features of regulatory capital instruments and of other TLAC-eligible instruments. 
 
-4. Subpart F of the regulation establishes risk-based capital requirements for banking organizations with significant exposure to market risk and CVA risk. 
+4. Subpart F establishes risk-based capital requirements for banking organizations with significant exposure to market risk and CVA risk. 
 
-5. The market risk capital requirements and related public disclosure requirements apply to a banking organization that meets one or more of the standards in paragraph (b)(1) of this section, while the CVA risk-based capital requirements apply to any banking organization that is a global systemically important BHC, a subsidiary of a global systemically important BHC, Category II banking organization, Category III banking organization, or Category IV banking organization.
+5. The market risk capital requirements and related public disclosure requirements specified in § __.203 through § __.217 apply to a [BANKING ORGANIZATION] that meets one or more of the standards in paragraph (b)(1) of this section.

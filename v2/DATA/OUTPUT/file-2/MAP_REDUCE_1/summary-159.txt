@@ -2,4 +2,4 @@
 (ii) For aggregating delta bucket-level risk positions across buckets within the foreign exchange risk class, the cross-bucket correlation parameter is set at 60%.
 (iii) Vega risk weights are specified for each risk class, and vega bucket-level risk positions are aggregated within a bucket using specified correlation parameters.
 (iv) For aggregating vega bucket-level risk positions across different buckets within a risk class, the same cross-bucket correlation parameters as specified for delta risk are used.
-(v) The curvature risk weights for foreign exchange risk and equity risk are based on the delta risk weights, while for interest rate risk and other risk classes, the curvature risk weights are based on the highest prescribed delta risk weight for each bucket.
+(v) The curvature risk weights for foreign exchange risk and equity risk are based on the delta risk weights, while for other risk classes, the curvature risk weights are based on the highest prescribed delta risk weight for each bucket.

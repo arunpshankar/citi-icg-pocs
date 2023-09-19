@@ -4,10 +4,10 @@
 2. The standardized default risk capital requirement for correlation trading positions is calculated by assigning each index to a bucket and calculating the bucket-level default risk capital requirement. 
 
 
-3. The gross default exposure for a correlation trading position is its market value, while the net default exposure is the sum of the long and short gross default exposures, taking into account potential offsets. 
+3. The gross default exposure for a correlation trading position is its market value, and the net default exposure is calculated by recognizing offsetting for otherwise identical positions. 
 
 
-4. A [BANKING ORGANIZATION] may recognize offsetting for correlation trading positions that are otherwise identical, except for maturity, including index tranches of the same series. 
+4. A [BANKING ORGANIZATION] may offset long and short gross default exposures of different tranches of the same index and series through replication and decomposition, if the residual component has the attachment and detachment point nested with the original tranche or the combination of tranches. 
 
 
-5. A [BANKING ORGANIZATION] may offset combinations of long gross default exposures and combinations of short gross default exposures of tranches that are perfect replications of non-tranched correlation trading positions.
+5. For a non-securitization position that hedges a correlation trading position, a [BANKING ORGANIZATION] must assign such position and the related correlation trading position to the same bucket.

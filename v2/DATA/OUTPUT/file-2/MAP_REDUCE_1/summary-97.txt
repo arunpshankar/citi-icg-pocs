@@ -1,11 +1,9 @@
- 1. The proposed intra-bucket aggregation methodology is appropriate as it is similar to the sensitivities-based method for market risk, with the addition of a term to prevent extremely small levels of K2 when most risk factors are perfectly hedged. 
+ 1. The proposed intra-bucket aggregation methodology is appropriate as it is similar to the intra-bucket aggregation formula in the sensitivities-based method for market risk, with the addition of a term to prevent extremely small levels of K2 when most of the risk factors k are perfectly hedged. 
 
-2. The inter-bucket aggregation methodology is appropriate as it includes a multiplication factor that allows the primary Federal supervisor to increase the multiplier and scale up risk-based capital required for each risk class, if the supervisor determines that the banking organization's CVA model risk warrants such an increase. 
+2. The proposed inter-bucket aggregation methodology is appropriate as it includes a multiplication factor (MCVA) that allows the primary Federal supervisor to increase the multiplier and scale up risk-based capital required for each risk class (K), if the supervisor determines that the banking organization's CVA model risk warrants such an increase. 
 
-3. The agencies should consider alternative methodologies for recognizing diversification across risk classes in the calculation of the SA-CVA, such as using a correlation matrix to capture the dependence between risk factors. 
+3. The agencies should consider alternative methodologies for recognizing diversification across risk classes in the calculation of the SA-CVA, such as using a correlation matrix to capture the dependence between the banking organization's exposure to a counterparty and the counterparty's credit quality. 
 
 4. The default value of one for the multiplier is appropriate as it is a conservative estimate of the model risk in the calculation of sensitivities for the aggregate regulatory CVA arising from the CVA risk covered positions relative to that for market risk covered positions. 
 
-5. The proposed transition provisions are appropriate as they provide applicable banking organizations sufficient time to adjust to the proposal while minimizing the potential impact that implementation could have on their ability to lend. 
-
-6. The agencies should consider alternative implementation methods, such as a longer transition
+5. The proposed transition provisions are appropriate as they provide applicable banking organizations sufficient time to adjust to the

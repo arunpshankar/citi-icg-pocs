@@ -1,5 +1,13 @@
- 1. Section 217.1 is amended to remove the definition of "advanced approaches Board-regulated institution" and add a definition of "Board-regulated institution subject to subpart E of this part".
-2. Section 217.2 is amended to remove the words "advanced approaches total risk-weighted assets" and add the words "expanded total risk-weighted assets".
-3. Section 217.22 is amended to remove the words "advanced approaches banking organizations" and add the words "banking organizations subject to subpart E of the agencies' capital rule".
-4. Section 217.34 is amended to remove the reference to "§ 217.133" and add a reference to "§ 217.114".
-5. Appendix A to part 217 is amended to remove the words "advanced approaches institutions" and add the words "institutions subject to subpart E of the agencies' capital rule".
+ 1. The final rule revises the capital rule by removing references to the advanced approaches framework.
+
+
+2. The final rule revises the capital rule to remove references to the total risk-weighted assets and replaces them with expanded total risk-weighted assets.
+
+
+3. The final rule revises the capital rule to update certain references to other sections within the capital rule.
+
+
+4. The final rule revises the capital rule to update footnote references in the rule.
+
+
+5. The final rule revises the capital rule to update the stress capital buffer requirement calculation.

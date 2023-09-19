@@ -1,9 +1,13 @@
  1. The proposal introduces a new method, the Basic CVA (BA-CVA), for calculating risk-based capital requirements for CVA risk. 
 
+
 2. The BA-CVA capital requirement is calculated as a weighted average of the risk-based capital requirement for CVA positions before and after recognizing the risk mitigating effect of eligible CVA hedges. 
+
 
 3. The formula for calculating the risk-based capital requirement under the BA-CVA is provided, along with the regulatory correlation parameter and the supervisory risk weights. 
 
+
 4. The proposal also provides a simplified representation of how the expected shortfall of the counterparty credit spread component of CVA risk of a single counterparty can be calculated. 
+
 
 5. The proposal includes GSE debt and public sector entities for government-backed non-financials, education, and public administration to appropriately reflect the potential variability in the credit spreads of such counterparties.

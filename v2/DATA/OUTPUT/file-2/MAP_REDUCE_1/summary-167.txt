@@ -1,5 +1,5 @@
- 1. The ES-based measure is calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks. 
-2. The ES-based measure is calculated using a one-tail, 97.5th percentile confidence level. 
-3. A liquidity horizon-adjusted ES-based measure is calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result. 
-4. The aggregate capital measure for modellable risk factors (IMCC) is the sum of the ES-based measure and the aggregate capital measure for non-modellable risk factors (SES). 
-5. The non-default risk capital measure is the sum of the IMCC and the SES.
+ 1. The ES-based measure must be calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks. 
+2. The ES-based measure must be calculated using a one-tail, 97.5th percentile confidence level. 
+3. A liquidity horizon-adjusted ES-based measure must be calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result. 
+4. The aggregate capital measure for modellable risk factors (IMCC) must be equal to the sum of the ES-based measure and the aggregate capital measure for non-modellable risk factors (SES). 
+5. The non-default risk capital measure must be equal to the sum of the IMCC and the aggregate capital measure for non-modellable risk factors (SES).

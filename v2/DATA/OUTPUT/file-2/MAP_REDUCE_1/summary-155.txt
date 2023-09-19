@@ -1,5 +1,5 @@
- (v) For interest rate risk, use the correlation parameters in Table 2, with 99.9% for same tenor and curve, and 50% for cross-bucket correlation. 
-(vi) For credit spread risk for non-securitizations, establish buckets along two dimensions: credit quality and sector, and use the risk weights in Table 3. 
-(vii) For credit spread risk for non-securitizations within a bucket, use the correlation parameters in (iii). 
-(viii) For equity risk, use the correlation parameters in Table 4. 
-(ix) For commodity risk, use the correlation parameters in Table 5.
+ (v) For interest rate risk, use the correlation parameters in Table 2, with 99.9% for cross-currency basis risk. 
+(vi) For credit spread risk for non-securitizations, establish buckets along two dimensions: credit quality and sector. 
+(vii) Use the risk weights in Table 3 for credit spread risk for non-securitizations. 
+(viii) For credit spread risk for non-securitizations within a bucket, use the correlation parameters in (iii). 
+(ix) For delta bucket-level risk positions across buckets within the credit spread risk class, the cross-bucket correlation parameter Ybc equals 50%.

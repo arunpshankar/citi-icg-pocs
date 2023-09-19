@@ -1,13 +1,13 @@
  1. A banking organization may use the simple approach or the collateral haircut approach to recognize the risk-mitigating effects of financial collateral. 
 
 
-2. The simple approach allows a banking organization to apply a risk weight to the portion of an exposure that is secured by the fair value of financial collateral based on the risk weight assigned to the collateral under this subpart. 
+2. The simple approach can be used for any exposure that is not a derivative contract or a netting set of derivative contracts, while the collateral haircut approach can be used for repo-style transactions, eligible margin loans, or a netting set of such transactions. 
 
 
-3. The collateral haircut approach allows a banking organization to recognize the credit risk mitigation benefits of financial collateral that secures an eligible margin loan, repo-style transaction, or netting set of such transactions. 
+3. Under the simple approach, the risk weight for the collateralized portion of the exposure may not be less than 20%, except for certain exceptions such as cash on deposit or exposures to sovereigns that qualify for a zero percent risk weight. 
 
 
-4. Under the collateral haircut approach, a banking organization must determine the exposure amount for a netting set of eligible margin loans or repo-style transactions according to a specified formula. 
+4. Under the collateral haircut approach, the exposure amount for a netting set of eligible margin loans or repo-style transactions is calculated using a formula that includes the current fair value of the instruments, cash, or gold involved in the transaction, as well as haircuts appropriate for each instrument or gold. 
 
 
-5. A banking organization must apply a risk weight to the unsecured portion of the exposure based on the risk weigh
+5. The collateral haircut approach also includes a formula to calculate the net exposure and gross exposure of the netting set.

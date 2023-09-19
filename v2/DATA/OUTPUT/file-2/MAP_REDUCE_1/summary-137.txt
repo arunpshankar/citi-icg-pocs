@@ -2,8 +2,8 @@
 
 2. The general qualitative disclosure requirement for credit risk mitigation includes policies and processes for on- or off-balance sheet netting, collateral valuation and management, main types of collateral taken, risk concentrations, and a breakdown of credit derivative providers. 
 
-3. The general qualitative disclosure requirement for securitization includes the [BANKING ORGANIZATION]'s objectives, nature of risks, roles played in the securitization process, processes to monitor changes in credit and market risk, policies for mitigating retained credit risk, and risk-based capital approaches. 
+3. The general qualitative disclosure requirement for securitization includes the [BANKING ORGANIZATION]'s objectives, nature of risks, roles played, processes for monitoring changes in credit and market risk, policies for mitigating retained credit risk, and risk-based capital approaches. 
 
-4. The general qualitative disclosure requirement for equities not subject to subpart F includes differentiation between holdings on which capital gains are expected and those taken for other objectives, and discussion of important policies covering valuation and accounting for equity holdings. 
+4. The general qualitative disclosure requirement for equities not subject to subpart F includes differentiation between holdings on which capital gains are expected and those taken for other objectives, and discussion of important policies covering valuation and accounting. 
 
 5. The general qualitative disclosure requirement for interest rate risk for non-trading activities includes the nature of interest rate risk, key assumptions, and frequency of measurement.

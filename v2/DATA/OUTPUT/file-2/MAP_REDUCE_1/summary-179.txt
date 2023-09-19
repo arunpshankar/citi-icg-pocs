@@ -1,5 +1,5 @@
- 1. Vega risk factors measure the simultaneous relative change of all volatilities for a given risk factor. 
-2. Vega risk weights are set at 100% for foreign exchange, reference credit spread, and commodity risk, and 78% or 100% for equity risk, depending on the bucket. 
-3. Vega cross-bucket correlation parameters are set at 60% for all currency pairs in foreign exchange risk, and vary for equity and commodity risk depending on the bucket. 
-4. Vega buckets for reference credit spread, equity, and commodity risk are defined in the same manner as the delta buckets for those risk types. 
-5. Vega risk factors for reference credit spread, equity, and commodity risk measure the simultaneous relative shift of the volatilities for all reference names, reference entities, or commodities in the bucket, respectively.
+ 1. Vega risk factors for foreign exchange risk equal the simultaneous, relative change of all volatilities for the exchange rate between a [BANKING ORGANIZATION]'s reporting currency or base currency and each other currency.
+2. Vega risk weights for foreign exchange risk equal 100 percent.
+3. Vega cross-bucket correlation parameter for foreign exchange risk equals 60 percent for all currency pairs.
+4. Vega risk weights for reference credit spread risk equal 100 percent.
+5. Vega risk weights for equity risk equal 78 percent for large market cap buckets and 100 percent otherwise.

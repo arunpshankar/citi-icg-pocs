@@ -1,73 +1,69 @@
  SECTION 1: 
 The proposal would increase RWA for trading activities, raising required capital ratios by as much as 67 basis points. It would also affect large banking organizations through changes in the calculation of regulatory capital, TLAC, LTD, single counter-party credit limits, and method 2 GSIB scores. 
 Additionally, the proposal would require banking organizations subject to Category III or IV capital standards to include AOCI in their regulatory capital. 
-Lastly, if affected banking organizations do not adjust their AOCI management, AOCI recognition could increase variation in regulatory capital ratios over time and make them more correlated with market cycles.
 
 SECTION 2: 
-The RWA changes would affect risk-based TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and LTD requirement by 2.0%. 
-The proposal eliminates the internal models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach, which may result in higher derivative exposures and more stringent credit limits. 
+The RWA changes would affect TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and the average LTD requirement by 2.0%. The proposal eliminates the internal models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach, which may result in higher derivative exposures and more stringent credit limits. 
 Furthermore, the RWA changes would decrease the method 2 scores of U.S. GSIBs by 32 points on average, reducing their GSIB capital surcharges by about 16 basis points. 
-Lastly, the proposal makes technical corrections and clarifications to the capital rule, including removing expired transition provisions and updating terminology. 
-The OCC proposes to revise the methodology for identifying national banks and federal savings associations subject to the enhanced supplementary leverage ratio standard.
 
 SECTION 3: 
-The proposal revises the definition of financial collateral and corrects errors in the capital rule. 
-It removes expired or obsolete provisions from various sections in part 324. 
-It amends the prompt corrective action provisions to remove outdated transitions and obsolete references to part 325. 
-The proposal also makes conforming amendments to other Board rules that reference the capital rule. 
-The proposal does not impose any additional regulatory burden on community banks.
+The proposal makes technical corrections and clarifications to the capital rule, including updates to terminology, removal of expired provisions, and addressing errors. It also proposes to revise the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard. 
 
 SECTION 4: 
-The proposed rule contains revisions to information collections subject to the PRA. 
-The revisions would extend for three years the Reporting, Recordkeeping, and Disclosure Requirements Associated with Regulatory Capital Rules and Market Risk Capital Rules. 
-The Board would also revise and extend for three years the Financial Statements for Holding Companies, Capital Assessments and Stress Testing, and Systemic Risk Report. 
-The agencies, under the auspices of the FFIEC, would also propose related revisions to the Consolidated Reports of Condition and Income (Call Reports), Regulatory Capital Reporting for Institutions Subject to the Advanced Capital Adequacy Framework, and Market Risk Regulatory Report for Institutions Subject to the Market Risk Capital Rule. 
-Comments are invited on the necessity, accuracy, quality, utility, burden, and costs of the proposed revisions.
+The proposal revises the definition of financial collateral, corrects errors in the capital rule, and makes technical amendments to the rule. It also proposes to remove expired or obsolete provisions from the rule and amend the prompt corrective action provisions. Additionally, the proposal makes conforming amendments to other Board rules that reference the capital rule. 
 
 SECTION 5: 
-The proposal modifies reporting, recordkeeping, and disclosure requirements for regulatory capital rules. 
-It adds new requirements and revises existing ones. 
-It includes new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP, the management of hedged exposures during bankruptcy, reorganization, or restructuring, and the monitoring of operational risk. 
-It includes new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. 
-It revises existing disclosure requirements and adds new ones.
+The proposal would broaden the scope of application of the supplementary leverage ratio requirement. It also contains collections of information within the meaning of the Paperwork Reduction Act of 1995 (PRA). 
 
 SECTION 6: 
+The proposed rule contains revisions to information collections subject to the PRA. The revisions would extend for three years the Reporting, Recordkeeping, and Disclosure Requirements Associated with Regulatory Capital Rules and Market Risk Capital Rules. 
+The Board would also revise and extend for three years the Financial Statements for Holding Companies, Capital Assessments and Stress Testing, and Systemic Risk Report. 
+
+SECTION 7: 
+The agencies, under the auspices of the FFIEC, would also propose related revisions to the Consolidated Reports of Condition and Income (Call Reports), Regulatory Capital Reporting for Institutions Subject to the Advanced Capital Adequacy Framework, and Market Risk Regulatory Report for Institutions Subject to the Market Risk Capital Rule. 
+
+SECTION 8: 
+The proposal modifies reporting, recordkeeping, and disclosure requirements for regulatory capital rules. It adds new requirements and revises existing ones. It includes new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP, the management of hedged exposures during bankruptcy, reorganization, or restructuring, and the monitoring of operational risk. 
+It includes new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. It revises existing disclosure requirements and adds new ones. 
+
+SECTION 9: 
 The OCC, Board, and FDIC are proposing to amend their respective market risk capital rules to implement the final rule issued by the Basel Committee on Banking Supervision (Basel Committee) in January 2019. 
 The Basel Committee's final rule revises the market risk framework, including the standardized approach, the internal models approach, and the trading book capital requirements. 
 The proposed amendments would align the agencies' market risk capital rules with the Basel Committee's final rule and would also make certain technical corrections and conforming changes to the agencies' rules. 
-The proposed amendments would reduce the overall number of disclosure requirements by 54 line items, including all quantitative disclosures, which are now included in regulatory reporting. 
-The estimated annual burden hours for the proposed amendments are 127,254 for the OCC, 89,622 for the Board, and 16,872 for the FDIC.
 
-SECTION 7: 
+SECTION 10: 
+The proposed amendments would reduce the overall number of disclosure requirements by 54 line items, including all quantitative disclosures, which are now included in regulatory reporting. The estimated annual burden hours for the proposed amendments are 127,254 for the OCC, 89,622 for the Board, and 16,872 for the FDIC. 
+
+SECTION 11: 
 The agencies are proposing to amend their market risk information collections to reflect the proposed recordkeeping, disclosure, and reporting requirements associated with the proposed market risk capital requirements. 
 A banking organization subject to the proposed market risk capital requirements would have to provide public regulatory reports and receive prior written approval from its primary Federal supervisor for calculating market risk capital requirements using internal models. 
 The proposal would also include recordkeeping requirements for banking organizations subject to the credit valuation adjustment, such as having a clear documented hedging policy for CVA risk and documenting the initial and ongoing validation of models used for calculating regulatory CVA. 
+
+SECTION 12: 
 The Board is proposing to amend the FR Y-9C report form and instructions to align with the proposal, including revising Schedule HC-R, Part I, Regulatory Capital Components and Ratios, to align the calculation of regulatory capital for HCs subject to Category III and IV standards with the calculation for HCs subject to Category I and II standards. 
-The Board estimates that revisions to the FR Y-9C would increase the estimated annual burden by 49 hours.
+The Board estimates that revisions to the FR Y-9C would increase the estimated annual burden by 49 hours. 
 
-SECTION 8: 
-The FR Y-14 reports collect data on balance sheet, income, losses, capital, and risk management practices from large firms. 
-The data is used to set firms' stress capital buffer requirements and support other supervisory efforts. 
-The proposed rule would revise the FR Y-14 reports to reflect changes to the capital rules. 
+SECTION 13: 
+The FR Y-14 reports collect data on balance sheet, income, losses, capital, and risk management practices from large firms. The data is used to set firms' stress capital buffer requirements and support other supervisory efforts. The proposed rule would revise the FR Y-14 reports to reflect changes to the capital rules. 
 The proposed rule would also make conforming changes to the FR Y-14 reports to reflect changes to the operational risk and credit risk mitigation rules. 
-The proposed changes would be effective for the July 31, 2025, as of date for the FR Y-14M, the September 30, 2025, as of date for the FR Y-14Q, and the December 31, 2025, as of date for the FR Y-14A.
+The proposed changes would be effective for the July 31, 2025, as of date for the FR Y-14M, the September 30, 2025, as of date for the FR Y-14Q, and the December 31, 2025, as of date for the FR Y-14A. 
 
-SECTION 9: 
+SECTION 14: 
 The proposal specifies that TLAC risk-weighted asset buffer items be reported similarly to FR Y-9C and requires expanded risk-based approach firms to report certain capital ratios if binding. 
 The proposal eliminates the AOCI opt-out option for banking organizations subject to expanded risk-based standards. 
 The proposal revises regulatory capital deductions to align thresholds for expanded risk-based standards with other categories. 
 The proposal replaces references to the IRB approach in RWA schedules and specifies calculation methods for expanded risk-based standards. 
-The proposal introduces two market risk RWA methodologies, revises market risk RWA items, and adds items for model-ineligible desks and approved models.
+The proposal introduces two market risk RWA methodologies, revises market risk RWA items, and adds items for model-ineligible desks and approved models. 
 
-SECTION 10: 
+SECTION 15: 
 Banking organizations are required to submit a complete history of operational losses at and above the institution's established collection threshold(s). 
 The collection and reporting threshold on Schedules E.1 and E.4 should be no greater than $20,000 on a nominal and net loss basis. 
 Insurance recoveries are excluded from the "Recovery Amount ($USD))" item in Schedule E.1 and added as the "Insurance Recovery Amount ($USD))" item. 
 Banking organizations subject to the advanced approaches framework report probability of default (PD), loss given default (LGD), expected loss given default (ELGD), and exposure at default (EAD) values on FR Y-14Q, Schedule A (Retail) and Schedule H (Wholesale). 
-The Board is proposing to amend the FR Y-15 form and instructions to align with the proposed capital rule.
+The Board is proposing to amend the FR Y-15 form and instructions to align with the proposed capital rule. 
 
-SECTION 11: 
+SECTION 16: 
 The proposal revises capital requirements for large banking organizations and those with significant trading activity. 
 It replaces the current internal models approach for credit and operational risk with standardized approaches and revises market risk and credit valuation adjustment risk requirements. 
 The proposed rule generally would not apply to small entities supervised by the Board. 
-The FDIC certifies that the proposed rule will not have a s
+The FDIC certifies that the proposed rule will not have a significan
