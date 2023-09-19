@@ -1,0 +1,5 @@
+1. A deposit account provided to a client who maintains a fiduciary or custodial and safekeeping account with the custody bank is used to facilitate the administration of the fiduciary or custodial and safekeeping account.
+2. FDIC-supervised institutions must determine their regulatory capital ratios as described in the regulations, including the ratio of the institution's expanded risk-based approach-adjusted total capital to expanded total risk-weighted assets.
+3. The capital ratio of a state savings association is the ratio of the association's core capital (tier 1 capital) to total assets.
+4. Amendments to the regulations include changes to the wording of certain sections, the redesignation of footnotes, and the removal of certain paragraphs.
+5. The regulations also detail the capital components and eligibility criteria for regulatory capital instruments, including the requirement for an FDIC-supervised institution to disclose that the holders of an instrument may be fully subordinated to interests held by the U.S. government in the event of receivership, insolvency, liquidation, or similar proceeding.

@@ -1,0 +1,2 @@
+ (v) For interest rate risk, use the correlation parameters in Table 2, with 99.9% for same tenor and curve, 40% for inflation curve, and 0% for cross-currency basis curve. 
+(vi) For credit spread risk for non-securitizations, establish buckets along credit quality and sector, use risk weights in Table 3, and use the correlation parameters specified.

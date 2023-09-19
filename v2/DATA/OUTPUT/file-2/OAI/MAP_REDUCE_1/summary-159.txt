@@ -1,0 +1,5 @@
+1. For calculating risk-weighted delta sensitivities for foreign exchange risk, a banking organization must apply a risk weight of 15 percent, except for certain listed currencies where the risk weight can be divided by the square root of 2. 
+2. For aggregating delta bucket-level risk positions within the foreign exchange risk class, the cross-bucket correlation parameter equals 60 percent. 
+3. For calculating risk-weighted sensitivities for vega risk, a banking organization must use the corresponding risk weight for each risk class as specified in Table 11. 
+4. For purposes of aggregating risk-weighted vega sensitivities within a bucket, a banking organization must use specific correlation parameters, which vary depending on the risk factor and risk class. 
+5. For calculating the net curvature risk position for foreign exchange risk and equity risk, the curvature risk weight is a relative shift equal to the delta risk weight corresponding to the risk factor.

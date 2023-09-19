@@ -1,0 +1,29 @@
+**Section 1: Proposed Changes in Asset Class-Specific Risk Weights**
+The proposed changes would slightly alter banking organizations' portfolio allocations, potentially shifting asset allocation towards assets with lower risk weights. The proposal requires large banking organizations to maintain equity capital funding at a level at least as high as that required by the U.S. standardized approach. It also raises the risk weights for residential real estate and retail credit exposures and increases capital requirements affecting trading activities.
+
+**Section 2: Impact on Risk-Weighted Assets (RWA)**
+The proposed changes to RWA would impact the risk-based Total Loss-Absorbing Capacity (TLAC) and Long-Term Debt (LTD) requirements for Category I bank holding companies. The proposal also eliminates the internal-models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach for counterparty credit risk.
+
+**Section 3: Proposed RWA Changes and Technical Corrections**
+The proposed RWA changes would affect the method 2 scores of U.S. Globally Systemically Important Banks (GSIBs). The proposal also includes technical corrections and clarifications to several provisions of the capital rule.
+
+**Section 4: Reporting, Recordkeeping, and Disclosure Requirements**
+The proposed rule includes revisions to current information collections under the Paperwork Reduction Act (PRA). The agencies are inviting comments on the necessity of the information collections for the proper performance of the agencies' functions.
+
+**Section 5: Proposed Changes to Reporting of Financial Items**
+The Board is proposing changes to the reporting of financial items to ensure banking organizations remain compliant with distribution limitations. This includes reporting the expanded risk-based approach versions of the common equity tier 1 capital ratio, tier 1 capital ratio, and total capital ratio.
+
+**Section 6: Proposed Rule on Capital Requirements**
+The proposed rule aims to revise capital requirements for large banking organizations and those with significant trading activity. The revisions aim to improve risk-based capital requirements calculations, reduce complexity, enhance consistency, and facilitate better supervisory and market assessments of capital adequacy.
+
+**Section 7: Feedback on Proposed Rule**
+The agencies are inviting comments on how to make notices of proposed rulemaking easier to understand and more organized. They are also seeking feedback on the clarity of the proposed rule's language and format.
+
+**Section 8: Risk Weights for Various Types of Exposures**
+Banking organizations must assign risk weights to various types of exposures. Risk weights are also assigned to real estate exposures, with different weights for multifamily mortgages, pre-sold construction loans, high-volatility commercial real estate exposures, and others based on Loan-to-Value (LTV) ratios and whether the exposure is dependent on real estate cash flows.
+
+**Section 9: Calculation of Exposure Amount for Derivative Contracts**
+The exposure amount for derivative contracts must be determined using the standardized approach for counterparty credit risk (SA-CCR), and can be reduced by the credit valuation adjustment recognized in the balance sheet valuation of any derivative contracts in the netting set.
+
+**Section 10: Risk-Weighted Asset Amount for Clearing Transactions**
+Banking organizations must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction. The bank's total risk-weighted assets for cleared transactions is the sum of the risk-weighted asset amounts for all of its cleared transactions.

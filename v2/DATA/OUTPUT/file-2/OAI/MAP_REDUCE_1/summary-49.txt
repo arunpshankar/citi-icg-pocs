@@ -1,0 +1,5 @@
+1. The agencies are considering modifying the criteria for including external CVA hedges in the scope of market risk covered position and are seeking feedback on the benefits and drawbacks of requiring banking organizations to include ineligible external CVA hedges in the market risk capital requirements.
+2. The current capital rule does not address the transfers of risk from a banking unit or a CVA desk to a trading desk within the same banking organization, potentially misrepresenting the risk position of the banking organization.
+3. The proposal would define internal risk transfers and establish a set of requirements for a banking organization to recognize certain types of internal risk transfers in risk-based capital requirements.
+4. The Basel III reforms introduce risk-based capital treatment of internal transfers of credit risk executed from a banking unit to a trading desk to hedge the credit risk arising from exposures in the banking unit.
+5. The proposal would specify the risk-based capital treatment of internal transfers of interest rate risk from a banking unit to the trading desk to hedge the interest rate risk arising from the banking unit.

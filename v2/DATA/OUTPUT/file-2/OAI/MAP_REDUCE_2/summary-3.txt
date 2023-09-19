@@ -1,0 +1,32 @@
+**Section 1: Risk Factor Eligibility and Data Quality**
+The proposal allows banking organizations to use different periods for internal data for risk factor eligibility tests and expected shortfall models. Risk factors that pass the eligibility test and meet data quality requirements are deemed modellable. The agencies are seeking feedback on the data quality requirements, the requirement for weekly data updates, and the operational burden of modeling the idiosyncratic risk of an issuer.
+
+**Section 2: Internally Modelled Capital Calculation (IMCC)**
+The IMCC is designed to capture estimated losses for market risk covered positions. The proposal suggests that banking organizations should calculate entity-wide liquidity horizon-adjusted expected shortfall-based measures for all risk factors during stress. The agencies are seeking feedback on the proposal to use the same reduced set of risk factors to identify stress periods and calculate the IMCCs.
+
+**Section 3: Market Risk Capital Requirements**
+The proposal requires banking organizations to calculate market risk capital requirements for model-eligible trading desks incorporating securitization positions. The proposal also requires a banking organization's market risk capital requirement to reflect an additional capital requirement for deficiencies in the accuracy of a banking organization's internal models.
+
+**Section 4: PLA Test and Model Eligibility**
+The proposal requires a banking organization to switch from the internal models approach to the standardized approach for calculating market risk capital requirements if a trading desk fails the PLA test. The proposal also clarifies the treatment of certain market risk covered positions under the standardized and models-based measures for market risk.
+
+**Section 5: Securitization Positions and Equity Positions**
+The proposal mandates banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement. For equity positions in an investment fund, the proposal requires a banking organization to apply the look-through approach under the standardized measure for market risk.
+
+**Section 6: Disclosure Requirements**
+The current capital rule requires banking organizations to disclose information about their portfolios and the internal models used to calculate market risk. A new proposal would eliminate certain quantitative disclosures, but retain others related to securitization positions and correlation trading positions.
+
+**Section 7: Credit Valuation Adjustment (CVA) Risk**
+The proposal would require large banking organizations to calculate a risk-weighted asset amount for the CVA risk arising from their portfolio of OTC derivative transactions. The proposal includes two approaches for calculating CVA capital requirements: the basic approach (BA-CVA) and the standardized approach (SA-CVA).
+
+**Section 8: Risk Management Requirements for CVA Risk**
+The proposal mandates banking organizations to meet certain risk management requirements related to the identification and management of CVA risk covered positions and eligible CVA hedges. This includes complying with additional operational requirements as outlined in the proposal.
+
+**Section 9: Regulatory CVA Calculation**
+The proposal requires banking organizations to include exposure models for regulatory CVA calculation in their risk management framework. The models must be validated annually and in case of sudden market changes.
+
+**Section 10: Delta and Vega Risk Factors**
+The proposal requires banking organizations to calculate risk-based capital requirements for delta and vega separately. The proposal also requires banking organizations to identify all relevant risk factors for delta and vega risk, and to identify the corresponding risk buckets within relevant risk classes.
+
+**Section 11: Impact on Capital Requirements**
+The proposal aims to strengthen risk-based capital requirements for large banking organizations, improving their risk sensitivity and comprehensiveness. The proposal would apply revised capital requirements to banking organizations subject to Category I, II, III, or IV capital standards, and to banking organizations with significant trading activity.

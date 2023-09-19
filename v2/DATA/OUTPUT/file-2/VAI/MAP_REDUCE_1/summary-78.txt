@@ -1,0 +1,5 @@
+ 1. The proposal introduces a liquidity horizon-adjusted expected shortfall-based measure that captures potential losses over longer time horizons.
+2. The measure is calculated at the entity-wide level for each risk class and across risk classes for all model-eligible trading desks.
+3. The proposal also includes a stress period that is reviewed and updated quarterly or when there are material changes in risk factors.
+4. The agencies request comment on the appropriateness of assigning a liquidity horizon for multi-underlying instruments and requiring banking organizations to use the next longer liquidity horizon for instruments with a maturity shorter than the respective liquidity horizon assigned to the risk factor.
+5. The agencies also request comment on the appropriateness of the proposed stress period and the frequency of review and update.

@@ -1,0 +1,32 @@
+Section 1: Internal Credit Valuation Adjustment (CVA) Risk Transfers
+The proposal outlines capital treatment for internal CVA risk transfers between a CVA desk and a trading desk. It mandates a dedicated CVA desk for managing internal risk transfers and record-keeping of each internal derivative transaction. If the internal risk transfer involves curvature risk, default risk, or the residual risk add-on, an external transaction with a third party is required.
+
+Section 2: Market Risk Covered Positions
+The proposal expands requirements for banking organizations to identify market risk covered positions, including annual updates and exclusions. It introduces a formal framework for re-designating a position after initial designation, requiring senior management approval.
+
+Section 3: Trading Desk Definition and Requirements
+The proposal introduces the concept of a trading desk, a unit that manages and operates trading activities. It requires clearly defined trading and hedging strategies, approved by senior management, and specifies the expected holding period, market risk, and risk acceptance level.
+
+Section 4: Market Risk Capital Framework
+The proposed market risk capital framework applies to all banking organizations. It requires clear policies for managing market risk, daily monitoring of position limits, and quarterly stress tests at both entity-wide and trading-desk levels. It also enhances control, oversight, and validation requirements.
+
+Section 5: Documentation and Operational Requirements
+The proposal requires banking organizations to document all aspects of their market risk management, including internal risk transfers and re-designations of positions. It allows the use of an internal model to calculate risk-based capital requirements, provided they have approval from their primary Federal supervisor.
+
+Section 6: Models-Based Measure for Market Risk
+The proposal introduces a models-based measure for market risk, limiting its use to trading desks that can accurately capture the risks of market risk covered positions in internal models. It replaces the VaR-based measure with an expected shortfall measure to capture tail risk and varying liquidity horizons.
+
+Section 7: Re-Designation and Capital Add-On Requirement
+The proposal requires banking organizations to have clearly defined policies for identifying market risk covered positions and for determining if a position needs to be re-designated. A capital add-on requirement is introduced as a penalty for any re-designation, unless approved by the primary Federal supervisor.
+
+Section 8: Risk Factor Sensitivities
+The proposal requires banking organizations to calculate the sensitivity of a market risk covered position to each of the proposed risk factors for delta, vega, and curvature. These calculations estimate how much a position's value might change as a result of a specified change in the risk factor.
+
+Section 9: Default Risk Capital Requirement
+The proposal requires banking organizations to calculate the total standardized default risk capital requirement as the sum of each default risk category level capital requirements, without recognizing any diversification benefits across different types of default risk categories.
+
+Section 10: Residual Risk Add-On
+The proposal requires banking organizations to calculate a residual risk add-on for market risk covered positions with exotic exposure and other residual risks. Certain positions can be excluded from the residual risk add-on calculation, including those listed on an exchange, eligible to be cleared by a CCP or QCCP, or simple options.
+
+Section 11: Internal Models Approach
+The internal models approach includes a standardized default risk capital requirement. To calculate the overall capital required, a banking organization would add the standardized default risk capital requirement to the greater of the sum of the capital requirements for modellable and non-modellable risk factors as of the most recent reporting date, or the sum of the average capital requirements for non-modellable risk factors over the prior 60 business days.

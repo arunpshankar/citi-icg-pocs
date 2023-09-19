@@ -1,5 +1,0 @@
- 1. The Basel Committee published a new framework for market risk capital requirements in January 2016. 
-2. In January 2019, the Basel Committee published an amended framework for market risk capital requirements. 
-3. The proposal would improve the risk-sensitivity and calibration of market risk capital requirements relative to the current capital rule. 
-4. The proposal would introduce a risk-sensitive standardized methodology for calculating risk-weighted assets for market risk and a new models-based methodology to replace the framework in subpart F of the current capital rule. 
-5. The standardized measure for market risk would be the default methodology for calculating market risk capital requirements for all banking organizations subject to market risk requirements.

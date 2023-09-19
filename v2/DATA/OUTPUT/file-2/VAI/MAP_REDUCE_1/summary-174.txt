@@ -1,0 +1,9 @@
+ 1. The CVA vega capital requirement equals the sum of the risk class-level CVA vega capital requirements for each of the five risk classes: interest rate risk, foreign exchange risk, equity risk, reference credit spread risk, and commodity risk. 
+
+2. The risk class-level CVA vega capital requirement is calculated by aggregating the bucket-level CVA vega capital requirements for each bucket in the risk class using the correlation parameters specified in § __.225(b). 
+
+3. The bucket-level CVA vega capital requirement is calculated by aggregating the net weighted vega sensitivities for each risk factor in a bucket using the buckets and correlation parameters specified in § __.225(b). 
+
+4. The net weighted vega sensitivity is calculated by subtracting the weighted hedge vega sensitivity from the weighted CVA vega sensitivity. 
+
+5. The weighted CVA vega sensitivity and the weighted hedge vega sensitivity are calculated by multiplying the CVA vega sensitivity and the hedge vega sensitivity by the corresponding risk weight specified in § __.225(b).

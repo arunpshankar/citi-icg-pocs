@@ -1,0 +1,5 @@
+1. The fair value (V) of each derivative contract or netting set of derivative contracts is calculated, including cleared transactions and, at the discretion of the bank, excluding forward agreements treated as derivative contracts that are part of repurchase or reverse repurchase transactions. 
+2. The amount of cash collateral received from a counterparty to a derivative contract (CVM) and the amount of cash collateral posted to a counterparty (CVMp) are also calculated. 
+3. For multiple netting sets under a single variation margin agreement, a bank must apply a specific formula for replacement cost, which only includes cash collateral that satisfies certain conditions. 
+4. The effective notional principal amount of a credit derivative is calculated, with the bank allowed to reduce this amount by the amount of any reduction in the mark-to-fair value of the credit derivative if recognized in common equity tier 1 capital. 
+5. The counterparty credit risk of a repo-style transaction is calculated, including where the bank acts as an agent for a repo-style transaction and indemnifies the customer with respect to the performance of the customer's counterparty.

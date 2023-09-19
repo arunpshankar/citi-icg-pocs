@@ -1,0 +1,5 @@
+ 1. The ES-based measure is a risk measure that captures potential future losses.
+2. The ES-based measure is calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks.
+3. The ES-based measure is calculated using a one-tail, 97.5th percentile confidence level.
+4. A liquidity horizon-adjusted ES-based measure is calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result.
+5. The liquidity horizon-adjusted ES-based measure is used to calculate the non-default risk capital measure.

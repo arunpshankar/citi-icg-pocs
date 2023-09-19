@@ -1,5 +1,0 @@
- 1. The proposed methodology for calculating the exposure amount for eligible margin loans and repo-style transactions covered by a QMNA has the advantage of capturing the baseline exposure of a netting set of eligible margin loans or repo-style transactions after accounting for the value of any collateral. 
-2. It also captures the systematic risk (based on the net exposure) and the idiosyncratic risk (based on the gross exposure) of the netting set of eligible margin loans or repo-style transactions covered by a QMNA. 
-3. The proposed methodology also has the advantage of allowing the formula to recognize netting at the level of the netting set and correlations in the movement of market prices for instruments lent and received. 
-4. Additionally, because the contribution from the gross exposure component to the exposure amount would decrease proportionally with an increase in the number of unique instruments by CUSIP designations or foreign equivalent, the gross exposure would capture the impact of portfolio diversification. 
-5. The fourth component, (Σfx(Efx × Hƒx)), would capture any adjustment to reflect currency mismatch, if applicable.

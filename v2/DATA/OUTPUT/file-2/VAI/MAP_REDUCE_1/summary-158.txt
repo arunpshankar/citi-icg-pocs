@@ -1,0 +1,9 @@
+ 1. Delta sensitivities are assigned to different buckets based on the type of risk, with different risk weights applied to each bucket. 
+
+2. For equity risk, delta sensitivities are further categorized into 13 buckets based on market capitalization and liquidity, with varying correlation parameters applied within and between buckets. 
+
+3. For commodity risk, delta sensitivities are assigned to 11 buckets based on the commodity type, with specific risk weights and correlation parameters applied within and between buckets. 
+
+4. For foreign exchange risk, buckets are established for each exchange rate between the currency of a market risk covered position and the reporting currency, with a risk weight of 8% applied to all foreign exchange risk. 
+
+5. Cross-bucket correlation parameters are applied to aggregate delta bucket-level risk positions within and across risk classes.

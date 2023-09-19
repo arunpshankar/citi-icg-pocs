@@ -1,0 +1,5 @@
+ 1. The proposal introduces a risk-based approach to assigning risk weights to bank exposures, with three categories of bank exposures (Grade A, B, and C) based on the obligor's creditworthiness and publicly disclosed capital ratios. 
+2. Grade A exposures receive a lower risk weight of 40%, while Grade B and C exposures receive higher risk weights of 75% and 150%, respectively. 
+3. The proposal also includes a risk weight floor for foreign bank exposures based on the risk weight applicable to a sovereign exposure for the jurisdiction where the foreign bank is incorporated. 
+4. The proposal introduces a definition and explicit risk weight treatment for exposures in the form of subordinated debt instruments, which are assigned a risk weight of 100%. 
+5. The proposal requests feedback on the advantages and disadvantages of the proposed approach, potential concerns around procyclicality, the incorporation of specific capital levels in determining bank exposure categories, and other risk factors that could be considered.

@@ -1,0 +1,5 @@
+ 1. The table presents supervisory risk weights for various sectors and counterparty credit qualities.
+2. The agencies seek comment on the appropriateness of the proposed risk weights, particularly for financials, including government-backed financials.
+3. The agencies also seek comment on the treatment of public-sector entities and GSEs, and whether there are more appropriate ways to capture their counterparty credit risk.
+4. The CVA capital requirement has a risk-based capital component and a risk-hedging component.
+5. The agencies seek comment on the calculation of the exposure amount for standalone CVA counterparty-level capital requirement, and whether it poses particular issues for nonfinancial counterparties.

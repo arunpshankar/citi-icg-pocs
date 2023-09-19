@@ -1,0 +1,49 @@
+Section 1: Regulatory CVA Calculations and Risk Mitigants
+- Banking organizations must account for the dependence between exposure and counterparty's credit quality in regulatory CVA calculations for transactions with significant dependence.
+- Only qualifying financial collateral can be recognized as a risk mitigant for margined counterparties.
+- The same CVA exposure models must be used for financial reporting and regulatory CVA calculations.
+
+Section 2: CVA Vega Sensitivity and Risk Factor Calculations
+- Banking organizations must measure the CVA vega sensitivity for commodity risk and can use smaller values of risk factor changes if consistent with internal risk management calculations.
+- Volatility shifts must apply to both types of volatilities in exposure models when calculating CVA vega sensitivities.
+
+Section 3: Risk Classes and Delta Risk Factors
+- For counterparty credit spread risk, delta risk factors are calculated based on absolute shifts of credit spreads of individual entities and qualified indices.
+- Banking organizations may introduce additional risk factors for counterparty credit spread risk, reference credit spread risk, and equity risk.
+
+Section 4: Risk Weights and Correlation Parameters
+- Delta risk weights for counterparty credit spread risk and equity risk are set out in specific tables, with different weights assigned to different sectors and economies.
+- Cross-bucket correlation parameters are defined for different credit qualities across various buckets.
+
+Section 5: Regulatory Compliance and Definitions
+- National banks or Federal savings associations with total consolidated assets of $50 billion or more must make public disclosures as per subpart D.
+- If a national bank or Federal savings association changes its category, it must comply with the requirements of its new category, including applicable transition provisions.
+- Several definitions have been revised or removed, and new definitions have been added.
+
+Section 6: Consolidated Assets and Category Definitions
+- A national bank or Federal savings association's consolidated assets are calculated based on its total consolidated assets, as reported on the Call Report, for the most recent quarter or average of the most recent quarters.
+- Definitions are provided for Category III and Category IV entities based on total consolidated assets and other criteria.
+
+Section 7: Exposure Calculations and Definitions
+- The on-balance sheet component of an exposure is determined by the carrying value of the exposure, while the off-balance sheet component is determined by the notional amount multiplied by the appropriate credit conversion factor.
+- Definitions are provided for terms such as market risk-weighted assets, net independent collateral amount, netting set, and speculative grade.
+
+Section 8: Risk-Weighted Assets and Definitions
+- Standardized market risk-weighted assets are calculated by multiplying the standardized measure for market risk by 12.5.
+- Definitions are provided for terms such as sub-speculative grade, synthetic exposure, and total credit risk-weighted assets.
+
+Section 9: Derivative Contracts and Repo-Style Transactions
+- The fair value of each derivative contract or netting set of derivative contracts is calculated, including cleared transactions.
+- The counterparty credit risk of a repo-style transaction is calculated, including where the bank acts as an agent for a repo-style transaction and indemnifies the customer with respect to the performance of the customer's counterparty.
+
+Section 10: Regulatory Changes and Definitions
+- Changes have been made to various sections of the regulations, including the removal and revision of certain definitions.
+- National banks or Federal savings associations not subject to subpart E must make their AOCI opt-out election in the Call Report during the first reporting period after they are required to comply with subpart A.
+
+Section 11: Capital Requirements and Buffers
+- A Board-regulated institution subject to subpart E must maintain a supplementary leverage ratio of 3 percent.
+- The capital conservation buffer is composed solely of common equity tier 1 capital, and the maximum payout ratio is the percentage of eligible retained income that a Board-regulated institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter.
+
+Section 12: Countercyclical Capital Buffer and Distribution Limitations
+- The countercyclical capital buffer is an extension of the capital conservation buffer, calculated as the weighted average of the buffer amounts established for the jurisdictions where a Board-regulated institution's private sector credit exposures are located.
+- A Board-regulated institution is not allowed to make distributions or discretionary bonus payments during the current calendar quarter that exceed its maximum payout amount.

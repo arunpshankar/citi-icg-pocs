@@ -1,0 +1,5 @@
+1. A banking organization must demonstrate that its trading desk consists of similar market risk covered positions to another approved trading desk, or subject the trading desk to the PLA add-on until it provides at least 250 business days of backtesting and PLA test results. 
+2. Any changes to the trading desk structure that would result in a material or non-material change in the market risk capital requirement must be approved by the agency or promptly notified to the agency respectively. 
+3. The agency can rescind its approval of a model-eligible trading desk or subject it to the PLA add-on if it no longer complies with the requirements. 
+4. A banking organization must receive prior approval from the agency to use an internal model for the ES-based measure and must demonstrate that the model properly measures all the material risks, has been properly validated, and meets the applicable requirements. 
+5. The banking organization must review its internal models annually, integrate them into its daily risk management process, and validate them initially and on an ongoing basis.

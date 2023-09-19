@@ -1,0 +1,5 @@
+ 1. The agencies propose a 100% delta correlation parameter for securitization positions in the same bucket and related to the same securitization tranche with more than 80% overlap in notional terms. 
+2. For securitization positions non-CTP, the agencies seek comments on alternative criteria for application of the 100% correlation parameter, such as allowing a banking organization to apply a 100% delta correlation parameter if the securitization tranches can offset all or substantially all of the price risk of the position. 
+3. The agencies request comment on the appropriateness of allowing banking organizations to apply a higher intra-bucket correlation parameter of 99.5% to 99.9% for energy – carbon trading. 
+4. The agencies request comment on requiring banking organizations to apply a 35% correlation parameter for Uniform Mortgage Backed Securities. 
+5. The standardized default risk capital requirement is intended to capture the incremental loss if the issuer of an equity or credit position were to immediately default.

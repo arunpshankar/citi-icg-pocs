@@ -1,0 +1,5 @@
+ 1. A banking organization must calculate risk class-level capital requirements for delta, vega, and curvature risks. 
+2. The sensitivities-based capital requirement is the largest capital requirement produced under three correlation scenarios. 
+3. The delta capital requirement is calculated by aggregating the risk-weighted delta sensitivities across all market risk covered positions. 
+4. The vega capital requirement is calculated by aggregating the risk-weighted vega sensitivities for vega risk. 
+5. The curvature capital requirement is calculated by applying an upward and downward shock to each risk factor and calculating the incremental loss in excess of that already captured by the delta capital requirement.

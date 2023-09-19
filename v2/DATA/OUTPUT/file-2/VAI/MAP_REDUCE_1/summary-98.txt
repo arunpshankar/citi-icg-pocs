@@ -1,0 +1,13 @@
+ 1. The proposal revises risk-based capital requirements for large banking organizations to improve their comprehensiveness and risk sensitivity.
+
+
+2. Capital requirements for lending activities would be determined by a combination of the credit risk and operational risk frameworks, resulting in a modest increase.
+
+
+3. Capital requirements for trading activities would be determined by the market risk, CVA risk, and operational risk frameworks, and are estimated to increase substantially.
+
+
+4. The proposal is expected to increase total risk-weighted assets by 20 percent for holding companies subject to Category I, II, III or IV standards, and by 9 percent for depository institutions subject to Category I, II, III or IV standards.
+
+
+5. The impact of the proposal varies meaningfully across banking organizations, depending on each banking organization's activities and risk profile.

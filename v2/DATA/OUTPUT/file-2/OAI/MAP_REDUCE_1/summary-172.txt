@@ -1,0 +1,5 @@
+1. The banking organization calculates exposure amount under § ____.113(e)(4) for counterparties, with a factor of 1 for specific counterparties and 1.4 for all others. 
+2. The effective maturity for the netting set is calculated as the weighted-average remaining maturity of the individual CVA risk covered positions within the netting set. 
+3. The risk weight for a counterparty is based on the sector and credit quality of the counterparty, with different percentages for investment grade and speculative grade. 
+4. The banking organization must receive written approval from the agency to use the standardized measure for CVA risk for calculating CVA capital requirements. 
+5. To be eligible to use the standardized measure for CVA risk, the banking organization must meet certain requirements including being able to calculate regulatory CVA and CVA sensitivities to market risk factors and counterparty credit spreads on at least a monthly basis.

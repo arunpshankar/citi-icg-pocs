@@ -1,5 +1,0 @@
- 1. The agencies propose correlation parameters for calculating capital requirements for market risk. 
-2. For securitization positions, a 100% correlation parameter is proposed for positions with more than 80% overlap in notional terms, and a 40% correlation parameter otherwise. 
-3. The agencies seek comment on alternative criteria for applying the 100% correlation parameter, such as allowing it if the securitization tranches can offset all or substantially all of the price risk of the position. 
-4. The agencies also request comment on the appropriateness of a higher intra-bucket correlation parameter of 99.5% to 99.9% for energy-carbon trading, and on the use of a 35% correlation parameter for Uniform Mortgage Backed Securities. 
-5. The standardized default risk capital requirement is intended to capture the incremental loss if the issuer of an equity or credit position were to immediately default.

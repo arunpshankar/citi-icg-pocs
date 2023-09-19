@@ -1,9 +1,0 @@
- 1. The business indicator would capture trading activities and other activities associated with a banking organization's assets and liabilities. 
-
-2. The business indicator component would increase at a rate of 12% per unit of business indicator for levels of business indicator up to $1 billion, 15% per unit of business indicator for levels of business indicator above $1 billion and up to $30 billion, and 18% per unit of business indicator for levels of business indicator above $30 billion. 
-
-3. The internal loss multiplier would increase operational risk capital requirements based on a banking organization's historical operational loss experience. 
-
-4. The internal loss multiplier would be calculated as follows: Internal Loss Multiplier = {1, in (exp(1 - (15 x Average Annual Total Net Operational Losses / Business Indicator Component)^0.8))}. 
-
-5. Average annual total net operational losses would correspond to the average of annual total net operational losses over the previous ten years (on a rolling quarter basis).

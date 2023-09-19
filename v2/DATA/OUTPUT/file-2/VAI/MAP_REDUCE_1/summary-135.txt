@@ -1,0 +1,9 @@
+ 1. A [BANKING ORGANIZATION] must calculate its annual total net operational loss for the most recent ten-year period. 
+
+2. The annual total net operational loss is the sum of the total net operational losses for each quarter in the ten-year period. 
+
+3. A material operational loss is an operational loss that resulted in a net loss greater than or equal to $20,000 after taking into account all subsequent recoveries related to the operational loss. 
+
+4. A [BANKING ORGANIZATION] may request approval from the [AGENCY] to exclude from the calculation of annual total net operational losses operational loss events associated with an activity that the [BANKING ORGANIZATION] has ceased to directly or indirectly conduct. 
+
+5. A [BANKING ORGANIZATION] must have an operational risk management function that is independent of business line management and is responsible for designing, implementing, and overseeing the [BANKING ORGANIZATION]'s internal loss event data collection processes.

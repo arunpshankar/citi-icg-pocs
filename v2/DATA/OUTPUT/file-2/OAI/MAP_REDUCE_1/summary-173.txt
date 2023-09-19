@@ -1,0 +1,5 @@
+1. Banking organizations must have a CVA risk management framework that includes the identification, measurement, management, approval, and internal reporting of CVA risk, with senior management overseeing the risk control process. 
+2. An independent risk control unit is required for the initial and ongoing validation of models used for calculating regulatory CVA, and this unit must be separate from the business unit that evaluates counterparties and sets limits. 
+3. The process for initial and ongoing validation of models must be documented in detail, including the minimum frequency of validation and circumstances requiring more frequent validation. 
+4. Banking organizations must test pricing models against independent benchmarks and have a written policy to assess the performance of exposure models and remedy unacceptable performance. 
+5. Exposure models must accurately reflect transaction terms and specifications, and banking organizations must acquire current and historical market data that are either independent of the lines of business or validated independently from the lines of business.

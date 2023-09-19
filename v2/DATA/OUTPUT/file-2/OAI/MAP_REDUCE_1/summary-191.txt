@@ -1,0 +1,5 @@
+1. From July 1, 2025, national banks and Federal savings associations must comply with new requirements using transition expanded total risk-weighted assets, which are calculated based on a percentage provided in Table 2 to § 3.300.
+2. The transition period for these changes spans from July 1, 2025 to July 1, 2028, with the percentage of expanded total risk-weighted assets increasing each year.
+3. For the Current Expected Credit Losses (CECL) transition, banks must increase total leverage exposure for the supplementary leverage ratio by a decreasing percentage of its CECL transitional amount each year of the transition period.
+4. Changes to § 3.301 include the removal of paragraph (b)(5), revisions to paragraphs (c)(2) and (d)(2)(ii), and the removal and reservation of paragraph (e).
+5. In § 6.2, the definition for "Advanced approaches national bank or advanced approaches Federal savings association" is removed, and definitions for "National bank or Federal savings association subject to part 3, subpart E of this chapter" and “Total risk-weighted assets" are added or revised.

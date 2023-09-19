@@ -1,9 +1,0 @@
- 1. The agencies propose a new expanded risk-based approach for credit risk applicable to large banking organizations. 
-
-2. The proposal would replace the use of internal models to set regulatory capital requirements for credit risk. 
-
-3. The proposal would retain many of the same definitions from the current capital rule, including sovereign, sovereign exposure, supranational entities, multilateral development bank, public sector entity, government-sponsored enterprise, other assets, and commitment. 
-
-4. The proposal would apply the same risk-weight treatment provided in the current standardized approach to certain on-balance sheet exposures, including exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, public sector entities (PSES), and other assets. 
-
-5. The proposal would also apply the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures.

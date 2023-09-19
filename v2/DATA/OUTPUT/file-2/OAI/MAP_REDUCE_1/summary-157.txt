@@ -1,0 +1,5 @@
+1. For credit spread risk for securitization positions non-CTP, a banking organization must establish buckets along two dimensions, credit quality and sector, taking into account the structural features of the securitization position non-CTP. 
+2. The banking organization must use the risk weights in Table 7 for calculating risk weighted delta sensitivities for credit spread risk for securitization positions non-CTP. 
+3. For aggregating risk weighted delta sensitivities of credit spread risk for securitization positions non-CTP within a bucket, the banking organization must use specific correlation parameters. 
+4. For equity risk, a banking organization must establish buckets along three dimensions, market capitalization, economy and sector, and must use the risk weights in Table 8 for calculating risk weighted delta sensitivities for equity risk. 
+5. For aggregating risk weighted delta sensitivities of equity risk within a bucket, the banking organization must use specific correlation parameters.

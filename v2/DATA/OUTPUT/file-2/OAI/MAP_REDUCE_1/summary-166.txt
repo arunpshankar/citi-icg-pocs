@@ -1,0 +1,5 @@
+1. The [AGENCY] can determine that a [BANKING ORGANIZATION] must identify a different PLA test zone for a trading desk's PLA test results. 
+2. A trading desk that produces results in the PLA test amber zone or red zone, following a quarterly review, is subject to the PLA add-on or becomes a model-ineligible trading desk respectively. 
+3. A model-ineligible trading desk can become model-eligible when it produces results in the PLA test green or amber zone and meets certain backtesting exceptions, or when the [BANKING ORGANIZATION] receives approval from the [AGENCY].
+4. A [BANKING ORGANIZATION] must identify an appropriate set of risk factors for calculating the aggregate capital measure for modellable and non-modellable risk factors, and must include all risk factors in its internal risk management models.
+5. A [BANKING ORGANIZATION] must determine which risk factors are modellable using the risk factor eligibility test, and if a risk factor is deemed non-modellable by the [AGENCY], it must not be considered as modellable.

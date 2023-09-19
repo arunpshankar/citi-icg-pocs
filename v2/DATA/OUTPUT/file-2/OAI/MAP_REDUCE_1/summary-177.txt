@@ -1,0 +1,5 @@
+1. The sensitivity of the hedge to each index constituent is calculated and assigned to buckets 1 to 7. 
+2. The delta risk factors for counterparty credit spread risk are calculated based on the absolute shifts of credit spreads of individual entities and qualified indices for tenors of 0.5, 1, 3, 5, and 10 years. 
+3. The delta risk weights for counterparty credit spread risk are set out in Table 3, with the same risk weight applying to all tenors for a given bucket and credit quality. 
+4. The delta correlation parameters for counterparty credit spread risk must be calculated for buckets 1 through 7 and bucket 8, with different rules applying to each. 
+5. The delta cross-bucket correlation parameters for counterparty credit spread risk are set out in Table 4, while the delta risk factors, risk weights, and cross-bucket correlation parameters for reference credit spread risk are set out in Table 5 and Table 6 respectively.

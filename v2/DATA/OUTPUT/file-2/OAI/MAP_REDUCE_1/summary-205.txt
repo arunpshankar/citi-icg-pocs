@@ -1,0 +1,5 @@
+1. The definition of "advanced approaches" has been removed and the definition of "regulatory capital ratio" has been revised in sections 238.130 and 238.141. 
+2. The revised definition of "regulatory capital ratio" refers to a capital ratio for which the Board has established minimum requirements, including any regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12. 
+3. For savings and loan holding companies, the regulatory capital ratios must be calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever results in the higher amount of total risk-weighted assets as of the last day of the previous stress test cycle. 
+4. Changes have also been made in sections 238.151 and 238.153, replacing certain references with new ones, and in section 238.170, where certain paragraphs have been removed, redesignated, and revised. 
+5. Similar changes have been made in sections 252.12 and 252.42, removing the definition of "advanced approaches" and revising the definition of "regulatory capital ratio" with the same revised definition as in sections 238.130

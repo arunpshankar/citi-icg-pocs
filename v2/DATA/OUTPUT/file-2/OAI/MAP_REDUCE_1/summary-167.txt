@@ -1,0 +1,5 @@
+1. For interest rate, foreign exchange, and commodity risk factors with a single maturity dimension, the buckets corresponding to the t values in row (A) of Table 1 must be used. For those with several maturity dimensions, the buckets corresponding to the t values in row (B) of Table 1 must be used.
+2. Credit spread and equity risk factors with one or several maturity dimensions must use the buckets corresponding to the t values in row (C) of Table 1. For any risk factors with one or several strike dimensions, the buckets corresponding to the 8 values in row (D) of Table 1 must be used.
+3. For expiry and strike dimensions of implied volatility risk factors, only the buckets corresponding to the tor & values in rows (C) and (D) of Table 1 must be used. For maturity, expiry, and strike dimensions of implied volatility risk factors from options on swaps, only the buckets corresponding to the t or & values in row (B), (C) and (D) of Table 1 must be used.
+4. In options markets where alternative definitions of moneyness are customary, a banking organization must convert the standard buckets to the market-standard convention using its own pricing models.
+5. A

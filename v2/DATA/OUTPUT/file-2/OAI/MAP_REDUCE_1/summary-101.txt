@@ -1,0 +1,9 @@
+1. The proposed changes to Risk-Weighted Assets (RWA) would impact the risk-based Total Loss-Absorbing Capacity (TLAC) and Long-Term Debt (LTD) requirements for Category I bank holding companies. The average TLAC requirement would increase by 15.2%, creating a moderate shortfall for three companies, while the LTD requirement would increase by 2.0%, without creating a shortfall.
+
+2. The proposal to eliminate the internal-models method for calculating derivatives exposures would require all large banking organizations to use the standardized approach for counterparty credit risk, resulting in more stringent credit limits for counterparties.
+
+3. The proposed RWA changes would affect the method 2 scores of U.S. Globally Systemically Important Banks (GSIBs) through the Short-Term Wholesale Funding component score, reducing their GSIB capital surcharges by about 16 basis points.
+
+4. The proposal includes technical corrections and clarifications to several provisions of the capital rule, including updates to terminology, removal of expired or no longer applicable provisions, and corrections to errors such as footnote numbering and definition errors.
+
+5. The proposal would require banking organizations subject to Category III or IV standards to use the Standardized Approach for Counterparty Credit Risk (SA-CCR)

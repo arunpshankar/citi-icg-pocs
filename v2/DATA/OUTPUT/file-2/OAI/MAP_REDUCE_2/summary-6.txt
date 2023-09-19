@@ -1,0 +1,34 @@
+Section 1: Risk Calculation and Capital Requirement
+- Banking organizations must calculate risk positions for each risk factor, including delta, vega, and curvature risk, by aggregating risk-weighted sensitivities across common characteristics.
+- The risk class-level capital requirement is calculated by aggregating bucket-level risk positions for each risk class under three correlation scenarios.
+- The sensitivities-based capital requirement is calculated by summing the risk class-level capital requirements for each risk class under each correlation scenario.
+- The delta capital requirement is calculated for all market risk covered positions, except those exclusively dependent on an exotic exposure.
+- The vega and curvature capital requirements are calculated for market risk covered positions that are options or have embedded optionality.
+
+Section 2: Risk Position Calculation and Correlation Parameters
+- The curvature risk position calculation requires an upward and downward shock to be applied to each market risk covered position.
+- The curvature bucket-level risk position is calculated by aggregating the net curvature risk positions within the bucket using the correlation parameter.
+- The curvature capital requirement for each risk class is calculated by aggregating the curvature bucket-level risk positions across buckets within each risk class.
+- Banking organizations are required to use specific correlation parameters for aggregating risk-weighted delta sensitivities of interest rate risk within a bucket.
+
+Section 3: Risk Factor Mapping and Sensitivity Calculation
+- Banking organizations must map the implied volatility of the option to one or more tenors specified in the risk factors definitions for interest rate risk.
+- For options or positions with embedded options that do not have a strike price, have multiple strike prices, or are barrier options, banking organizations must map these to the strike prices and maturities used for models used to calculate vega sensitivity.
+- In calculating the sensitivities-based capital requirement, banking organizations must identify all relevant risk factors for its market risk covered positions.
+
+Section 4: Risk Factor Definitions and Correlation Parameters
+- Risk factors for various risks such as interest rate risk, credit spread risk, equity risk, commodity risk, and foreign exchange risk are defined.
+- Banking organizations are required to use specific correlation parameters for aggregating risk-weighted delta sensitivities of interest rate risk within a bucket.
+
+Section 5: Capital Requirement Calculation and Reporting
+- Banking organizations must calculate the standardized default risk capital requirement for its market risk covered positions across different default risk categories.
+- The overall standardized default risk capital requirement is the sum of the default risk capital requirement for each default risk category.
+- The banking organization must provide all public reports and disclosures in one place on its website or in multiple public financial reports.
+
+Section 6: Model Eligibility and Validation
+- A banking organization must have at least one model-eligible trading desk and receive prior written approval from the agency to calculate the models-based measure for market risk.
+- The banking organization must review its internal models annually, integrate them into its daily risk management process, and validate them initially and on an ongoing basis.
+
+Section 7: CVA Risk Management and Capital Requirement
+- Banking organizations must have a CVA risk management framework that includes the identification, measurement, management, approval, and internal reporting of CVA risk.
+- A banking organization must calculate the CVA vega capital requirement, which is the sum of the risk class-level CVA vega capital requirements for five risk classes: interest rate risk, foreign exchange risk, reference credit spread risk, equity risk, and commodity risk.

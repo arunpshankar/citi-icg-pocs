@@ -1,5 +1,0 @@
- 1. The sensitivities-based capital requirement is calculated for each risk class by aggregating the bucket-level risk positions for delta risk, vega risk, and curvature risk. 
-2. The delta capital requirement is calculated for each risk class by aggregating the delta bucket-level risk positions across all of the buckets within the risk class. 
-3. The vega capital requirement is calculated for each risk class by aggregating the vega bucket-level risk positions across all of the buckets within the risk class. 
-4. The curvature capital requirement is calculated for each risk class by applying an upward shock and a downward shock to each risk factor and calculating the incremental loss in excess of that already captured by the delta capital requirement. 
-5. The sensitivities-based capital requirement equals the largest capital requirement produced under three correlation scenarios.

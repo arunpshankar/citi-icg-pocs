@@ -1,5 +1,0 @@
- 1. The table presents supervisory risk weights for various sectors and counterparty credit qualities.
-2. The agencies seek comment on the appropriateness of the proposed risk weights, particularly for financials, including government-backed financials.
-3. The agencies also seek comment on the treatment of public-sector entities and GSEs, and whether they should be treated similarly to government-backed non-financials.
-4. The agencies propose to use the counterparty credit risk framework to calculate the exposure amount for standalone CVA counterparty-level capital requirement.
-5. The agencies seek comment on the CVA capital requirement, particularly in the case of nonfinancial counterparties.

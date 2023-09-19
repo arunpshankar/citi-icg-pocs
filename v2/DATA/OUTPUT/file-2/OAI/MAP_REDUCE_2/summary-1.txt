@@ -1,0 +1,23 @@
+**Section 1: In-Scope Transactions and Minimum Haircut Floors**
+The proposal suggests excluding certain in-scope transactions from the minimum haircut floors due to their lower credit and liquidity risks. It establishes minimum haircut floors for these transactions based on historical price volatilities and existing market conventions. If a banking organization's portfolio doesn't meet the minimum haircut floor, it cannot recognize the risk-mitigating benefits of the collateral received.
+
+**Section 2: New Treatments and Modifications**
+The proposal introduces new treatments for default credit derivatives, derivative contracts without credit enhancement, overlapping exposures, and non-performing loan securitizations. It also modifies treatments for certain senior securitization exposures and credit-enhancing interest only strips. 
+
+**Section 3: Securitization Exposures**
+The proposal introduces a risk weight floor of 15 percent for securitization exposures that are not resecuritization exposures. It also proposes a minimum risk-weight floor of 100 percent for resecuritization exposures and Non-Performing Loan (NPL) securitization exposures. 
+
+**Section 4: Equity Exposures**
+The proposal maintains the current capital rule's methods for calculating the adjusted carrying value for equity exposures, with some modifications. It introduces a risk-weighted asset amount for an equity exposure and revises the risk weights applicable to other types of equity exposures. 
+
+**Section 5: Investment Fund Exposures**
+The proposal requires banking organizations to calculate a risk-weighted asset amount for each exposure held by an investment fund. If the organization cannot use the full look-through approach, it must use the alternative modified look-through approach. 
+
+**Section 6: Operational Risk**
+The proposal introduces a standardized approach for operational risk, replacing the Advanced Measurement Approaches (AMA). The new approach calculates operational risk capital requirements based on a banking organization's business indicator component and internal loss multiplier. 
+
+**Section 7: Market Risk**
+The proposal introduces a risk-sensitive standardized methodology for calculating risk-weighted assets for market risk and a new models-based methodology. It also expands the types of positions that would be covered by market risk, including certain equity positions in an investment fund, net short risk positions, certain publicly traded equity positions, embedded derivatives on instruments issued by the banking organization, and certain positions associated with internal risk transfer. 
+
+**Section 8: Internal Risk Transfers**
+The proposal defines internal risk transfers and establishes a set of requirements for a banking organization to recognize certain types of internal risk transfers in risk-based capital requirements. It also considers modifying the criteria for including external CVA hedges in the scope of market risk covered position.

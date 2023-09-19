@@ -1,0 +1,130 @@
+ **Section 1: Risk-Weighted Assets**
+
+* The capital requirements for market risk for banking organizations are based on a standardized approach that uses a risk-weighting framework. 
+* The risk weights are based on the sensitivities of the market risk covered positions to changes in the risk factors. 
+* The sensitivities are calculated by changing the risk factor by a small amount and dividing the resulting change in the value of the market risk covered position by the change in the risk factor. 
+* The sensitivities are then multiplied by the volatility of the risk factor to calculate the vega sensitivity. 
+
+**Section 2: Vega Risk**
+
+* Vega risk factors for interest rate risk are defined for each currency and consist of: 
+    * implied volatilities of inflation rate risk-sensitive options, 
+    * implied volatilities of cross-currency basis risk-sensitive options, and 
+    * implied volatilities of interest rate risk-sensitive options. 
+* Vega is the change in the value of an option resulting from a small change in volatility. 
+* For interest rate risk, a banking organization must map the implied volatility of the option to one or more tenors specified in the risk factors definitions. 
+* A banking organization must assign market risk covered positions that are options or positions with embedded options that do not have a maturity to the longest prescribed maturity tenor. 
+
+**Section 3: Credit Spread Risk**
+
+* Credit spread risk factors are defined for each credit spread curve. 
+* Delta risk factors are defined for each currency and tenor, with risk weights specified in Table 1. 
+* Vega risk factors are defined for each credit spread curve. 
+* Curvature risk factors are defined for each credit spread curve. 
+
+**Section 4: Equity Risk**
+
+* Delta risk factors are defined for each issuer. 
+* Vega risk factors are defined for each issuer. 
+* Curvature risk factors are defined for each issuer. 
+
+**Section 5: Commodity Risk**
+
+* Delta risk factors are defined for each commodity and maturity. 
+* Vega risk factors are defined for each commodity and maturity. 
+* Curvature risk factors are defined for each commodity and maturity. 
+
+**Section 6: Foreign Exchange Risk**
+
+* Delta risk factors are defined for each currency pair and maturity. 
+* Vega risk factors are defined for each currency pair and maturity. 
+* Curvature risk factors are defined for each currency pair and maturity. 
+
+**Section 7: Correlation Parameters**
+
+* For interest rate risk, use the correlation parameters in Table 2, with 99.9% for same tenor and curve, 40% for inflation curve, and 0% for cross-currency basis curve. 
+* For credit spread risk for non-securitizations, establish buckets along credit quality and sector, use risk weights in Table 3, and use the correlation parameters specified. 
+
+**Section 8: Default Risk**
+
+* A banking organization may not recognize diversification benefits across default risk categories. 
+* The standardized default risk capital requirement for non-securitization debt or equity positions is the sum of the default risk capital requirement for each default risk category. 
+* A banking organization must calculate the gross default exposure for each non-securitization debt or equity position. 
+* A banking organization must assign LGD rates to non-securitization debt or equity positions based on the position's seniority and the credit quality of the reference exposure. 
+* A banking organization must calculate the standardized default risk capital requirement for securitization positions non-CTP by summing the bucket-level default risk capital requirements. 
+
+**Section 9: Securitization Positions**
+
+* The standardized total risk-weighted assets for securitization exposures are calculated by multiplying the corresponding risk weight for the exposure by 8%. 
+* Non-tranched hedges of correlation trading positions use the same risk weights as non-securitization debt or equity positions, excluding them from the standardized default risk capital requirement. 
+* The residual risk add-on is calculated for market risk covered positions that have an exotic exposure, are correlation trading positions with three or more underlying exposures, are subject to the curvature capital requirement, are options or positions with embedded options that do not have a maturity or strike price, or are determined by the [AGENCY] to require the add-on. 
+* The residual risk add-on is calculated as the sum of the gross effective notional amounts of market risk covered positions identified above, multiplied by the prescribed risk weight. 
+
+**Section 10: Standardized Approach for Counterparty Credit Risk**
+
+* Counterparty credit risk exposure amount is calculated based on netting sets with different multipliers for different counterparties. 
+* Khedged is calculated as a function of correlation parameter, CVA risk covered positions, single-name eligible CVA hedges, and index hedges. 
+* SNHc is calculated as a summation of products of correlation, risk weight, remaining maturity, notional amount, and discount factor. 
+* IH is calculated as a summation of products of risk weight, remaining maturity, notional amount, and discount factor for index hedges. 
+* HMAc is calculated as a summation of products of correlation, risk weight, remaining maturity, notional amount, and discount factor for single-name eligible CVA hedges. 
+
+**Section 11: CVA Risk-Based Capital Requirements**
+
+* The CVA vega capital requirement equals the sum of the risk class-level CVA vega capital requirements for each of the five risk classes: interest rate risk, foreign exchange risk, equity risk, reference credit spread risk, and commodity risk. 
+* The risk class-level CVA vega capital requirement is calculated by aggregating the bucket-level CVA vega capital requirements for each bucket in the risk class using the correlation parameters specified in § __.225(b). 
+* The bucket-level CVA vega capital requirement is calculated by aggregating the net weighted vega sensitivities for each risk factor in a bucket using the buckets and correlation parameters specified in § __.225(b). 
+* The net weighted vega sensitivity is calculated by subtracting the weighted hedge vega sensitivity from the weighted CVA vega sensitivity. 
+* The weighted CVA vega sensitivity and the weighted hedge vega sensitivity are calculated by multiplying the CVA vega sensitivity and the hedge vega sensitivity by the corresponding risk weight specified in § __.225(b). 
+
+**Section 12: Counterparty Credit Risk Parameters**
+
+* A banking organization must establish delta buckets for interest rate risk, foreign exchange risk, counterparty credit spread risk, reference credit spread risk, and equity risk. 
+* The delta risk factors for interest rate risk are the absolute changes of the inflation rate and of the risk-free yields for the following five tenors: 1 year, 2 years, 5 years, 10 years, and 30 years. 
+* The delta risk factors for foreign exchange risk equal the relative change of the foreign exchange spot rate between a given currency and a [BANKING ORGANIZATION]'s reporting currency or base currency. 
+* The delta risk factors for counterparty credit spread risk are based on changes in credit spreads for five credit quality buckets and one additional bucket for qualified indices. 
+* The delta risk factors for reference credit spread risk are based on changes in credit spreads for five credit quality buckets and one additional bucket for qualified indices. 
+
+**Section 13: Risk Weights and Correlation Parameters**
+
+* Delta risk factors and weights are defined for counterparty credit spread risk and reference credit spread risk. 
+* Counterparty credit spread risk is divided into 7 buckets, while reference credit spread risk is divided into 17 buckets. 
+* Delta risk weights for counterparty credit spread risk range from 0.5% to 12%, while delta risk weights for reference credit spread risk range from 0.5% to 12%. 
+* Delta cross-bucket correlation parameters are defined for both counterparty credit spread risk and reference credit spread risk. 
+* The cross-bucket correlation parameters for reference credit spread risk are the same for all credit qualities. 
+
+**Section 14: Leverage Ratio**
+
+* The final rule implements the leverage ratio framework established in section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). 
+* The final rule requires all banking organizations with $50 billion or more in total consolidated assets to calculate a leverage ratio. 
+* The leverage ratio is a simple ratio of Tier 1 capital to total assets, measured on a quarterly basis. 
+* The final rule also establishes a minimum leverage ratio of 5% for all banking organizations subject to the rule. 
+* The final rule will be effective on January 1, 2018. 
+
+**Section 15: Prompt Corrective Action (PCA) Framework**
+
+* The proposed rule amends the Federal Reserve's regulations implementing the prompt corrective action (PCA) framework. 
+* The changes are intended to conform the PCA framework to the Basel III capital framework, which was finalized by the Basel Committee on Banking Supervision in December 2017. 
+* The Basel III capital framework includes a number of changes to the risk-based capital framework, including a revised definition of total risk-weighted assets and a new leverage ratio. 
+* The proposed rule would make conforming changes to the PCA framework to ensure that it remains consistent with the Basel III capital framework. 
+* The proposed rule would also make a number of technical changes to the PCA framework to improve its clarity and effectiveness. 
+
+**Section 16: Total Leverage Exposure**
+
+* Total leverage exposure is calculated as the sum of the mean of the on-balance sheet assets and the mean of the off-balance sheet exposures, minus applicable deductions. 
+* The PFE for each netting set to which the Board-regulated institution is a counterparty is determined under § 217.113(g), multiplied by 1.4 for any counterparty that is not a commercial end-user. 
+* The replacement cost of each derivative contract or single product netting set of derivative contracts to which the Board-regulated institution is a counterparty is calculated according to a specified formula, multiplied by 1.4 for any counterparty that is not a commercial end-user. 
+* The effective notional principal amount of a credit derivative, or other similar instrument, through which the Board-regulated institution is exposed to a counterparty that is not a commercial end-user is multiplied by 1.4. 
+
+**Section 17: Capital Conservation and Countercyclical Capital Buffers**
+
+* The capital conservation buffer is composed solely of common equity tier 1 capital. 
+* The countercyclical capital buffer amount is calculated as a percentage of the Board-regulated institution's total risk-weighted assets and is based on the level of the Board-regulated institution's capital conservation buffer. 
+* A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount. 
+* A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 and that has a capital conservation buffer that is greater than 2.5 percent shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed 100 percent of its maximum payout amount. 
+
+**Section 18: Countercyclical Capital Buffer**
+
+* The countercyclical capital buffer amount is an extension of the capital conservation buffer. 
+* The countercyclical capital buffer amount for a Board-regulated institution is determined by calculating the weighted average of the countercyclical capital buffer requirement for each of the Board-regulated institution's risk-weighted assets. 
+* The countercyclical capital buffer requirement for each risk-weighted asset is equal to the product of the risk weight for the asset and the countercyclical capital buffer rate. 
+* The countercyclical capital buffer rate is a percentage that is set by the Board of Governors of the Federal Reserve System.

@@ -1,0 +1,5 @@
+1. An FDIC-supervised institution that has elected the 2020 CECL transition provision can increase its total leverage exposure for the supplementary leverage ratio by 100% of its modified CECL transitional amount during the first two years of the transition period, 75% during the third year, 50% during the fourth year, and 25% during the fifth year.
+2. Sections 324.303 and 324.304 have been removed and reserved.
+3. Subpart H implements the provisions of section 38 of the FDI Act as they apply to FDIC-supervised institutions and insured branches of foreign banks, including officers, directors, and employees of those insured institutions.
+4. For purposes of subpart H, total assets are defined as quarterly average total assets as reported in an FDIC-supervised institution's Call Report, minus amounts deducted from tier 1 capital.
+5. The term "an advanced approaches FDIC-supervised institution" has been replaced with "an FDIC-supervised institution subject to subpart E of this part" in several sections, and the term "advanced approaches total risk-weighted assets" has been replaced with "expanded total risk-weighted assets" in several sections.

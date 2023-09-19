@@ -1,0 +1,7 @@
+1. The curvature risk position calculation requires an upward and downward shock to be applied to each market risk covered position. The size of the shock, or risk weight, is specified in the regulations. The net curvature risk position for the portfolio is calculated using a specific formula, which includes the current level of risk factor, the value of market risk covered position at the current level of risk factor, and the delta sensitivity of market risk covered position with respect to curvature risk factor.
+
+2. The curvature bucket-level risk position is calculated by aggregating the net curvature risk positions within the bucket using the correlation parameter. The bucket-level capital requirement is calculated as the greater of the capital requirement under the upward or downward scenario. In the specific case where the capital requirements are equal, the upward scenario is selected if the sum of the curvature risk positions is greater than the sum of the curvature risk positions in the downward scenario.
+
+3. The curvature capital requirement for each risk class is calculated by aggregating the curvature bucket-level risk positions across buckets within each risk class, using the prescribed cross-bucket correlation parameter. The correlation scenarios require the aggregation of the bucket-level risk positions and risk class-level capital requirements for delta risk, vega risk, and curvature risk for three different values of the correlation parameters.
+
+4

@@ -1,0 +1,97 @@
+ (B) b equals:
+b
+=
+1
+1
++
+1
+α
+(C) c equals:
+c
+=
+1
+1
++
+1
+α
+(D) d equals:
+d
+=
+1
+1
++
+1
+α
+(E) e equals:
+e
+=
+1
+1
++
+1
+α
+(F) f equals:
+f
+=
+1
+1
++
+1
+α
+(G) g equals:
+g
+=
+1
+1
++
+1
+α
+(H) h equals:
+h
+=
+1
+1
++
+1
+α
+(I) i equals:
+i
+=
+1
+1
++
+1
+α
+(J) j equals:
+j
+=
+1
+1
++
+1
+α
+(K) k equals:
+k
+=
+1
+1
++
+1
+α
+(L) l equals:
+l
+=
+1
+1
++
+1
+α
+(M) m equals:
+m
+=
+1
+1
++
+1
+α
+(N) n

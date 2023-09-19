@@ -1,0 +1,5 @@
+1. The FDIC requires that risk weights be assigned to financial institutions under the appropriate subparts of the regulations. 
+2. With FDIC approval, an FDIC-supervised institution may not need to deduct a significant investment in an unconsolidated financial institution if the investment is for financial support, as determined by the FDIC. 
+3. The exposure amount for derivative contracts for an FDIC-supervised institution not subject to subpart E must be calculated using the current exposure methodology (CEM) or the standardized approach for counterparty credit risk (SA-CCR), with FDIC approval. 
+4. An FDIC-supervised institution subject to subpart E must calculate the exposure amount for all its derivative contracts using SA-CCR for purposes of standardized total risk-weighted assets. 
+5. Changes to the regulations include revisions to the wording in various sections, the removal of certain paragraphs, and the revision of risk-weighted assets for securitization exposures.

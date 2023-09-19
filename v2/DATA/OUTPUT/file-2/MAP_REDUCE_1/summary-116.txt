@@ -1,5 +1,0 @@
- 1. The risk weight for a PSE revenue obligation exposure is determined based on the OECD membership and CRC status of the PSE's home country.
-2. Real estate exposures are assigned risk weights based on the type of exposure and the LTV ratio.
-3. Retail exposures are assigned risk weights based on whether they are regulatory retail exposures or other retail exposures, and whether they have a currency mismatch.
-4. Corporate exposures are generally assigned a 100% risk weight, but there are exceptions for certain types of exposures such as investment-grade corporate exposures and project finance operational phase exposures.
-5. There is a risk weight multiplier of 1.5 for certain exposures with a currency mismatch.

@@ -1,0 +1,13 @@
+ 1. The proposal revises the sign specification for the supervisory delta adjustment for CDO tranches to ensure the correct aggregation of CDO tranches with linear credit derivative contracts in PFE calculations.
+
+
+2. The proposal extends the use of the shift parameter λ to all asset classes to ensure that a banking organization can calculate the supervisory delta adjustment for option contracts when the underlying instrument or risk factor has a negative value.
+
+
+3. The proposal clarifies that the option to decompose a non-linear index is not available under SA-CCR and that if electing to decompose a linear index, banking organizations must apply the weights used by the index when determining the exposure amounts for the underlying instrument.
+
+
+4. The proposal does not require banking organizations to recognize any instrument as a credit risk mitigant, but credit derivatives that a banking organization cannot or chooses not to recognize as a credit risk mitigant would be subject to a separate counterparty credit risk capital requirement.
+
+
+5. Questions 47 and 48 seek feedback on alternative approaches to calibrating the lambda parameter for non-interest-rate asset classes and on the use of the weights used by the index when determining the exposure amounts for the underlying instrument.

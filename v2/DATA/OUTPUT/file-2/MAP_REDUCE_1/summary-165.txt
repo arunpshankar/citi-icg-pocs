@@ -1,7 +1,0 @@
- (1) A backtesting exception occurs when the actual daily profit or loss or hypothetical daily profit or loss at a given percentile exceeds the VaR-based measure for that day. 
-
-(2) A trading desk becomes model ineligible if it experiences more than 12 exceptions for actual profit and loss or 12 exceptions for hypothetical profit and loss at the 99th percentile or 30 exceptions for actual profit and loss or 30 exceptions for hypothetical profit and loss at the 97.5th percentile in the most recent 250 business day period. 
-
-(3) A trading desk that becomes model ineligible can regain eligibility by producing results in the PLA test green zone or PLA test amber zone and experiencing 12 or fewer exceptions for actual profit and loss and 12 exceptions for hypothetical profit and loss at the 99th percentile and 30 exceptions for actual profit and loss and 30 exceptions for hypothetical profit and loss at the 97.5th percentile in the most recent 250 business day period. 
-
-(4) At the trading desk level, the PLA test compares each of the trading desk's most recent 250 business days' hypothetical profit and loss with the

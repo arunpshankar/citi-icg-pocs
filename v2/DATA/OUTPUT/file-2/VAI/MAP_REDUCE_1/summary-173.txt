@@ -1,0 +1,5 @@
+ 1. Exposure models used in calculating regulatory CVA must be part of a risk management framework. 
+2. Senior management must oversee the risk control process. 
+3. An independent risk control unit must validate the models annually. 
+4. The models must be tested against benchmarks and reviewed internally. 
+5. A [BANKING ORGANIZATION] must define criteria to assess exposure models and their inputs and have a written policy to describe the process to assess the performance of exposure models and remedy unacceptable performance.

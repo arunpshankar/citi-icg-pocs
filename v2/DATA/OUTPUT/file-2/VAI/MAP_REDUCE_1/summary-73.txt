@@ -1,0 +1,5 @@
+ 1. The agencies seek comment on the internal models approach for market risk. 
+2. The proposal would require a banking organization to identify an appropriate set of risk factors that is sufficiently representative of the risks inherent in all of the market risk covered positions held by model-eligible trading desks. 
+3. For the identified risk factors, the proposal would require banking organization to conduct the risk factor eligibility test to determine which risk factors are modellable, and thus subject to the IMCC, and which are non-modellable, and thus subject to the SES capital requirements. 
+4. The agencies recognize that a banking organization may need to obtain pricing information from third parties to demonstrate the market liquidity of the underlying risk factors, and this may pose unique challenges for validation and other model risk management activities. 
+5. In certain cases, obtaining information on the prices of individual transactions from third parties may raise legal concerns for the banking organization, the third-party provider, or both.

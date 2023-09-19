@@ -1,0 +1,5 @@
+ 1. The proposal introduces a capital requirement for operational risk based on a standardized approach. 
+2. The current capital rule defines operational risk as the risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events. 
+3. The proposal would require banking organizations to calculate risk-weighted assets for operational risk using the standardized approach for operational risk. 
+4. The standardized approach for operational risk would be based on a bank's gross income and would be phased in over a five-year period. 
+5. The proposal would also require banking organizations to have a risk management framework in place to manage operational risk.

@@ -1,9 +1,0 @@
- 1. A [BANKING ORGANIZATION] must calculate its annual total net operational loss for each year by taking the sum of the total net operational losses of each quarter in that year. 
-
-2. The total net operational losses of a quarter equal the sum of any portions of losses or recoveries of any material operational losses allocated to the quarter. 
-
-3. A material operational loss is an operational loss incurred by the [BANKING ORGANIZATION] that resulted in a net loss greater than or equal to $20,000 after taking into account all subsequent recoveries related to the operational loss. 
-
-4. Operational losses and recoveries must be based on the date of accounting, including for legal loss events. Reductions in the legal reserves associated with an ongoing legal event are to be treated as recoveries for the calculation of total net operational losses. 
-
-5. A [BANKING ORGANIZATION] may request approval from the [AGENCY] to exclude from the [BANKING ORGANIZATION]'s operational loss events associated with an activity that the [BANKING ORGANIZATION] has ceased to directly or indirectly conduct from the calculation of annual total net operational losses.

@@ -1,0 +1,67 @@
+Proposed Changes Related to the Processing of Derivative Contracts:
+
+1. The proposal suggests replacing the use of banking organizations' internal models for setting regulatory capital requirements for credit risk with a new expanded risk-based approach. This approach would apply the same risk-weight treatment for on-balance sheet exposures, including those to sovereigns, certain supranational entities, and multilateral development banks.
+
+2. The proposal suggests that banking organizations should maintain capital in line with the level and nature of their risk exposure. It proposes replacing the use of internal models for setting regulatory capital requirements for credit risk with a new expanded risk-based approach.
+
+3. The proposal would eliminate the use of models for credit risk under the current capital rule and replace them with standardized approaches.
+
+4. The proposal outlines term-based haircuts for investment grade senior securitization exposures with a risk weight of less than 100 percent. Other securitization exposures would receive a 30 percent market price volatility haircut.
+
+5. The proposal introduces new treatments for default credit derivatives, derivative contracts without credit enhancement, overlapping exposures, and non-performing loan securitizations.
+
+6. The proposal introduces a risk-sensitive standardized methodology for calculating risk-weighted assets for market risk and a new models-based methodology.
+
+7. The proposal outlines capital treatment for internal CVA risk transfers between a CVA desk and a trading desk. It mandates a dedicated CVA desk for managing internal risk transfers and record-keeping of each internal derivative transaction.
+
+8. The proposal requires banking organizations to calculate the sensitivity of a market risk covered position to each of the proposed risk factors for delta, vega, and curvature.
+
+9. The proposal requires banking organizations to calculate a residual risk add-on for market risk covered positions with exotic exposure and other residual risks.
+
+10. The proposal would require large banking organizations to calculate a risk-weighted asset amount for the CVA risk arising from their portfolio of OTC derivative transactions.
+
+11. The proposal requires banking organizations to include exposure models for regulatory CVA calculation in their risk management framework.
+
+12. The proposal requires banking organizations to calculate risk-based capital requirements for delta and vega separately.
+
+13. The proposal eliminates the internal-models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach for counterparty credit risk.
+
+14. The exposure amount for derivative contracts must be determined using the standardized approach for counterparty credit risk (SA-CCR), and can be reduced by the credit valuation adjustment recognized in the balance sheet valuation of any derivative contracts in the netting set.
+
+15. The proposal requires banking organizations to calculate the total standardized default risk capital requirement as the sum of each default risk category level capital requirements, without recognizing any diversification benefits across different types of default risk categories.
+
+16. The proposal requires banking organizations to calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction.
+
+17. The proposal requires banking organizations to calculate market risk capital requirements for model-eligible trading desks incorporating securitization positions.
+
+18. The proposal requires a banking organization to switch from the internal models approach to the standardized approach for calculating market risk capital requirements if a trading desk fails the PLA test.
+
+19. The proposal mandates banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.
+
+20. The proposal would require large banking organizations to calculate a risk-weighted asset amount for the CVA risk arising from their portfolio of OTC derivative transactions.
+
+21. The proposal requires banking organizations to calculate risk-based capital requirements for delta and vega separately.
+
+22. The proposal requires banking organizations to calculate the total standardized default risk capital requirement as the sum of each default risk category level capital requirements, without recognizing any diversification benefits across different types of default risk categories.
+
+23. The proposal requires banking organizations to calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction.
+
+24. The proposal requires banking organizations to calculate market risk capital requirements for model-eligible trading desks incorporating securitization positions.
+
+25. The proposal requires a banking organization to switch from the internal models approach to the standardized approach for calculating market risk capital requirements if a trading desk fails the PLA test.
+
+26. The proposal mandates banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.
+
+27. The proposal would require large banking organizations to calculate a risk-weighted asset amount for the CVA risk arising from their portfolio of OTC derivative transactions.
+
+28. The proposal requires banking organizations to calculate risk-based capital requirements for delta and vega separately.
+
+29. The proposal requires banking organizations to calculate the total standardized default risk capital requirement as the sum of each default risk category level capital requirements, without recognizing any diversification benefits across different types of default risk categories.
+
+30. The proposal requires banking organizations to calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction.
+
+31. The proposal requires banking organizations to calculate market risk capital requirements for model-eligible trading desks incorporating securitization positions.
+
+32. The proposal requires a banking organization to switch from the internal models approach to the standardized approach for calculating market risk capital requirements if a trading desk fails the PLA test.
+
+33. The proposal mandates banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.

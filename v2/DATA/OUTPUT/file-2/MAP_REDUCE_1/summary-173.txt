@@ -1,5 +1,0 @@
- 1. Exposure models used in calculating regulatory CVA must be part of a risk management framework. 
-2. Senior management must oversee the risk control process. 
-3. An independent risk control unit must validate the models annually. 
-4. The validation process must be documented and include testing against benchmarks. 
-5. An independent review of the CVA risk management process must be conducted regularly.

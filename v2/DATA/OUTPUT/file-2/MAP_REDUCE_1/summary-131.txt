@@ -1,5 +1,0 @@
- 1. The risk weight of a securitization exposure is calculated using the SEC-SA formula.
-2. RW FLOOR is 100% for resecuritization and NPL securitization exposures and 15% for all other securitization exposures.
-3. KSEC-SA is calculated using the formula provided.
-4. A [BANKING ORGANIZATION] must include the funded portion of any reserve account funded by the accumulated cash flows from the underlying exposures that is subordinated to the [BANKING ORGANIZATION]'s securitization exposure in the calculation of A and D.
-5. W equals the ratio, expressed as a decimal value between zero and one, of the sum of the outstanding balance of any underlying exposures of the securitization that are not securitization exposures and that meet any of the criteria in paragraphs (b)(1)(i) through (vi) of this section to the outstanding balance of all underlying exposures.

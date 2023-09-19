@@ -1,0 +1,5 @@
+1. The terms "bank or bank that is a Category III Board-regulated institution" are to be replaced with the term "bank" in all instances. 
+2. Changes are made to § 208.73, including revising paragraph (a), removing paragraph (b), and redesignating paragraphs (c) through (f) as (b) through (e). The revision outlines capital requirements for state member banks with financial subsidiaries. 
+3. Footnote 2 in Appendix C to Part 208 is revised to define "total capital" as per 12 CFR parts 3, 217, or 324. 
+4. Subparts E and F of part 217 are removed and replaced, with several terms replaced throughout, including "[AGENCY]" with “Board" and "[BANKING ORGANIZATION]" with “Board-regulated institution”.
+5. Changes are made to § 217.1 and § 217.2, including adding paragraph (c)(6), revising paragraph (f), removing several definitions, and revising and adding others. The changes also include transitions and timing for Board-regulated institutions changing categories.

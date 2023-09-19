@@ -1,0 +1,31 @@
+Summary:
+
+I. Credit Risk Mitigation:
+A banking organization can recognize the credit risk mitigation benefits of an eligible guarantee or credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure. This applies to exposures fully covered by an eligible guarantee or credit derivative, or covered on a pro rata basis, and to exposures with tranching of credit risk. 
+
+II. Risk-Weighted Asset Calculation:
+If multiple eligible guarantees or credit derivatives cover a single exposure, the banking organization can treat the hedged exposure as multiple separate exposures and calculate a separate risk-weighted asset amount for each. Adjustments must be made for maturity mismatch and currency mismatch.
+
+III. Financial Collateral:
+To recognize the risk-mitigating effects of financial collateral, a banking organization may use the simple approach for non-derivative exposures or the collateral haircut approach for repo-style transactions, eligible margin loans, or a netting set of such transactions.
+
+IV. Securitization:
+A banking organization that transfers exposures it has originated or purchased to a securitization SPE or other third party in connection with a traditional securitization may exclude the exposures from the calculation of its risk-weighted assets only if certain conditions are met.
+
+V. Default Derivatives:
+For default derivatives, the n-1 assets with the lowest risk-weighted amounts can be excluded from the risk-weighted capital calculation. However, a banking organization cannot recognize a purchased nth-to-default credit derivative as a credit risk mitigant and must calculate the counterparty credit risk accordingly.
+
+VI. Equity Exposures:
+Banking organizations must use specific approaches to calculate risk-weighted asset amounts for equity exposures that are not in investment funds, and for other equity exposures. Different risk weights are assigned to different types of exposures.
+
+VII. Operational Risk:
+The risk-weighted assets for operational risk equals the operational risk capital requirement multiplied by 12.5. The operational risk capital requirement equals the Business Indicator Component multiplied by the Internal Loss Multiplier.
+
+VIII. Disclosure Requirements:
+Banking organizations are required to disclose their credit risk mitigation strategies, their objectives, risks, roles, and policies regarding securitization, their accounting policies for securitization activities, their equity risk for equities not subject to subpart F, and their operational risk management policies.
+
+IX. Regulatory Compliance:
+A banking organization must comply with policies and procedures for calculating market risk measures, including mapping risk factors to liquidity horizons. The internal audit function must report its findings to the board of directors at least annually.
+
+X. Market Risk Capital Requirement:
+A banking organization's non-default risk capital requirement is calculated using the internally modelled capital calculation (IMCC) and the stressed expected shortfall (SES), with a capital multiplier of 1.5 unless otherwise specified. The standardized approach capital requirement is defined for market risk covered positions and term repo-style transactions that the banking organization includes in market risk on all trading desks, model-ineligible trading desks, and model-eligible trading desks.

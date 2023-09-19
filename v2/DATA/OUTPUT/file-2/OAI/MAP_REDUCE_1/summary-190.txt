@@ -1,0 +1,5 @@
+1. Subparts E and F are being replaced with new versions, and several terms are being replaced throughout the document, including "[AGENCY]" with "OCC", "[BANKING ORGANIZATION]" with "national bank or Federal savings association", and "[REAL ESTATE LENDING GUIDELINES]" with "12 CFR part 34, appendix A to subpart D".
+2. The document specifies that subpart § 3.100 applies to any national bank or Federal savings association that is a subsidiary of a global systemically important BHC, or a Category II, III, or IV national bank or Federal savings association.
+3. Changes are made to § 3.111 and § 3.132, including the removal of certain paragraphs and the revision of others, particularly those related to risk-weighted assets for securitization exposures.
+4. In § 3.201, revisions are made to paragraphs related to the applicability of the document to various categories of national banks or Federal savings associations, and the requirements they must meet.
+5. Changes are made to § 3.300, including the revision of paragraph (a), the addition of paragraph (b), and the removal of several other paragraphs. The revisions relate to transition adjustments for Accum

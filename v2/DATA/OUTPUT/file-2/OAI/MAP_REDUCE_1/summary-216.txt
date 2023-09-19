@@ -1,0 +1,5 @@
+1. The FDIC-supervised institution's capitalization status is determined under subpart H, and amendments are made to § 324.162 and § 324.201, including the removal and redesignation of certain paragraphs.
+2. The CVA risk-based capital requirements apply to any FDIC-supervised institution that is a subsidiary of a global systemically important BHC, or a Category II, III, or IV FDIC-supervised institution.
+3. An FDIC-supervised institution remains subject to the relevant requirements unless it does not meet any of the standards for four consecutive quarters and provides notice to the FDIC.
+4. Transition adjustments for AOCI begin on July 1, 2025, for Category III and IV FDIC-supervised institutions, with a decreasing percentage applicable to the AOCI adjustment amount each year until 2028.
+5. Amendments to § 324.301 include the removal and revision of certain paragraphs, and the introduction of a transition period for the increase of total leverage exposure for purposes of the supplementary leverage ratio.

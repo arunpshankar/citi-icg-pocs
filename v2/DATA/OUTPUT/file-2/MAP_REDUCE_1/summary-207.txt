@@ -1,5 +1,0 @@
- 1. A new category, Category IV FDIC-supervised institution, is added. 
-2. The definition of "Category II FDIC-supervised institution" is revised.
-3. The definition of "Category III FDIC-supervised institution" is revised. 
-4. The definitions of "residential mortgage exposure", "corporate exposure", "effective notional amount", "eligible guarantee", "exposure amount", "financial institution", "market risk FDIC-supervised institution", "netting set", "net independent collateral amount", "protection amount (P)", "speculative grade", "standardized market risk-weighted assets", "standardized total risk-weighted assets", "sub-speculative grade", "unregulated financial institution", and "variation margin amount" are revised. 
-5. The timing for an FDIC-supervised institution to comply with the requirements of its category is specified.

@@ -1,0 +1,5 @@
+1. The proposal suggests excluding certain in-scope transactions from the minimum haircut floors as they do not pose the same credit and liquidity risks as other in-scope transactions and are crucial for liquidity and intermediation services provided by banking organizations.
+2. Questions are raised about alternative definitions of "in-scope transactions", the potential difficulties banking organizations might face in identifying exempt transactions, and the operational burdens imposed by the proposal.
+3. The proposal establishes minimum haircut floors for in-scope transactions, which are derived from observed historical price volatilities and existing market and central bank haircut conventions.
+4. The minimum haircut floors are intended to reflect the minimum amount of collateral banking organizations should receive when undertaking in-scope transactions with unregulated financial institutions.
+5. The proposal also outlines the process for determining whether an in-scope transaction meets the applicable minimum haircut floor, including a flow chart and a table of minimum haircut floors by collateral types and maturity.

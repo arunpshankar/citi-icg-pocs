@@ -1,0 +1,33 @@
+Section 1: Capital Conservation and Leverage Buffer
+- A Board-regulated institution's capital conservation buffer is determined by the lowest of three ratios: common equity tier 1 capital ratio, tier 1 capital ratio, and total capital ratio, each minus their respective minimum requirements. 
+- The leverage buffer for a global systemically important bank holding company (BHC) is its supplementary leverage ratio minus 3 percent. 
+- The maximum payout ratio for a Board-regulated institution is determined by its capital buffer, with different percentages applying depending on the buffer's size relative to the institution's buffer requirement.
+
+Section 2: Regulatory Changes and Definitions
+- Changes have been made to various sections of financial regulations, including revisions to definitions, removal and replacement of certain phrases, and redesignation of paragraphs. 
+- The definition of "regulatory capital ratio" has been revised to refer to a capital ratio for which the Board has established minimum requirements. 
+
+Section 3: Capital Deductions and Risk Weights
+- An FDIC-supervised institution's non-significant investments in unconsolidated financial institutions are treated as tier 2 capital. 
+- Significant investments in unconsolidated financial institutions that are not common stock must be deducted from capital. 
+- Deductions must be made from common equity tier 1 capital elements for items that exceed 10% of the institution's common equity tier 1 capital elements, less adjustments and deductions.
+
+Section 4: Transition Adjustments and Regulatory Compliance
+- From July 1, 2025, Category III and IV Board-regulated institutions must make transition adjustments for Accumulated Other Comprehensive Income (AOCI) and comply with new requirements for expanded total risk-weighted assets. 
+- An FDIC-supervised institution that changes its category must comply with the requirements of its new category, including transition provisions, by the first day of the second quarter following the change.
+
+Section 5: Capital Requirements and Risk Mitigation
+- The FDIC-supervised institution's carrying value for equity securities classified as available-for-sale or held-to-maturity is calculated by subtracting any net unrealized gains and adding any net unrealized losses on the exposure. 
+- The institution may recognize the credit risk mitigation benefits of financial collateral that secures an eligible margin loan, repo-style transaction, collateralized derivative contract, or single-product netting set of such transactions. 
+
+Section 6: Regulatory Amendments and Definitions
+- Amendments have been made to various sections of the regulations, including revisions to the minimum capital requirements and the definitions of "Category II FDIC-supervised institution" and "Category III FDIC-supervised institution". 
+- The term 'total assets' in § 324.4 is defined as per 12 CFR § 324.401(g). 
+
+Section 7: Capital Deductions and Risk Weights
+- An FDIC-supervised institution may deduct non-significant investments in the capital of an unconsolidated financial institution or an investment in a covered debt instrument, exceeding the 10 percent threshold, from a specific capital component. 
+- If an FDIC-supervised institution has a significant investment in the capital of an unconsolidated financial institution, it must deduct any such investment not in the form of common stock, as well as any investment in a covered debt instrument, from its capital. 
+
+Section 8: Regulatory Compliance and Transition Adjustments
+- An FDIC-supervised institution that has elected the 2020 CECL transition provision can increase its total leverage exposure for the supplementary leverage ratio by 100% of its modified CECL transitional amount during the first two years of the transition period. 
+- Subpart H implements the provisions of section 38 of the FDI Act as they apply to FDIC-supervised institutions and insured branches of foreign banks, including officers, directors, and employees of those insured institutions.

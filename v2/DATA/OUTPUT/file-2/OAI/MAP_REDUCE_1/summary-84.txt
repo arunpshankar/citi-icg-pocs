@@ -1,0 +1,5 @@
+1. The proposal requires banking organizations to apply the look-through approach when calculating the standardized default risk capital requirement for equity positions in an investment fund. 
+2. For equity positions in publicly traded real estate investment trusts, the proposal requires banking organizations to treat the exposures as a single exposure due to the difficulty in calculating the default risk for each underlying asset. 
+3. The proposal allows banking organizations to use the internal models approach for equity positions in an investment fund if they can identify the underlying positions held by the fund on a quarterly basis. 
+4. The proposal permits banking organizations to include term repo-style transactions in market risk covered positions, provided they are marked to market and included consistently over time. 
+5. The proposal requires banking organizations to provide both public regulatory reports and confidential supervisory reports to their primary Federal supervisor to ensure they have adequately implemented the proposed market risk capital framework.
