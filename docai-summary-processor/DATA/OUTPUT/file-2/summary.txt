@@ -1,0 +1,539 @@
+This rule implements the capital requirements for large banking organizations under the Basel III framework. The rule requires national banks and federal savings associations with total consolidated assets of $50 billion or more to make public disclosures about their risk-weighted assets and capital ratios. 
+The rule also establishes four categories of national banks and federal savings associations based on their size and cross-jurisdictional activity. The category a bank or savings association falls into determines the level of public disclosure required. 
+The rule also makes a number of changes to the definitions of various terms used in the capital rules, including "total risk-weighted assets," "market risk-weighted assets," and "credit risk-weighted assets."
+The document revises and redesignates footnote 10 of § 324.4, amends § 324.10 by revising paragraphs (a)(1)(v), (b) introductory text, (b)(5), paragraph (c), paragraph (d) heading and introductory text, (d)(3)(ii), and (d)(4), amends § 324.11 by removing the words "advanced approaches FDIC-supervised institution or a Category III FDIC-supervised institution” from paragraph (b)(1) and adding, in their place, the words “FDIC-supervised institution subject to subpart E of this part”, amends § 324.12 by removing paragraph (a)(4), amends § 324.20 by revising paragraphs (c)(1)(xiv), (d)(1)(xi), and (d)(3), and amends § 324.21 by revising paragraph (b). 
+
+The main focus of the changes is on the capital ratio requirements and buffers for FDIC-supervised institutions subject to subpart E of this part. The amendments include, but are not limited to, revising the definition of total leverage exposure, specifying the calculation of the supplementary leverage ratio, and establishing the minimum capital requirements for FDIC-supervised institutions. 
+
+Additionally, the document makes technical corrections and updates to the terminology used throughout the sections.
+The document proposes a new method for calculating risk-based capital requirements for counterparty credit risk. The method, called the Basic Approach (BA)-CVA, is designed to be simpler and less risk-sensitive than the current Standardized Approach (SA)-CVA.
+The BA-CVA capital requirement is calculated as a weighted average of two components: Kunhedged and Khedged. Kunhedged is the risk-based capital requirement for CVA positions before recognizing the risk mitigating effect of eligible CVA hedges. Khedged is the risk-based capital requirement after recognizing such hedges.
+The weight assigned to Kunhedged is 0.65, while the weight assigned to Khedged is 0.35. This calibration is intended to ensure that the BA-CVA method is appropriately conservative relative to the SA-CVA.
+The calculation of Kunhedged involves two steps. First, the banking organization must calculate the standalone CVA capital requirement for each counterparty (SCVA). This is done by multiplying the exposure at default amount (EAD) by the supervisory risk weight for the counterparty and dividing by the alpha factor. 
+The second step is to aggregate the SCVA amounts for all counterparties. This is done by taking the square root of the sum of the squared SCVA amounts for each counterparty. 
+The calculation of Khedged involves three steps. First, the banking organization must calculate the capital reduction for each eligible CVA hedge. This is done by multiplying the supervisory prescribed correlation between the credit spread of the counterparty and the hedging instrument, the supervisory risk weight of the reference name of the hedging instrument, the remaining maturity of the hedging instrument, and the notional amount of the hedging instrument. 
+The second step is to calculate the hedge mismatch adjustment for indirect single-name hedges. This is done by multiplying the difference between the supervisory prescribed correlation and one by the supervisory risk weight of the reference name of the hedging instrument, the remaining maturity of the hedging instrument, the notional amount of the hedging instrument, and the supervisory discount factor. 
+The third step is to calculate the total amount by which index hedges of credit spread risk reduce the systematic component of the aggregate CVA risk across all counterparties. This is done by multiplying the supervisory risk weight for the index hedge, the remaining maturity of the index hedge, the notional amount of the index hedge, and the supervisory discount factor. 
+The SA-CVA is an adaptation of the sensitivities-based method used in the standardized measure for market risk. The inputs to the SA-CVA calculations are sensitivities of the aggregate regulatory CVA and of the market value of all eligible CVA hedges under SA-CVA to delta and vega risk factors specified in the proposal. 
+In general, the proposed SA-CVA would closely follow the sensitivities-based method for market risk with some exceptions. Broadly, the SA-CVA calculation would reflect capital requirements for only delta and vega (but not curvature), apply slightly different steps in the calculation of the risk-weighted net sensitivity, use less granular risk factors and risk buckets, and include a capital multiplier to account for model risk.
+The proposal revises the definition of market risk covered positions to better align with those positions the agencies believe should be subject to the market risk capital requirements as well as to reflect other proposed changes to the framework (for example, to incorporate the proposed treatment of internal risk transfers). 
+
+The proposal would retain the structure and major elements of the existing definition of covered position (re-designated as “market risk covered position") with several modifications intended to better align the definition of market risk covered position with those positions the agencies believe should be subject to the market risk capital requirements as well as to reflect other proposed changes to the framework (for example, to incorporate the proposed treatment of internal risk transfers). 
+
+The proposed revisions would also help promote consistency and comparability in the risk-based capital treatment of positions across banking organizations.
+The proposed rule amends the capital rules for national banks and federal savings associations to implement the Basel III capital framework. The Basel III capital framework is a set of international standards that were developed in response to the financial crisis of 2008. The framework is designed to strengthen the capital requirements for banks and to make the banking system more resilient to financial shocks.
+
+The proposed rule would make a number of changes to the capital rules for national banks and federal savings associations. These changes include:
+
+* Increasing the minimum common equity tier 1 capital ratio from 4% to 4.5%.
+* Introducing a new supplementary leverage ratio of 3%.
+* Revising the definition of regulatory capital to exclude certain types of assets that are not considered to be loss-absorbing.
+* Increasing the risk weights for certain types of assets, such as residential mortgages and commercial real estate loans.
+* Introducing a new capital conservation buffer that would require banks to hold additional capital when their capital ratios fall below a certain level.
+
+The proposed rule would also make a number of changes to the rules for calculating regulatory capital deductions. These changes include:
+
+* Revising the definition of goodwill to exclude certain types of intangible assets that are not considered to be loss-absorbing.
+* Increasing the deduction for deferred tax assets.
+* Introducing a new deduction for mortgage servicing rights.
+* Revising the deduction for investments in unconsolidated financial institutions.
+
+The proposed rule would also make a number of changes to the rules for calculating risk-weighted assets. These changes include:
+
+* Revising the risk weights for certain types of assets, such as residential mortgages and commercial real estate loans.
+* Introducing a new risk weight for covered bonds.
+* Revising the risk weight for securitizations.
+
+The proposed rule would also make a number of changes to the rules for calculating the leverage ratio. These changes include:
+
+* Revising the definition of total leverage exposure to exclude certain types of assets that are not considered to be loss-absorbing.
+* Introducing a new definition of net stable funding.
+
+The proposed rule would also make a number of changes to the rules for calculating the capital conservation buffer. These changes include:
+
+* Revising the definition of the capital conservation buffer to exclude certain types of assets that are not considered to be loss-absorbing.
+* Introducing a new definition of net stable funding.
+
+The proposed rule would also make a number of changes to the rules for calculating the countercyclical capital buffer. These changes include:
+
+* Revising the definition of the countercyclical capital buffer to exclude certain types of assets that are not considered to be loss-absorbing.
+* Introducing a new definition of net stable funding.
+The final rule implements the capital requirements of the Basel III international accord and makes other changes to the capital rules for banking organizations. It also implements certain provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act).
+Basel III is a set of international banking regulations developed by the Basel Committee on Banking Supervision (BCBS) in response to the global financial crisis of 2008. The Basel III capital rules are designed to strengthen the capital requirements for banks and to make the banking system more resilient to financial shocks.
+The final rule implements the Basel III capital rules for banking organizations in the United States. The rule also makes a number of changes to the capital rules for banking organizations, including:
+* Revising the definition of "total risk-weighted assets" to include expanded risk-weighted assets for banking organizations subject to the advanced approaches capital rules;
+* Revising the definition of "well capitalized" to exclude certain deductions from Tier 1 capital;
+* Revising the definition of "adequately capitalized" to exclude certain deductions from Tier 1 capital;
+* Revising the definition of "undercapitalized" to exclude certain deductions from Tier 1 capital;
+* Revising the definition of "significantly undercapitalized" to exclude certain deductions from Tier 1 capital;
+* Revising the definition of "critically undercapitalized" to exclude certain deductions from Tier 1 capital;
+* Revising the prompt corrective action (PCA) framework to reflect the changes to the capital rules; and
+* Implementing certain provisions of the Dodd-Frank Act, including the requirement for banking organizations to hold a minimum amount of capital in the form of common equity tier 1 capital.
+The document describes the delta buckets, risk weights, and correlations for the following risk classes:
+1. Credit spread risk for non-securitizations
+2. Credit spread risk for correlation trading positions
+3. Credit spread risk for securitization positions non-CTP
+4. Equity risk
+5. Commodity risk
+6. Foreign exchange risk 
+
+For each risk class, the document specifies the method to calculate the risk weighted delta sensitivities, and the correlation parameters to be used for aggregating risk weighted delta sensitivities within a bucket and across buckets.
+The agencies are proposing to amend their market risk information collections to reflect the proposed recordkeeping, disclosure, and reporting requirements associated with the proposed market risk capital requirements. The proposed rule would require banking organizations to calculate their risk-based capital ratios under both the new expanded risk-based approach and the current, generally applicable standardized approach. The lower of the two ratios for each ratio would be binding.
+The proposal introduces a standardized approach for operational risk capital requirements, replacing the advanced measurement approaches (AMA). 
+
+The standardized approach is based on a business indicator component and an internal loss multiplier. 
+
+The business indicator component measures the operational risk exposure of a banking organization and is calculated based on its business indicator multiplied by scaling factors that increase with the business indicator. 
+
+The business indicator is based on the sum of three components: an interest, lease, and dividend component; a services component; and a financial component. 
+
+The interest, lease, and dividend component aims to capture lending and investment activities. 
+
+The services component aims to capture fee and commission-based activities as well as other banking activities. 
+
+The financial component aims to capture trading activity and other activities that are associated with a banking organization's assets and liabilities. 
+
+The proposal also includes a discussion of the advantages and disadvantages of the proposed approach to calculating the services component, as well as potential alternatives.
+This document describes the risk-weighted asset requirements for banking organizations. The risk-weighted asset amount is calculated differently for different types of exposures, such as credit risk, equity exposures, and operational risk. 
+
+For credit risk, the risk-weighted asset amount is determined based on the obligor's creditworthiness and the type of exposure. For example, a loan to a sovereign entity would have a lower risk weight than a loan to a private company.
+
+For equity exposures, the risk-weighted asset amount is determined based on the type of equity exposure and the creditworthiness of the issuer. For example, an equity investment in a publicly traded company would have a higher risk weight than an equity investment in a private company.
+
+For operational risk, the risk-weighted asset amount is determined based on the bank's business indicator and internal loss multiplier. The business indicator is a measure of the bank's size and complexity, while the internal loss multiplier is a measure of the bank's historical operational losses.
+The proposed rule amends the capital requirements for banking organizations. The amendments implement the final Basel III standards issued by the Basel Committee on Banking Supervision (BCBS) in December 2017, as well as certain other changes to the capital rules.
+The final rule implements the standardized approach for calculating risk-weighted assets for exposures to non-depository financial institutions. It also implements the revised market risk framework, which includes the fundamental review of the trading book (FRTB). 
+The final rule also makes a number of changes to the capital rules for exposures to sovereigns, including a new risk weight floor for exposures to non-investment grade sovereigns. The final rule also makes changes to the rules for calculating regulatory capital, including a new definition of total loss-absorbing capacity (TLAC) and a new approach for calculating the TLAC requirement for global systemically important banks (G-SIBs).
+
+The proposed rule amends the capital requirements for bank holding companies, savings and loan holding companies, and state member banks. 
+
+The rule proposes to replace the advanced approaches framework with a new framework that is based on the standardized approach. 
+
+The rule also proposes to make a number of changes to the definition of total risk-weighted assets, including adding a new category of risk-weighted assets for CVA risk. 
+
+The rule also proposes to make a number of changes to the definition of capital, including excluding from tier 1 capital any amount of the Board-regulated institution's adjusted allowance for credit losses that is not included in tier 2 capital and any amount of allocated transfer risk reserves.
+
+The document proposes a new capital framework for CVA risk. The framework includes a basic approach (BA-CVA) and a standardized approach (SA-CVA). 
+
+The BA-CVA is simpler, but less risk sensitive, than the SA-CVA. The BA-CVA would allow a banking organization to recognize the risk-mitigating benefit of hedges of the counterparty credit spread component of CVA risk. The only instruments that could be recognized as eligible hedges under the BA-CVA are the following instruments that hedge credit spread risk: index CDS, single-name CDS, and single-name contingent CDS. 
+
+The SA-CVA would recognize as eligible CVA hedges instruments that are used to hedge the exposure component of CVA risk. The SA-CVA would also recognize both external and internal CVA hedging transactions as eligible CVA hedges. 
+
+The proposal would require a banking organization to satisfy certain general risk management requirements related to the identification and management of CVA risk covered positions and eligible CVA hedges and also to comply with additional operational requirements. 
+
+To calculate the risk-based capital requirement for CVA risk, the proposal would provide a basic measure for CVA risk and a standardized measure for CVA risk. 
+
+A banking organization would be required to use the basic measure for CVA risk unless it has received prior written approval from the primary Federal supervisor to use the standardized measure for CVA risk.
+The document is about CVA risk. It defines CVA risk, provides requirements for CVA risk covered positions and eligible CVA hedges, and describes two approaches for calculating the measure for CVA risk: the basic CVA approach and the standardized CVA approach. 
+
+The basic CVA approach calculates the basic CVA approach capital requirement, which is the sum of the Kbasic and any additional capital requirement for CVA risk established by the [AGENCY] pursuant to § ___.201(c). Kbasic is calculated as 0.65 * (B * Kunhedged + (1-B) * Khedged), where B=0.25, Kunhedged=ΣSCVA²) / (ΣSCVA₁ * (1-p²) + (1 - p²) * Σ(SCVA₁ - SNH₁)²) and Khedged=Σ(SCVA₁ - SNH₁ - IH)² / (Σ(SCVA₁ - SNH₁)²) + ΣΗΛ / HMAC, where SCVA= C / (α * ΣNS(MNS * EADNS * DFNS)), SNH=Σhec(ηhec * RW * MSN * BSN * DFSN), IH=Σ(RW * Mind * Bind * DFind), and HMA=Σ((1 - ηhec) * (RW * M * B * DFS²)). 
+
+The standardized CVA approach calculates the standardized CVA approach capital requirement, which is the sum of the CVA delta capital requirement and the CVA vega capital requirement. The CVA delta capital requirement is calculated as the sum of the risk class-level CVA delta capital requirements for each of the following six risk classes: interest rate risk, foreign exchange risk, counterparty credit spread risk, reference credit spread risk, equity risk, and commodity risk. The CVA vega capital requirement is calculated as the sum of the risk class-level CVA vega capital requirements for each of the six risk classes.
+The document is about the risk-based capital requirements for securitization exposures. It defines the eligible credit risk mitigant, the criteria for transferring credit risk, and the requirements for due diligence. It also provides the risk-weighted asset amount and risk-weight for different types of securitization exposures.
+This document describes the risk-based capital requirements for banking organizations. The requirements are designed to ensure that banking organizations have sufficient capital to absorb losses from unexpected events. 
+
+There are two main types of risk-based capital requirements: 
+- The simple approach, which is based on the risk weight of the assets held by the banking organization 
+- The advanced approach, which is based on the bank's own internal risk assessment models 
+
+The risk weight of an asset is a number that represents the amount of risk that the asset is considered to pose. The higher the risk weight, the more capital the bank must hold against the asset. 
+
+The risk-based capital requirements also include a number of other provisions, such as: 
+- A requirement for banking organizations to hold additional capital for certain types of assets, such as derivatives and securitizations 
+- A requirement for banking organizations to hold capital against operational risk 
+- A requirement for banking organizations to have a minimum amount of common equity tier 1 capital 
+
+The risk-based capital requirements are complex and subject to change. Banking organizations should consult with their regulators to ensure that they are in compliance with the latest requirements.
+The document is about capital requirements for banking institutions.
+
+(1) The minimum capital requirements for banking institutions are:
+ - Common equity tier 1 capital: 4.5% of risk-weighted assets
+ - Tier 1 capital: 6% of risk-weighted assets
+ - Total capital: 8% of risk-weighted assets
+ - Leverage ratio: 3% of total leverage exposure
+
+(2) The risk-weighted assets are calculated by multiplying the exposure amount of each asset by a risk weight. The risk weight depends on the type of asset and its credit quality.
+
+(3) The total leverage exposure is calculated by adding up the on-balance sheet assets, off-balance sheet exposures, and certain other items.
+
+(4) There are some exclusions and deductions that can be applied to the capital requirements. For example, certain types of assets can be deducted from the risk-weighted assets, and certain types of liabilities can be deducted from the total leverage exposure.
+The document is about market risk capital requirements for banking organizations. It defines market risk covered positions, trading desks and provides detailed guidance on how to calculate the measure for market risk, including the standardized measure for market risk and the models-based measure for market risk. The document also discusses the fallback capital requirement, capital add-ons for re-designations, and additional capital requirements.
+The document defines the risk factors and parameters for calculating sensitivities-based capital requirement. 
+
+The risk factors for interest rate risk include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are defined for each currency and consist of interest rate risk factors, inflation rate risk factors and cross-currency basis risk factors. The vega risk factors are defined for each currency and consist of the implied volatilities of inflation rate risk-sensitive options, the implied volatilities of cross-currency basis risk-sensitive options and the implied volatilities of interest rate risk-sensitive options. The curvature risk factors are defined along one dimension, the relevant interest rate curve, per currency. 
+
+The risk factors for credit spread risk for non-securitization positions include delta risk factors and vega risk factors. The delta risk factors are defined along two dimensions: the issuer credit spread curve and tenor. The vega risk factors are defined for each credit spread curve and consist of the implied volatilities of options. 
+
+The risk factors for credit spread risk for securitization positions non-CTP include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are defined along two dimensions: the tranche credit spread curve and tenor of the tranche. The vega risk factors are defined for each tranche credit spread curve and consist of the implied volatilities of options. The curvature risk factors are defined along one dimension, the relevant tranche credit spread curves. 
+
+The risk factors for credit spread risk for correlation trading positions include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are defined along two dimensions: the underlying credit spread curve and tenor of the underlying name. The vega risk factors are defined for each underlying credit spread curve and consist of the implied volatilities of options. The curvature risk factors are defined along one dimension, the relevant underlying credit spread curves. 
+
+The risk factors for equity risk include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are defined for each issuer and consist of equity spot prices and equity repo rates. The vega risk factors are defined for each issuer and consist of the implied volatilities of the spot prices of equity risk-sensitive options. The curvature risk factors are defined for each issuer and consist of all equity spot prices. 
+
+The risk factors for commodity risk include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are defined for each commodity and consist of all commodity spot prices or forward prices. The vega risk factors are defined for each commodity and consist of the implied volatilities of commodity-sensitive options. The curvature risk factors are defined along one dimension per commodity, the constructed curve per commodity spot prices or forward prices. 
+
+The risk factors for foreign exchange risk include delta risk factors, vega risk factors and curvature risk factors. The delta risk factors are all the exchange rates between the currency in which a market risk covered position is denominated and the reporting currency. The vega risk factors are the implied volatility of options that reference exchange rates between currency pairs. The curvature risk factors are all the exchange rates between the currency in which a market risk covered position is denominated and the reporting currency. 
+
+The document also provides the definitions of buckets, risk weights and correlation parameters for calculating the delta capital requirement, vega capital requirement and curvature capital requirement.
+The document proposes to revise the capital rule for banking organizations. The proposal would introduce a new definition for project finance exposures and would assign a 130 percent risk weight to such exposures during the pre-operational phase and a 100 percent risk weight during the operational phase. The proposal would also expand the scope of banking organizations that would be required to use the SA-CCR approach to calculate the exposure amount of derivative contracts. Additionally, the proposal would make certain technical revisions to SA-CCR to assist banking organizations in implementing SA-CCR in a consistent manner and with an exposure measurement that more appropriately reflects the counterparty credit risks posed by derivative transactions. Finally, the proposal would clarify that the option to decompose a non-linear index is not available under SA-CCR and that if electing to decompose a linear index, banking organizations must apply the weights used by the index when determining the exposure amounts for the underlying instrument.
+The proposal would substantially revise the capital requirements applicable to large banking organizations and to banking organizations with significant trading activity.
+The revisions would improve the calculation of risk-based capital requirements to better reflect the risks of these banking organizations' exposures, reduce the complexity of the framework, enhance the consistency of requirements across these banking organizations, and facilitate more effective supervisory and market assessments of capital adequacy. 
+The revisions would include replacing current requirements that include the use of banking organizations' internal models for credit risk and operational risk with standardized approaches and replacing the current market risk and credit valuation adjustment risk requirements with revised approaches. 
+The proposed revisions would be generally consistent with recent changes to international capital standards issued by the Basel Committee on Banking Supervision. 
+The proposal would not amend the capital requirements applicable to smaller, less complex banking organizations.
+The document is about the risk-based capital requirements for FDIC-supervised institutions. It contains the rules and regulations for calculating the risk-weighted assets and deductions for these institutions. 
+
+The main changes in the document are:
+* The definition of “qualifying community banking organization” has been revised.
+* The risk-weighted asset calculation for derivative contracts has been revised.
+* The collateral haircut approach for recognizing the credit risk mitigation benefits of financial collateral has been revised.
+* The disclosure requirements for FDIC-supervised institutions have been revised.
+* The risk-weighted asset calculation for securitization exposures has been revised.
+The proposal would revise the market risk capital framework to improve risk sensitivity, transparency, and consistency. It introduces a risk-sensitive standardized methodology and a new models-based methodology to replace the current framework. The proposal also includes enhanced templates and qualitative disclosure requirements.
+The proposal introduces a new definition of retail exposure, which includes an exposure to a natural person or persons, or an exposure to a small or medium-sized entity (SME) that meets the proposed definition of a regulatory retail exposure. 
+
+The proposal would differentiate the risk-weight treatment for retail exposures based on whether (1) the exposure qualifies as a regulatory retail exposure, (2) further qualifies as a transactor exposure; or (3) does not qualify for either of the previous categories and is treated as an other retail exposure. 
+
+A regulatory retail exposure would be limited on an aggregate and granular basis. A banking organization would include all outstanding and committed but unfunded regulatory retail exposures accounting for any applicable credit conversion factor when aggregating the retail exposures. 
+
+A transactor exposure is a regulatory retail exposure that is a credit facility where the balance has been repaid in full at each scheduled repayment date for the previous twelve months or an overdraft facility where there has been no drawdown over the previous twelve months. 
+
+The proposal would assign a risk weight of 55 percent to a regulatory retail exposure that is a transactor exposure and an 85 percent risk weight to a regulatory retail exposure that is not a transactor exposure. All other retail exposures would be assigned a 110 percent risk weight. 
+
+The proposal would introduce a new requirement for banking organizations to apply a multiplier to the applicable risk weight assigned to certain exposures that contain currency mismatches between the banking organization's lending currency and the borrower's source of repayment. 
+
+A corporate exposure under the proposal would be an exposure to a company that does not fall under any other exposure category under the proposal. 
+
+The proposal would differentiate the risk weights of corporate exposures based on credit risk by considering such factors as a corporate exposure's investment quality and the general creditworthiness of the borrower, level of subordination, as well as the nature and substance of the lending arrangement, and the degree of reliance on the borrower's independent capacity for repayment of the obligation, or reliance on the income that the borrowing entity is expected to generate from the asset(s) or a project being financed. 
+
+A banking organization would assign a 65 percent risk weight to a corporate exposure that is both (1) an exposure to a company that is investment grade, and (2) where that company, or a parent that controls that company, has publicly traded securities outstanding.
+The document is about risk-based capital requirements for banking organizations. It defines the risk-weighted asset amount for various types of transactions, including cleared transactions, unsettled transactions, guarantees and credit derivatives, and securitizations.
+For cleared transactions, the risk-weighted asset amount is calculated by multiplying the trade exposure amount by the risk weight for the transaction. The risk weight for a cleared transaction with a QCCP is 2%, and for a cleared transaction with a non-QCCP, the risk weight is determined according to the CCP's risk weight.
+For unsettled transactions, the risk-weighted asset amount is calculated by multiplying the positive current exposure of the transaction by the risk weight for the transaction. The risk weight for an unsettled DvP or PvP transaction is 100% from 5 to 15 business days after the contractual settlement date, 625% from 16 to 30 business days, 937.5% from 31 to 45 business days, and 1,250% for 46 or more business days. For non-DvP/non-PvP transactions, the risk weight is 100% until the fifth business day after counterparty delivery is due, and 1,250% thereafter.
+For guarantees and credit derivatives, the risk-weighted asset amount is calculated by substituting the risk weight for the protection provider for the risk weight assigned to the exposure. This is subject to certain conditions, such as the guarantee or credit derivative being eligible and the credit risk being fully or pro rata covered.
+For securitizations, the risk-weighted asset amount is calculated based on the credit risk of the underlying exposures and the seniority of the exposure.
+The proposal introduces a new market risk capital rule that applies to banking organizations with $10 billion or more in total assets and that use internal models to calculate their risk-based capital requirements for market risk. 
+
+The proposal would require banking organizations to calculate their market risk capital requirements using a two-step process. In the first step, banking organizations would calculate their expected shortfall (ES) for each risk class and across risk classes using a 10-day liquidity horizon. In the second step, banking organizations would calculate their total internal models capital charges (IMCC) by taking a weighted average of the ES for each risk class and the ES for all risk classes. 
+
+The proposal also includes a number of other provisions, including:
+
+* A requirement for banking organizations to use a liquidity horizon of at least 20 days for non-modellable risk factors.
+* A requirement for banking organizations to calculate their IMCC using a stress period that is calibrated to be at least as prudent as the ES for modellable risk factors.
+* A requirement for banking organizations to conduct backtesting of their VaR-based measures against both actual profit and loss and hypothetical profit and loss.
+* A requirement for banking organizations to use the standardized default risk capital requirement regardless of whether they use the IMCC plus SES or the sensitivities-based method plus the residual risk add-on for non-default market risk factors.
+* A requirement for banking organizations to conduct a profit and loss attribution test to measure the materiality of the simplifications in their internal risk management models.
+The proposal would specify term-based haircuts for investment grade senior securitization exposures that receive a risk weight of less than 100 percent under the securitization framework. Other securitization exposures would receive the 30 percent market price volatility haircut applicable to "other" exposure types.
+The proposal would require a banking organization to apply market price volatility haircuts of 20 percent for main index equities (including convertible bonds) and gold, 30 percent for other publicly traded equities and convertible bonds, and 30 percent for other exposure types.
+For collateral in the form of mutual fund shares, the proposal would be consistent with the collateral haircut approach provided in the current capital rule in which a banking organization would apply the highest haircut applicable to any security in which the fund can invest. 
+The proposal would maintain the requirement for a banking organization to apply a market price volatility haircut of 30 percent to address the potential market price volatility for any instruments that the banking organization has lent, sold subject to repurchase, or posted as collateral that is not of a type otherwise specified in Table 1.
+The proposal would require a banking organization to receive a minimum amount of collateral when undertaking certain repo-style transactions and eligible margin loans (in-scope transactions) with such entities (unregulated financial institutions). 
+The application of haircut floors would determine the minimum amount of collateral exchanged. A banking organization would treat in-scope transactions with unregulated financial institutions that do not meet the proposed haircut floors as repo-style transactions or eligible margin loans where the banking organization did not receive any collateral from its counterparty. 
+The proposed treatment is intended to limit the build-up of excessive leverage outside the banking system and reduce the cyclicality of such leverage, thereby limiting risk to the lending banking organization and the banking system.
+
+The document proposes a new framework for risk-weighting real estate exposures. The proposal would assign risk weights to regulatory residential real estate exposures and regulatory commercial real estate exposures based on the exposure's LTV ratio and whether the exposure is dependent on the cash flows generated by the real estate. 
+
+The proposal also includes a definition of defaulted real estate exposure and introduces new criteria for determining whether a residential mortgage exposure or a non-residential mortgage exposure is in default. 
+
+The agencies seek comment on various aspects of the proposal, including the application of prudent underwriting standards, the treatment of exposures secured by second homes, the treatment of residential mortgage exposures where repayment is dependent on cash flows from overnight or short-term rentals, the calculation of the loan-to-value ratio, the risk weights for regulatory residential real estate exposures and regulatory commercial real estate exposures, and the treatment of defaulted real estate exposures.
+The proposal is to revise the capital rule to make it more risk-sensitive and to better align the rule with international standards.
+
+The proposal would make the following changes to the capital rule:
+
+* Increase the risk-weight for certain exposures, such as exposures to sovereign debt and exposures to the shadow banking system.
+
+* Introduce a new risk-weight for operational risk.
+
+* Revise the definition of regulatory capital to exclude certain types of capital, such as goodwill and deferred tax assets.
+
+* Increase the minimum capital ratio for all banking organizations to 8%.
+
+* Introduce a new capital surcharge for global systemically important banks (G-SIBs).
+
+The proposal would also make a number of technical changes to the capital rule, such as clarifying the definition of certain terms and correcting errors.
+The proposal introduces a new capital rule for large banking organizations that replaces the current capital rule's internal models-based approaches for credit risk with a new expanded risk-based approach. 
+
+The proposal would group credit risk exposures into the following categories: sovereign exposures; exposures to certain supranational entities and multilateral development banks; exposures to GSEs; exposures to depository institutions, foreign banks, and credit unions; exposures to PSEs; real estate exposures; retail exposures; corporate exposures; defaulted exposures; exposures to subordinated debt instruments; and off-balance sheet exposures. 
+
+The proposed risk weight treatments for each of these categories are described in the following sections of this Supplementary Information.
+This document describes the market risk capital requirements for banking organizations. The rule requires banking organizations to calculate and maintain capital requirements for market risk based on a standardized approach or an internal models-based approach. The rule also specifies the reporting and disclosure requirements for market risk.
+The document defines terms related to market risk and provides requirements for identifying and managing market risk covered positions.
+The document is about the capital requirements for national banks and Federal savings associations. It defines various terms such as standardized market risk-weighted assets, standardized total risk-weighted assets, sub-speculative grade, synthetic exposure, total credit risk-weighted assets, unregulated financial institution, variation margin amount, etc. It also discusses the minimum capital requirements, supplementary leverage ratio, expanded capital ratio calculations, capital conservation buffer and countercyclical capital buffer amount, and community bank leverage ratio framework.
+The agencies are proposing a new market risk capital framework. Under the proposal, a banking organization would be required to adequately document all material aspects of its identification, management, and valuation of its market risk covered positions, including internal risk transfers and any re-designations of positions between subpart F and subparts D and E of the capital rule. The proposal would also require a banking organization to establish and document its trading desk structure, including identifying which trading desks are model-eligible, model-ineligible, used for internal risk transfers, or constitute notional trading desks, as well as document policies describing how each trading desk satisfies applicable requirements. 
+
+For the banking organization to use the models-based measure for market risk, the proposal would require a banking organization to receive the prior written approval from its primary Federal supervisor for at least one trading desk to apply the internal models approach. The proposal would establish a framework for such approval, including initial approval and ongoing eligibility and changes to trading desk structure or internal models.
+
+Under the proposal, the standardized measure for market risk would consist of three main components: a sensitivities-based method, a standardized default risk capital requirement, and a residual risk add-on. The sensitivities-based capital requirement would capture non-default market risk based on the estimated losses produced by risk factor sensitivities under regulatory determined stressed conditions. The standardized default risk capital requirement captures losses on credit and equity positions in the event of obligor default, while the residual risk add-on serves to produce a simple, conservative capital requirement for any other known risks that are not already captured by first two components (sensitivities-based measure and the standardized default risk capital).
+The proposal would eliminate the use of models for credit risk under the current capital rule and replace certain methodologies for recognizing the risk-reducing benefits of financial collateral and eligible guarantees and credit derivatives—namely, the internal models methodology, simple VaR approach, PD substitution approach, LGD adjustment approach, and double default treatment with the standardized approaches described below. 
+
+For eligible guarantees and eligible credit derivatives, the proposal would permit banking organizations to use the substitution approach from subpart D of the current capital rule with a modification for eligible credit derivatives that do not include restructuring as a credit event. Further, the proposal would no longer permit the recognition of credit protection from nth-to-default credit derivatives. For all collateralized transactions, the corporate issuer of any financial collateral in the form of a corporate debt security must have an outstanding publicly traded security or the corporate issuer must be controlled by a company that has an outstanding publicly traded security in order to be recognized. 
+
+The proposal would introduce minimum haircut floors for certain eligible margin loan and repo-style transactions with unregulated financial institutions that banking organizations must meet in order to recognize the risk-mitigation benefits of financial collateral. 
+
+The proposal would only allow a banking organization to recognize the risk-mitigating benefits of a corporate debt security that meets the definition of financial collateral in expanded risk-weighted assets if the corporate issuer of the debt security has a publicly traded security outstanding or is controlled by a company that has a publicly traded security outstanding. 
+
+Under the collateral haircut approach, the proposed exposure amount for an individual eligible margin loan or repo-style transaction that is not part of a netting set would yield the same result as the exposure amount equation in the current capital rule. However, the proposal would change the variables and structure to provide a simplified calculation for an individual eligible margin loan or repo-style transaction in comparison with transactions that are part of a netting set. 
+
+Under the collateral haircut approach, the proposal would provide a new, more risk-sensitive equation that recognizes diversification benefits by taking into consideration the number of securities included in a netting set of eligible margin loans or repo-style transactions. 
+
+The proposal would apply haircuts based solely on residual maturity, rather than a combination of residual maturity and underlying risk weight as under the current capital rule for investment grade debt securities other than sovereign debt securities.
+This document contains the instructions and guidelines for banking organizations to follow in order to calculate their capital adequacy and risk exposure. The capital adequacy ratio is a measure of a bank's financial strength and its ability to absorb losses. The risk exposure guidelines help banks to identify, measure, monitor and control their risks. 
+
+The document defines the components of the capital adequacy ratio, including the risk-weighted assets, the risk-based capital, and the total capital ratio. It also explains how to calculate the risk-weighted assets and the risk-based capital. 
+
+The document also provides instructions on how to calculate the risk exposure of a bank, including the credit risk, market risk, and operational risk. The credit risk is the risk of loss due to a borrower's default on a loan. The market risk is the risk of loss due to changes in the market value of a bank's assets and liabilities. The operational risk is the risk of loss due to inadequate or failed internal processes, people, and systems or from external events. 
+
+The document also includes instructions on how to calculate the total capital ratio, which is the ratio of the total capital to the risk-weighted assets. The total capital ratio must be at least 8% for a bank to be considered adequately capitalized. 
+
+Finally, the document provides instructions on how to disclose the capital adequacy and risk exposure information to the public.
+This document describes the details of the CVA capital requirement regulation, which is a part of the Basel III capital accords. It defines the methodologies for calculating the capital charge for counterparty credit risk, reference credit spread risk, equity risk, and commodity risk. The capital charge is based on the riskiness of the exposure, which is determined by the delta and vega risk factors. The regulation also specifies the vega risk weights, vega within-bucket correlation parameters, and vega cross-bucket correlation parameters.
+The proposal introduces a new framework for calculating operational risk capital requirements. 
+- The business indicator component would increase at a rate of: 
+  - 12 percent per unit of business indicator for levels of business indicator up to $1 billion; 
+  - 15 percent per unit of business indicator for levels of business indicator above $1 billion and up to $30 billion; 
+  - 18 percent per unit of business indicator for levels of business indicator above $30 billion
+- The internal loss multiplier would be calculated as follows:
+Internal Loss Multiplier = maximum {1, (exp(1 - exp(1))/exp(1) - 1) * 15 * (Average Annual Total Net Operational Losses / Business Indicator Component)}
+- The proposal would include a $20,000 net loss threshold (that is, $20,000 after taking into account all subsequent recoveries related to the operational loss) for inclusion of an operational loss in the calculation of average annual total net operational losses.
+- Banking organizations would continue to be required to collect operational loss event data. 
+- The proposal would introduce a requirement that banking organizations collect descriptive information about the drivers or causes of operational loss events that result in a gross operational loss of $20,000 or more. 
+- The proposal would not include certain data requirements included in the AMA, such as estimating operational risk exposure, collecting external operational loss event data, scenario analysis, and business, environment, and internal control factors.
+The document contains definitions for various terms used in banking regulations, including regulatory retail exposure, retail exposure, senior securitization exposure, small or medium-sized entity (SME), subordinated debt instrument, synthetic excess spread, transactor exposure, total interest expense, total interest income, trading revenue, loan-to-value (LTV) ratio, risk-weighted assets for credit risk, general risk weights, sovereign exposures, certain supranational entities and multilateral development banks (MDBs), exposures to GSEs, exposures to a depository institution, a foreign bank, or a credit union, exposures to public sector entities (PSES), real estate exposures, retail exposures, and corporate exposures. It also provides calculation methods for LTV ratio and risk-weighted assets for credit risk.
+The sensitivities-based capital requirement is a risk-based capital requirement for market risk. It is calculated by aggregating the risk-weighted sensitivities of a [BANKING ORGANIZATION]'s market risk covered positions to the relevant risk factors. 
+The risk-weighted sensitivities are calculated by multiplying the delta sensitivities, vega sensitivities, and curvature sensitivities by the corresponding risk weights. 
+The delta sensitivities measure the change in the value of a market risk covered position for a one basis point change in the relevant risk factor. 
+The vega sensitivities measure the change in the value of a market risk covered position for a one percentage point change in the volatility of the underlying asset. 
+The curvature sensitivities measure the change in the value of a market risk covered position for a one percentage point change in the curvature of the yield curve. 
+The risk class-level capital requirement is the sum of the delta capital requirement, the vega capital requirement and the curvature capital requirement for the respective correlation scenario. 
+The sensitivities-based capital requirement equals the largest capital requirement produced under the three correlation scenarios.
+The document describes the standardized default risk capital requirement for non-securitization debt or equity positions, securitization positions non-CTP, and correlation trading positions. 
+
+For non-securitization debt or equity positions, the gross default exposure is calculated based on the loss given default (LGD) rate, notional amount (or face value) and the cumulative profit and loss (P&L) already realized on the non-securitization position. The net default exposure is calculated by summing the maturity-weighted default exposures to the issuer and offsetting long and short gross default exposures to the same obligor. The standardized default risk capital requirement is calculated by assigning each non-securitization debt or equity position to one of four buckets and calculating the bucket-level default risk capital requirement. 
+
+For securitization positions non-CTP, the gross default exposure is determined using the approach for non-securitization debt or equity positions, treating each securitization position non-CTP as a non-securitization debt or equity position. The net default exposure is calculated by offsetting long and short securitization positions non-CTP if the positions have the same underlying asset pools and belong to the same tranche. 
+
+For correlation trading positions, the standardized default risk capital requirement is calculated by multiplying the gross default exposure by the risk weight for the position and then summing the results across all positions.
+The document is a proposed rule by the Federal banking agencies to amend the capital rules for banking organizations. The proposed rule would implement the Basel III capital framework, which is a set of international standards for bank capital.
+
+The proposed rule would make a number of changes to the current capital rules, including:
+
+- Increasing the minimum common equity tier 1 capital ratio from 4.5% to 4.5%.
+- Introducing a new supplementary leverage ratio of 3%.
+- Revising the risk-weighted asset framework to align it with the Basel III framework.
+- Revising the treatment of securitizations and derivatives.
+- Introducing a new framework for operational risk capital.
+
+The proposed rule would also make a number of changes to the risk-weighted asset framework, including:
+
+- Increasing the risk weight for certain types of exposures, such as sovereign exposures and exposures to highly leveraged entities.
+- Reducing the risk weight for certain types of exposures, such as residential mortgages and exposures to central banks.
+- Introducing a new risk weight for operational risk.
+
+The proposed rule is intended to strengthen the capital framework for banking organizations and to make it more consistent with international standards. The proposed rule is also intended to reduce the risk of financial instability by requiring banks to hold more capital.
+The proposal introduces a new framework for risk-weighting equity exposures. The framework is designed to be more risk-sensitive and robust than the current capital rule.
+The proposal would eliminate the 100 percent risk weight threshold category under the simple risk-weight approach for non-significant equity exposures.
+The proposal would eliminate the effective and ineffective hedge pair treatment under the simple risk-weight approach.
+The proposal would align the conversion factors for conditional commitments to acquire an equity exposure, consistent with the proposed off-balance sheet treatment for exposures subject to the proposed credit risk framework.
+The proposal would increase the risk weight applicable to equity exposures to investment firms with greater than immaterial leverage that the primary federal supervisor has determined do not qualify as a traditional securitization.
+The proposal would enhance the risk-sensitivity of the current capital rule’s look-through approaches for equity exposures to investment funds by specifying a hierarchy of approaches that a banking organization would be required to use based on the nature and quality of the information available to the banking organization concerning the investment fund's underlying assets and liabilities.
+The proposal would modify the full look-through and the alternative look-through approaches to explicitly capture off-balance sheet exposures held by an investment fund, the counterparty credit risk and CVA risk of any underlying derivatives held by the investment fund, and the leverage of the investment fund.
+The proposal would replace the simple modified look-through approach with a flat 1,250 percent risk weight.
+The proposal would floor the risk weight applicable to an equity exposure to an investment fund at 20 percent, consistent with the standardized approach in the current capital rule.
+The document amends the definitions of “Category II FDIC-supervised institution”, “Category III FDIC-supervised institution”, and “Category IV FDIC-supervised institution”. 
+It also amends the definition of “corporate exposure”, “eligible guarantee”, “expanded total risk-weighted assets”, “market risk FDIC-supervised institution”, “netting set”, “net independent collateral amount”, “protection amount (P)”, “speculative grade”, “standardized market risk-weighted assets”, “standardized total risk-weighted assets”, “sub-speculative grade”, “total credit risk-weighted assets”, “unregulated financial institution”, and “variation margin amount”. 
+In addition, it removes the definitions for “Advanced approaches FDIC-supervised institution”, “Advanced approaches total risk-weighted assets”, “Advanced market risk-weighted assets", "Credit-risk-weighted assets”", "Eligible credit reserves”, “Expected credit loss (ECL)", "Specific wrong-way risk”, “Unregulated financial institution”, and “Value-at-Risk (VaR)
+The document proposes a new capital framework for large banking organizations. The framework consists of the following:
+- Revised credit risk framework
+- New operational risk framework
+- New CVA risk framework
+- Revised market risk framework
+
+The proposal also includes a three-year transition period for two provisions: the expanded risk-based approach and, for banking organizations subject to Category III or IV capital standards, the AOCI regulatory capital adjustments.
+The document proposes a new market risk capital framework that includes both a standardized approach and an internal models approach. 
+
+The standardized approach is based on sensitivities to risk factors, and the internal models approach is based on expected shortfall. 
+
+The proposal also includes a number of changes to the existing market risk capital framework, including a new definition of real price, a new bucketing approach, and new criteria for determining the model eligibility of risk factors.
+
+The agencies are seeking comment on all aspects of the proposed framework, including the appropriateness of the proposed thresholds, the potential benefits and drawbacks of the proposed approach, and any alternative approaches that should be considered.
+The proposal introduces the concept of a trading desk and applies the proposed internal models approach at the trading desk level. The proposal also introduces a capital add-on for re-designations to offset any potential capital benefit that a banking organization otherwise might have received from re-classifying an instrument previously treated under subparts D or E of the capital rule as a market risk covered position. 
+
+The proposal would require a banking organization to satisfy certain general operational requirements for each trading desk, including: 
+- Clearly defined trading and hedging strategies for market risk covered positions
+- The trading desk must be organized to ensure the appropriate setting, monitoring, and management review of the desk's trading and hedging limits and strategies. 
+- The trading desk must be characterized by a clearly-defined unit of organization that engages in coordinated trading activity with a unified approach to the key elements of the proposed rule's requirements for trading desk policies and active management of market risk covered positions; operates subject to a common and calibrated set of risk metrics, risk levels, and joint trading limits; submits compliance reports and other information as a unit for monitoring by management; and books its trades together
+- A banking organization must also establish policies and procedures describing the strategy and risk management framework established for overseeing the risk-taking activities of the trading desk, including a business strategy, trading strategy, and hedging strategy. 
+
+The proposal would also enhance the stress testing and internal assessment of capital adequacy requirements to reflect both the entity-wide and the trading-desk level elements within the proposed market risk capital requirement calculation. Stress tests would be required at both the entity-wide and trading-desk level on at least a quarterly basis.
+The proposal defines the risk factor sensitivities for market risk covered positions. 
+Delta risk factors are defined for interest rate risk, credit spread risk, equity risk, commodity risk, and foreign exchange risk. 
+Vega risk factors are defined for interest rate risk, credit spread risk, and equity risk. 
+Curvature risk factors are defined for interest rate risk, credit spread risk, and foreign exchange risk. 
+The proposal also specifies the methods for calculating risk factor sensitivities.
+The proposal introduces a new capital framework for large banking organizations. It aims to improve the risk-sensitivity, consistency, and transparency of capital requirements. 
+
+1. The proposal would eliminate the use of internal models to set credit risk and operational risk capital requirements for banking organizations subject to Category I or II capital standards. 
+* Advantages: 
+ - Improve the consistency of requirements.
+ - Enhance the transparency of capital requirements. 
+ - Improve the efficiency of the capital framework by reducing operational costs. 
+ - Reduce unwarranted variability in risk-based capital requirements.
+* Disadvantages:
+ - May reduce the overall risk capture of the regulatory framework.
+2. The proposal would expand the application of the countercyclical capital buffer to banking organizations subject to Category IV capital standards. 
+* Advantages:
+ - Increase the resilience of these banking organizations and, in turn, improve the resilience of the broader financial system. 
+ - Moderate fluctuations in the supply of credit over time.
+* Disadvantages:
+ - None mentioned.
+3. The proposal would expand the application of the supplementary leverage ratio requirement to banking organizations subject to Category IV capital standards. 
+* Advantages:
+ - Ensure that all large banking organizations are subject to a consistent and robust leverage requirement that serves as a complement to risk-based capital requirements and takes into account on- and off-balance sheet exposures.
+* Disadvantages:
+ - None mentioned.
+4. The proposal would require banking organizations to calculate risk-based capital ratios in two different ways: 
+ - The expanded risk-based approach
+ - The standardized approach
+* Advantages:
+ - Enhance the consistency of capital requirements.
+ - Ensure that the use of internal models for market risk does not result in unwarranted reductions in capital requirements.
+* Disadvantages:
+ - Increase the complexity of capital calculations.
+5. The proposal would introduce an “output floor” to the calculation of expanded total risk-weighted assets. 
+* Advantages:
+ - Enhance the consistency of capital requirements.
+ - Ensure that the use of internal models for market risk does not result in unwarranted reductions in capital requirements.
+* Disadvantages:
+ - May reduce the risk-sensitivity of capital requirements.
+6. The proposal would revise the calculation of the stress capital buffer requirement for large banking organizations. 
+* Advantages:
+ - Ensure that the stress capital buffer requirement contributes to the robustness and risk-sensitivity of the risk-based capital requirements of these banking organizations.
+ - Limit complexity relative to potential alternatives.
+* Disadvantages:
+ - May increase the complexity of capital calculations.
+7. The proposal would align the definition of capital for banking organizations subject to Category III or IV capital standards with the definition currently applicable to banking organizations subject to Category I or II capital standards. 
+* Advantages:
+ - Improve the consistency and transparency of capital requirements.
+* Disadvantages:
+ - May increase the complexity of capital calculations.
+The document describes the market risk capital requirements for banking organizations. It defines the terms "modellable risk factors" and "non-modellable risk factors" and specifies the requirements for identifying and calibrating these risk factors. The document also describes the methods for calculating the ES-based measure, the aggregate capital measure for modellable risk factors (IMCC), and the aggregate capital measure for non-modellable risk factors (SES). Finally, it provides the formula for calculating the liquidity horizon-adjusted ES-based measure.
+The proposal contains the following key elements: 
+
+Operational requirements: The proposal would expand the applicability of the operational requirements regarding early amortization provisions to synthetic securitizations, similar to their application to traditional securitizations under subpart D of the current capital rule. The proposal would also prohibit an originating banking organization from recognizing the risk-mitigating benefits of a synthetic securitization that includes synthetic excess spread and would require a banking organization to maintain capital against all the underlying exposures as if they had not been synthetically securitized.
+
+Securitization standardized approach (SEC-SA): The proposal would make certain changes to the SEC-SA, including: (1) clarifying the definition of attachment point and detachment point; (2) clarifying the definition of parameter W; (3) modifying the definition of KG for SEC-SA compared to the current KG as used in the SSFA; and (4) increasing the supervisory parameter p for securitizations that are not resecuritization exposures from 0.5 to 1.0.
+
+Exceptions to the SEC-SA risk-based capital treatment for securitization exposures: The proposal would include additional approaches to account for certain types of securitization exposures, which would more appropriately align the capital requirement with the risk of the exposure. These exceptions include: (1) nth-to-default credit derivatives; (2) derivative contracts that do not provide credit enhancements; (3) overlapping exposures; and (4) a look-through approach for senior securitization exposures.
+The document proposes a standardized approach to calculate the market risk capital requirement for banking organizations. 
+
+There are three components to the market risk capital requirement:
+1. The sensitivities-based method
+2. The standardized default risk capital requirement
+3. The residual risk add-on 
+
+The sensitivities-based method calculates the risk-weighted value of a banking organization's market risk covered positions based on their sensitivities to changes in risk factors. 
+
+The standardized default risk capital requirement is based on the probability of default of the counterparty to a market risk covered position. 
+
+The residual risk add-on is intended to capture risks that are not fully reflected in the sensitivities-based method or the standardized default risk capital requirement.
+The proposal introduces a new market risk framework that includes both a sensitivities-based method and a standardized default risk capital requirement. 
+
+The sensitivities-based method calculates risk based on the potential impact of changes in risk factors on the value of a position. It uses a three-step process:
+1. Group trading positions into risk buckets based on characteristics such as industry sector and credit quality. 
+2. Assign risk weights to each risk bucket based on the historical volatility of the positions in that bucket. 
+3. Calculate the risk-weighted delta, vega, and curvature sensitivities for each position. 
+
+The standardized default risk capital requirement is intended to capture the incremental loss if the issuer of an equity or credit position were to immediately default. It uses a five-step process:
+1. Group instruments with similar risk characteristics into default risk buckets. 
+2. Calculate the gross default exposure for each default risk position. 
+3. Calculate the net default exposure for each obligor by offsetting the gross long and short default exposures to the same obligor. 
+4. Calculate the hedge benefit ratio and apply the prescribed risk weights to the net default exposures within the same default risk bucket. 
+5. Calculate the default risk capital requirement for each default risk category by summing the risk bucket-level capital requirements. 
+
+The agencies seek comment on various aspects of the proposed framework, including the criteria for defining liquid market economies, the risk bucket structure for equity and commodity risk, the correlation parameters, and the standardized default risk capital requirement.
+The document summarizes the capital requirements for market risk under the Basel III framework. The standardized approach is described in detail, covering the sensitivities-based capital requirement, the residual risk add-on, the non-default risk capital requirement, and the treatment of certain market risk covered positions and term repo-style transactions. The models-based measure for market risk is also outlined, including the internal models approach and the use of backtesting.
+The document is about CVA risk and capital requirements. It defines CVA as the potential loss that a bank could incur if a counterparty defaults on its obligations. The capital requirement for CVA risk is calculated using a formula that takes into account the bank's exposure to the counterparty, the counterparty's credit risk, and the bank's own risk management practices. 
+
+The document also discusses the different types of CVA risk, including interest rate risk, foreign exchange risk, reference credit spread risk, equity risk, and commodity risk. For each type of risk, the document specifies the risk factors that should be considered when calculating the capital requirement. 
+
+Finally, the document provides guidance on how to calculate the CVA capital requirement. It includes detailed instructions on how to calculate the risk factors and how to apply the formula.
+The proposal would require a banking organization to apply the look-through approach when calculating the standardized default risk capital requirement for equity positions in an investment fund that are non-securitization debt or equity positions.
+The proposal would require a banking organization to treat equity positions in publicly traded real estate investment trusts that are non-securitization debt or equity positions as a single exposure.
+The proposal would only allow a banking organization to use the internal models approach for equity positions in an investment fund for which the banking organization is able to identify the underlying positions held by the fund on a quarterly basis.
+The proposal would permit a banking organization to include term repo-style transactions in market risk covered positions, where the transactions are marked to market and provided that it includes all of such term repo-style transactions in market risk covered positions consistently over time.
+The proposal would require a banking organization to separately calculate the standardized default risk capital requirement to capture losses on the underlying reference exposure in the event of issuer default.
+The proposal would eliminate the existing quantitative disclosures related to the calculations of VaR and incremental and comprehensive risk capital requirements.
+The proposal would add a quantitative disclosure requiring a banking organization that uses the models-based measure for calculating market risk capital requirements to disclose a comparison of VaR-based estimates to actual gains or losses for each material portfolio of market risk covered positions with an analysis of important outliers.
+The proposal would require a banking organization using the models-based measure to calculate market risk capital requirements to submit, via confidential regulatory reporting, data pertaining to its backtesting and PLA testing.
+The proposal would streamline the definitions related to securitizations in subpart F with those in subparts D and E of the capital rule.
+The proposal would require a banking organization subject to Category I, II, III or IV standards to reflect in risk-weighted assets the potential losses on OTC derivative contracts resulting from increases of CVA for all OTC derivative contract counterparties.
+The proposal would provide two measures for calculating CVA risk capital requirements: (1) the basic measure for CVA risk which includes the basic CVA approach (BA-CVA) capital requirement, and (2) a standardized measure for CVA risk which includes a new standardized CVA approach (SA-CVA) capital requirement and the basic CVA approach capital requirement.
+The proposal introduces a new approach, the SA-CVA, for calculating regulatory capital requirements for CVA risk. The SA-CVA is based on the sensitivities of regulatory CVA to changes in relevant risk factors, and it uses a risk-factor-based approach similar to the proposed sensitivities-based method under the market risk framework.  The proposal defines the risk classes, risk factors, and risk buckets for the SA-CVA, and it specifies the method for calculating the sensitivities of regulatory CVA to each risk factor. The proposal also provides aggregation formulas for calculating the total delta and vega capital requirements for the entire CVA portfolio, and it sets the values of all cross-bucket correlations used for aggregation.
+The document proposes a new risk-based capital framework for banking organizations. The framework is designed to capture the specific, idiosyncratic risks of market risk covered positions. 
+
+The agencies are proposing to use alternative criteria to define the bucketing structure for risk factors related to credit spread risk and to clarify the application of the credit spread risk buckets for certain U.S. products. 
+
+For equity risk, the agencies are proposing to differentiate between large and small market capitalization issuers to appropriately reflect the relatively higher volatility and increased equity risk of small market capitalization issuers. 
+
+For purposes of the market economy criteria, the agencies are proposing to differentiate between “liquid market economy” countries and territorial entities and emerging market economy countries and territorial entities to appropriately reflect the higher volatility associated with emerging market equities.
+This rule implements the final rule on capital requirements for banking organizations and savings and loan holding companies issued by the Federal Reserve Board, the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency. 
+
+The final rule amends the agencies' capital rules to implement the Basel III capital framework, which significantly revises the capital requirements for banking organizations and savings and loan holding companies. 
+
+The final rule also makes a number of technical changes to the agencies' capital rules, including conforming changes to the agencies' risk-based capital rules for state member banks and savings associations.
+The document proposes a new standardized measure for market risk capital requirements. The measure would consist of three components:
+1. The sensitivities-based method (SBM) capital requirement, which would be based on the standardized shocks to relevant market risk covered positions.
+2. The standardized default risk capital requirement, which would be based on the credit risk of the counterparty to a market risk covered position.
+3. The residual risk add-on, which would capture the remaining market risk not captured by the SBM capital requirement and the standardized default risk capital requirement.
+
+The SBM capital requirement would be calculated by assigning market risk covered positions to risk classes and establishing the risk factors for market risk covered positions within the same risk class. The proposal would then prescribe the method to calculate the sensitivity of a market risk covered position for each of the prescribed risk factors, the shock applied to each risk factor, and the process for aggregating the weighted sensitivities within each risk class and across risk classes.
+
+The standardized default risk capital requirement would be based on the credit risk of the counterparty to a market risk covered position. The proposal would use a two-factor model to calculate the standardized default risk capital requirement: one factor for the counterparty's credit risk and one factor for the market risk of the position.
+
+The residual risk add-on would capture the remaining market risk not captured by the SBM capital requirement and the standardized default risk capital requirement. The residual risk add-on would be calculated as a percentage of the sum of the SBM capital requirement and the standardized default risk capital requirement.
+
+The document is about risk-based capital requirements for banking organizations with significant exposure to market risk or CVA risk. 
+
+For banking organizations with significant exposure to market risk, the document provides methods to calculate their standardized measure for market risk and, if applicable, their models-based measure for market risk, and establishes public disclosure requirements. 
+
+For banking organizations with significant exposure to CVA risk, the document provides methods to calculate their basic measure for CVA risk and, if applicable, their standardized measure for CVA risk. 
+
+The document also includes definitions of terms used in the subpart, such as "actual profit and loss", "backtesting", "basic CVA hedge", "basic CVA risk covered position", "cash equity position", "committed quote", "commodity position", "commodity risk", "corporate position", "correlation trading position", "counterparty credit spread risk", "covered bond", "credit spread risk", "credit valuation adjustment (CVA)", "cross-currency basis", "currency union", "curvature risk", "customer and proprietary broker-dealer reserve bank accounts", "CVA hedge", "CVA risk", "CVA risk covered position", "default risk", "delta risk", "eligible CVA hedge", "emerging market economy", "equity position", "equity risk", "equity repo rate", "exotic exposure", "expected shortfall (ES)", "exposure model", "external rating agency", "fair value", "foreign exchange rate", "forward rate agreement", "futures contract", "generally accepted accounting principles (GAAP)", "global systemically important bank holding company (G-SIBH)", "hedging", "hypothetical profit and loss", "illiquid exposure", "independent account", "ineligible CVA hedge", "interest rate", "interest rate derivative contract", "internal CVA risk transfer", "internal risk transfer", "issuer", "large complex banking organization", "liquid market economy", "liquidity horizon", "local currency", "loss", "major market participant", "management", "market risk", "market risk covered position", "maturity", "model-based measure", "model-based measure for market risk", "monitoring period", "mortgage-backed security", "multiple-tranche securitization", "net trading assets", "net trading liabilities", "non-securitization debt or equity position", "non-US dollar", "option", "other comprehensive income", "overnight indexed swap", "PD", "position", "potential future exposure", "prepayment risk", "prescribed delta risk factor", "prescribed risk factor", "probability of default", "profit", "public disclosure", "qualified professional", "real estate investment trust (REIT)", "reference asset", "reference rate", "regulatory capital", "regulatory capital instrument", "repurchase agreement", "residual interest", "risk factor", "risk-weighted asset", "securitization", "securitization position", "seniority", "sensitivity", "sensitivity-based capital requirement", "settlement value", "significant exposure", "single-name CDS", "sovereign", "spread", "standardized CVA approach capital requirement", "standardized default risk capital requirement", "standardized measure", "standardized measure for CVA risk", "standardized measure for market risk", "stress scenario", "structured finance", "structured note", "supervisory goodwill", "systemically important bank holding company (SIBHC)", "trading account", "trading asset", "trading book", "trading liability", "tranche", "underlying asset", "underlying exposure", "underlying risk factor", "unrated exposure", "U.S. dollar", "U.S. generally accepted accounting principles (U.S. GAAP)", "value-at-risk (VaR)", "volatility", "weighted-average life", "whole transaction", and "writing".
+The document describes the calculation of risk capital requirements for market risk covered positions under the advanced approaches. 
+There are three approaches:
+ 1. Standardized Approach
+ 2. Internal Models Approach
+ 3. Stressed Expected Shortfall Approach 
+
+The Standardized Approach is the simplest and uses prescribed risk weights to calculate the risk capital requirement. 
+
+The Internal Models Approach allows banks to use their own internal models to calculate the risk capital requirement, subject to regulatory approval. 
+
+The Stressed Expected Shortfall Approach is a new approach that is still under development. 
+
+Backtesting and PLA testing are used to validate the internal models.
+The proposal revises the capital rule to improve the calculation of risk-based capital requirements, reduce complexity, enhance consistency, and facilitate effective supervisory and market assessments. It replaces the current internal models approach for credit risk and operational risk with standardized approaches, and replaces the current market risk and credit valuation adjustment risk requirements with revised approaches. The proposal also makes conforming changes to reporting forms and instructions. The proposed rule would apply to banking organizations with total assets of $100 billion or more and their subsidiary depository institutions, as well as to banking organizations with significant trading activity. The agencies estimate that the proposed rule would not have a significant economic impact on a substantial number of small entities.
+The proposal requires banking organizations to use one or more internal models to calculate an expected shortfall-based measure for modellable risk factors. The expected shortfall-based measure is used to calculate the IMCC, which is a measure of the potential losses from market risk covered positions on model-eligible trading desks.
+The proposal also includes data quality requirements for modellable risk factors, which are designed to help ensure the appropriateness of the data used to calculate the IMCC.
+The proposal also includes liquidity horizon adjustments, which are designed to capture the potential losses from the longer periods of time needed to reduce the exposure to certain risk factors.
+The proposal would expand the risk-based capital framework for large banking organizations. This would result in an increase in risk-weighted assets and a corresponding increase in required capital. The proposal would also make changes to the calculation of regulatory capital, TLAC, LTD, single counter-party credit limits, and GSIB capital surcharge requirements. Finally, the proposal would make certain technical corrections and clarifications to the capital rule.
+The proposal requires banking organizations to calculate market risk capital requirements for certain market risk covered positions using the standardized approach or the fallback capital requirement. 
+
+For net short risk positions, the proposal requires a banking organization to calculate its exposure arising from any net short credit or equity position on a quarterly basis. A banking organization would be required to include net short risk positions exceeding $20 million in its total market risk capital requirement for the entire quarter, under both the standardized measure for market risk and the models-based measure for market risk, as applicable.
+
+For securitization positions, the proposal requires a banking organization to calculate market risk capital requirements using the standardized approach or the fallback capital requirement, as applicable. 
+
+For defaulted and distressed market risk covered positions, the proposal requires a banking organization to include such positions in only the standardized default risk capital requirement. Such positions are not required to be included in the sensitivities-based method or the residual risk add-on of the standardized approach, or in the non-default capital requirement for modellable and non-modellable risk factors. 
+
+For equity positions in an investment fund, the proposal requires a banking organization to apply the look-through approach under the standardized measure for market risk. Alternatively, a banking organization could elect not to apply the look-through approach for such positions if the investment fund closely tracks an index benchmark or holds a listed and well-diversified index position. 
+
+For equity positions in an investment fund for which the banking organization is not able to use the look-through approach to calculate a market risk capital requirement for its proportional ownership share of each exposure held by the investment fund, but it has access to daily price quotes for the investment fund and to the information contained in the fund's mandate, the proposal would allow the banking organization to calculate capital requirements in one of three ways under the standardized measure for market risk.
+The final rule implements the capital requirements of the Basel III international accord and makes certain technical changes to the risk-based capital framework for bank holding companies and savings and loan holding companies with $10 billion or more in total consolidated assets and insured depository institutions with $10 billion or more in total assets. 
+
+The final rule implements the Basel III leverage ratio framework, which imposes a minimum leverage ratio requirement of 3 percent on large banking organizations. The final rule also implements the Basel III risk-based capital framework, which includes revised risk-weighting requirements for certain exposures, such as exposures to sovereign entities and exposures to securitizations. 
+
+The final rule also makes certain technical changes to the risk-based capital framework, including changes to the definition of total risk-weighted assets, the treatment of certain exposures to central counterparties, and the calculation of the risk-based capital ratio for certain banking organizations with significant trading activities.
+The proposal defines market risk covered positions and excludes certain positions from the definition. It also discusses internal risk transfers, including transfers of credit risk, interest rate risk, and CVA risk. The proposal also addresses general requirements for market risk, such as stress testing and documentation.
+The document proposes a new definition for defaulted exposures and outlines the risk weights that would be assigned to various categories of exposures, including exposures to defaulted obligors, government-sponsored enterprises (GSEs), depository institutions, foreign banks, credit unions, subordinated debt instruments, and real estate exposures. 
+
+The proposal also includes a discussion of the operational challenges that banking organizations may face in implementing the proposed framework, as well as questions and requests for comment on various aspects of the proposal.
