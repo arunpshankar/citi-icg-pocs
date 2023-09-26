@@ -24,7 +24,6 @@ google-ai-generativelanguage==0.2.0
 google-api-core==2.11.1
 google-auth==2.22.0
 google-cloud-aiplatform==1.29.0
-google-cloud-bigquery==3.11.4
 google-cloud-core==2.3.3
 google-cloud-documentai==2.18.0
 google-cloud-resource-manager==1.10.3
@@ -89,7 +88,6 @@ rsa==4.9
 safetensors==0.3.3
 Shapely==1.8.5.post1
 six==1.16.0
-SQLAlchemy==2.0.20
 stack-data==0.6.2
 sympy==1.12
 tenacity==8.2.3
