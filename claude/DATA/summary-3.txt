@@ -1,0 +1,19 @@
+ Here are the key points related to the proposed changes to financial regulations on the processing of derivative contracts:
+
+- Require banks to use the standardized approach for counterparty credit risk (SA-CCR) to calculate exposure amounts for derivative contracts. This replaces internal models and aims to make calculations more consistent across banks. 
+
+- Require an additional 1.5x multiplier on exposure amounts for CVA risk covered positions that are derivatives, to account for model risk. 
+
+- Reduce the granularity of risk factors used to calculate CVA sensitivities compared to the sensitivities-based method for market risk. This is intended to reduce complexity given the computational intensity of simulating CVA sensitivities.
+
+- Assign CVA risk capital requirements to six distinct risk classes: counterparty credit spread risk and five market risk classes (interest rate, FX, credit spread, equity, commodity) that drive CVA's exposure component.
+
+- Set correlation parameters to limit the risk mitigation benefit of CVA hedges and diversification, to account for decreased hedge effectiveness in stressed markets.
+
+- Introduce additional index risk factors for credit and equity indices, to improve recognition of index hedges of CVA risk.
+
+- Aggregate the CVA risk capital requirements for delta (based on sensitivities) and vega (based on volatilities) without recognition of diversification benefits. 
+
+- Allow supervisors to increase capital requirements by applying a multiplier if a bank's CVA model risk is deemed insufficiently capitalized.
+
+In summary, the changes aim to standardize, simplify and strengthen CVA risk capital requirements, improve risk sensitivity, and limit the benefits of diversification and hedging to ensure sufficient capital is held against these derivative contract risks. The use of SA-CCR, reduced granularity of risk factors, and constraints on recognition of diversification and hedges are key aspects.

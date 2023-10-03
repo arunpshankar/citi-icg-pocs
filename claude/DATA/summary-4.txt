@@ -1,0 +1,13 @@
+ Here are the key proposed changes related to the processing of derivative contracts in the proposed rules from the OCC:
+
+- Banks would be required to calculate the exposure amount for all derivative contracts using the standardized approach for counterparty credit risk (SA-CCR). This replaces the current exposure methodology (CEM). 
+
+- SA-CCR provides a more risk-sensitive measure of exposure amount compared to CEM. It captures important risk factors such as collateral, netting, and wrong-way risk.
+
+- However, banks can also voluntarily elect to use SA-CCR even if they are not subject to the expanded risk-based capital requirements in subpart E. This provides consistency and allows all banks to use the more risk-sensitive methodology.
+
+- For banks subject to the market risk capital rule, SA-CCR would apply to all derivative contracts for purposes of calculating the standardized approach risk-weighted assets. Banks would also need to apply the treatment of cleared transactions to derivatives that are cleared.
+
+- These requirements around SA-CCR and cleared derivatives aim to enhance risk sensitivity, improve regulatory consistency, reduce complexity, and increase transparency.
+
+In summary, the key changes center around applying the SA-CCR methodology for derivative contracts, allowing voluntary adoption of SA-CCR, and applying SA-CCR to cleared derivatives. This is intended to better capture counterparty credit risk and align with international standards.

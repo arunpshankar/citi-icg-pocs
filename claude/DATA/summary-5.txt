@@ -1,0 +1,15 @@
+ Here are the key points related to the proposed changes to the regulation of derivative contracts:
+
+- The proposal would replace the current exposure methodology (CEM) and internal models methodology (IMM) for calculating exposure amounts for derivative contracts with a new standardized approach for counterparty credit risk (SA-CCR). 
+
+- SA-CCR would apply to all banking organizations subject to the agencies' regulatory capital rule. SA-CCR calculates exposure amounts using a standardized formula based on the replacement cost and potential future exposure of a netting set.
+
+- SA-CCR aims to improve consistency and comparability in measuring exposure amounts for derivative contracts across banking organizations. It also aims to reduce complexity compared to CEM and IMM.
+
+- For advanced approaches banking organizations, SA-CCR would apply for calculating standardized total risk-weighted assets. IMM would still apply for calculating advanced market risk-weighted assets. 
+
+- The proposal provides options for advanced approaches banking organizations to use SA-CCR for calculating advanced market risk-weighted assets as well.
+
+- The proposal also incorporates SA-CCR into the calculation of the supplementary leverage ratio denominator. 
+
+- Overall, the proposal seeks to improve the regulation of derivative contracts by implementing a standardized methodology that is simpler and more comparable across banking organizations than the current frameworks. SA-CCR is intended to better reflect derivatives risk exposure while enhancing regulatory consistency.

@@ -1,0 +1,17 @@
+ Here is a summary of the key proposed changes related to the processing of derivative contracts:
+
+- Require banks to use the standardized approach for counterparty credit risk (SA-CCR) to calculate exposure amounts for all derivative contracts. This replaces internal models and aims to standardize calculations across banks.
+
+- Make technical revisions to SA-CCR to improve implementation consistency. This includes revisions to the treatment of collateral, supervisory delta adjustments, decomposition of indices, etc. 
+
+- Introduce minimum haircut floors for certain transactions with unregulated entities to limit leverage build up outside the banking system. The floors are based on collateral type.
+
+- Replace model-based approaches for credit risk mitigation with standardized approaches from the current framework. This prohibits recognition of certain credit derivatives. 
+
+- Make revisions to the securitization framework, including changes to the standardized approach, treatment of overlapping exposures, restrictions on capital relief, and new frameworks for NPL securitizations.
+
+- Introduce new requirements for calculating CVA risk capital requirements using the basic CVA approach or standardized CVA approach. This aims to better capture CVA risk and recognize hedges. 
+
+- Allow supervisors to apply multipliers to increase capital requirements if a bank's CVA risk is deemed insufficiently capitalized. 
+
+Overall, the changes aim to standardize, simplify and strengthen capital requirements related to derivative contracts and securitizations, while improving risk sensitivity.

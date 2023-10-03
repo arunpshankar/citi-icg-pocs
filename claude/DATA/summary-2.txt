@@ -1,0 +1,23 @@
+ Here is a detailed summary of the proposed changes related to the processing of derivative contracts in the chunk of text provided:
+
+- The proposal would require banking organizations subject to Category I, II, III or IV standards to reflect in risk-weighted assets the potential losses on OTC derivative contracts resulting from increases of credit valuation adjustment (CVA) for all OTC derivative contract counterparties. 
+
+- Two measures are proposed for calculating CVA risk capital requirements:
+
+1) The basic CVA approach (BA-CVA) which recognizes only the credit spread component of CVA risk. This is similar to the current capital rule's simple CVA approach. 
+
+2) A new standardized CVA approach (SA-CVA) which accounts for both credit spread and exposure components of CVA risk and allows recognition of hedges for the exposure component. Banking organizations would need prior approval to use the SA-CVA.
+
+- The proposal defines CVA risk covered positions as derivative contracts that are not cleared transactions. Certain OTC derivative contracts recognized as credit risk mitigants could be excluded.
+
+- General risk management requirements are proposed related to identifying and managing CVA risk covered positions and eligible CVA hedges. Additional requirements apply for use of the SA-CVA.
+
+- Under the basic CVA approach (BA-CVA), capital requirements are calculated using a formula that approximates CVA expected shortfall based on simplifying assumptions. The formula provides limited recognition of risk mitigation from eligible hedges.
+
+- The standardized CVA approach (SA-CVA) recognizes hedges of both credit spread and exposure components of CVA risk without restrictions on instrument types. CVA models used for financial reporting would be adjusted as needed to calculate regulatory CVA.
+
+- For banking organizations approved to use the SA-CVA, the CVA capital requirement equals the SA-CVA capital requirement plus the BA-CVA capital requirement for any positions not recognized under the SA-CVA.
+
+- After calculating the CVA capital requirement, a banking organization's total capital requirement for CVA risk equals the CVA capital requirement multiplied by 12.5.
+
+- The proposal provides supervisory discretion to require a different amount of CVA risk capital if the calculated amount is deemed not commensurate with the risk of the banking organization's CVA risk covered positions.

@@ -1,0 +1,35 @@
+ Here is a detailed summary of the proposed changes related to the processing of derivative contracts:
+
+- The proposal would expand the scope of banking organizations required to use the standardized approach for counterparty credit risk (SA-CCR) to calculate the exposure amount of derivative contracts. Large banking organizations would be required to use SA-CCR for regulatory capital ratios under the standardized approach, expanded risk-based approach, and supplementary leverage ratio. 
+
+- The proposal would make technical revisions to SA-CCR to assist banking organizations in implementing it consistently, including:
+
+- Treatment of collateral held by a qualifying central counterparty (QCCP) - Allow collateral to be recognized in calculating the exposure amount of a QCCP to its clearing members in a manner consistent with the SA-CCR methodology. 
+
+- Treatment of collateral held in a bankruptcy remote manner - Align the requirements for excluding collateral from the trade exposure amount calculation under the standardized and expanded risk-based approaches.
+
+- Supervisory delta adjustment for CDO tranches - Revise the specification of positive/negative signs to ensure proper aggregation of CDO tranches with linear credit derivatives in potential future exposure (PFE) calculations.
+
+- Supervisory delta adjustment for options contracts - Extend the use of the lambda parameter for negative values to non-interest rate options and allow flexibility in setting lambda if default values are inappropriate.
+
+- Decomposition of indices - Clarify that decomposition into individual positions is not allowed for non-linear indices.
+
+- The proposal would introduce minimum haircut floors for certain transactions with unregulated financial institutions to limit build up of leverage outside the banking system. The floors would apply to in-scope transactions (certain repo-style transactions and eligible margin loans) and be based on type of collateral.
+
+- For credit risk mitigation, the proposal would replace model-based approaches with standardized approaches from the current framework, while prohibiting recognition of nth-to-default credit derivatives.
+
+- The proposal would make revisions to the securitization framework, including:
+
+- Additional operational requirements for synthetic securitizations related to early amortization provisions and excess spread.
+
+- Changes to attachment/detachment points for NPL securitizations to account for purchase price discounts.
+
+- A new standardized approach (SEC-SA) to replace existing approaches, with changes to certain parameters. 
+
+- No capital relief for nth-to-default credit derivatives and new treatment for derivatives without credit enhancement.
+
+- New treatment for overlapping exposures and senior securitization exposures (look-through approach).
+
+- Modification to the treatment of credit-enhancing interest-only strips (CEIOs).
+
+- A new framework for non-performing loan (NPL) securitizations.
