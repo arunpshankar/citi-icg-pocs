@@ -1,0 +1,5 @@
+1. If a bank sells tranches of a securitization at a 20% discount, the investing bank can assign an attachment point of 52% to the first-loss tranche and 60% to the senior tranche.
+2. The proposal would replace the current credit risk mitigation framework for securitization exposures with a framework consistent with the existing capital rule, with one exception.
+3. Equity exposures have a higher risk of loss compared to credit exposures, and the proposal assigns higher risk weights to equity exposures.
+4. The proposal does not include an internal models approach for equity exposures and instead requires banking organizations to use a standardized approach.
+5. The proposal retains the risk-weighted asset amount calculation under the current capital rule for equity exposures.

@@ -1,0 +1,5 @@
+1. The board of directors and senior management of a banking organization must ensure that reports and disclosures are verified and that effective internal controls and reporting procedures are maintained.
+2. If a banking organization believes that disclosing specific commercial or financial information would harm its position, it is not required to disclose that information but must provide more general information about the subject matter.
+3. A banking organization must provide public reports and disclosures either on its website or in multiple financial or regulatory reports, with a summary table indicating the location of all such reporting and disclosures.
+4. Quarterly public disclosures must include information on securitization positions, internal capital adequacy assessment, correlation trading positions, and a comparison of VaR-based estimates with actual gains or losses.
+5. Annual public disclosures must include information on market risk management, risk reporting and measurement systems, trading desk structure, valuation policies, internal models, stress tests, and credit risk mitigation for securitization positions.

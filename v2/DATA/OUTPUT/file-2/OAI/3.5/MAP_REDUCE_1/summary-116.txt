@@ -1,0 +1,5 @@
+1. The risk weights for non-U.S. PSE revenue obligations range from 0-150 percent, depending on the country and default status.
+2. Real estate exposures have risk weights ranging from 40-150 percent, depending on the type of exposure.
+3. Retail exposures have risk weights ranging from 55-110 percent, with a multiplier applied for currency mismatch.
+4. Corporate exposures have a default risk weight of 100 percent, but certain types of exposures may qualify for lower risk weights.
+5. Risk weights for exposures to QCCPs are determined based on specific criteria.

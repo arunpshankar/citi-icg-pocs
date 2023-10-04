@@ -1,0 +1,5 @@
+1. The banking organization must comply with policies and procedures for market risk and report findings to the board of directors.
+2. The banking organization must have a process for valuing market risk covered positions and independent verification of valuation models.
+3. The banking organization must assess its overall capital adequacy in relation to market risk, considering risks not captured by standardized measures.
+4. The banking organization must demonstrate a comprehensive understanding of securitization positions and regularly evaluate and update the analysis.
+5. The banking organization must adequately document all aspects of market risk management, trading desk structure, and internal models.

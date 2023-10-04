@@ -1,0 +1,5 @@
+1. When calculating delta sensitivity for positions with optionality, a banking organization can use the sticky strike rule, sticky delta rule, or another approved assumption.
+2. The vega sensitivity for market risk covered positions with optionality is calculated by multiplying the vega of an option by the volatility of the option.
+3. Callable and puttable bonds priced based on yield to maturity are exempt from the vega capital requirement.
+4. Options without a stated strike price or with multiple strike prices are valued based on internal pricing models for financial reporting.
+5. Curvature capital requirements capture price risks in instruments with optionality that are not captured by delta, and only options or positions with embedded optionality are subject to this requirement.

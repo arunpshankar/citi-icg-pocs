@@ -1,0 +1,5 @@
+- Operational loss refers to all losses resulting from operational events, excluding insurance or tax effects. It includes expenses associated with the event, but not opportunity costs or costs related to risk management.
+- Operational loss events are events that lead to losses due to internal or external factors. They are classified into seven types, including internal fraud, external fraud, employment practices, and business disruption.
+- Operational risk is the risk of loss resulting from inadequate internal processes or external events, excluding strategic and reputational risk.
+- Other operating expense refers to expenses associated with financial services and operational loss events.
+- Real estate exposure includes various types of loans secured by real estate, such as residential mortgages and construction loans.

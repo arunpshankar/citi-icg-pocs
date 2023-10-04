@@ -1,0 +1,5 @@
+1. The proposal suggests using a 40 percent conversion factor to calculate the adjusted carrying value of conditional commitments to acquire an equity exposure.
+2. The risk-weighted asset amount for equity exposures would be determined by multiplying the adjusted carrying value by the lowest applicable risk weight in Table 2.
+3. The proposal eliminates certain risk weights in the current capital rule's simple risk-weight approach and introduces new risk weights for different types of equity exposures.
+4. The 100 percent risk weight for non-significant equity exposures is removed, and a 250 percent risk weight is assigned to publicly traded equity exposures with restrictions on tradability.
+5. Equity exposures that qualify as community development investments or small business investment companies would still receive a 100 percent risk weight.

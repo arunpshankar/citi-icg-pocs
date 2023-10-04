@@ -1,0 +1,5 @@
+1. The information provides guidelines for calculating exposure amounts for margin loans and repo-style transactions.
+2. The exposure amount is determined based on the fair value of the specific instrument, cash, or gold involved in the transaction.
+3. Haircuts are applied to the exposure amount to account for market price volatility and currency mismatch.
+4. The haircut percentages vary depending on the type of security or exposure.
+5. There are minimum haircut floors that must be applied to transactions with unregulated financial institutions.

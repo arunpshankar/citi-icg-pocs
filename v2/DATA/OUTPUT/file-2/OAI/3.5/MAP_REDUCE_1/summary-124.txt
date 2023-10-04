@@ -1,0 +1,5 @@
+1. QCCPs located outside the United States can use a value of 10 business days for calculating exposure amount, including collateral and default fund contributions.
+2. Exposure amount for repo-style transactions between clearing members and QCCPs is calculated based on the exposure amount of the QCCP to each clearing member, initial margin collateral, and prefunded default fund contributions.
+3. Exposure amount must be calculated separately for each clearing member's sub-client accounts and sub-house accounts, with independent collateral allocated proportionally.
+4. If an account contains both derivative contracts and repo-style transactions, the exposure amount is the sum of the exposure amounts for each type of transaction, with collateral allocated proportionally.
+5. In the case of unsettled transactions, risk-based capital requirements apply to delivery-versus-payment (DvP) and payment-versus-payment (PvP) transactions with a normal settlement period, and risk-weighted asset amounts are determined based on positive current exposure and the number of business days after the settlement date.

@@ -1,0 +1,5 @@
+1. The cross-bucket correlation parameters for credit quality are listed in Table 7.
+2. Delta buckets for equity risk are determined based on market capitalization, economy, and sector.
+3. Delta risk weights for equity risk are specified in Table 8.
+4. Delta buckets for commodity risk are outlined in Table 9.
+5. Vega buckets for interest rate and foreign exchange risk are established for each currency.

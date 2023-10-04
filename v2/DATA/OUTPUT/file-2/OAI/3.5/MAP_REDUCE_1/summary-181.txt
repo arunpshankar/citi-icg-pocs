@@ -1,0 +1,5 @@
+1. The consolidated assets of a national bank or Federal savings association are calculated based on their reported total consolidated assets on the Call Report.
+2. To be classified as a Category III national bank or Federal savings association, they must meet certain criteria related to total nonbank assets, off-balance sheet exposure, and weighted short-term wholesale funding.
+3. A national bank or Federal savings association remains in Category III until they have less than $250 billion in total consolidated assets, less than $75 billion in total nonbank assets, less than $75 billion in weighted short-term wholesale funding, and less than $75 billion in off-balance sheet exposure.
+4. A Category IV national bank or Federal savings association is either a subsidiary of a Category IV banking organization or has total consolidated assets of $100 billion or more.
+5. The exposure amount refers to the amount of risk exposure a national bank or Federal savings association has to various types of entities or instruments.

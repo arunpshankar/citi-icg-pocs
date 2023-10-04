@@ -1,0 +1,5 @@
+1. A currency union with at least one country meeting specific criteria would be classified as a liquid market economy, while others would be classified as emerging market economies.
+2. The proposed approach for market economy risk buckets aims to increase risk sensitivity and flexibility for banking organizations to reflect changes in market economies.
+3. The proposal groups trading positions into sectors for equity risk based on the market capitalization issuers and differentiates between emerging market and liquid market economies.
+4. The proposed risk buckets for small market capitalization issuers distinguish between emerging market and liquid market economies but do not differentiate sectors.
+5. The proposal includes risk buckets and weights for commodity risk based on different commodity types, aiming to reflect differences in volatility and market risk.

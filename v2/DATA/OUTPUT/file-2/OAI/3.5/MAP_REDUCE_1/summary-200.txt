@@ -1,0 +1,5 @@
+(i) Board-regulated institutions subject to specific regulations have a capital conservation buffer that is calculated based on different ratios.
+(ii) If a Board-regulated institution's capital ratio is below the minimum requirement, the capital conservation buffer is zero.
+(iii) Global systemically important BHCs have a leverage buffer that is calculated based on their supplementary leverage ratio.
+(iv) If the supplementary leverage ratio is below 3 percent, the leverage buffer is zero.
+(v) The maximum payout ratio for Board-regulated institutions is determined based on their capital buffer requirements.

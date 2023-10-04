@@ -1,0 +1,5 @@
+1. Board-regulated institutions must determine their regulatory capital ratios according to specific calculations.
+2. The expanded risk-based approach-adjusted total capital of a Board-regulated institution is determined by deducting certain items from total capital and adding others.
+3. The capital conservation buffer is composed of common equity tier 1 capital.
+4. The maximum payout amount for a Board-regulated institution is determined by multiplying eligible retained income by the maximum payout ratio.
+5. Additional limitations on distributions may apply to Board-regulated institutions, and they must calculate a countercyclical capital buffer amount for determining their maximum payout ratio.

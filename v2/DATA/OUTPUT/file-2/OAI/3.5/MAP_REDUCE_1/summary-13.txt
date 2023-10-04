@@ -1,0 +1,5 @@
+1. The agencies are seeking feedback on how to calibrate regulatory residential and commercial real estate exposures separately and what the appropriate calibration levels should be.
+2. They are also seeking input on the treatment of second homes and vacation homes as regulatory residential real estate exposures and whether a different category would be more appropriate.
+3. The agencies are asking for comments on the treatment of residential mortgage exposures dependent on cash flows from short-term rentals and the advantages and disadvantages of treating them similar to commercial real estate exposures.
+4. The proposal requires banking organizations to use loan-to-value (LTV) ratios to assign risk weights to real estate exposures, with the LTV ratio calculated as the extension of credit divided by the value of the property.
+5. The proposal also outlines the criteria for calculating the value of the property and the inclusion of readily marketable collateral and other acceptable collateral in the LTV ratio calculation.

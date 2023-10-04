@@ -1,0 +1,5 @@
+1. A banking organization must demonstrate that its trading desk has similar market risk covered positions to another approved trading desk and has provided at least 250 days of backtesting and PLA test results.
+2. Any changes to the trading desk structure that would result in a material change in the banking organization's market risk capital requirement must receive prior written approval from the regulatory agency.
+3. The regulatory agency may rescind its approval of a model-eligible trading desk or subject it to the PLA add-on if it no longer complies with the requirements.
+4. A banking organization must receive prior written approval from the regulatory agency before implementing any changes to an approved internal model that would result in a material change in the organization's IMCC for a trading desk.
+5. The banking organization must review, manage, and validate its internal models annually, integrate them into its risk management process, and revalidate them when there are material changes or significant market or composition changes.

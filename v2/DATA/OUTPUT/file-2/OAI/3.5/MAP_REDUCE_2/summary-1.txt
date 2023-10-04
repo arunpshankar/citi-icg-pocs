@@ -1,0 +1,44 @@
+Section 1: Minimum Haircut Floors for Certain Transactions
+- Proposal aims to establish minimum haircut floors for transactions between banking organizations and unregulated financial institutions.
+- Transactions involving lending cash or borrowing securities would be exempt from minimum haircut floors.
+- Minimum haircut floors ensure appropriate collateral to account for risks.
+
+Section 2: Securitization Framework
+- Proposal introduces new securitization standardized approach and modifies treatment for resecuritizations.
+- Changes include new treatment for derivative contracts, modified treatment for overlapping exposures, and new capital requirements for certain securitization exposures.
+- Operational requirements for securitizations remain consistent with current rules.
+
+Section 3: Risk-Weight Treatment for Equity Exposures
+- Proposal assigns higher risk weights to equity exposures compared to credit exposures.
+- Internal models approach not included, standardized approach required.
+- Risk-weighted asset amount calculated based on adjusted carrying value and lowest applicable risk weight.
+
+Section 4: Risk-Weight Treatment for Publicly Traded Equity Exposures
+- Proposal eliminates 100% risk weight for non-significant equity exposures.
+- Introduces 250% risk weight for publicly traded equity exposures with tradability restrictions.
+- Exceptions for community development investments and small business investment companies.
+
+Section 5: Look-Through Approach for Equity Exposures to Investment Funds
+- Proposal introduces look-through approach for risk-weight calculation of equity exposures to investment funds.
+- Full look-through approach required when detailed information available and verified.
+- Conservative assumptions used when limited information or lack of verification.
+
+Section 6: Operational Risk Capital Requirement
+- Proposal replaces current measurement approach with standardized approach based on business indicator and internal loss multiplier.
+- Components include interest, lease, and dividend component; services component; and financial component.
+- Historical operational loss data used to calculate total net operational losses.
+
+Section 7: Market Risk Capital Requirements
+- Proposal introduces standardized methodology and models-based methodology for market risk capital requirements.
+- Internal models restricted to trading desks, VaR-based measure replaced with expected shortfall-based measure.
+- Capital requirements capped for trading desks subject to different approaches.
+
+Section 8: Scope of Application and Definition of Market Risk Covered Positions
+- Proposal expands types of positions considered market risk covered positions.
+- Includes equity positions in investment funds, net short risk positions, publicly traded equity positions, and embedded derivatives.
+- Excludes certain positions such as intangible assets and direct real estate holdings.
+
+Section 9: Internal Risk Transfers
+- Proposal addresses lack of regulation regarding internal risk transfers within banking organizations.
+- Defines internal risk transfers and establishes requirements for their recognition in risk-based capital requirements.
+- Outlines risk-based capital treatment of internal transfers of credit risk, interest rate risk, and CVA risk.

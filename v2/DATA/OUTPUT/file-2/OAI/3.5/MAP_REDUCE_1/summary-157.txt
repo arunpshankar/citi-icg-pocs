@@ -1,0 +1,5 @@
+1. For credit spread risk in securitization positions, banking organizations must establish buckets based on credit quality and sector.
+2. Delta sensitivities for credit spread risk must be assigned based on the structural features of the securitization position and market convention.
+3. Risk weights for delta sensitivities are specified in Table 7 for different credit quality categories and sectors.
+4. Correlation parameters are used to aggregate risk weighted delta sensitivities within a bucket for credit spread risk.
+5. For equity risk, banking organizations must establish buckets based on market capitalization, economy, and sector, and use risk weights specified in Table 8.

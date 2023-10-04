@@ -1,0 +1,5 @@
+1. A board-regulated institution provides credit protection through credit derivatives that reference the same legal entity and have the same level of seniority.
+2. The institution can also provide credit protection through credit derivatives that reference multiple exposures, as long as the exposures are to the same legal entities and have the same level of seniority.
+3. If the institution reduces the notional principal amount of a credit derivative, it must also reduce the notional principal amount of any purchased credit derivative used to offset it.
+4. If the institution records net payments received on a credit derivative in net income but does not record offsetting deterioration in the mark-to-fair value, it cannot use purchased credit protection to offset the related credit derivative.
+5. If a board-regulated institution has multiple repo-style transactions with the same counterparty, it can offset the gross value of receivables and payables if certain criteria are met, including having the same settlement date and legally enforceable right to offset.

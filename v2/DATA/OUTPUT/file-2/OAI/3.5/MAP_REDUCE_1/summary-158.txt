@@ -1,0 +1,5 @@
+(1) Pki is 99.9% and has two delta sensitivities related to equity spot price and equity repo rate for the same issuer.
+(2) Pki varies depending on the delta sensitivities assigned to different buckets, with different percentages for large market cap, emerging market economy, liquid market economy, small market cap, and index buckets.
+(3) When the delta sensitivities are related to different equity issuers, the correlation parameter is Pl multiplied by 99.9%.
+(4) For commodity risk, banking organizations must establish buckets for different commodity types and assign contracts accordingly.
+(5) Correlation parameters are used to aggregate risk weighted delta sensitivities within and across commodity buckets.

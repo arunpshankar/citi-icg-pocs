@@ -1,0 +1,54 @@
+Section 1: Capital Treatment of Internal Risk Transfers
+- Proposal outlines capital treatment of internal risk transfers between CVA desk and trading desk to hedge CVA risk
+- CVA desk must have dedicated desk or equivalent for managing internal risk transfers
+- Written record required for each internal derivative transaction, including identification of underlying exposure being hedged
+- External transaction required to perfectly offset risk if internal risk transfer subject to certain risks
+- General requirements set forth for recognition of CVA hedges
+- No recognition of risk mitigation benefits for internal equity risk transfers
+
+Section 2: Trading Desk Structure and Requirements
+- Proposal introduces concept of trading desk and expands requirements for identifying market risk covered positions
+- Banking organizations must update policies and procedures for identifying positions annually and establish framework for re-designating positions
+- Clearly defined trading and hedging strategies required for market risk covered positions
+- Definition of trading desk includes requirements for well-defined business strategy and coordinated trading activity
+- Notional trading desks introduced for positions that may not originate from existing trading desks
+- Agencies will review trading desk structure, including notional trading desks, to ensure appropriate identification
+- Additional requirements may be applied to notional trading desks for calculating market risk capital requirements
+
+Section 3: Operational Requirements and Prudent Valuation Practices
+- Policies and procedures must be established for each trading desk, describing strategy and risk management framework
+- Operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation
+- Proposal aims to strengthen banking organization's prudent valuation practices and promote effective model risk management
+- Documentation required for material aspects of market risk positions, internal risk transfers, re-designations, internal models, control processes, and capital adequacy assessments
+- Ongoing review, risk management, and validation of internal models required, including monitoring and comparison with external data sources
+
+Section 4: Calculation of Market Risk Capital Requirements
+- Clearly defined policies and procedures required for actively managing all positions subject to market risk capital rule
+- Daily monitoring of position limits, establishment of internal controls and authorization procedures
+- Broader set of risk metrics for monitoring at trading desk level, including trading limits, sensitivities to risk factors, VaR, and expected shortfall
+- Backtesting and p-values required for model-eligible trading desks
+- Stress testing and internal assessment of capital adequacy enhanced, with quarterly tests at entity-wide and trading-desk level
+- Control and oversight requirements maintained, with expanded role for independent risk control unit and enhanced internal review and challenge responsibilities
+- Documentation requirements enhanced to reflect proposed changes
+
+Section 5: Standardized Approach and Internal Models
+- Banking organizations must define trading desk structure, including model-eligible and model-ineligible trading desks, trading desks used for internal risk transfers, and notional trading desks
+- Policies and procedures required for each trading desk, describing strategy and risk management framework
+- Ongoing eligibility for using internal models requires prior approval for changes to trading desk structure or internal models, and passing quarterly backtesting and PLA testing
+- Supervisor can rescind model approval and require standardized approach or PLA add-on capital requirement if trading desk does not comply with requirements
+- Standardized approach aims to capture actual market risk exposure while minimizing compliance burden and promoting comparability across banking organizations
+- Alternative methodologies and fallback capital requirements considered for derivative positions
+- Capital add-on requirement as penalty for re-designating positions, with exceptions for circumstances outside of banking organization's control
+- Sensitivities-based method for calculating standardized measure for market risk, including risk buckets and sensitivity definitions for different risk classes
+
+Section 6: Calculation of Risk Capital Requirements
+- Risk buckets and risk weights established for different risk classes, including interest rate, credit spread, equity, commodity, and foreign exchange risks
+- Correlation parameters used to account for interactions between risk factors and calculate overall capital requirements
+- Sensitivities-based method proposed to capture risks of market risk covered positions
+- Treatment of interest rate curves, currency curves, credit spread, equity, and commodity risks outlined
+- Calculation steps for delta, vega, and curvature risk factors explained
+- Look-through approach proposed for index instruments and multi-underlying options
+- Residual risk add-on capital requirement for positions with exotic exposures and other residual risks
+- Treatment of default risk and calculation of standardized default risk capital requirement for different positions and risk buckets
+- Netting and decomposition criteria for securitization positions and treatment of GSE exposures discussed
+- Proposal seeks comments on various aspects, including risk factor eligibility, treatment of index instruments, and alternative methodologies for capturing hedging benefits and basis risk

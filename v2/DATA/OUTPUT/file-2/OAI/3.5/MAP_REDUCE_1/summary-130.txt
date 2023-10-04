@@ -1,0 +1,5 @@
+1. If a banking organization cannot or chooses not to apply the securitization standardized approach, they must apply a 1,250 percent risk weight to the exposure.
+2. The total risk-weighted assets for securitization exposures is the sum of the risk-weighted asset amount for securitization exposures that the banking organization risk weights.
+3. A banking organization must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from a securitization.
+4. If a banking organization has multiple securitization exposures that provide duplicative coverage, they are not required to hold duplicative risk-based capital and can assign the highest risk-based capital requirement.
+5. If a banking organization provides support to a securitization in excess of their contractual obligation, they must calculate a risk-weighted asset amount for underlying exposures and disclose publicly the impact of providing such support.

@@ -1,0 +1,36 @@
+Section 1: Proposed Changes in Risk Weights and Capital Requirements
+- The proposed changes in asset class-specific risk weights would have a small impact on banking organizations' portfolio allocations.
+- Large banking organizations would be required to maintain equity capital funding at a level at least as high as the current standardized approach.
+- The proposal adjusts the U.S. implementation of Basel III reforms to mitigate potential competitive effects between U.S. banking organizations.
+- Higher capital requirements for trading activities could enhance the resilience of bank-affiliated broker dealers and benefit market liquidity.
+
+Section 2: Impact on Large Banking Organizations
+- The proposed changes would affect large banking organizations through changes in the calculation of regulatory capital, TLAC and LTD requirements, single counter-party credit limits, and method 2 GSIB scores.
+- The proposed elimination of the internal-models method for calculating derivatives exposures would result in more stringent credit limits for counterparties with derivatives exposure.
+- The proposed RWA changes would decrease the method 2 scores of U.S. GSIBs, reducing their GSIB capital surcharges.
+
+Section 3: Amendments to Capital Rule and Reporting Requirements
+- The proposed rule includes technical amendments and clarifications to the capital rule, including updates to terminology and removal of expired provisions.
+- The OCC is proposing revisions to the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard.
+- The proposed rule includes revisions to current information collections subject to the PRA, including reporting, recordkeeping, and disclosure requirements associated with regulatory capital rules and market risk capital rules.
+
+Section 4: Reporting Requirements for Large Financial Firms
+- The FR Y-14A, FR Y-14Q, and FR Y-14M reports collect quantitative and qualitative information on balance sheet projections, asset classes, and risk management processes of large financial firms.
+- The reports are mandatory for bank holding companies, intermediate holding companies, and covered savings and loan holding companies with $100 billion or more in total consolidated assets.
+- The proposed revisions to the reports include changes related to capital ratios, operational risk, and credit risk mitigation.
+
+Section 5: Revisions to Risk-Based Standards and Reporting Requirements
+- The proposed rule aims to revise capital requirements for large banking organizations and those with significant trading activity.
+- The revisions would improve risk-based capital calculations, reduce complexity, enhance consistency, and facilitate better assessments of capital adequacy.
+- The proposed rule would not have a significant economic impact on small entities.
+
+Section 6: Definitions and Calculations
+- Various definitions and calculations are provided for terms such as nonperforming exposures, operational loss events, risk weights for different types of exposures, and formulas for calculating exposure amounts and risk-weighted assets.
+- The proposed rule includes provisions for collateral, hedged exposures, operational risk, and exclusion of certain data.
+
+Section 7: Clearing and Collateral Requirements
+- The proposed rule includes provisions for clearing member clients, QCCPs, exposure amounts, and risk-weighted asset amounts for cleared transactions.
+- Collateral posted by a clearing member held by a custodian in a bankruptcy remote manner is not subject to a capital requirement.
+- Exposure amounts must be calculated separately for each clearing member's sub-client accounts and sub-house accounts, with independent collateral allocated proportionally.
+
+Overall, the proposed changes aim to improve risk-based capital calculations, align with international standards, and enhance the resilience of banking organizations. The revisions would impact large banking organizations, reporting requirements for large financial firms, and clearing and collateral requirements. The proposed rule is not expected to have a significant economic impact on small entities.

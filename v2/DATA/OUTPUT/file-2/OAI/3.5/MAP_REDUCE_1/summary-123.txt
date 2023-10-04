@@ -1,0 +1,5 @@
+(i) Collateral posted by a clearing member client held by a custodian in a bankruptcy remote manner is not subject to a capital requirement.
+(ii) Clearing member clients must calculate a risk-weighted asset amount for collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction.
+(iii) Clearing members must multiply the trade exposure amount for a cleared transaction by the appropriate risk weight to determine the risk-weighted asset amount.
+(iv) The risk weight for a cleared transaction with a QCCP is 2 percent, while for a cleared transaction with a non-QCCP CCP, the applicable risk weight is determined according to regulations.
+(v) Collateral posted by a clearing member held by a custodian in a bankruptcy remote manner is not subject to a capital requirement.

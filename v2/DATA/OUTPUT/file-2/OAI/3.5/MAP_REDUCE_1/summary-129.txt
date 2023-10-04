@@ -1,0 +1,5 @@
+(1) The credit risk mitigant can be financial collateral, an eligible guarantee, or an eligible credit derivative.
+(2) The banking organization must transfer credit risk to third parties without certain provisions that could terminate or alter the credit protection.
+(3) The banking organization must obtain legal counsel's opinion on the enforceability of the credit risk mitigant.
+(4) Clean-up calls in the securitization must be eligible.
+(5) Synthetic excess spread is not allowed in synthetic securitization.

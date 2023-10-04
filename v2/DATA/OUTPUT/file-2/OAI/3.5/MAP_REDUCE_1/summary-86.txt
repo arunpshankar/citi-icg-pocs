@@ -1,0 +1,5 @@
+1. Only exposures involving tranching of credit risk qualify as securitization exposures.
+2. Mortgage-backed pass-through securities without tranching of credit risk do not meet the definition of a securitization exposure.
+3. OTC derivative contracts have both market value and credit risk associated with them.
+4. The proposed capital requirements for credit valuation adjustment (CVA) risk would apply to large banking organizations subject to Category I, II, III, or IV standards.
+5. CVA risk covered positions are defined as derivative contracts that are not cleared transactions, and certain credit risk mitigants can be excluded from the calculation of CVA risk.

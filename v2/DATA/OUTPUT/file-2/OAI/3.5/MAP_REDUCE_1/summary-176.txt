@@ -1,0 +1,5 @@
+1. A banking organization must measure the CVA vega sensitivity to each vega risk factor for interest rate risk and commodity risk.
+2. The banking organization may use smaller values of risk factor changes if consistent with internal risk management calculations.
+3. When calculating CVA vega sensitivities, the volatility shift must apply to both volatilities used for generating risk factor paths and pricing options.
+4. For standardized CVA risk covered positions or hedges referencing an index, the sensitivities to all risk factors upon which the index depends must be calculated.
+5. Additional risk factors may be introduced for counterparty credit spread risk, reference credit spread risk, and equity risk, and the sensitivity to qualified index risk factors must be calculated.

@@ -1,0 +1,5 @@
+1. A banking organization must assign a 20 percent risk weight to the portion of an exposure that is conditionally guaranteed by the U.S. government or its agencies.
+2. A banking organization must assign a zero percent risk weight to a Paycheck Protection Program covered loan.
+3. A banking organization must assign a risk weight to a sovereign exposure based on the country's credit rating or OECD membership status.
+4. A banking organization may assign a lower risk weight to a sovereign exposure if certain conditions are met.
+5. A banking organization must assign risk weights to exposures to GSEs, depository institutions, and public sector entities based on specific criteria.

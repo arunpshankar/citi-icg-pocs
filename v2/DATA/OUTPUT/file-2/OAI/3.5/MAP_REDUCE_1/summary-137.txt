@@ -1,0 +1,5 @@
+1. The banking organization must provide qualitative disclosures regarding credit risk mitigation, including policies for netting, collateral valuation, types of collateral, risk concentrations, and credit derivative providers.
+2. The banking organization must provide qualitative disclosures regarding securitization, including objectives, risks, roles in the process, monitoring processes, credit risk mitigation policies, and capital approaches.
+3. The banking organization must provide qualitative disclosures regarding equity risk, including differentiation of holdings and accounting techniques.
+4. The banking organization must provide qualitative disclosures regarding interest rate risk for non-trading activities, including key assumptions and frequency of measurement.
+5. The banking organization must provide qualitative disclosures regarding credit quality of assets, including past due exposures, defaulted exposures, and loan modifications.

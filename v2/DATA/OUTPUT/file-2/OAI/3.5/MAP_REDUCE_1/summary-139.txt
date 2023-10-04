@@ -1,0 +1,5 @@
+1. A banking organization must meet certain standards for four consecutive quarters as reported in regulatory reports to be exempt from certain requirements.
+2. The agency may exclude a banking organization from certain regulations if it deems it appropriate based on market risk or CVA risk.
+3. The agency has the authority to require a banking organization to hold more capital if its current capital requirement does not match its market risk or CVA risk.
+4. The agency may require a banking organization to calculate market risk capital requirements instead of risk-based capital requirements, or vice versa, based on the specific positions or exposures.
+5. The agency has the authority to take supervisory or enforcement action if necessary, and the definitions of certain terms are provided.

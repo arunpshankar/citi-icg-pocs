@@ -1,0 +1,5 @@
+1. Foreign exchange risk refers to the potential loss from changes in foreign exchange rates.
+2. GSE debt is exposure to a government-sponsored enterprise that is not equity or subordinated debt.
+3. A hedge is a position that offsets the price risk of another position.
+4. Hybrid instruments have characteristics of both debt and equity.
+5. Idiosyncratic risk is the risk of loss due to unique factors specific to the issuer.

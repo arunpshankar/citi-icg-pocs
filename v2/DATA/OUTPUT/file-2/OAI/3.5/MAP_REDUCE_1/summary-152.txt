@@ -1,0 +1,9 @@
+(i) Implied volatility remains unchanged for an option or market risk position with an embedded option when the price of the underlying changes, either based on moneyness or strike price.
+(ii) For credit spread risk in securitization positions, the curvature scenarios and sensitivities must be calculated based on the spread of the tranche rather than the underlying position.
+(iii) For correlation trading positions, the curvature scenarios and sensitivities must be computed based on the underlying names of the securitization position.
+(iv) Delta sensitivities, vega sensitivities, and curvature scenarios must be calculated for each risk class in the reporting currency, except for foreign exchange risk where it can be calculated relative to a base currency with approval.
+(v) CVA impact should be ignored when calculating sensitivities.
+(vi) Delta sensitivity for interest rate risk is calculated by changing the interest rate curve by one basis point and dividing the resulting change in value by 0.0001.
+(vii) Delta sensitivity for credit spread risk is calculated by changing the credit spread by one basis point and dividing the resulting change in value by 0.0001.
+(viii) Delta sensitivity for equity risk is calculated using the equity spot price and equity repo rate.
+(ix) Delta sensitivity for commodity risk

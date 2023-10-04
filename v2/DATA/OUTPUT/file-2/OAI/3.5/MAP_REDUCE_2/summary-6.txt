@@ -1,0 +1,35 @@
+Section 1: Risk Position Calculation and Capital Requirements
+- Banking organizations must calculate bucket-level risk positions separately for delta risk, vega risk, and curvature risk.
+- The risk class-level capital requirement is the sum of the delta, vega, and curvature capital requirements for each risk class.
+- The sensitivities-based capital requirement is the largest capital requirement produced under three correlation scenarios.
+- Delta, vega, and curvature capital requirements are calculated by multiplying sensitivities by risk weights and aggregating them.
+
+Section 2: Calculation of Delta, Vega, and Curvature Sensitivities
+- Delta sensitivities are calculated by changing the relevant risk factor and dividing the resulting change in value by a specified factor.
+- Vega sensitivities measure the change in the value of an option due to a small change in volatility.
+- Curvature sensitivities are calculated by applying upward and downward shocks to each risk factor and calculating the incremental loss.
+
+Section 3: Risk Factors and Buckets
+- Risk factors for different risk classes include delta risk factors, vega risk factors, and curvature risk factors.
+- Banking organizations must establish buckets based on various criteria, such as credit quality, sector, market capitalization, and maturity.
+- Risk weights and correlation parameters are used to aggregate risk positions within and across buckets.
+
+Section 4: Default Risk Capital Requirements
+- Default risk capital requirements are calculated based on the gross default exposure and risk weights assigned to different categories of default risk positions.
+- Positions are assigned to specific buckets based on asset class, region, and other criteria.
+- The standardized default risk capital requirement is determined by aggregating bucket-level requirements.
+
+Section 5: Market Risk Reporting and Disclosure
+- Banking organizations must provide reports and disclosures on market risk management, risk reporting and measurement systems, trading desk structure, valuation policies, internal models, stress tests, and credit risk mitigation.
+- Reports and disclosures must be verified, and effective internal controls and reporting procedures must be maintained.
+
+Section 6: CVA Risk Calculation and Measurement
+- CVA risk is calculated using the basic measure or the standardized measure, depending on regulatory approval.
+- Exposure amounts and risk weights are determined for counterparty credit risk in OTC derivative contracts.
+- Exposure models used for regulatory CVA calculation must be part of a risk management framework and undergo validation.
+
+Section 7: CVA Vega Capital Requirement
+- The CVA vega capital requirement is calculated for five risk classes: interest rate risk, foreign exchange risk, reference credit spread risk, equity risk, and commodity risk.
+- The bucket-level and risk class-level CVA vega capital requirements are calculated by aggregating the net weighted vega sensitivities.
+
+Note: The summary has been condensed and organized into sections to highlight the most important points.

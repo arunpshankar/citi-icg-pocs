@@ -1,0 +1,5 @@
+1. Correlations increase during periods of stress compared to normal market conditions.
+2. The conservative treatment of non-modellable risk factors encourages banking organizations to improve model inputs.
+3. The internal models approach includes a standardized default risk capital requirement.
+4. The overall capital requirement under the internal models approach is calculated by adding the standardized default risk capital requirement to the greater of the sum of capital requirements for modellable and non-modellable risk factors or the sum of average capital requirements for non-modellable risk factors over the prior 60 business days and the product of average capital requirements for modellable risk factors over the prior 60 business days and a multiplication factor.
+5. The internal models approach requires banking organizations to identify risk factors, conduct a risk factor eligibility test, and map real prices to the risk factors.

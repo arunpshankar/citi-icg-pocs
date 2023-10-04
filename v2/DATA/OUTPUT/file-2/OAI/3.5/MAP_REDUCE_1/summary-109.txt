@@ -1,0 +1,5 @@
+1. Banking organizations are required to submit a complete history of operational losses above $20,000 in their capital calculation.
+2. Insurance recoveries should be excluded from the recovery amount reported, and a separate item for insurance recoveries should be added.
+3. Banking organizations subject to advanced risk-based standards should report credit risk mitigation values as specified in the capital rule.
+4. The FR Y-15 quarterly report collects systemic risk data from large U.S. bank holding companies and foreign banking organizations.
+5. The proposed rule is not expected to have a significant economic impact on small entities.

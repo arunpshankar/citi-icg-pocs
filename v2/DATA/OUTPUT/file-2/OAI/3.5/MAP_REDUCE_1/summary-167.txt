@@ -1,0 +1,7 @@
+(A) For interest rate, foreign exchange, and commodity risk factors with a single maturity dimension, use the buckets specified in row (A) of Table 1.
+(B) For interest rate, foreign exchange, and commodity risk factors with several maturity dimensions, use the buckets specified in row (B) of Table 1.
+(C) For credit spread and equity risk factors with one or several maturity dimensions, use the buckets specified in row (C) of Table 1.
+(D) For risk factors with one or several strike dimensions, use the buckets specified in row (D) of Table 1.
+(E) For implied volatility risk factors, use the buckets specified in rows (C) and (D) of Table 1.
+(F) For implied volatility risk factors from options on swaps, use the buckets specified in rows (B), (C), and (D) of Table 1.
+(G) For options markets with alternative moneyness definitions, convert the standard buckets to the market-standard convention using the banking organization's own pricing models.

@@ -1,0 +1,5 @@
+(i) Vega measures the change in the value of an option due to a small change in volatility.
+(ii) Volatility can be either implied volatility or at-the-money volatility, depending on the model used to calculate vega sensitivity.
+(2) For interest rate risk, a banking organization must map the implied volatility of the option to specified tenors.
+(3) Banking organizations must assign market risk covered positions without a maturity to the longest prescribed maturity tenor.
+(4) Banking organizations must map market risk covered positions without a strike price or with multiple strike prices to the strike prices and maturities used for models used to calculate vega sensitivity.

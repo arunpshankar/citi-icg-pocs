@@ -1,0 +1,5 @@
+(i) Vega risk factors for foreign exchange risk are the simultaneous, relative changes in volatilities for the exchange rate between a banking organization's reporting currency and each other currency. 
+(ii) The vega risk weights for foreign exchange risk are 100 percent. 
+(iii) The vega cross-bucket correlation parameter for foreign exchange risk is 60 percent for all currency pairs. 
+(iv) Vega buckets for reference credit spread risk are outlined in Table 5. 
+(v) The vega risk factors for reference credit spread risk are the simultaneous relative shift of the volatilities of all credit spreads for all reference names in the bucket.

@@ -1,0 +1,5 @@
+(1) When determining the risk-weighted asset amount for an equity exposure to an investment fund held by another investment fund, a banking organization can use the full look-through approach, the alternative modified look-through approach, or apply a 1,250 percent risk weight.
+(2) The risk-weighted assets for operational risk for a banking organization equals the operational risk capital requirement multiplied by 12.5.
+(3) The operational risk capital requirement is calculated by multiplying the Business Indicator Component by the Internal Loss Multiplier.
+(4) The Business Indicator Component is calculated based on the banking organization's business indicator, which is the sum of three components: interest, lease, and dividend component; services component; and financial component.
+(5) The Internal Loss Multiplier is calculated based on the average annual total net operational losses and the Business Indicator Component.

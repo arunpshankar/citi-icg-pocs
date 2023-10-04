@@ -1,0 +1,6 @@
+(3) For preferred stock classified as an equity security, the carrying value of the exposure minus any net unrealized gains that are not included in regulatory capital.
+(4) For off-balance sheet exposures, the notional amount multiplied by the appropriate credit conversion factor.
+(5) For OTC derivative contracts, the exposure amount determined under applicable regulations.
+(6) For cleared transactions, the exposure amount determined under applicable regulations.
+(7) For eligible margin loans or repo-style transactions, the exposure amount determined under applicable regulations.
+(8) For securitization exposures, the exposure amount determined under applicable regulations.

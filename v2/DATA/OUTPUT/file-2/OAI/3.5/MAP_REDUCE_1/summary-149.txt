@@ -1,0 +1,5 @@
+1. A banking organization must obtain approval from the agency to use an alternative modeling approach.
+2. If a banking organization cannot identify the underlying positions held by an investment fund on a quarterly basis, it must exclude those equity positions from the calculation of IMAGA.
+3. A banking organization can include term repo-style transactions in market risk if they are marked to market and the organization captures the market price risk and issuer-default risk.
+4. Internal risk transfers can be recognized as risk mitigation benefits if they meet certain criteria for credit risk and interest rate risk.
+5. A banking organization can hedge CVA risk through internal CVA hedges executed with its trading desk, subject to certain requirements.

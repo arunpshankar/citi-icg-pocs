@@ -1,0 +1,5 @@
+1. The proposed capital standards aim to provide risk sensitivity and transparency based on the size, complexity, and risk profile of banking organizations.
+2. The alignment of regulatory capital ratios for large banking organizations would enhance transparency and consistency across these organizations.
+3. Banking organizations subject to Category III or IV capital standards would be required to include most elements of AOCI in regulatory capital, similar to Category I or II capital standards.
+4. The proposal also includes capital deductions and minority interest treatments applicable to Category I or II capital standards for Category III or IV capital standards.
+5. The recognition of AOCI in regulatory capital improves the alignment with market participants' assessment of loss-absorbing capacity and reflects the actual loss-absorbing capacity of banking organizations.

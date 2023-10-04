@@ -1,0 +1,5 @@
+1. The proposed changes to risk-weighted assets (RWA) would affect the TLAC and LTD requirements for Category I bank holding companies, making them binding for all these companies.
+2. The proposed elimination of the internal-models method for calculating derivatives exposures would result in more stringent credit limits for counterparties with derivatives exposure.
+3. The proposed RWA changes would decrease the method 2 scores of U.S. GSIBs, reducing their GSIB capital surcharges.
+4. The proposal includes technical amendments and clarifications to the capital rule, including updates to terminology and removal of expired provisions.
+5. The OCC is proposing revisions to the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard.

@@ -1,0 +1,11 @@
+(1) The bond is subject to specific regulations designed to protect bond holders.
+(2) The bond's underlying assets consist of claims on sovereigns, central banks, and other entities, as well as secured claims on residential mortgages and commercial real estate.
+(3) The value of the collateral securing the assets is regularly monitored and evaluated by a qualified professional.
+(4) The value of the assets assigned to the bond exceeds the bond's outstanding value by at least 10%.
+(5) If the law does not require the 10% requirement, the issuing financial institution must publicly disclose that they meet this requirement.
+(6) The proceeds from the bond are invested in assets that can cover claims attached to the bond and would be used to pay principal and interest in the event of issuer failure.
+(7) Credit spread risk refers to the potential loss from changes in credit spread risk factors.
+(8) Credit valuation adjustment (CVA) is a fair value adjustment to account for counterparty credit risk in derivative contracts.
+(9) Cross-currency basis is the basis spread added to the reference rate of a cross-currency basis swap.
+(10) Currency union refers to an agreement among countries to use a single currency.
+(11) Curvature risk is the risk

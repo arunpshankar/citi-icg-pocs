@@ -1,0 +1,5 @@
+1. Exceptions for actual and hypothetical profit and loss occur at each percentile if the VaR-based measure is not available or cannot be computed for a particular business day, except on official holidays.
+2. Backtesting requires counting exceptions for actual and hypothetical profit and loss separately over the most recent 250 business days.
+3. If a trading desk has more than 12 exceptions at the 99.0th percentile or 30 exceptions at the 97.5th percentile in the most recent 250 business day period, it becomes a model-ineligible trading desk.
+4. Model-eligible trading desks with less than 250 business days of backtesting data must use all available data and prorate the number of allowable exceptions.
+5. A trading desk becomes model-eligible again if it produces results in the green or amber zone of the PLA test and has fewer exceptions at the specified percentiles, or if approved by the agency.

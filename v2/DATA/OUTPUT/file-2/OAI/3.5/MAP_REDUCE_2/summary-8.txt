@@ -1,0 +1,60 @@
+Section 1: Capital Conservation Buffer and Leverage Buffer
+- Board-regulated institutions have a capital conservation buffer calculated based on different ratios.
+- If a Board-regulated institution's capital ratio is below the minimum requirement, the capital conservation buffer is zero.
+- Global systemically important BHCs have a leverage buffer calculated based on their supplementary leverage ratio.
+- If the supplementary leverage ratio is below 3 percent, the leverage buffer is zero.
+
+Section 2: Regulatory Capital Adjustments and Deductions
+- Board-regulated institutions must comply with regulations regarding investments in unconsolidated financial institutions and covered debt instruments.
+- Non-significant investments in unconsolidated financial institutions must be assigned appropriate risk weights.
+- Significant investments in the capital of unconsolidated financial institutions must be deducted from capital.
+- Deductions are net of associated deferred tax assets.
+- Certain investments may not be required to be deducted if they are made for the purpose of providing financial support.
+
+Section 3: Revisions to Regulations
+- Revisions have been made to various sections and footnotes of the Federal Reserve Board's regulations.
+- Changes include the replacement of certain terms and the redesignation of footnotes.
+- The revisions aim to ensure compliance with financial regulations and enhance the supervision of banking organizations.
+
+Section 4: Amendments to Capital Adequacy and Stress Testing Requirements
+- Proposed amendments have been made to regulations related to capital adequacy and stress testing requirements for U.S. bank holding companies and foreign banking organizations.
+- The amendments involve changes to definitions, calculation methods for regulatory capital ratios, and compliance requirements.
+- The changes aim to ensure consistency and alignment with regulatory standards.
+
+Section 5: FDIC-Supervised Institutions and Categories
+- FDIC-supervised institutions must comply with the requirements of their category by a specific deadline.
+- Definitions of terms and criteria for each category are being revised and updated.
+- Institutions must meet certain thresholds to be classified in a specific category.
+
+Section 6: Counterparty Credit Risk and Risk-Weighted Assets
+- Definitions and calculations related to counterparty credit risk and risk-weighted assets for financial institutions are discussed.
+- Different types of securities and exposures are classified, and criteria for determining market risk are outlined.
+- Operational requirements for counterparty credit risk are mentioned.
+
+Section 7: Revised Financial Regulations
+- Revisions and redesignations of certain sections and paragraphs of the financial regulations are specified.
+- Definitions and requirements for minimum capital ratios and supplementary leverage ratios are outlined.
+- Calculation of total leverage exposure and components included in it are explained.
+- Conditions and formulas for calculating replacement cost and variation margin for derivative contracts are described.
+
+Section 8: Restrictions on Distributions and Bonus Payments
+- Restrictions on distributions and discretionary bonus payments for FDIC-supervised institutions are discussed.
+- Calculation for including minority interest in the institution's capital is outlined.
+- Revisions to regulatory capital adjustments and deductions are mentioned.
+- Corresponding deduction approach for deductions from regulatory capital is described.
+
+Section 9: Deductions and Risk Weights for FDIC-Supervised Institutions
+- FDIC-supervised institutions must deduct non-significant investments in the capital of unconsolidated financial institutions and investments in covered debt instruments.
+- Deductions are net of associated deferred tax liabilities.
+- With prior approval, institutions underwriting failed underwritings may not be required to deduct certain investments.
+- Risk weights are assigned to certain items that are not deducted from common equity tier 1 capital.
+
+Section 10: Amendments to Risk-Weighted Assets and Transition Provisions
+- Amendments have been made to regulations related to risk-weighted assets, credit valuation adjustment (CVA) risk, and transition provisions for FDIC-supervised institutions.
+- Changes to definitions, capital requirements, and adjustments for financial instruments are included.
+- Transition periods and percentages for adjustments during the transition period are outlined.
+
+Section 11: CECL Transition Provision and Subpart H of FDI Act
+- FDIC-supervised institutions can increase their total leverage exposure during the transition period if they have elected the 2020 CECL transition provision.
+- Certain sections of subpart H of the FDI Act apply to FDIC-supervised institutions and insured branches of foreign banks.
+- Amendments have been made to various sections of 12 CFR part 324 to reflect the changes.

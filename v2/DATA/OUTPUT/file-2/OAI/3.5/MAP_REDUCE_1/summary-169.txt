@@ -1,0 +1,5 @@
+1. The information includes credit spreads for various types of debt, including GSE debt, sovereign positions, and corporate positions.
+2. It also includes credit spreads for different credit ratings, such as investment grade and speculative grade.
+3. The information covers equity markets, including large market cap or index stocks and small market cap stocks.
+4. It includes volatility measures for credit spreads, equities, foreign exchange, and commodity prices.
+5. The information also discusses the calculation of capital measures for modellable and non-modellable risk factors, as well as reporting and disclosure requirements for market risk.

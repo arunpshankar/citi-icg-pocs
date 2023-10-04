@@ -1,0 +1,5 @@
+1. The Board is proposing revisions to the GSIB surcharge calculation and systemic risk report for large banking organizations.
+2. The proposal would remove the use of internal models for credit and operational risk capital requirements, aiming to improve consistency and transparency.
+3. Standardized requirements and robust public disclosure would enhance the transparency of capital requirements.
+4. The proposal would still require large banking organizations to maintain capital commensurate with their risks and conduct stress tests.
+5. The proposal would increase the dollar-based threshold for market risk requirements and revise the calculation method.

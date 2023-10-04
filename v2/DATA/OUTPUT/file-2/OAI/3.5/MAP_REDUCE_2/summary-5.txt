@@ -1,0 +1,47 @@
+Section 1: Credit Risk Mitigation
+- Banking organizations can recognize credit risk mitigation benefits of eligible guarantees or credit derivatives by substituting the risk weight of the protection provider for the risk weight of the exposure.
+- Exposures fully or partially covered by eligible guarantees or credit derivatives can have their risk weight adjusted.
+- Tranching of credit risk in securitization exposures is subject to specific regulations.
+- Multiple guarantees or credit derivatives covering a single exposure can be treated separately for risk-weighted asset calculation.
+- Single guarantees or credit derivatives covering multiple exposures must be treated separately for risk-weighted asset calculation.
+- Adjustments must be made to reduce the effective notional amount of eligible credit derivatives based on factors such as lack of restructuring event and maturity mismatch.
+- Currency mismatch adjustments must be made for guarantees or credit derivatives denominated in different currencies than the hedged exposure.
+
+Section 2: Collateral and Margin Loans
+- Financial collateral can be recognized for risk mitigation using the simple approach or the collateral haircut approach.
+- Exposure amounts for margin loans and repo-style transactions are determined based on fair value of the specific instrument, cash, or gold involved.
+- Haircuts are applied to account for market price volatility and currency mismatch.
+- Certain margin loans and repo-style transactions with unregulated financial institutions are exempt from minimum haircut floors.
+- Collateral upgrade transactions where securities cannot be re-hypothecated are also exempt from minimum haircut floors.
+
+Section 3: Securitization Exposures
+- Securitization exposures have specific regulations for risk-weighted asset calculation.
+- Default derivatives allow exclusion of low-risk assets from capital calculation.
+- Guarantees and credit derivatives are risk-weighted based on the portion of the reference exposure covered.
+- Synthetic excess spread is not allowed in synthetic securitization.
+- Risk weight for securitization exposure is calculated based on attachment and detachment points.
+
+Section 4: Equity Exposures
+- Risk-weighted asset amounts for equity exposures are determined based on the lowest applicable risk weight.
+- Equity exposures to investment funds can be assigned different risk weights based on certain criteria.
+- Full look-through approach or alternative modified look-through approach can be used for risk-weighted asset calculation of equity exposures to investment funds.
+
+Section 5: Operational Risk
+- Banking organizations must calculate and report operational losses, including material losses and recoveries.
+- Operational loss event data must be collected and captured above a certain threshold.
+- Banking organizations must have operational risk management functions and processes in place.
+- Disclosures related to operational risk must be made, including credit risk mitigation, securitization, equity risk, interest rate risk, and credit quality of assets.
+
+Section 6: Market Risk
+- Market risk capital requirements are calculated based on internally modelled capital calculation and standardized approach.
+- Capital add-ons may be required for re-designations of exposures or positions.
+- Backtesting and stress testing of market risk must be conducted regularly.
+- Policies and procedures for market risk management, trading desk structure, and internal models must be in place.
+
+Section 7: Capital Requirements
+- Capital requirements for banking organizations are calculated based on various factors and approaches.
+- Capital add-ons may be required for ineligible positions on model-eligible trading desks.
+- Look-through approach can be used for index instruments and multi-underlying options.
+- Alternative modeling approaches may be approved by the regulatory agency.
+- Internal risk transfers can be recognized as risk mitigation benefits for credit risk and interest rate risk.
+- CVA risk can be hedged through internal CVA hedges with trading desks.

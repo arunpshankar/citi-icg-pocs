@@ -1,0 +1,5 @@
+(1) A banking organization must assign a 2 percent risk weight to an exposure to a QCCP arising from posting cash collateral to the QCCP in connection with a cleared transaction that meets certain requirements.
+(2) A banking organization must assign a 4 percent risk weight to an exposure to a QCCP arising from posting cash collateral to the QCCP in connection with a cleared transaction that meets different requirements.
+(3) A banking organization must assign a 150 percent risk weight to a corporate exposure that is a subordinated debt instrument or a covered debt instrument.
+(4) A banking organization must assign a 100 percent risk weight to certain corporate exposures related to acquiring or financing equipment or physical commodities, as well as project finance operational phase exposures.
+(5) A banking organization must assign a 150 percent risk weight to defaulted exposures, and there are specific risk weights assigned to other assets such as cash, gold bullion, and DTAs.

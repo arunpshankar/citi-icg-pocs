@@ -1,0 +1,5 @@
+1. Default derivatives allow exclusion of low-risk assets from capital calculation.
+2. Purchased nth-to-default credit derivatives cannot be recognized as credit risk mitigants.
+3. Guarantees and credit derivatives are risk-weighted based on the portion of the reference exposure covered.
+4. Purchased credit derivatives can be recognized as credit risk mitigants, but if not, exposure amount must be determined separately.
+5. Risk weight for securitization exposure is calculated based on attachment and detachment points, with different weights for different types of securitization.

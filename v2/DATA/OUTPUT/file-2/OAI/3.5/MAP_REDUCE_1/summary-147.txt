@@ -1,0 +1,6 @@
+(iii) When a banking organization re-designates an exposure or position, they must calculate a capital add-on at the time of re-designation.
+(iv) The capital add-on for re-designation can decrease as the exposure or position matures or expires.
+(v) In certain circumstances, such as accounting requirements or changes in the characteristics of the exposure, a banking organization may not be required to have a capital add-on for re-designation.
+(3) Once a re-designation occurs, it cannot be reversed unless the banking organization receives written approval from the regulatory agency.
+(f) A banking organization must calculate a capital add-on for ineligible positions on model-eligible trading desks, such as securitization positions or equity positions in an investment fund, that cannot be identified on a quarterly basis.
+(g) A banking organization must conduct backtesting on a quarterly basis to compare actual profit and loss with hypothetical profit and loss for transactions on model-eligible trading desks. Exceptions may occur if data is unavailable or if non-modellable risk factors caused the loss. The number of exceptions determines the multiplication factor used to calculate the non-default risk capital requirement.

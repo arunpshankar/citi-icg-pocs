@@ -1,0 +1,5 @@
+- Banking organizations must use specific correlation parameters to aggregate risk-weighted delta sensitivities of interest rate risk within a bucket.
+- The correlation parameters for risk-weighted delta sensitivities with the same tenor but different interest rate curves are set at 99.9%.
+- The correlation parameters for risk-weighted delta sensitivities with different tenors and the same interest rate curve are specified in Table 2.
+- The correlation parameters for risk-weighted delta sensitivities with different tenors and different interest rate curves are calculated by multiplying the correlation parameter in Table 2 by 99.9%.
+- For credit spread risk, banking organizations must establish buckets based on credit quality and sector, and assign delta sensitivities accordingly. Risk weights for each bucket are provided in Table 3.

@@ -1,0 +1,5 @@
+(1) The on-balance sheet component of an exposure is the carrying value of the exposure for certain types of financial instruments.
+(2) The off-balance sheet component of an exposure is the notional amount of the off-balance sheet component multiplied by the appropriate credit conversion factor.
+(3) The exposure amount for OTC derivative contracts is determined under specific regulations.
+(4) The exposure amount for cleared transactions is determined under specific regulations.
+(5) The exposure amount for eligible margin loans or repo-style transactions is determined under specific regulations.

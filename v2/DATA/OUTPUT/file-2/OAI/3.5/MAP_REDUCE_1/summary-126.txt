@@ -1,0 +1,5 @@
+(1) The banking organization must apply adjustments to reduce the effective notional amount of eligible credit derivatives based on certain factors such as lack of restructuring event and maturity mismatch.
+(2) If a banking organization recognizes a guarantee or credit derivative denominated in a different currency than the hedged exposure, they must adjust the effective notional amount based on a currency mismatch formula.
+(3) The banking organization must set the currency mismatch adjustment at eight percent, but can increase it if the revaluation of the guarantee or credit derivative is less frequent than once every 10 business days.
+(4) To recognize the risk-mitigating effects of financial collateral, a banking organization can use the simple approach or the collateral haircut approach.
+(5) The simple approach allows the banking organization to recognize the credit risk mitigation benefits of financial collateral that meets certain requirements, while the collateral haircut approach applies to eligible margin loans, repo-style transactions, and netting sets of such transactions.

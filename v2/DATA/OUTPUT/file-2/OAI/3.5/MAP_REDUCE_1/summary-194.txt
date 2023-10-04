@@ -1,0 +1,5 @@
+(1) Category IV banking organizations include depository institution holding companies and U.S. intermediate holding companies.
+(2) State member banks can be considered Category IV if they are subsidiaries of Category IV banking organizations or have total consolidated assets of $100 billion or more.
+(3) State member banks remain Category IV until their total consolidated assets fall below $100 billion or they become Category II or III Board-regulated institutions.
+(4) Corporate exposure refers to exposures to companies that do not fall under specific categories, such as sovereigns, government-sponsored enterprises, or residential mortgages.
+(5) CVA risk-weighted assets are calculated by multiplying the measure for CVA risk by 12.5.

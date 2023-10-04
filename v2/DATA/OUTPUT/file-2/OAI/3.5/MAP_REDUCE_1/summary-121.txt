@@ -1,0 +1,5 @@
+1. The value of λ for option contracts is determined based on the lowest value of P and K for all contracts with the same risk factor or instrument.
+2. The formula for calculating the supervisory delta adjustment for collateralized debt obligation tranches is (1 + 14 * A) * (1 + 14 * D).
+3. The maturity factor for derivative contracts subject to a variation margin agreement is determined based on the period from the most recent exchange of collateral until the contracts are closed out.
+4. The maturity factor for derivative contracts not subject to a variation margin agreement is determined based on the remaining maturity of the contract.
+5. Derivative contracts may be separated into separate contracts based on certain criteria, such as binary options, standard option payoffs, and multiple-payment options.

@@ -1,0 +1,5 @@
+(1) A banking organization can recognize the credit risk mitigation benefits of eligible guarantees or credit derivatives by substituting the risk weight of the protection provider for the risk weight of the exposure.
+(2) This applies to exposures fully covered or partially covered on a pro rata basis by eligible guarantees or credit derivatives.
+(3) Exposures with tranching of credit risk are securitization exposures subject to specific regulations.
+(4) If multiple guarantees or credit derivatives cover a single exposure, the banking organization can treat each covered exposure separately and calculate a separate risk-weighted asset amount for each.
+(5) If a single guarantee or credit derivative covers multiple exposures, the banking organization must treat each exposure separately and calculate a separate risk-weighted asset amount for each.

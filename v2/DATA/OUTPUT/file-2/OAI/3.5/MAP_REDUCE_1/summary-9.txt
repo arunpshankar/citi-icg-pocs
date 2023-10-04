@@ -1,0 +1,5 @@
+1. The proposal suggests that a banking organization should treat an exposure as defaulted if the obligor has a credit obligation that is 90 days or more past due or in nonaccrual status, or if the banking organization determines that the obligor is unlikely to pay its credit obligations in full.
+2. A banking organization would assign a 150 percent risk weight to a defaulted exposure to reflect the increased uncertainty of recovery.
+3. The proposal also includes criteria for determining whether an obligor is unlikely to pay its credit obligations, such as if the obligor has any credit obligation that is 90 days or more past due or in nonaccrual status with any creditor.
+4. For retail credit obligations, the proposal invites comment on including a borrower's bankruptcy as a criterion for a defaulted exposure.
+5. The proposal assigns a 20 percent risk weight to exposures to government-sponsored enterprises that are not equity exposures, securitization exposures, or exposures to subordinated debt instruments.

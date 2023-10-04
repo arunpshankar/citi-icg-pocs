@@ -1,0 +1,5 @@
+1. The CVA vega capital requirement is calculated for five risk classes: interest rate risk, foreign exchange risk, reference credit spread risk, equity risk, and commodity risk.
+2. The multiplier, mcva, is typically 1 but can be adjusted by the regulatory agency based on the banking organization's CVA model risk.
+3. The CVA vega sensitivity and weighted hedge vega sensitivity are calculated for each risk factor.
+4. The bucket-level CVA vega capital requirement is calculated by aggregating the net weighted vega sensitivities for each risk factor in a bucket.
+5. The risk class-level CVA vega capital requirement is calculated by aggregating the bucket-level requirements for each bucket in the risk class.

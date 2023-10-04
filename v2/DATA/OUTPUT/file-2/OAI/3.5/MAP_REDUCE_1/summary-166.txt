@@ -1,0 +1,5 @@
+(i) The [AGENCY] has the authority to determine a different PLA test zone for a trading desk's PLA test results.
+(ii) If a trading desk produces results in the PLA test amber zone, it is subject to the PLA add-on.
+(iii) If a trading desk produces results in the PLA test red zone, it becomes a model-ineligible trading desk.
+(iv) A model-ineligible trading desk can become model-eligible if it produces results in the PLA test green or amber zone and meets certain backtesting exception criteria or receives approval from the [AGENCY].
+(v) The PLA add-on is calculated based on the standardized approach capital requirements for market risk covered positions on trading desks subject to the PLA add-on and model-eligible trading desks.

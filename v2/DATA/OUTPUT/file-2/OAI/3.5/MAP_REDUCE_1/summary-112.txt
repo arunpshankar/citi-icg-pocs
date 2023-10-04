@@ -1,0 +1,5 @@
+(1) For a residential mortgage exposure, the banking organization may consider the exposure as nonperforming if it is 90 days or more past due, if a partial charge-off or write-down has been taken, or if a distressed restructuring has been agreed upon.
+(2) For a real estate exposure that is not a residential mortgage exposure, the banking organization may consider the exposure as nonperforming if the obligor is 90 days or more past due or if the banking organization determines that the obligor is unlikely to pay its credit obligations in full.
+(3) The banking organization may consider an obligor no longer unlikely to pay its credit obligations if it is determined to be speculative grade or investment grade.
+(4) Grade A bank exposure refers to a bank exposure where the depository institution is investment grade and meets certain capital ratio requirements.
+(5) Grade B bank exposure refers to a bank exposure that is not Grade A, but the depository institution is speculative grade or investment grade and meets certain capital ratio requirements.

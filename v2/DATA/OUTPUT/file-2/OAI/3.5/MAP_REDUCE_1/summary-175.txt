@@ -1,0 +1,5 @@
+(7) Banking organizations must consider the dependence between exposure and counterparty credit quality in regulatory CVA calculations.
+(8) Only financial collateral that qualifies for inclusion in net independent collateral or variation margin can be recognized as a risk mitigant for margined counterparties.
+(9) The exposure model for margined counterparties must capture the effects of margining collateral, including contractual features such as margin agreement type, frequency of margin calls, and collateral type.
+(10) Banking organizations must use the same CVA exposure models for financial reporting purposes to obtain simulated paths of discounted future exposure, adjusted to meet regulatory requirements.
+(11) The generation of market risk factor paths underlying exposure models must meet certain requirements, including consistent drifts, calibrated volatilities and correlations, and accounting for possible non-normality of exposure distributions.

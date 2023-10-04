@@ -1,0 +1,52 @@
+Summary of Proposed Changes Related to Processing of Derivative Contracts:
+
+1. The proposed revisions aim to improve risk-based capital requirements, reduce complexity, enhance consistency, and facilitate better supervision and market assessments.
+2. The use of internal models for credit and operational risk capital requirements would be removed to improve consistency and transparency.
+3. Standardized requirements and robust public disclosure would enhance the transparency of capital requirements.
+4. The dollar-based threshold for market risk requirements would be increased and the calculation method revised.
+5. The countercyclical capital buffer and the supplementary leverage ratio requirement would be expanded to certain banking organizations.
+6. An "output floor" would be introduced to ensure consistency in capital requirements and prevent unwarranted reductions in capital.
+7. A stress capital buffer requirement would be included to maintain capital ratios above minimum requirements.
+8. The definition of capital for certain banking organizations would be changed, including the inclusion of AOCI in regulatory capital.
+9. Deduction requirements would be applied to nonsignificant investments in unconsolidated financial institutions and minority interest treatments.
+10. Guidance would be provided on due diligence for credit risk portfolios and the risk-weight treatment for on-balance sheet and off-balance sheet exposures.
+11. Risk weights for different types of real estate exposures would be suggested based on their characteristics.
+12. Risk weight treatments for retail exposures would be introduced based on product type and portfolio diversification.
+13. Risk weight treatments for project finance exposures and off-balance sheet exposures would be addressed.
+14. The use of models for credit risk would be eliminated and replaced with standardized approaches.
+15. Requirements for the recognition of credit protection from guarantees, credit derivatives, and collateralized transactions would be included.
+16. Netting sets would be defined and requirements for the recognition of certain debt securities as financial collateral would be included.
+17. Specific haircuts for securitization exposures, equities, gold, and collateral in the form of mutual fund shares would be introduced.
+18. Minimum haircut floors would be proposed for eligible margin loans and repo-style transactions with unregulated financial institutions.
+19. Internal risk transfers within banking organizations would be addressed, including the recognition of credit risk, interest rate risk, and CVA risk.
+20. Trading desk structure and requirements would be introduced, including the identification of market risk covered positions and the establishment of trading and hedging strategies.
+21. Operational requirements and prudent valuation practices would be established, including stress testing, control and oversight, and documentation.
+22. Calculation of market risk capital requirements would be based on standardized methodology and models-based methodology.
+23. The scope of application and definition of market risk covered positions would be expanded to include equity positions in investment funds, net short risk positions, publicly traded equity positions, and embedded derivatives.
+24. Internal risk transfers would be defined, and requirements for their recognition in risk-based capital requirements would be established.
+25. Data quality requirements and an eligibility test would be introduced for internal and external data used in risk factor eligibility and modellable risk factors.
+26. Challenges and feedback related to data quality requirements and weekly updates for IMCC data inputs would be addressed.
+27. Liquidity horizon-adjusted expected shortfall-based measures would be calculated for risk factors in stress, with a ratio-based adjustment to the stress period measure.
+28. Calculation and stress periods for liquidity horizon-adjusted expected shortfall-based measures would be established, with regular updates to reflect changes in risk factors.
+29. Capital requirements and treatment of risk factors would be based on liquidity horizon-adjusted expected shortfall-based measures for modellable risk factors and stressed expected shortfall for non-modellable risk factors.
+30. PLA testing and securitization positions would be included in the calculation of risk capital requirements.
+31. Capital rule streamlining and disclosures would be revised, including the elimination of certain quantitative disclosures and the introduction of new quantitative and qualitative disclosures.
+32. Securitization exposures and CVA risk would be clarified, including capital requirements for credit valuation adjustment (CVA) risk and the calculation of CVA risk for cleared transactions and securities financing transactions.
+33. Risk management and calculation of CVA risk would be addressed, including the use of exposure models and ongoing eligibility requirements.
+34. Calculation of regulatory CVA and risk weights would be based on counterparty-level regulatory CVAs and inputs such as term structure and simulated paths.
+35. Calculation of delta and vega risk capital requirements would be based on sensitivities to risk factors and risk weights, with treatment of default risk and securitization positions.
+36. Aggregation of delta and CVA vega risk capital requirements would be based on net weighted sensitivities and formulas for aggregation.
+37. Calculation of risk-based capital requirements for delta, vega, and curvature risk would be based on sensitivities, risk weights, and correlation parameters.
+38. Calculation of risk-based capital requirements for default risk would be based on gross default exposure and risk weights.
+39. Market risk reporting and disclosure requirements would be established, including reports and disclosures on market risk management, risk reporting and measurement systems, and credit risk mitigation.
+40. CVA risk calculation and measurement would be addressed, including exposure amounts, risk weights, and exposure models.
+41. CVA vega capital requirement would be calculated for different risk classes, with aggregation of net weighted vega sensitivities.
+42. Calculation of regulatory CVA and risk weights would be based on counterparty-level regulatory CVAs, inputs, and assumptions.
+43. Calculation of delta and vega risk capital requirements would be based on sensitivities, risk weights, and risk classes.
+44. Aggregation of delta and CVA vega risk capital requirements would be based on net weighted sensitivities and formulas for aggregation.
+45. Calculation of risk-based capital requirements for delta, vega, and curvature risk would be based on sensitivities, risk weights, and correlation parameters.
+46. Calculation of risk-based capital requirements for default risk would be based on gross default exposure and risk weights.
+47. Market risk reporting and disclosure requirements would be established, including reports and disclosures on market risk management, risk reporting and measurement systems, and credit risk mitigation.
+48. CVA risk calculation and measurement would be addressed, including exposure amounts, risk weights, and exposure models.
+49. CVA vega capital requirement would be calculated for different risk classes, with aggregation of net weighted vega sensitivities.
+50. Calculation of regulatory CVA and risk weights would be based on counterparty-level regulatory CVAs, inputs, and assumptions.

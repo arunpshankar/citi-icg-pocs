@@ -1,0 +1,201 @@
+Section 1: Proposed Revisions to Capital Requirements for Large Banking Organizations
+- The Office of the Comptroller of the Currency (OCC), the Federal Reserve System, and the Federal Deposit Insurance Corporation (FDIC) are proposing revisions to the capital requirements for large banking organizations and those with significant trading activity.
+- The proposed revisions aim to improve risk-based capital requirements, reduce complexity, enhance consistency, and facilitate better supervision and market assessments.
+- The revisions would replace current requirements with standardized approaches and align with international capital standards.
+- The proposal does not affect smaller, less complex banking organizations.
+- Public comments on the proposal are invited until November 30, 2023.
+
+Section 2: Key Changes in Capital Requirements
+- The proposal removes the use of internal models for credit and operational risk capital requirements to improve consistency and transparency.
+- Standardized requirements and robust public disclosure enhance the transparency of capital requirements.
+- Large banking organizations are still required to maintain capital commensurate with their risks and conduct stress tests.
+- The proposal increases the dollar-based threshold for market risk requirements and revises the calculation method.
+- The proposal expands the application of the countercyclical capital buffer and the supplementary leverage ratio requirement to certain banking organizations.
+- An "output floor" is introduced to ensure consistency in capital requirements and prevent unwarranted reductions in capital.
+- The proposal includes a stress capital buffer requirement to maintain capital ratios above minimum requirements.
+
+Section 3: Changes to Definition of Capital and Risk Weight Treatments
+- The proposal includes changes to the definition of capital for certain banking organizations.
+- Accumulated Other Comprehensive Income (AOCI) is included in regulatory capital to reflect the actual loss-absorbing capacity of banking organizations.
+- Nonsignificant investments in unconsolidated financial institutions and minority interest treatments are subject to deduction requirements.
+- The proposal provides guidance on due diligence for credit risk portfolios and the risk-weight treatment for on-balance sheet and off-balance sheet exposures.
+
+Section 4: Risk Weight Treatments for Different Exposures
+- The proposal suggests risk weights for different types of real estate exposures based on their characteristics.
+- Risk weights for residential and commercial real estate exposures depend on factors such as loan-to-value ratio and dependence on cash flows.
+- The proposal introduces risk weight treatments for retail exposures based on product type and portfolio diversification.
+- Risk weights for project finance exposures and off-balance sheet exposures are also addressed in the proposal.
+
+Section 5: Credit Risk Mitigants and Collateral Recognition
+- The proposal eliminates the use of models for credit risk and replaces them with standardized approaches.
+- Requirements for the recognition of credit protection from guarantees, credit derivatives, and collateralized transactions are included.
+- The proposal defines netting sets and includes requirements for the recognition of certain debt securities as financial collateral.
+- The proposed methodology for calculating gross exposure balances simplicity and risk sensitivity.
+
+Section 6: Other Key Proposals
+- The proposal addresses the treatment of credit derivatives without restructuring and collateralized transactions.
+- Specific haircuts for securitization exposures, equities, gold, and collateral in the form of mutual fund shares are introduced.
+- Minimum haircut floors are proposed for eligible margin loans and repo-style transactions with unregulated financial institutions.
+
+Section 7: Internal Risk Transfers
+- The proposal addresses the lack of regulation regarding internal risk transfers within banking organizations.
+- Defines internal risk transfers and establishes requirements for their recognition in risk-based capital requirements.
+- Outlines risk-based capital treatment of internal transfers of credit risk, interest rate risk, and CVA risk.
+
+Section 8: Trading Desk Structure and Requirements
+- The proposal introduces the concept of a trading desk and expands requirements for identifying market risk covered positions.
+- Banking organizations must update policies and procedures for identifying positions annually and establish a framework for re-designating positions.
+- Clearly defined trading and hedging strategies required for market risk covered positions.
+- Definition of trading desk includes requirements for a well-defined business strategy and coordinated trading activity.
+- Notional trading desks introduced for positions that may not originate from existing trading desks.
+- Agencies will review trading desk structure, including notional trading desks, to ensure appropriate identification.
+- Additional requirements may be applied to notional trading desks for calculating market risk capital requirements.
+
+Section 9: Operational Requirements and Prudent Valuation Practices
+- Policies and procedures must be established for each trading desk, describing strategy and risk management framework.
+- Operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation.
+- Proposal aims to strengthen banking organization's prudent valuation practices and promote effective model risk management.
+- Documentation required for material aspects of market risk positions, internal risk transfers, re-designations, internal models, control processes, and capital adequacy assessments.
+- Ongoing review, risk management, and validation of internal models required, including monitoring and comparison with external data sources.
+
+Section 10: Calculation of Market Risk Capital Requirements
+- Clearly defined policies and procedures required for actively managing all positions subject to market risk capital rule.
+- Daily monitoring of position limits, establishment of internal controls and authorization procedures.
+- Broader set of risk metrics for monitoring at trading desk level, including trading limits, sensitivities to risk factors, VaR, and expected shortfall.
+- Backtesting and p-values required for model-eligible trading desks.
+- Stress testing and internal assessment of capital adequacy enhanced, with quarterly tests at entity-wide and trading-desk level.
+- Control and oversight requirements maintained, with expanded role for independent risk control unit and enhanced internal review and challenge responsibilities.
+- Documentation requirements enhanced to reflect proposed changes.
+
+Section 11: Scope of Application and Definition of Market Risk Covered Positions
+- Proposal expands types of positions considered market risk covered positions.
+- Includes equity positions in investment funds, net short risk positions, publicly traded equity positions, and embedded derivatives.
+- Excludes certain positions such as intangible assets and direct real estate holdings.
+
+Section 12: Data Quality Requirements and Eligibility Test
+- Different observation periods allowed for internal and external data, as long as they are the same.
+- New issuances require a pro-rated number of real prices to pass the risk factor eligibility test.
+- Quotes of discontinued reference rates can be used until new reference rate liquidity improves.
+- Modellable risk factors determined by passing eligibility test and meeting data quality requirements.
+- Data quality requirements include reflecting market prices, capturing systematic and idiosyncratic risk, reflecting volatility and correlation, allowing combinations of risk factors, updating data inputs weekly, using stress period data, and using proxies if appropriate.
+
+Section 13: Challenges and Feedback
+- Banking organizations may face challenges in meeting data quality requirements for modellable risk factors.
+- Agencies seeking comments on additional requirements to ensure accurate calculation of potential losses from modellable risk factors.
+- Requiring weekly updates for IMCC data inputs may pose challenges, concerns can be mitigated by ensuring data integrity.
+- Re-estimating parameters in line with policies and procedures may pose challenges for banking organizations.
+- Operational burden of modeling idiosyncratic risk for issuers can be reduced by using data from similar names, but benefits and drawbacks should be considered.
+
+Section 14: Liquidity Horizon-Adjusted Expected Shortfall-Based Measures
+- Banking organizations to calculate liquidity horizon-adjusted expected shortfall-based measures for risk factors in stress.
+- Measure for stress period multiplied by ratio based on current period measure, with floor to prevent reduction in capital requirements.
+- Current period measure must explain at least 75% of variability of losses estimated by full set of risk factors.
+- Reduced set of risk factors used in calculations must be updated regularly and have sufficient history of observations.
+- Liquidity horizons assigned to different risk factors based on characteristics, shorter maturities use next longer liquidity horizon.
+
+Section 15: Calculation and Stress Periods
+- Banking organizations to calculate liquidity horizon-adjusted expected shortfall-based measures for risk factors on a quarterly basis.
+- Measure calculated at entity-wide level and across risk classes for model-eligible trading desks.
+- Calculation involves scaling up 10-day base expected shortfall measure using longer proposed liquidity horizons for modellable risk factors within same risk class.
+- Banking organizations to review and update stress period regularly to reflect changes in risk factors.
+- Seeking feedback on using same set of risk factors to identify stress periods and calculate capital requirements.
+
+Section 16: Capital Requirements and Treatment of Risk Factors
+- Proposal includes using liquidity horizon-adjusted expected shortfall-based measures to calculate capital requirements for modellable risk factors.
+- Stressed expected shortfall used for non-modellable risk factors with less recognition for hedging and portfolio diversification.
+- Backtesting requirements for VaR-based measures, with modifications to include hypothetical profit and loss comparisons.
+- Seeking comment on treatment of non-modellable risk factors and potential use of multiplier to better reflect their risk profile.
+- Lower capital multiplier for banking organizations based on number of exceptions in backtesting results to measure conservatism of forecasting assumptions and valuation methods.
+
+Section 17: PLA Testing and Securitization Positions
+- PLA add-on imposes additional capital requirement on model-eligible trading desks with deficiencies in internal models.
+- Banking organizations to compare daily profit and loss values from internal risk management models against hypothetical profit and loss from front office models.
+- Inclusion of securitization positions for PLA tests.
+- Proposal aims to improve PLA test metrics for model-eligible trading desks, including Spearman correlation and Kolmogorov-Smirnov metric.
+- Treatment of net short risk positions and calculation of exposure on quarterly basis.
+
+Section 18: Capital Rule Streamlining and Disclosures
+- Streamlining of capital rule for banking organizations subject to market risk framework.
+- Elimination of certain quantitative disclosures, retention of disclosures related to securitization positions and correlation trading positions.
+- Introduction of new quantitative disclosures comparing VaR-based estimates to actual gains or losses.
+- Revised qualitative disclosures to include information on expected shortfall and risk management policies.
+- Reporting and disclosure requirements for compliance with market risk capital framework.
+
+Section 19: Securitization Exposures and CVA Risk
+- Clarification on securitization exposures and capital requirements.
+- Capital requirements for credit valuation adjustment (CVA) risk for large banking organizations.
+- Calculation of CVA risk for cleared transactions and securities financing transactions.
+- Introduction of CVA hedges and requirements for their recognition.
+- Two approaches for calculating CVA capital requirements: basic approach (BA-CVA) and standardized approach (SA-CVA).
+
+Section 20: Risk Management and Calculation of CVA Risk
+- Risk management requirements for identifying and managing CVA risk positions and hedges.
+- Clearly defined hedging policy and documentation of risk management processes.
+- Compliance with operational requirements for banking organizations using standardized measure for CVA risk.
+- Alignment of regulatory CVA with accounting CVA and use of CVA models for calculating regulatory CVA.
+- Ongoing eligibility requirements and control measures for CVA risk management.
+
+Section 21: Exposure Models and Capital Requirements for CVA Risk
+- Inclusion of exposure models for regulatory CVA calculation in risk management framework.
+- Validation process for models, including exposure models, and testing against independent benchmarks.
+- Calculation of capital requirements for CVA risk using basic measure and standardized measure.
+- Option for banking organizations to use standardized measure if approved by primary Federal supervisor.
+- Seeking feedback on appropriateness of risk weights and calibration factor used in capital requirement formula for CVA risk.
+
+Section 22: Calculation of Regulatory CVA and Risk Weights
+- Calculation of regulatory CVA based on counterparty-level regulatory CVAs.
+- Inputs required for regulatory CVA calculation, including term structure and simulated paths.
+- Assumption that derivative contracts have same seniority as senior unsecured bonds.
+- Recognition of financial collateral as risk mitigant if requirements are met.
+- Calculation of risk-based capital requirements for CVA risk under basic approach (BA-CVA).
+
+Section 23: Calculation of Delta and Vega Risk Capital Requirements
+- Calculation of risk-based capital requirements for delta and vega to capture linear CVA risks.
+- Risk classes for different types of risk factors and calculation of sensitivities.
+- Treatment of counterparty credit spread risk as separate delta risk class.
+- Calculation of sensitivities for risk factors and counterparty credit spread delta risk factors.
+- Introduction of standardized approach for CVA risk with specific risk weights and correlations.
+
+Section 24: Aggregation of Delta and CVA Vega Risk Capital Requirements
+- Aggregation of net weighted sensitivities for each risk bucket and across risk buckets within each risk class.
+- Formulas for aggregation, including parameters such as regulatory correlation and hedging disallowance.
+- Capital requirements calculated separately for each risk class and then aggregated across risk classes.
+- Transition provisions for expanded risk-weighted assets and adjustments to regulatory capital over three-year period.
+- Impact and economic analysis of proposal considered, with expected slight reduction in bank lending but increased financial system resilience.
+
+Section 25: Proposed Changes in Risk Weights and Capital Requirements
+- The proposed changes in asset class-specific risk weights would have a small impact on banking organizations' portfolio allocations.
+- Large banking organizations would be required to maintain equity capital funding at a level at least as high as the current standardized approach.
+- The proposal adjusts the U.S. implementation of Basel III reforms to mitigate potential competitive effects between U.S. banking organizations.
+- Higher capital requirements for trading activities could enhance the resilience of bank-affiliated broker dealers and benefit market liquidity.
+
+Section 26: Impact on Large Banking Organizations
+- The proposed changes would affect large banking organizations through changes in the calculation of regulatory capital, TLAC and LTD requirements, single counter-party credit limits, and method 2 GSIB scores.
+- The proposed elimination of the internal-models method for calculating derivatives exposures would result in more stringent credit limits for counterparties with derivatives exposure.
+- The proposed RWA changes would decrease the method 2 scores of U.S. GSIBs, reducing their GSIB capital surcharges.
+
+Section 27: Amendments to Capital Rule and Reporting Requirements
+- The proposal includes technical amendments and clarifications to the capital rule, including updates to terminology and removal of expired provisions.
+- The OCC is proposing revisions to the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard.
+- The proposed rule includes revisions to current information collections subject to the PRA, including reporting, recordkeeping, and disclosure requirements associated with regulatory capital rules and market risk capital rules.
+
+Section 28: Reporting Requirements for Large Financial Firms
+- The FR Y-14A, FR Y-14Q, and FR Y-14M reports collect quantitative and qualitative information on balance sheet projections, asset classes, and risk management processes of large financial firms.
+- The reports are mandatory for bank holding companies, intermediate holding companies, and covered savings and loan holding companies with $100 billion or more in total consolidated assets.
+- The proposed revisions to the reports include changes related to capital ratios, operational risk, and credit risk mitigation.
+
+Section 29: Revisions to Risk-Based Standards and Reporting Requirements
+- The proposed rule aims to revise capital requirements for large banking organizations and those with significant trading activity.
+- The revisions would improve risk-based capital calculations, reduce complexity, enhance consistency, and facilitate better assessments of capital adequacy.
+- The proposed rule would not have a significant economic impact on small entities.
+
+Section 30: Definitions and Calculations
+- Various definitions and calculations are provided for terms such as nonperforming exposures, operational loss events, risk weights for different types of exposures, and formulas for calculating exposure amounts and risk-weighted assets.
+- The proposed rule includes provisions for collateral, hedged exposures, operational risk, and exclusion of certain data.
+
+Section 31: Clearing and Collateral Requirements
+- The proposed rule includes provisions for clearing member clients, QCCPs, exposure amounts, and risk-weighted asset amounts for cleared transactions.
+- Collateral posted by a clearing member held by a custodian in a bankruptcy remote manner is not subject to a capital requirement.
+- Exposure amounts must be calculated separately for each clearing member's sub-client accounts and sub-house accounts, with independent collateral allocated proportionally.
+
+Overall, the proposed changes aim to improve risk-based capital calculations, align with international standards, and enhance the resilience of banking organizations. The revisions would impact large banking organizations, reporting requirements for large financial firms, and clearing and collateral requirements. The proposed rule is not expected to have a significant economic impact on small entities.

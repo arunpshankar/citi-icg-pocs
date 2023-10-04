@@ -1,0 +1,6 @@
+(i) The calculation of Expanded Total Risk-Weighted Assets for securitization exposure is determined by multiplying the corresponding risk weight by 8 percent.
+(ii) The calculation of Standardized Total Risk-Weighted Assets for securitization exposure is determined by multiplying the corresponding risk weight by 8 percent.
+(2) Non-tranched hedges of correlation trading positions have the same risk weights as non-securitization debt or equity positions, but they must be excluded from the calculation of the standardized default risk capital requirement.
+(v) The standardized default risk capital requirement for correlation trading positions is calculated by aggregating the bucket-level capital requirements.
+(a) The residual risk add-on is calculated for market risk covered positions that have exotic exposure, correlation trading positions with three or more underlying exposures, and other positions determined by the agency to have material risks.
+(b) The residual risk add-on is calculated by multiplying the gross effective notional amounts of the identified market risk covered positions by the prescribed risk weights.

@@ -1,0 +1,5 @@
+1. The calculation of KG (weighted average total capital requirement) for underlying exposures in derivative contracts is explained, including adjustments for interest rate and exchange rate derivatives.
+2. The recognition of credit risk mitigants for securitization exposures is discussed, including the separate calculation of capital requirements for hedged and unhedged portions of the exposure.
+3. The treatment of stable value protection in equity exposures is outlined, with specific requirements for banking organizations that purchase or provide stable value protection.
+4. The adjusted carrying value of equity exposures is defined, taking into account on-balance sheet and off-balance sheet components.
+5. The risk-weighted asset amounts for equity exposures are determined based on the lowest applicable risk weight, including zero percent, 20 percent, 100 percent, and 250 percent risk weights for different types of equity exposures.

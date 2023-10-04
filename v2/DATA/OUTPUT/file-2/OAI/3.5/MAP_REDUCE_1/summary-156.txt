@@ -1,0 +1,5 @@
+1) When the names of the delta sensitivities to risk factors are the same, the basis is 100 percent, otherwise it is 99.9 percent.
+2) When the tenors of the delta sensitivities to risk factors are the same, the basis is 100 percent, otherwise it is 65 percent.
+3) For aggregating delta bucket-level risk positions, the cross-bucket correlation parameter is calculated based on whether the delta sensitivities are related to the same curves or not.
+4) For credit spread risk for non-securitizations, the cross-bucket correlation parameter is 50 percent if the buckets have different credit quality categories, otherwise it is 100 percent.
+5) For credit spread risk for correlation trading positions, the risk weights and correlation parameters are determined based on the credit quality and sector of the delta sensitivities.

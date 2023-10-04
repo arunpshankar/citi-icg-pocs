@@ -1,0 +1,5 @@
+1. Equity exposures to investment funds can be assigned different risk weights based on certain criteria.
+2. If a banking organization has sufficient information about the underlying exposures held by an investment fund, they can use the full look-through approach to calculate the risk-weighted asset amount.
+3. If the banking organization does not have enough information for the full look-through approach, they can use the alternative modified look-through approach.
+4. If the banking organization does not have sufficient information for either approach, they must assign a risk-weighted asset amount equal to the adjusted carrying value of the equity exposure multiplied by a 1,250 percent risk weight.
+5. There are specific calculations and conditions for determining the risk-weighted asset amount for equity exposures to investment funds, including considerations for on-balance sheet exposures, off-balance sheet exposures, derivative contracts, and securitization exposures.

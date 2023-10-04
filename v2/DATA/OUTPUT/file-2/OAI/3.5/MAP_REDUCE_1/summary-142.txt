@@ -1,0 +1,5 @@
+1. A fund is considered non-publicly traded if the banking organization has access to the fund's prospectus or partnership agreement and can calculate the market risk capital requirement for its ownership share, or if the banking organization has access to the fund's prospectus and obtains daily price quotes.
+2. Assets include positions held with the intent to securitize, direct real estate holdings, derivative instruments, debt securities, significant investments in unconsolidated financial institutions, instruments held for hedging purposes, eligible CVA hedges, and equity positions arising from deferred compensation plans.
+3. Mid-prime RMBS refers to a security that primarily consists of residential mortgages but is not classified as prime or sub-prime RMBS.
+4. Model-eligible trading desks are those approved by the agency and continue to meet the requirements, while model-ineligible trading desks do not meet the criteria.
+5. Net short risk positions are calculated by comparing the notional amounts of a banking organization's long and short positions, with the short position exceeding the long position.

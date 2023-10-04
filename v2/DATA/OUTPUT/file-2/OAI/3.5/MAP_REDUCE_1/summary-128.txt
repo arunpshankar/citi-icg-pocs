@@ -1,0 +1,5 @@
+1. Certain margin loans and repo-style transactions between a banking organization and an unregulated financial institution are exempt from minimum haircut floors, including transactions where the unregulated financial institution uses the cash received to fund other transactions with the same or shorter maturity.
+2. Collateral upgrade transactions where the unregulated financial institution cannot re-hypothecate the received securities are also exempt from minimum haircut floors.
+3. Banking organizations can borrow securities to meet current or anticipated demand, such as delivery obligations or customer demand, without providing financing to the unregulated financial institution.
+4. Minimum haircut floors are expressed as percentages and vary based on the residual maturity and type of collateral.
+5. For single transactions or netting sets, banking organizations must compare the haircut of the transaction to the respective single-transaction or portfolio haircut floor to determine if risk-mitigating effects of financial collateral can be recognized.

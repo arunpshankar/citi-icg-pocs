@@ -1,0 +1,5 @@
+(i) The countercyclical capital buffer is an extension of the capital conservation buffer for Board-regulated institutions.
+(ii) The countercyclical capital buffer amount is determined by calculating the weighted average of the buffer amounts established for the jurisdictions where the institution's credit exposures are located.
+(iii) The weight assigned to a jurisdiction's buffer amount is based on the institution's private sector credit exposures in that jurisdiction compared to its total private sector credit exposures.
+(iv) The location of a credit exposure is determined by the jurisdiction where the borrower or protection provider is located.
+(v) The countercyclical capital buffer amount for credit exposures in the United States can be adjusted between zero percent and 2.5 percent of risk-weighted assets based on macroeconomic and financial indicators of systemic risk.

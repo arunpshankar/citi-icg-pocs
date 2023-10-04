@@ -1,0 +1,5 @@
+- Regulatory retail exposure refers to a retail exposure that meets specific criteria, including the type of credit, aggregate limit, and granularity limit.
+- Retail exposure is an exposure to a natural person or small or medium-sized entity (SME) that meets certain criteria.
+- Senior securitization exposure refers to a securitization exposure that has a first-priority claim on the cash flows from the underlying exposures.
+- SME is defined as an entity with annual revenues or sales of $50 million or less.
+- Transactor exposure is a regulatory retail exposure that has been fully repaid or has had no drawdown over the previous 12 months.
