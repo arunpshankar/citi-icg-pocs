@@ -1,6 +1,9 @@
 # CITI ICG
 
-This Proof of Concept (PoC) is aimed at finding the differences in the processing of derivative contracts between proposed rules and existing rules (use case 2).
+This repository contains all the essential notebooks and supplementary files assembled for CITI ICG's Proof of Concept (PoC). The PoC targets two specific use cases:
+
+* 1/ Long-form summarization by topic.
+* 2/ An expanded version on use case 1/ focusing on identifying the variances in the processing of derivative contracts when comparing proposed rules to the current ones.
 
 ## Setup
 
