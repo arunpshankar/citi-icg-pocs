@@ -1,22 +1,22 @@
 **Maturity Factor** 
 
-Maturity factor of a derivative contract that is not subject to a variation margin agreement, or derivative contracts under which the counterparty is not required to post variation margin, is determined by the formula: 
+- Maturity factor of a derivative contract that is not subject to a variation margin agreement, or derivative contracts under which the counterparty is not required to post variation margin, is determined by the formula: 
 Maturity factor = min{250/M, 1}
 Where M equals the greater of 10 business days and the remaining maturity of the contract, as measured in business days.
 
-**Treatment of Cleared Transactions** 
+- For purposes of paragraph (i)(4) of this section, if a [BANKING ORGANIZATION] has elected pursuant to paragraph (e)(5) of this section to treat a derivative contract that is a cleared transaction that is not subject to a variation margin agreement as one that is subject to a variation margin agreement, the [BANKING ORGANIZATION] must treat the derivative contract as subject to a variation margin agreement with maturity factor as determined according to paragraph (i)(4)(i) of this section, and daily settlement does not change the end date of the period referenced by the derivative contract.
 
-For purposes of paragraph (i)(4) of this section, if a [BANKING ORGANIZATION] has elected pursuant to paragraph (e)(5) of this section to treat a derivative contract that is a cleared transaction that is not subject to a variation margin agreement as one that is subject to a variation margin agreement, the [BANKING ORGANIZATION] must treat the derivative contract as subject to a variation margin agreement with maturity factor as determined according to paragraph (i)(4)(i) of this section, and daily settlement does not change the end date of the period referenced by the derivative contract.
 
-**Separation of Derivative Contracts** 
+**Separating Derivative Contracts** 
 
-A [BANKING ORGANIZATION] must separate a derivative contract into separate derivative contracts, according to the following rules:
+- A [BANKING ORGANIZATION] must separate a derivative contract into separate derivative contracts, according to the following rules:
 - For an option where the counterparty pays a predetermined amount if the value of the underlying asset is above or below the strike price and nothing otherwise (binary option), the option must be treated as two separate options. 
 - For purposes of paragraph (i)(3)(ii) of this section, a binary option with strike price K must be represented as the combination of one bought European option and one sold European option of the same type as the original option (put or call) with the strike prices set equal to 0.95 * K and 1.05 * K so that the payoff of the binary option is equal to the maximum of the payoff of the bought option and the negative of the payoff of the sold option.
 
+
 **Securitization Exposures** 
 
-Securitization exposures involve tranching of credit risk and include, but are not limited to: 
+- Securitization exposures involve tranching of credit risk and include, but are not limited to: 
 - asset-backed securities 
 - mortgage-backed securities
 - loans
@@ -30,64 +30,106 @@ Securitization exposures involve tranching of credit risk and include, but are n
 - credit-enhancing representations and warranties
 - credit-enhancing interest-only strips (CEIOs)
 
-Securitization exposures also include assets sold with retained tranches. 
+- Securitization exposures also include assets sold with retained tranches. 
 
-Mortgage-backed pass-through securities that do not involve tranching of credit risk do not meet the definition of a securitization exposure.
+- Mortgage-backed pass-through securities that do not involve tranching of credit risk do not meet the definition of a securitization exposure.
+
 
 **Risk-Weighted Asset Amount** 
 
-The risk-weighted asset amount of a netting set is calculated by taking the square root of the sum of the squared add-on amounts for each reference entity in the netting set, plus the sum of the squared adjusted derivative contract amounts for each reference entity in the netting set, multiplied by the applicable supervisory correlation factor. 
+- The risk-weighted asset amount of a netting set is calculated by taking the square root of the sum of the squared add-on amounts for each reference entity in the netting set, plus the sum of the squared adjusted derivative contract amounts for each reference entity in the netting set, multiplied by the applicable supervisory correlation factor. 
 
-The risk-weighted asset amount of a commodity derivative contract hedging set within a netting set is calculated by taking the square root of the sum of the squared add-on amounts for each commodity type in the hedging set, plus the sum of the squared adjusted derivative contract amounts for each commodity type in the hedging set, multiplied by the applicable supervisory correlation factor.
+- The risk-weighted asset amount of a commodity derivative contract hedging set within a netting set is calculated by taking the square root of the sum of the squared add-on amounts for each commodity type in the hedging set, plus the sum of the squared adjusted derivative contract amounts for each commodity type in the hedging set, multiplied by the applicable supervisory correlation factor.
 
-**Foreign Exchange Risk** 
-
-Foreign exchange risk is the risk of loss from changes in foreign exchange rates. 
-Foreign exchange position is a position for which price risk arises from changes in  
-foreign exchange rates. 
-GSE debt is an exposure to a GSE that is not an equity exposure or exposure to a  
-subordinated debt instrument issued by a GSE. 
-A hedge is a position or positions that offset all, or substantially all, of the price risk of  
-another position or positions. 
-A hybrid instrument is an instrument that has characteristics in common with both debt  
-and equity instruments, including traditional convertible bonds. 
-Hypothetical profit and loss is the change in the value of the market risk covered  
-positions that would have occurred due to changes in the market data at end of current  
-day if the end-of-previous-day market risk covered positions remained unchanged.  
-Idiosyncratic risk is the risk of loss in the value of a position that arises from changes  
-in risk factors unique to the issuer. 
-Idiosyncratic risk factor means categories of risk factors that present idiosyncratic risk.
 
 **End Date and Start Date** 
 
-This section of the financial document defines the terms "end date" and "start date" as they relate to interest rate or credit derivative contracts. 
+- This section of the financial document defines the terms "end date" and "start date" as they relate to interest rate or credit derivative contracts. 
 
-Additionally, it defines the term "hedging set" as all interest rate derivative contracts within a netting set that reference the same reference currency, all exchange rate derivative contracts within a netting set that reference the same currency pair, all credit derivative contracts within a netting set, and all equity derivative contracts within a netting set.
+- Additionally, it defines the term "hedging set" as all such contracts within a netting set that reference the same reference currency (for interest rate derivative contracts), the same currency pair (for exchange rate derivative contracts), all such contracts within a netting set (for credit derivative contracts), or all such contracts within a netting set (for equity derivative contracts).
+
 
 **Supervisory Duration** 
 
-The supervisory duration for an interest rate or credit derivative contract is calculated as 0.04 multiplied by the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed, plus 0.05 multiplied by the number of business days from the present day until the end date of the derivative contract.
+- The supervisory duration for an interest rate or credit derivative contract is calculated as 0.04 multiplied by the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed, plus 0.05 multiplied by the number of business days from the present day until the end date of the derivative contract.
+
 
 **Adjusted Notional Amount** 
 
-For an exchange rate derivative contract, the adjusted notional amount is the notional amount of the non-U.S. denominated currency leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation. If both legs of the exchange rate derivative contract are denominated in currencies other than U.S. dollars, the adjusted notional amount of the derivative contract is the largest leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation.
+- For an exchange rate derivative contract, the adjusted notional amount is the notional amount of the non-U.S. denominated currency leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation. If both legs of the exchange rate derivative contract are denominated in currencies other than U.S. dollars, the adjusted notional amount of the derivative contract is the largest leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation.
+
+
+**Supervisory Delta Adjustment** 
+
+- The supervisory delta adjustment for an option contract is determined by the formulas in Table 1. 
+
+- For a call option bought, the formula is: 
+
+Φ(In(P/K + λ) + 0.5 * σ^2 * T / 250) * √(T / 250) * σ
+
+- For a call option sold, the formula is: 
+
+-Φ(In(P/K + λ) - 0.5 * σ^2 * T / 250) * √(T / 250) * σ
+
+- For a put option bought, the formula is: 
+
+Φ(In(K/P + λ) + 0.5 * σ^2 * T / 250) * √(T / 250) * σ
+
+- For a put option sold, the formula is: 
+
+-Φ(In(K/P + λ) - 0.5 * σ^2 * T / 250) * √(T / 250) * σ
+
+- Where:
+
+Φ is the standard normal cumulative distribution function;
+P equals the current fair value of the instrument or risk factor, as applicable, underlying the option;
+K equals the strike price of the option;
+T equals the number of business days until the latest contractual exercise date of the option;
+λ equals zero for all derivative contracts except those option contracts where it is possible for P to have negative values. For option contracts where it is possible for P to have negative values, to determine the value of λ for a given risk factor or instrument, a [BANKING ORGANIZATION] must find the lowest value, 
+σ is the historical volatility of the underlying instrument or risk factor, as applicable, over a 250-day period.
+
+
+**Covered Bond** 
+
+- The following conditions must be met for a bond to be considered a covered bond:
+
+(1) The bond is issued by a credit institution; 
+
+(2) The bond is denominated in the currency of a Member State; 
+
+(3) The bond is covered by a cover pool; 
+
+(4) The cover pool consists of exposures secured by mortgages, public sector exposures or other exposures of high credit quality; 
+
+(5) The law governing the bond does not provide for the requirement in paragraph (4) of this definition, then the issuing financial institution discloses publicly on a regular basis that the issuing financial institution in practice meets the requirement in paragraph (4) of this definition; and 
+
+(6) The proceeds deriving from the bond are invested by law in assets that, during the entire duration of the bond — 
+
+(i) Are capable of covering claims attached to the bond; and 
+
+(ii) In the event of the failure of the issuer, would be used on a priority basis for the payment of principal and accrued interest. 
+
 
 **Credit Spread Risk** 
 
-Credit spread risk means the risk of loss that could arise from changes in underlying credit spread risk factors. 
+- Credit spread risk means the risk of loss that could arise from changes in underlying credit spread risk factors. 
+
 
 **Credit Valuation Adjustment (CVA)** 
 
-Credit valuation adjustment (CVA) means the fair value adjustment to reflect counterparty credit risk in the valuation of derivative contracts. 
+- Credit valuation adjustment (CVA) means the fair value adjustment to reflect counterparty credit risk in the valuation of derivative contracts. 
+
 
 **Cross-Currency Basis** 
 
-Cross-currency basis means the basis spread added to the associated reference rate of the non-USD leg or non-EUR leg of a cross-currency basis swap. 
+- Cross-currency basis means the basis spread added to the associated reference rate of the non-USD leg or non-EUR leg of a cross-currency basis swap. 
+
 
 **Currency Union** 
 
-Currency union means an agreement by treaty among countries or territorial entities, under which the members agree to use a single currency, where the currency used is described in § __.209(b)(1)(iv). 
+- Currency union means an agreement by treaty among countries or territorial entities, under which the members agree to use a single currency, where the currency used is described in § __.209(b)(1)(iv). 
+
 
 **Curvature Risk** 
 
-Curvature risk means the incremental risk of loss of a market risk covered position that is not captured by the delta capital requirement arising from changes in the value of an option or
+- Curvature risk means the incremental risk of loss of a market risk covered position that is not captured by the delta capital requirement arising from changes in the value of an option or
