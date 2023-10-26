@@ -66,29 +66,16 @@ By juxtaposing the results from various experiments, it becomes evident that the
 
 ### 📌 Tips & Best Practices
 
-* **Service Account Setup:**
+* **Service Account Setup:** If you haven't already, ensure you create a service account. Attach the necessary roles such as Vertex AI Administrator and Document AI Administrator. These roles will facilitate interactions with VertexAI components and DocumentAI components, respectively.
 
-If you haven't already, ensure you create a service account.
-Attach the necessary roles such as Vertex AI Administrator and Document AI Administrator. These roles will facilitate interactions with VertexAI components and DocumentAI components, respectively.
+* **Enable Required APIs:** Before diving into the execution of the notebooks, ensure that the requisite APIs are enabled in your Google Cloud project. This might include, but isn't limited to, VertexAI and DocumentAI services.
+**Project ID Configuration:** Within the notebooks, make certain to replace placeholders or default values with your actual Google Cloud PROJECT_ID to ensure seamless interactions with GCP services.
 
-* **Enable Required APIs:**
+* **Beware of API Limits:** Google Cloud services might have request quotas or limits. Be cautious about the number of processes you spawn concurrently, especially when processing large datasets or invoking APIs at high frequency.
 
-Before diving into the execution of the notebooks, ensure that the requisite APIs are enabled in your Google Cloud project. This might include, but isn't limited to, VertexAI and DocumentAI services.
-Project ID Configuration:
+* **IDE of Choice:** While the notebooks provided can be executed in environments like Jupyter or Google Colab, you're free to use any IDE of your choice. If you wish to interact with VertexAI and other Google Cloud services from a local machine or any environment with public internet access, ensure you have the service account credentials handy.
 
-Within the notebooks, make certain to replace placeholders or default values with your actual Google Cloud PROJECT_ID to ensure seamless interactions with GCP services.
-
-* **Beware of API Limits:**
-
-Google Cloud services might have request quotas or limits.
-Be cautious about the number of processes you spawn concurrently, especially when processing large datasets or invoking APIs at high frequency.
-
-* **IDE of Choice:**
-
-While the notebooks provided can be executed in environments like Jupyter or Google Colab, you're free to use any IDE of your choice.
-If you wish to interact with VertexAI and other Google Cloud services from a local machine or any environment with public internet access, ensure you have the service account credentials handy.
-
-Remember, while the guidelines above aim to provide a smoother experience, always refer to the official Google Cloud documentation for specific instructions or if you encounter any challenges.
+*Remember, while the guidelines above aim to provide a smoother experience, always refer to the official Google Cloud documentation for specific instructions or if you encounter any challenges.*
 
 ---
-Thank you for choosing Google Cloud! We're here to assist. Please don't hesitate to reach out with any inquiries or feedback.
+Thank you for choosing **Google Cloud**! We're here to assist. Please don't hesitate to reach out with any inquiries or feedback.
