@@ -3,17 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# venv 
-.citi-icg-pocs
-.citi-icg-pocs/
-
 # C extensions
 *.so
 
 # my repo specific 
 .DS_Store
+.DS_Store/ 
+.citi-icg-pocs
+.citi-icg-pocs/
 venv/
 .venv/
+credentials
 credentials/
 
 # Distribution / packaging
