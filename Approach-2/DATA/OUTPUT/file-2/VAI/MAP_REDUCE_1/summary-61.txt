@@ -1,13 +1,13 @@
- 1. The proposal defines delta risk factors for foreign exchange risk as the exchange rate between the currency in which the market risk covered position is denominated and the reporting currency of the banking organization.
+ The proposal defines the delta risk factors for foreign exchange risk as the exchange rate between the currency in which the market risk covered position is denominated and the reporting currency of the banking organization. 
 
+For market risk covered positions that reference two currencies other than the reporting currency, the banking organization generally would be required to calculate the delta risk factors for foreign exchange risk using the exchange rates between each of the non-reporting currencies and that of the reporting currency. 
 
-2. For positions referencing two currencies other than the reporting currency, the banking organization would calculate delta risk factors using exchange rates between each non-reporting currency and the reporting currency.
+The proposal would define the vega risk factors for foreign exchange risk as the implied volatility of options that reference exchange rates between currency pairs along one dimension: the maturity of the option. 
 
+For curvature, the foreign exchange risk factors would be all exchange rates between the currency in which a market risk covered position is denominated and the reporting currency (or the base currency, if approved by the primary Federal supervisor). 
 
-3. The proposal allows a banking organization to calculate delta risk factors for foreign exchange risk relative to a base currency instead of the reporting currency, if approved by the primary Federal supervisor.
+The proposal would allow (but not require) a banking organization to treat a currency's onshore exchange rate and an offshore exchange rate as two distinct risk factors in the delta, vega and curvature calculations for foreign exchange risk. 
 
+In general, the proposal would require a banking organization to calculate risk factor sensitivities using the valuation models used to report actual profits and losses for financial reporting purposes. 
 
-4. The vega risk factors for foreign exchange risk are defined as the implied volatility of options that reference exchange rates between currency pairs along one dimension: the maturity of the option.
-
-
-5. The proposal would allow (but not require) a banking organization to treat a currency's onshore exchange rate and an offshore exchange rate as two distinct risk factors in the delta, vega and curvature calculations for foreign exchange risk.
+For consistency and compar

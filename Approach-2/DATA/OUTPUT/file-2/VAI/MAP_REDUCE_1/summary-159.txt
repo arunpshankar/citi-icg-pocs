@@ -1,5 +1,8 @@
- (i) The risk-weighted delta sensitivities for foreign exchange risk are calculated by applying a risk weight of 15%, except for certain currency pairs where the risk weight can be divided by the square root of 2.
-(ii) For aggregating delta bucket-level risk positions across buckets within the foreign exchange risk class, the cross-bucket correlation parameter is set at 60%.
-(iii) Vega risk weights are specified for each risk class, and vega bucket-level risk positions are calculated by summing the absolute values of the risk-weighted vega sensitivities allocated to each bucket.
-(iv) For aggregating vega bucket-level risk positions across different buckets within a risk class, the same cross-bucket correlation parameters as specified for delta risk are used.
-(v) The curvature risk weights for foreign exchange risk and equity risk are based on the delta risk weights, while for other risk classes, the curvature risk weights are based on the highest prescribed delta risk weight for each bucket.
+ -Vega capital requirement: 
+ -Vega risk weights for Equity and Commodity risk are 77.78% and 100% respectively. 
+ -For calculating risk weighted sensitivities for vega risk, a [BANKING ORGANIZATION] must use the corresponding risk weight for each risk class specified in Table 11 of this section.
+-Vega correlation parameters: 
+ -For interest rate risk, where tenor is a dimension of the risk factor, correlation parameter rkl equals: Pkl = min((option maturity)kl, (underlying maturity)kl, 1)
+ -For the risk classes of credit spread risk for non-securitization positions and credit spread risk for correlation trading positions, the vega risk correlation parameter, Pkl equals the corresponding delta correlation parameter, Pkl as specified in paragraphs (b)(2)(iii)(A)(1) and (b)(3)(iii)(A)(1) of this section, respectively.
+-Curvature capital requirement: 
+ -For calculating the net curvature risk position CVRk, as described in § __.206(d)(1), for the risk classes of foreign exchange risk and equity risk, the curvature risk weight that represents a shock to risk factor k is a

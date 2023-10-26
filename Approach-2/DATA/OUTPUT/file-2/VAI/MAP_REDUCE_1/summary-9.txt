@@ -1,7 +1,13 @@
- 1. The proposed definition of defaulted exposure is more conservative than banking organizations' existing policies and would capture exposures that are not currently considered defaulted. 
-2. There are several operational challenges in identifying defaulted exposures, including obtaining information on obligors' credit obligations to other creditors and bankruptcy proceedings. 
-3. The agencies request comment on the appropriateness of including a borrower's bankruptcy as a criterion for a defaulted exposure for retail exposures. 
-4. The agencies request comment on alternatives to the proposed treatment of defaulted exposures, such as limiting the scope to obligations of the borrower with the banking organization. 
-5. The proposal would assign a 20 percent risk weight to GSE exposures that are not equity exposures, securitization exposures or exposures to a subordinated debt instrument issued by a GSE. 
-6. The proposal would define the scope of exposures to depository institutions, foreign banks, and credit unions in a manner that is consistent with the definitions and scope of exposures covered under the current capital rule. 
-7. The proposal would provide three categories for bank exposures that are ranked from the highest to the lowest in terms of creditworthiness: Grade A, Grade B, and Grade C.
+ Key points:
+
+- The proposal defines defaulted exposures and outlines the criteria for determining when an exposure is in default.
+
+- A defaulted exposure would be assigned a 150 percent risk weight to reflect the increased uncertainty as to the recovery of the remaining carrying value.
+
+- The proposal provides three categories for bank exposures: Grade A, Grade B, and Grade C, with Grade A being the highest in terms of creditworthiness.
+
+- The proposal would assign a 20 percent risk weight to GSE exposures that are not equity exposures, securitization exposures, or exposures to a subordinated debt instrument issued by a GSE.
+
+- The proposal would apply the same 20 percent risk weight to all exposures to FHLB or Farmer Mac, including equity exposures and exposures to subordinated debt instruments.
+
+- The proposal defines the scope of exposures to depository institutions, foreign banks, and credit unions in a manner that is consistent with the definitions and scope of exposures covered under the current capital rule.

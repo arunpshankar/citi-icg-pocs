@@ -1,9 +1,7 @@
- 1. The proposed intra-bucket aggregation methodology is appropriate as it is similar to the sensitivities-based method for market risk, with the addition of a term to prevent extremely small levels of K2 when most risk factors are perfectly hedged. 
-
-2. The inter-bucket aggregation methodology is appropriate as it includes a multiplication factor that allows the primary Federal supervisor to increase the multiplier and scale up risk-based capital required for each risk class, if the supervisor determines that the banking organization's CVA model risk warrants such an increase. 
-
-3. The agencies should consider alternative methodologies for recognizing diversification across risk classes in the calculation of the SA-CVA, such as using a correlation matrix to capture the dependence between risk factors. 
-
-4. The default value of one for the multiplier is appropriate as it is a conservative estimate of the model risk in the calculation of sensitivities for the aggregate regulatory CVA arising from the CVA risk covered positions relative to that for market risk covered positions. 
-
-5. The proposed transition provisions are appropriate as they provide applicable banking organizations sufficient time to adjust to the proposal while minimizing the potential impact that implementation could have on their ability to lend.
+ - The agencies propose to use prescribed aggregation formulas to produce respective delta and vega risk capital requirements for CVA risk.
+- For each risk bucket b, a banking organization would aggregate all net weighted sensitivities for all risk factors within this risk bucket.
+- A banking organization would aggregate bucket-level capital requirements across risk buckets within the same risk class.
+- The overall risk-based capital requirement for CVA risk would be the simple sum of the separately calculated risk-class-level delta and vega capital requirements across risk classes without any recognition of any diversification benefits.
+- The agencies propose a three-year transition period for two provisions of the proposal: the expanded risk-based approach and, for banking organizations subject to Category III or IV capital standards, the AOCI regulatory capital adjustments.
+- A banking organization's expanded total risk-weighted assets would be phased-in starting July 1, 2025, until June 30, 2028.
+- From July 1, 2025 until June 30, 2028, for a banking organization subject to Category III or IV capital standards, the aggregate amount of net unrealized gains or losses on AFS debt securities and HTM securities included in

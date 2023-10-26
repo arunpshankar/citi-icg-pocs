@@ -1,7 +1,4 @@
- 1. Standardized market risk-weighted assets are calculated by multiplying the standardized measure for market risk by 12.5. 
-
-
-2. Standardized total risk-weighted assets are market risk-weighted assets minus any amount of the national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of allocated transfer risk reserves. 
-
-
-3. Sub-speculative grade means that the entity to which the national bank or Federal savings association is expose
+ - Standardized market risk-weighted assets are calculated under 3.204(b) multiplied by 12.5. 
+- Standardized total risk-weighted assets are market risk-weighted assets minus any allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of allocated transfer risk reserves.
+- Sub-speculative grade means the entity depends on favorable economic conditions to meet its financial commitments. 
+- Synthetic exposure means an exposure whose value is linked to the value of an investment in the national bank or Federal savings association's own capital instrument or to the value of an investment in the capital of an un

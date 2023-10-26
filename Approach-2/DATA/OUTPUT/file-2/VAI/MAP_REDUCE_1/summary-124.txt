@@ -1,5 +1,4 @@
- 1. The regulation concerns risk-based capital requirements for unsettled transactions, guarantees, and credit derivatives. 
-2. Unsettled transactions include delivery-versus-payment (DvP) and payment-versus-payment (PvP) transactions, as well as non-DvP/non-PvP transactions. 
-3. Guarantees and credit derivatives are recognized as credit risk mitigation techniques. 
-4. Risk-based capital requirements for unsettled transactions depend on the number of business days after the contractual settlement date. 
-5. Total risk-weighted assets for unsettled transactions are the sum of the risk-weighted asset amounts of all DvP, PvP, and non-DvP/non-PvP transactions.
+ - The regulation concerns risk-based capital requirements for unsettled transactions, guarantees and credit derivatives under the substitution approach. 
+- It introduces definitions for delivery-versus-payment (DvP) and payment-versus-payment (PvP) transactions, as well as normal settlement period and positive current exposure. 
+- The regulation does not apply to cleared transactions subject to daily receipt and payment of variation margin, repo-style transactions, one-way cash payments on OTC derivative contracts, or transactions with a contractual settlement period longer than the normal settlement period. 
+- In case of system-wide failures, the [AGENCY] may waive risk-based capital requirements for unsettled and failed transactions until the situation is

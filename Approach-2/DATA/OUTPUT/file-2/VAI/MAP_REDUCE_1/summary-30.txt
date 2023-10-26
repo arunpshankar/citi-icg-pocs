@@ -1,13 +1,7 @@
- 1. The proposal introduces a look-through approach for senior securitization exposures with a 15% floor.
-
-
-2. The risk weight for a senior securitization exposure would be the lower of the risk weight calculated under the SEC-SA and 100%.
-
-
-3. A banking organization would be required to deduct from common equity tier 1 capital any portion of a CEIO strip that does not constitute an after-tax gain on the sale.
-
-
-4. The proposal defines an NPL securitization as a securitization whose underlying exposures consist solely of loans where parameter W for the underlying pool is greater than or equal to 90 percent.
-
-
-5. A banking organization would be required to assign a risk weight of 100 percent to a securitization exposure to an NPL securitization if the transaction structure meets the definition of a traditional securitization, the securitization has a credit enhancement in the form of a nonrefundable purchase price discount greater than or equal to 50 percent of the outstanding balance of the pool of exposures, and the banking organization's exposure is a senior securitization exposure.
+ - The proposal introduces a new approach to risk-weighting securitization exposures, referred to as the "look-through approach".
+- Under the look-through approach, the risk weight of a senior securitization exposure would be the lower of the risk weight calculated under the SEC-SA and 100%.
+- The proposal also includes a 15% floor on the total risk-based capital requirement for securitization exposures under the look-through approach.
+- The proposal would require a banking organization to deduct from common equity tier 1 capital any portion of a CEIO strip that does not constitute an after-tax gain-on-sale.
+- The proposal defines an NPL securitization as a securitization whose underlying exposures consist solely of loans where parameter W for the underlying pool is greater than or equal to 90% at the origination cut-off date.
+- The proposal introduces a specific approach for NPL securitization exposures as the proposed SEC-SA may be inappropriate for the unique risks of such exposures.
+- Under the proposal, the nonrefundable purchase price discount would equal the difference between the outstanding balance of the underlying exposures and the price at which these exposures are sold by the originator to investors

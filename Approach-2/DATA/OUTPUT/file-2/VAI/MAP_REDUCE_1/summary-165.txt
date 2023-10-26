@@ -1,7 +1,6 @@
- (1) A backtesting exception occurs when the actual daily profit or loss or hypothetical daily profit or loss at a given percentile exceeds the VaR-based measure for that day. 
-
-(2) A trading desk becomes model-ineligible if it experiences more than 12 exceptions for actual profit and loss or 12 exceptions for hypothetical profit and loss at the 99th percentile or 30 exceptions for actual profit and loss or 30 exceptions for hypothetical profit and loss at the 97.5th percentile in the most recent 250 business day period. 
-
-(3) A trading desk that becomes model-ineligible can become model-eligible again by producing results in the PLA test green zone or PLA test amber zone and experiencing less than or equal to 12 exceptions for actual profit and loss and 12 exceptions for hypothetical profit and loss at the 99th percentile and 30 exceptions for actual profit and loss and 30 exceptions for hypothetical profit and loss at the 97.5th percentile in the most recent 250 business day period. 
-
-(4) At the trading desk level, the PLA test compares each of the trading desk's most recent 25
+ - A backtesting framework for market risk models used by banking organizations to calculate their capital requirements.
+- Backtesting involves comparing the model's hypothetical profit and loss (PnL) with the actual PnL over a certain period.
+- If the model fails the backtesting, it is deemed model-ineligible and subject to higher capital requirements.
+- Trading desks are also subject to a desk-level backtesting requirement called the PLA test, which compares the hypothetical PnL with the risk-theoretical PnL.
+- The PLA test results determine the trading desk's PLA test zone, which can be green, amber, or red.
+- If either metric is in the red zone, the PLA test zone is red. If one metric is in the amber zone and one in the green zone, the PLA test zone is amber.

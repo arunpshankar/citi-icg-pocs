@@ -1,18 +1,1 @@
- (a) General. An FDIC-supervised institution must have written policies and procedures that
-establish a framework for the management of counterparty credit risk, including the following:
-(1) A process to identify, measure, monitor, and control counterparty credit risk;
-(2) Limits on the amount of counterparty credit risk that the FDIC-supervised institution may
-assume;
-(3) Requirements for collateral and other credit enhancements;
-(4) Procedures for the valuation of collateral and other credit enhancements;
-(5) Procedures for the management of counterparty credit risk in stressed market conditions; and
-(6) A process for the resolution of counterparty defaults.
-(b) Counterparty credit risk management framework. The counterparty credit risk management
-framework must be appropriate for the size, complexity, and risk profile of the FDIC-supervised
-institution and the nature and extent of its counterparty credit risk exposures. The framework must
-include the following elements:
-(1) A risk management process that identifies, measures, monitors, and controls counterparty
-credit risk;
-(2) Limits on the amount of counterparty credit risk that the FDIC-supervised institution may
-assume;
-(3) Requirements for collateral and other
+ 1. The exposure amount for an exposure to an available-for-sale preferred stock classified as an equity security under GAAP is the carrying value less any net unrealized gains on the exposure that are reflected in such carrying value but excluded from the

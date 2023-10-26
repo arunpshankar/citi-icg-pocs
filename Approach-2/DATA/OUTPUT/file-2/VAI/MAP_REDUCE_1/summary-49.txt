@@ -1,5 +1,7 @@
- 1. The agencies propose to modify the criteria for including external CVA hedges in the scope of market risk covered positions. 
-2. The proposal defines internal risk transfers and establishes requirements for a banking organization to recognize certain types of internal risk transfers in risk-based capital requirements. 
-3. The proposal specifies the risk-based capital treatment of internal transfers of credit risk executed from a banking unit to a trading desk to hedge the credit risk arising from exposures in the banking unit. 
-4. The proposal specifies the risk-based capital treatment of internal transfers of interest rate risk from a banking unit to the trading desk to hedge the interest rate risk arising from the banking unit. 
-5. The proposal specifies the risk-based capital treatment of internal transfers of CVA risk from a CVA desk to a trading desk.
+ Internal risk transfers:
+
+- The proposal defines internal risk transfers as a transfer executed through internal derivatives trades of credit risk or interest rate risk arising from an exposure capitalized under subparts D or E of the capital rule to a trading desk, or a transfer of CVA risk arising from a CVA desk (or the functional equivalent if the banking organization does not have any CVA desks) to a trading desk.
+- The proposal would require documentation and other conditions for a banking organization to recognize certain types of internal risk transfers in risk-based capital requirements.
+- For internal risk transfers of credit risk, the banking organization would be required to maintain documentation identifying the underlying exposure under subpart D or E of the capital rule being hedged and its sources of credit risk. 
+- For internal risk transfers of interest rate risk, the proposal would allow a banking organization to establish a dedicated notional trading desk for conducting internal risk transfers to hedge interest rate risk. 
+- For internal risk transfers of CVA risk, the proposal would require the banking organization to maintain documentation identifying the underlying exposure under subpart E of the capital rule being hedged and its sources of CVA risk.

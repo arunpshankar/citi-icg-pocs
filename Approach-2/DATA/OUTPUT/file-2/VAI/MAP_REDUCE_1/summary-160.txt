@@ -1,5 +1,7 @@
- (i) Credit spread risk for non-securitization positions;
-(ii) Credit spread risk for correlation trading positions;
-(iii) Credit spread risk for securitization positions non-CTP;
-(iv) Credit spread risk for securitization positions CTP; and
-(v) Commodity risk.
+ - The standardized default risk capital requirement must be calculated for:
+  - Non-securitization debt or equity positions (other than U.S. sovereign positions or MDBs)
+  - Securitization positions non-CTP
+  - Correlation trading positions
+- The calculation involves assigning each default risk position to a prescribed bucket, calculating gross default exposure, calculating obligor-level net default exposure (with scaling for maturities less than one year), calculating a hedge benefit ratio, assigning risk weights to obligor-level net default exposures, and generating bucket-level default risk capital requirements.
+- The standardized default risk capital requirement for non-securitization debt and equity positions or securitization positions non-CTP equals the sum of the bucket-level default risk capital requirements. 
+- The standardized default risk capital requirement for correlation trading positions must be calculated in accordance with the aggregation formula in paragraph (d)(3)(v) of this section.

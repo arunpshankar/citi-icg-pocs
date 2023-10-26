@@ -1,9 +1,19 @@
- 1. The [AGENCY] may require a [BANKING ORGANIZATION] to identify the PLA test zone of a trading desk's PLA test results as a different PLA test zone.
-
-2. A trading desk that produces results in the PLA test amber or red zone is subject to the PLA add-on or becomes a model-ineligible trading desk, respectively.
-
-3. A model-ineligible trading desk can regain eligibility by meeting certain conditions.
-
-4. The PLA add-on is calculated as a function of the standardized approach capital requirement for market risk covered positions.
-
-5. A [BANKING ORGANIZATION] must identify an appropriate set of risk factors for calculating capital measures, including modellable and non-modellable risk factors.
+ - Risk Factor	Standard Buckets
+- FX	FX Major, FX Minor, FX Exotic
+- Rates	Rates Major, Rates Minor
+- Credit	Credit Senior Unsecured, Credit Senior Secured, Credit Subordinated, Credit
+Other
+- Equity	Equity Major, Equity Minor
+- Commodity	Commodities
+- Volatility	Volatility Major, Volatility Minor
+- Other	Other
+(6) The [AGENCY] may determine that a risk factor is non-modellable if the
+[AGENCY] determines that the risk factor does not meet the requirements of this section.
+(c) Risk factor eligibility test for equity risk factors. For an equity risk factor to be
+classified as modellable, a [BANKING ORGANIZATION] must identify a sufficient number of
+real prices, as specified in this paragraph (c), that are representative of the risk factor. A real
+price is representative of a risk factor provided it can be used by the [BANKING
+ORGANIZATION] to inform the value of the risk factor. For contracts that reference new
+reference rates to replace discontinued reference rates, [BANKING ORGANIZATIONS] are
+permitted to use discontinued reference rate quotes to pass the risk factor eligibility test until new
+reference rate liquidity improves. For any market

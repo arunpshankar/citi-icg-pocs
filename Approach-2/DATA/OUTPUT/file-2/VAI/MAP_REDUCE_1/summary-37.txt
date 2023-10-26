@@ -1,13 +1,7 @@
- 1. The proposal introduces a standardized approach for operational risk capital requirements, replacing the advanced measurement approaches. 
+ Key points of the proposal:
 
-
-2. The standardized approach uses a business indicator component and an internal loss multiplier to determine the operational risk capital requirement. 
-
-
-3. The business indicator component measures a banking organization's operational risk exposure and is based on a three-year rolling average of various financial statement items. 
-
-
-4. The internal loss multiplier is based on the ratio of a banking organization's historical operational losses to its business indicator component and increases as historical operational losses increase. 
-
-
-5. The proposal also includes definitions for total interest income, total interest expense, and dividend income.
+* The proposal introduces a standardized approach for operational risk capital requirements, replacing the advanced measurement approaches (AMA).
+* The standardized approach uses a business indicator component and an internal loss multiplier to determine the operational risk capital requirement.
+* The business indicator component is a measure of the operational risk exposure of the banking organization and is calculated based on its business indicator multiplied by scaling factors that increase with the business indicator.
+* The internal loss multiplier is based on the ratio of a banking organization's historical operational losses to its business indicator component and increases the operational risk capital requirement as historical operational losses increase.
+* The proposal also includes a minimum internal loss multiplier of one to ensure the robustness of the operational risk capital requirement.

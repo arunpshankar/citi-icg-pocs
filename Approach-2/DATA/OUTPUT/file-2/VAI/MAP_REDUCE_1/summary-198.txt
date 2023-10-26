@@ -1,4 +1,6 @@
- 1. The capital conservation buffer is composed solely of common equity tier 1 capital.
-2. The countercyclical capital buffer amount is calculated as a percentage of the Board-regulated institution's total risk-weighted assets and is based on the level of the Board-regulated institution's capital conservation buffer.
-3. A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed its maximum payout amount.
-4. A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 and that has a capital conservation buffer that is greater than 2.5 per
+ - A Board-regulated institution subject to subpart E of this part must determine its regulatory capital ratios as described in paragraphs (d)(1) through (3) of this section.
+- The ratio of the Board-regulated institution's expanded risk-based approach-adjusted total capital to expanded total risk-weighted assets. A Board-regulated institution's expanded risk-based approach-adjusted total capital is the Board-regulated institution's total capital after being adjusted as follows:
+  - A Board-regulated institution subject to subpart E of this part must deduct from its total capital any AACL included in its tier 2 capital in accordance with § 217.20(d)(3); and
+  - A Board-regulated institution subject to subpart E of this part must add to its total capital any AACL up to 1.25 percent of the Board-regulated institution's total credit risk-weighted assets.
+- The capital conservation buffer is composed solely of common equity tier 1 capital.
+- A Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 has a capital conservation buffer equal to the lowest of the following ratios, calculated as

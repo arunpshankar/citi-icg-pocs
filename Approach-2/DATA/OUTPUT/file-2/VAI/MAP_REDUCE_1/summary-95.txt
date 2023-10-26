@@ -1,9 +1,7 @@
- 1. The proposal defines risk factors for counterparty credit spread risk, reference credit spread risk, equity risk, commodity risk, interest rate risk, and foreign exchange risk. 
+ Key points of the article:
 
-2. For counterparty credit spread risk, the proposal defines risk factors for each constituent of the index and an optional approach for qualified indices. 
-
-3. For market risk factors, the proposal defines risk factors for each risk class in a much less granular way than under the sensitivity-based method. 
-
-4. The proposal defines risk buckets, risk weights, and correlations for the risk factors. 
-
-5. The proposal reduces the granularity of risk factors and exposure-related risk classes to reduce the computational intensity of calculating CVA sensitivities.
+* The SA-CVA is an alternative to the sensitivities-based method for calculating CVA risk.
+* The SA-CVA uses a simpler approach to calculating CVA risk by defining risk factors in a much less granular way.
+* The SA-CVA defines risk buckets for delta and vega risk factors by sector and credit quality for counterparty credit spread risk, reference credit spread risk, and equity risk.
+* The SA-CVA defines risk buckets for delta and vega risk factors matching the risk buckets for commodity risk in the proposed sensitivities-based method for market risk.
+* The SA-CVA uses the same bucket structure and risk weights as the sensitivities-based method for market risk for exposure-related risk classes.

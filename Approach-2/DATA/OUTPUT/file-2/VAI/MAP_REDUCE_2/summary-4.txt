@@ -1,120 +1,93 @@
- **Section 1: Capital Conservation Buffer and Leverage Buffer**
+ I. Introduction
+A. Overview of the Proposal
+   - The final rule implements the Basel III capital framework for bank holding companies and savings and loan holding companies.
+   - The final rule implements the TLAC requirements of the Dodd-Frank Act for U.S. global systemically important banking organizations (G-SIBs).
+   - The final rule implements the single counterparty credit limits requirements of the Dodd-Frank Act for bank holding companies, savings and loan holding companies, and U.S. branches and agencies of foreign banking organizations.
+   - The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of $100 billion or more.
+   - The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion.
+B. Use of Internal Models Under the
+Proposed Framework
+   - The final rule allows banking organizations to use their own internal models to calculate risk-weighted assets for credit risk and market risk, subject to certain conditions.
 
-* The capital conservation buffer is the lowest of the common equity tier 1, tier 1, or total capital ratios minus the respective minimum capital ratios. 
-* The leverage buffer is the supplementary leverage ratio minus 3%. 
+II. Scope of Application
+   - The final rule applies to bank holding companies and savings and loan holding companies with total consolidated assets of $10 billion or more.
+   - The final rule also applies to U.S. branches and agencies of foreign banking organizations with total consolidated assets of $10 billion or more and combined U.S. assets of $100 billion or more.
 
-**Section 2: GSIB Surcharge**
+III. Proposed Changes to the Capital Rule
+A. Calculation of Capital Ratios and
+Application of Buffer Requirements
+   - The final rule increases the minimum common equity tier 1 capital ratio from 4.5% to 4.5%.
+   - The final rule increases the minimum total capital ratio from 8% to 8.5%.
+   - The final rule introduces a new capital conservation buffer of 2.5%.
+B. Definition of Capital
+   - The final rule revises the definition of “qualifying residential mortgage” to conform to the definition used by the Federal Reserve Board and the Office of the Comptroller of the Currency.
+   - The final rule implements the standardized approach for calculating risk-weighted assets for exposures to securitizations and revises the framework for calculating risk-weighted assets for exposures to certain types of derivatives.
+C. Credit Risk
+   - The final rule revises the market risk capital requirements to incorporate the Fundamental Review of the Trading Book.
+   - The final rule revises the internal models approach for calculating risk-weighted assets for credit risk to align with the Basel III framework.
+   - The final rule revises the CVA risk-based capital requirements to align with the Basel III framework.
+D. Securitization Framework
+   - The final rule makes certain technical changes to the risk-based capital framework, including revising the definition of “small business loan” and the treatment of exposures to sovereign entities.
+E. Equity Exposures
+   - The final rule provides for a three-year transition period for certain provisions of the final rule.
+F. Operational Risk
+   - The final rule requires banking organizations to use the standardized approach for calculating risk-weighted assets for operational risk.
+G. Disclosure Requirements
+   - The final rule requires banking organizations to disclose their risk-weighted assets and capital ratios on a quarterly basis.
+H. Market Risk
+   - The final rule requires banking organizations to disclose their market risk capital requirements on a quarterly basis.
+I. Credit Valuation Adjustment Risk
+   - The final rule requires banking organizations to disclose their CVA risk capital requirements on a quarterly basis.
 
-* The GSIB surcharge is used for determining the maximum payout ratio. 
+IV. Transition Provisions
+A. Transitions for Expanded Total Risk-Weighted Assets
+   - The final rule provides for a three-year transition period for certain provisions of the final rule.
+B. AOCI Regulatory Capital Adjustments
+   - The final rule provides for a three-year transition period for certain provisions of the final rule.
 
-**Section 3: Instruments Issued After a Board-Regulated Institution Becomes Subject to Subpart E**
+V. Impact and Economic Analysis
+A. Scope and Data
+   - The final rule estimates that the impact of the final rule on the banking industry will be modest.
+B. Impact on Risk-Weighted Assets and
+Capital Requirements
+   - The final rule estimates that the impact of the final rule on risk-weighted assets will be modest.
+C. Economic Impact on Lending Activity
+   - The final rule estimates that the impact of the final rule on lending activity will be modest.
+D. Economic Impact on Trading Activity
+   - The final rule estimates that the impact of the final rule on trading activity will be modest.
+E. Additional Impact Considerations
+   - The final rule estimates that the impact of the final rule on the banking industry will be modest.
 
-* Instruments issued after the date a Board-regulated institution becomes subject to subpart E must disclose that the holders may be fully subordinated to interests held by the U.S. government in the event of receivership, insolvency, liquidation, or similar proceeding. 
+VI. Technical Amendments to the Capital
+Rule
+A. Additional OCC Technical Amendments
+   - The final rule makes certain technical amendments to the OCC's capital rule.
+B. Additional FDIC Technical
+Amendments
+   - The final rule makes certain technical amendments to the FDIC's capital rule.
 
-**Section 4: Minority Interest Calculations**
+VII. Proposed Amendments to Related Rules
+and Related Proposals
+A. OCC Amendments
+   - The final rule makes certain amendments to the OCC's capital rule.
+B. Board Amendments
+   - The final rule makes certain amendments to the Board's capital rule.
+C. Related Proposals
+   - The final rule makes certain proposals related to the capital rule.
 
-* Minority interest calculations for a Board-regulated institution subject to subpart E are subject to certain conditions and limitations. 
-
-**Section 5: Total Capital, Total Capital Minority Interest, Risk-Weighted Assets, Standardized Total Risk-Weighted Assets, and Total Risk-Based Capital Ratio**
-
-* The final rule revises the definition of total capital to exclude goodwill and associated deferred tax liabilities. 
-* The final rule revises the definition of total capital minority interest to exclude the portion of a subsidiary's total capital that is not owned by the Board-regulated institution. 
-* The final rule revises the definition of risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
-* The final rule revises the definition of standardized total risk-weighted assets to exclude goodwill and associated deferred tax liabilities. 
-* The final rule revises the definition of total risk-based capital ratio to exclude goodwill and associated deferred tax liabilities. 
-
-**Section 6: Deductions from Capital**
-
-* A Board-regulated institution must deduct from capital investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
-* Significant investments in the capital of unconsolidated financial institutions in the form of common stock are subject to a 10% common equity tier 1 capital deduction threshold. 
-* DTAs arising from temporary differences, MSAs net of associated DTLs, and significant investments in the capital of unconsolidated financial institutions in the form of common stock are deducted from common equity tier 1 capital elements. 
-
-**Section 7: Bank Holding Companies and Savings and Loan Holding Companies with $100 Billion or More in Total Consolidated Assets**
-
-* The final rule amends the capital rule for bank holding companies and savings and loan holding companies with $100 billion or more in total consolidated assets. 
-
-**Section 8: Counterparty Credit Risk**
-
-* The final rule implements the standardized approach for measuring counterparty credit risk exposures. 
-
-**Section 9: Trading Account**
-
-* The final rule revises the definition of "trading account" to exclude certain positions from the trading book. 
-
-**Section 10: Conforming Changes**
-
-* The final rule makes conforming changes to the market risk capital rule and the supplementary leverage ratio. 
-
-**Section 11: Amendments to Definitions**
-
-* Section 217.1 is amended to remove the definition of "advanced approaches Board-regulated institution" and add a definition of "Board-regulated institution subject to subpart E of this part". 
-* Section 217.2 is amended to remove the words "advanced approaches total risk-weighted assets" and add the words "expanded total risk-weighted assets". 
-* Section 217.22 is amended to remove the words "advanced approaches banking organizations” and add the words “banking organizations subject to subpart E of the agencies' capital rule”. 
-* Section 217.34 is amended to remove the reference to "§ 217.133" and add a reference to "§ 217.114". 
-* Appendix A to part 217 is amended to remove the words "advanced approaches institutions" and add the words "institutions subject to subpart E of the agencies' capital rule". 
-
-**Section 12: Regulatory Capital Ratio**
-
-* The definitions of "advanced approaches" are removed, and the definition of "regulatory capital ratio" is revised in the regulation. 
-* The regulatory capital ratio is defined as a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including applicable regulatory capital ratios calculated under 12 CFR part 217 and deductions required under 12 CFR 248.12. 
-* For savings and loan holding companies, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
-* For state member banks with over $250 billion in total consolidated assets, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
-* For U.S. banking organizations with $100 billion or more in total consolidated assets, the regulatory capital ratios are calculated using 12 CFR part 217, subpart E. 
-
-**Section 13: Conforming Amendments**
-
-* The final rule amends the capital rules for bank holding companies and savings and loan holding companies to conform to the Basel III capital framework. 
-* The final rule implements the TLAC requirements of the Dodd-Frank Act for U.S. global systemically important banking organizations (G-SIBs). 
-* The final rule implements the single counterparty credit limits requirements of the Dodd-Frank Act for bank holding companies, savings and loan holding companies, and U.S. branches and agencies of foreign banking organizations. 
-* The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with $100 billion or more in total consolidated assets and combined U.S. assets of $100 billion or more. 
-* The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion. 
-
-**Section 14: Definitions**
-
-* A new category, Category IV FDIC-supervised institution, is added. 
-* The definition of "Category II FDIC-supervised institution" is revised. 
-* The definition of "Category III FDIC-supervised institution" is revised. 
-* The definitions of "residential mortgage exposure" and "cross-jurisdictional activity" are revised. 
-* The definitions of "total nonbank assets," "off-balance sheet exposure," and "weighted short-term wholesale funding" are added. 
-
-**Section 15: Counterparty Credit Risk Management**
-
-* A Category II FDIC-supervised institution is a financial institution that is not a subsidiary of a global systemically important banking organization, a Category III FDIC-supervised institution, or a Category IV FDIC-supervised institution. 
-* A cleared transaction is a transaction that is cleared through a central counterparty. 
-* Corporate exposure is an exposure to a company that is not a sovereign, a public sector entity, a Government-Sponsored Enterprise, a depository institution, a foreign bank, a credit union, a multi-lateral development bank, or a policy loan. 
-* CVA risk-weighted assets are the measure for CVA risk calculated under § 324.221(a) multiplied by 12.5. 
-* Eligible guarantee means a guarantee that is written, unconditional or a contingent obligation of the U.S. government or its agencies, covers all or a pro rata portion of all contractual payments of the obligated party on the reference exposure, gives the beneficiary a direct claim against the protection provider, is not unilaterally cancelable by the protection provider for reasons other than the breach of the contract by the beneficiary, is legally enforceable against the protection provider in a jurisdiction where the protection provider has substantial assets and is subject to effective bankruptcy, insolvency, or similar laws. 
-
-**Section 16: Counterparty Credit Risk Management Framework**
-
-* An FDIC-supervised institution must have written policies and procedures that establish a framework for the management of counterparty credit risk, including the following:
-* A process to identify, measure, monitor, and control counterparty credit risk;
-* Limits on the amount of counterparty credit risk that the FDIC-supervised institution may assume;
-* Requirements for collateral and other credit enhancements;
-* Procedures for the valuation of collateral and other credit enhancements;
-* Procedures for the management of counterparty credit risk in stressed market conditions; and
-* A process for the resolution of counterparty defaults. 
-
-**Section 17: Effective Notional Principal Amount**
-
-* The effective notional principal amount of a credit derivative can be reduced by the amount of any reduction in its mark-to-fair value if it is recognized in common equity tier 1 capital. 
-* It can also be reduced by the effective notional principal amount of a purchased credit derivative if certain conditions are met. 
-* The counterparty credit risk of a repo-style transaction is calculated as the greater of zero and the total fair value of the transaction. 
-
-**Section 18: Conforming Amendments**
-
-* The final rule implements the capital requirements of the Basel III international accord. 
-* The final rule revises the definition of total capital and introduces a new definition of expanded total capital. 
-* The final rule revises the risk-based capital ratio framework, including the leverage ratio, to incorporate the revised definitions of total capital and expanded total capital. 
-* The final rule revises the calculation of the tangible capital ratio for state savings associations. 
-* The final rule makes conforming changes to the capital conservation buffer and countercyclical capital buffer rules. 
-
-**Section 19: Restrictions on Distributions and Discretionary Bonus Payments**
-
-* An FDIC-supervised institution subject to subpart E of this part must make deductions from regulatory capital for DTAs, MSAs, significant investments in the capital of unconsolidated financial institutions in the form of common stock, and non-significant investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
-
-* The amount to be deducted is the greater of the amount of the investment or 10% of the sum of the FDIC-supervised institution's common equity tier 1 capital elements. 
-
-* If the FDIC-supervised institution does not have a sufficient amount of a specific component of capital to effect the full amount of any deduction required, the FDIC-supervised institution must deduct the shortfall amount from the next higher (that is, more subordinated) component of regulatory capital. 
-
-* With the prior written approval of the FDIC, for the period of time stipulated by the FDIC, an FDIC-super
+VIII. Administrative Law Matters
+A. Paperwork Reduction Act
+   - The final rule does not impose any new paperwork requirements on banking organizations.
+B. Regulatory Flexibility Act
+   - The final rule does not have a significant economic impact on a substantial number of small entities.
+C. Plain Language
+   - The final rule is written in plain language.
+D. Riegle Community Development and
+Regulatory Improvement Act of 1994
+   - The final rule does not have a significant impact on the availability of credit to low- and moderate-income communities.
+E. OCC Unfunded Mandates Reform Act of
+1995 Determination
+   - The final rule does not impose any new unfunded mandates on state, local, or tribal governments.
+F. Providing Accountability Through
+Transparency Act of 2023
+   - The final rule does not impose any new reporting requirements on banking organizations.

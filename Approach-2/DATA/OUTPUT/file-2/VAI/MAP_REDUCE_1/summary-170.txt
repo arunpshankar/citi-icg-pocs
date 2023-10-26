@@ -1,7 +1,4 @@
- (a) The board of directors and senior management must ensure that appropriate verification of the reports and disclosures takes place and that effective internal controls and reporting and disclosure controls and procedures are maintained. 
-
-(b) If a [BANKING ORGANIZATION] reasonably believes that reporting or disclosure of specific commercial or financial information would materially prejudice its position by making public certain information that is either proprietary or confidential in nature, the [BANKING ORGANIZATION] is not required to publicly report or disclose these specific items. 
-
-(c) A [BANKING ORGANIZATION] must either provide all of the public reports and disclosures required by this section in one place on the [BANKING ORGANIZATION]'s public website or provide the reporting and disclosures in more than one public financial report or other public regulatory reports. 
-
-(d) A [BANKING ORGANIZATION] must disclose publicly the following information at least quarterly: (i) The aggregate amount of o
+ - Quarterly public disclosures: aggregate amount of on-/off-balance sheet securitization positions, soundness criteria for capital adequacy assessment, aggregate amount of correlation trading positions, comparison of VaR-based estimates with actual gains/losses for material portfolios of market risk covered positions. 
+- Annual public disclosures: structure and organization of market risk management system, policies and processes for designating market risk covered positions, composition of material portfolios, scope and nature of risk reporting/measurement systems, trading desk structure and types of market risk covered positions, valuation policies for material portfolios, characteristics and validation of internal models, stress tests applied to market risk covered positions, comparison of internal estimates with actual outcomes, monitoring of changes in credit and market risk of securitization positions, policy on use of credit risk mitigation. 
+- Public reports: measure for market risk on a quarterly basis, additional information and reports as required by the [AGENCY]. 
+- Confidential supervisory reports: backtesting and PLA testing information on a quarterly basis, daily VaR-based measures, daily ES-based measure, actual and hypothetical profit and loss, p-value of the profit or loss on each day.

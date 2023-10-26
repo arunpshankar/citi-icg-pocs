@@ -1,13 +1,5 @@
- 1. The final rule amends the capital rules for bank holding companies and savings and loan holding companies to conform to the Basel III capital framework. 
-
-
-2. The final rule implements the TLAC requirements of the Dodd-Frank Act for U.S. global systemically important banking organizations (G-SIBs). 
-
-
-3. The final rule implements the single counterparty credit limits requirements of the Dodd-Frank Act for bank holding companies, savings and loan holding companies, and U.S. branches and agencies of foreign banking organizations. 
-
-
-4. The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with $100 billion or more in total consolidated assets and combined U.S. assets of $100 billion or more. 
-
-
-5. The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion.
+ - The final rule amends the capital rules for bank holding companies and savings and loan holding companies to conform to the Basel III capital framework.
+- The final rule implements the TLAC requirements of the Dodd-Frank Act for U.S. global systemically important banking organizations (G-SIBs).
+- The final rule implements the single counterparty credit limits requirements of the Dodd-Frank Act for bank holding companies, savings and loan holding companies, and U.S. branches and agencies of foreign banking organizations.
+- The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of $100 billion or more.
+- The final rule implements the enhanced prudential standards requirements of the Dodd-Frank Act for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion.

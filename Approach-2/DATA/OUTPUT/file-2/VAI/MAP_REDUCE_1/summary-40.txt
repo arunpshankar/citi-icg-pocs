@@ -1,9 +1,8 @@
- 1. The proposal defines operational loss, operational loss event, and groups operational loss events into seven event types. 
-
-2. The calculation of average annual total net operational losses would be based on an average of ten years of data. 
-
-3. The proposal includes a $20,000 net loss threshold for inclusion of an operational loss in the calculation of average annual total net operational losses. 
-
-4. A banking organization would group losses with a common underlying trigger into the same operational loss event. 
-
-5. Recoveries would be included in the quarter in which they are paid to the banking organization.
+ -	The proposal defines an operational loss as all losses resulting from an operational loss event, excluding insurance or tax effects. 
+-	An operational loss event is defined as an event that results in loss due to inadequate or failed internal processes, people, or systems or from external events. 
+-	The proposal includes a $20,000 net loss threshold for inclusion of an operational loss in the calculation of average annual total net operational losses. 
+-	The proposal would require a banking organization to group losses with a common underlying trigger into the same operational loss event. 
+-	Total net operational losses would include operational losses in the quarter in which their accounting impacts were recorded, rather than aggregated into a single event date. 
+-	Recoveries would be included in the quarter in which they are paid to the banking organization. 
+-	The proposal's definition of operational loss includes a clarification regarding the boundary between operational risk and credit risk. 
+-	The proposal includes revisions to the FR Y-14Q report to conform with the revisions to the definitions of operational loss and operational loss event introduced by the proposal.

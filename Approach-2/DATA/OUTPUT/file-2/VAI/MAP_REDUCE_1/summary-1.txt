@@ -1,13 +1,5 @@
- 1. The agencies are proposing to modify capital requirements for large banking organizations and banking organizations with significant trading activity. 
-
-
-2. The revisions aim to strengthen the calculation of risk-based capital requirements to better reflect the risks of these banking organizations' exposures. 
-
-
-3. The proposed revisions would enhance the consistency of requirements across large banking organizations and facilitate more effective supervisory and market assessments of capital adequacy. 
-
-
-4. The proposal includes changes to the calculation of capital ratios, application of buffer requirements, standardized output floor, stress capital buffer requirement, definition of capital, credit risk, securitization framework, equity risk, operational risk, market risk, and credit valuation adjustment risk. 
-
-
-5. The agencies are also proposing technical amendments to the capital rule, amendments to related rules and related proposals, and addressing administrative law matters.
+ - The agencies are proposing to modify the capital requirements applicable to large banking organizations and banking organizations with significant trading activity.
+- The revisions would strengthen the calculation of risk-based capital requirements to better reflect the risks of these banking organizations' exposures.
+- The revisions would also enhance the consistency of requirements across large banking organizations and facilitate more effective supervisory and market assessments of capital adequacy.
+- The proposal includes changes to the calculation of capital ratios and application of buffer requirements, the definition of capital, credit risk, securitization framework, equity risk, operational risk, market risk, and credit valuation adjustment risk.
+- The proposal also includes transition provisions, technical amendments, and proposed amendments to related rules and related proposals.

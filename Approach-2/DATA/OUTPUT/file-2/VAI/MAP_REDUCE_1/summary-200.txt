@@ -1,5 +1,8 @@
- 1. The capital conservation buffer is the lowest of the common equity tier 1, tier 1, or total capital ratios minus the respective minimum capital ratios. 
-2. The leverage buffer is the supplementary leverage ratio minus 3%. 
-3. The GSIB surcharge is used for determining the maximum payout ratio. 
-4. Instruments issued after the date a Board-regulated institution becomes subject to subpart E must disclose that the holders may be fully subordinated to interests held by the U.S. government in the event of receivership, insolvency, liquidation, or similar proceeding. 
-5. Minority interest calculations for a Board-regulated institution subject to subpart E are subject to certain conditions and limitations.
+ - A Board-regulated institution's capital conservation buffer is the lowest of its common equity tier 1, tier 1, or total capital ratios minus the respective minimum capital ratios.
+- If a Board-regulated institution's capital ratio is less than or equal to its minimum capital ratio, its capital conservation buffer is zero.
+- A global systemically important BHC's leverage buffer is equal to its supplementary leverage ratio minus 3%.
+- If a global systemically important BHC's supplementary leverage ratio is less than or equal to 3%, its leverage buffer is zero.
+- A Board-regulated institution's maximum payout ratio is determined based on its capital buffer and leverage buffer.
+- A global systemically important BHC must use its GSIB surcharge to calculate its maximum payout ratio.
+- A Board-regulated institution subject to subpart E must disclose that the holders of its instruments may be fully subordinated to interests held by the U.S. government in the event of a receivership, insolvency, liquidation, or similar proceeding.
+- A Board-regulated institution subject to subpart E is subject to minority interest limitations if a consolidated subsidiary has issued regulatory capital that is not owned by the Board-regulated institution and the subsidiary's relevant

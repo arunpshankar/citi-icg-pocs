@@ -1,5 +1,8 @@
- 1. The proposal generally follows the Basel III calculation steps for non-securitization debt or equity positions.
-2. The gross default exposure is calculated as the product of notional amount and LGD, plus cumulative profits (losses).
-3. LGD rates are proposed for different categories of instruments, generally consistent with Basel III.
-4. Net default exposure allows full or partial offsetting of long and short positions with the same obligor and seniority.
-5. Scaling is applied to offsetting treatment for market risk covered positions with maturities of one year or less.
+ - The proposal generally follows the calculation steps described above for non-securitization debt or equity positions.
+- The gross default exposure is calculated as the sum of the potential loss of principal at default and the cumulative profits (losses) already realized on the position.
+- The net default exposure is calculated as the sum of the maturity-weighted default exposures to the issuer.
+- The proposal would require a banking organization to calculate the total standardized default risk capital requirement as the sum of each of the default risk category level capital requirements without recognizing any diversification benefits across different types of default risk categories.
+- For non-securitization debt or equity positions, the proposal would generally follow the calculation steps described above.
+- The gross default exposure for each non-securitization debt or equity position would be calculated by multiplying the notional amount (face value) of the instrument and the prescribed loss given default (LGD) rate to determine the total potential loss of principal at default and then adding the cumulative profits (losses) already realized on the position to avoid double-counting realized losses.
+- For defaulted positions, the proposal would require a banking organization to multiply the current market value and the prescribed LGD rate to determine the gross default exposure for the position.
+-

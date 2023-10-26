@@ -1,4 +1,4 @@
-# CITI ICG Proof of Concept (PoC) 📁
+# CITI ICG Proof of Concept 📁
 
 Repository for CITI ICG's Proof of Concept (PoC). This PoC is designed to address two primary use cases:
 
@@ -34,7 +34,7 @@ Repository for CITI ICG's Proof of Concept (PoC). This PoC is designed to addres
      key: YOUR_OPENAI_KEY
      ```
 
-3. **Environment Setup** 🌐
+3. **Environment Setup** 
 
    - **Local Desktop (Native or Virtual Environment)** 💼
      ```bash
@@ -43,7 +43,7 @@ Repository for CITI ICG's Proof of Concept (PoC). This PoC is designed to addres
      pip install -r requirements.txt
      ```
 
-   - **VertexAI Workbench** 🌟
+   - **VertexAI Workbench** 
      
      If you're deploying on the VertexAI Workbench, you can bypass the initial environment variable setup for VertexAI. However, ensure that you still install the necessary packages.
      ```bash
@@ -52,4 +52,4 @@ Repository for CITI ICG's Proof of Concept (PoC). This PoC is designed to addres
 
 ---
 
-Thank you for choosing Google Cloud! Feel free to reach out with any questions or feedback. 🌟🚀📈
+Thank you for choosing Google Cloud! Feel free to reach out with any questions or feedback. 

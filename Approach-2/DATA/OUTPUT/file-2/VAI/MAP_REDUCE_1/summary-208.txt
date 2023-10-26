@@ -1,13 +1,8 @@
- 1. A Category II FDIC-supervised institution is a financial institution that is not a subsidiary of a global systemically important banking organization, a Category III FDIC-supervised institution, or a Category IV FDIC-supervised institution. 
-
-
-2. A cleared transaction is a transaction that is cleared through a central counterparty. 
-
-
-3. Corporate exposure is an exposure to a company that is not a sovereign, a public sector entity, a Government-Sponsored Enterprise, a depository institution, a foreign bank, a credit union, a multi-lateral development bank, or a policy loan. 
-
-
-4. CVA risk-weighted assets are the measure for CVA risk calculated under § 324.221(a) multiplied by 12.5. 
-
-
-5. Eligible guarantee means a guarantee that is written, unconditional or a contingent obligation of the U.S. government or its agencies, covers all or a pro rata portion of all contractual payments of the obligated party on the reference exposure, gives the beneficiary a direct claim against the protection provider, is not unilaterally cancelable by the protection provider for reasons other than the breach of the contract by the beneficiary, is legally enforceable against the protection provider in a jurisdiction where the protection provider has
+ - Category II FDIC-supervised institution is a non-subsidiary of a global systemically important banking organization, a Category II FDIC-supervised institution, or a Category III FDIC-supervised institution and that meets certain criteria.
+- Cleared transaction is a transaction that is cleared by a central counterparty.
+- Corporate exposure is an exposure to a company that is not a sovereign, a public sector entity, a Government-Sponsored Enterprises, a depository institution, a foreign bank, a credit union, a multi-lateral development bank, a policy loan, a separate account, a Paycheck Protection Program covered loan, a real estate exposure, or a retail exposure.
+- CVA risk-weighted assets is the measure for CVA risk calculated under § 324.221(a) multiplied by 12.5.
+- Effective notional amount for an eligible guarantee or eligible credit derivative is the lesser of the contractual notional amount of the credit risk mitigant and the exposures amount of the hedged exposure, multiplied by the percentage coverage of the credit risk mitigant.
+- Eligible guarantee is a guarantee that meets certain criteria.
+- Expanded total risk-weighted assets is the greater of two amounts.
+- Exposure amount is

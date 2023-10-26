@@ -1,13 +1,5 @@
- 1. The FR Y-14 reports collect data on balance sheet, income, losses, capital, and risk management practices from large firms. 
-
-
-2. The data is used to set firms' stress capital buffer requirements and support other supervisory efforts. 
-
-
-3. The proposed rule would revise the FR Y-14 reports to reflect changes to the capital rules. 
-
-
-4. The proposed rule would also make conforming changes to the FR Y-14 reports to reflect changes to the operational risk and credit risk mitigation rules. 
-
-
-5. The proposed changes would be effective for the July 31, 2025, as of date for the FR Y-14M, the September 30, 2025, as of date for the FR Y-14Q, and the December 31, 2025, as of date for the FR Y-14A.
+ - The FR Y-14 reports collect data on balance sheet, income, losses, capital, and risk management practices from large firms. 
+  - The data is used to set firms' stress capital buffer requirements and support other supervisory efforts. 
+  - The proposed rule would revise the FR Y-14 reports to reflect changes to the capital rules. 
+  - The proposed rule would also make conforming changes to the FR Y-14 reports to reflect changes to the operational risk and credit risk mitigation rules. 
+  - The proposed changes would be effective for the July 31, 2025, as of date for the FR Y-14M, the September 30, 2025, as of date for the FR Y-14Q, and the December 31, 2025, as of date for the FR Y-14A.

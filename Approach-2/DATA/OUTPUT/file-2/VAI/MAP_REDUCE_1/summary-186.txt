@@ -1,13 +1,1 @@
- 1. The final rule revises the capital requirements for national banks and Federal savings associations subject to the advanced approaches framework. 
-
-
-2. The final rule also makes conforming changes to the minority interest and regulatory capital adjustments and deductions rules. 
-
-
-3. The final rule is intended to implement the Basel III capital framework and to ensure that national banks and Federal savings associations have sufficient capital to absorb losses and continue to operate in a safe and sound manner. 
-
-
-4. The final rule is effective on January 1, 2023. 
-
-
-5. The final rule is expected to have a significant impact on the capital requirements of national banks and Federal savings associations subject to the advanced approaches framework.
+ - Specifies that the governing agreement, offering circular, or prospectus of an instrument issued after the date upon which a national bank or Federal savings association becomes subject to subpart E must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in

@@ -1,13 +1,6 @@
- 1. The proposal introduces a new method, the Basic-CVA (BA-CVA), for calculating risk-based capital requirements for CVA risk. 
-
-
-2. The BA-CVA capital requirement is calculated as a weighted average of the risk-based capital requirement for CVA positions before and after recognizing the risk mitigating effect of eligible CVA hedges. 
-
-
-3. The formula for calculating the risk-based capital requirement under the BA-CVA is provided, along with the definition of each term in the formula. 
-
-
-4. The proposal also provides a formula for calculating the standalone CVA capital requirement for each counterparty (SCVA), which is a simplified representation of how the expected shortfall of the counterparty credit spread component of CVA risk of a single counterparty can be calculated. 
-
-
-5. The proposal includes supervisory risk weights for each counterparty, which reflect the potential variability of credit spreads based on a combination of the sector and credit quality of the counterparty or of the eligible hedge reference entity.
+ - The proposal introduces a new method, the Basic CVA (BA-CVA), for calculating risk-based capital requirements for CVA risk. 
+- The BA-CVA capital requirement is calculated as a weighted average of the risk-based capital requirement for CVA positions before and after recognizing the risk mitigating effect of eligible CVA hedges. 
+- The weights are 0.25 and 0.75, respectively. 
+- The formula for calculating the risk-based capital requirement under the BA-CVA is Kbasic = 0.65 (ẞ Kunhedged + (1 - ẞ) Khedged), where Kbasic is the risk-based capital requirement under the BA-CVA; Kunhedged is the risk-based capital requirement for CVA positions before recognizing the risk mitigating effect of eligible CVA hedges; Khedged is the risk-based capital requirement after recognizing such hedges; and  is a regulatory parameter set to 0.25.
+- The Kunhedged formula is intended to reflect the potential losses arising from unhedged CVA risk. 
+- The proposal would set the exposure at default amount, EADNs, for the netting set, NS, equal to the

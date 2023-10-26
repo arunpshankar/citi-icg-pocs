@@ -1,9 +1,7 @@
- (1) A [BANKING ORGANIZATION] must make specific disclosures about its capital structure, capital adequacy, risk management, and exposures. 
+ **Key Disclosures for Banking Organizations**
 
-(2) Disclosures must be made publicly available for each of the last twelve quarters. 
-
-(3) The board of directors and senior management are responsible for establishing and maintaining an effective internal control structure over financial reporting. 
-
-(4) One or more senior officers of the [BANKING ORGANIZATION] must attest that the disclosures meet the requirements of this subpart. 
-
-(5) If a [BANKING ORGANIZATION] reasonably concludes that specific commercial or financial information would be exempt from disclosure by the [AGENCY] under the Freedom of Information Act, then the [BANKING ORGANIZATION] is not required to disclose that specific information.
+- Banking organizations must make certain disclosures about their capital structure, capital adequacy, risk management, and other financial information.
+- Disclosures must be made publicly available for each of the last twelve quarters, or such shorter period beginning in the quarter in which the banking organization becomes subject to subpart E of this part.
+- The board of directors and senior management are responsible for establishing and maintaining an effective internal control structure over financial reporting, including the disclosures required by this subpart.
+- Banking organizations must have a formal disclosure policy approved by the board of directors that addresses its approach for determining the disclosures it makes.
+- If a banking organization reasonably concludes that specific commercial or financial information that it would otherwise be required to disclose under this section would be exempt from disclosure by the [AGENCY] under the Freedom of Information Act (5 U.S.C. 552), then the [BANKING ORGANIZATION] is not required to disclose that specific information pursuant to this section.

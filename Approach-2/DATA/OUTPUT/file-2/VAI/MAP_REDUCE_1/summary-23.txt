@@ -1,5 +1,19 @@
- 1. The proposed methodology for calculating the exposure amount for eligible margin loans and repo-style transactions covered by a QMNA has the advantage of capturing the baseline exposure of a netting set of eligible margin loans or repo-style transactions after accounting for the value of any collateral. 
-2. The proposed methodology also has the advantage of reflecting the systematic risk (based on the net exposure) and the idiosyncratic risk (based on the gross exposure) of the netting set of eligible margin loans or repo-style transactions covered by a QMNA. 
-3. The proposed methodology also has the advantage of allowing the formula to recognize netting at the level of the netting set and correlations in the movement of market prices for instruments lent and received. 
-4. The proposed methodology also has the advantage of capturing any adjustment to reflect currency mismatch, if applicable. 
-5. The proposed methodology has the disadvantage of being complex and may be difficult for some banking organizations to implement.
+ **Advantages of the proposed methodology:**
+
+- Captures baseline exposure of a netting set of eligible margin loans or repo-style transactions after accounting for the value of any collateral.
+- Allows the formula to recognize netting at the level of the netting set and correlations in the movement of market prices for instruments lent and received.
+- The contribution from the gross exposure component to the exposure amount would decrease proportionally with an increase in the number of unique instruments by CUSIP designations or foreign equivalent, capturing the impact of portfolio diversification.
+- The fourth component would capture any adjustment to reflect currency mismatch, if applicable.
+
+**Disadvantages of the proposed methodology:**
+
+- The complexity of the formula may make it difficult for some banking organizations to implement.
+- The haircuts used in the formula may not be appropriate for all types of collateral.
+- The formula does not take into account the credit risk of the counterparty.
+
+**Advantages of an alternative method to calculate the number of instruments N based on the number of legal entities that issued or guaranteed the instruments:**
+
+- Simpler to implement than the proposed methodology.
+- Would take into account the credit risk of the counterparty.
+
+**Disadvantages of an alternative method to calculate the number of instruments N based on the number of legal

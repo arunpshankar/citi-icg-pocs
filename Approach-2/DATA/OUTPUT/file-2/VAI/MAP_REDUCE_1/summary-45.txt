@@ -1,13 +1,6 @@
- 1. The proposal revises criteria for determining whether a banking organization is subject to market risk-based capital requirements. 
-
-
-2. A banking organization with significant trading activity would be required to calculate market risk capital requirements. 
-
-
-3. The proposed scope is designed to apply market risk capital requirements to all large banking organizations. 
-
-
-4. The proposal would retain a trading activity threshold and increase the trading activity dollar threshold from $1 billion to $5 billion. 
-
-
-5. The proposal would help promote consistency and comparability in market risk capital requirements across banking organizations.
+ - The proposal revises criteria for determining whether a banking organization is subject to market risk-based capital requirements. 
+-Banking organizations with significant trading activity would be required to calculate market risk capital requirements. 
+-The scope is designed to apply market risk capital requirements to all large banking organizations. 
+-The proposal would retain a trading activity threshold and increase the dollar threshold from $1 billion to $5 billion. 
+-The proposal would apply to banking organizations with average aggregate trading assets and trading liabilities over the previous four calendar quarters equal to $5 billion or more, or equal to 10 percent or more of total consolidated assets. 
+-The proposal would also apply to any holding company subject to Category I, II, III, or IV standards or any subsidiary thereof, if the subsidiary engaged in any trading activity over any of the four most recent quarters.

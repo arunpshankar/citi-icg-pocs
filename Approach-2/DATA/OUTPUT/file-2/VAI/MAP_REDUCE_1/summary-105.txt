@@ -1,13 +1,5 @@
- 1. The OCC, Board, and FDIC are proposing to amend their respective market risk capital rules to implement the final rule issued by the Basel Committee on Banking Supervision (Basel Committee) in January 2019. 
-
-
-2. The Basel Committee's final rule revises the market risk framework, including the standardized approach, the internal models approach, and the trading book capital requirements. 
-
-
-3. The proposed amendments would align the agencies' market risk capital rules with the Basel Committee's final rule and would also make certain technical corrections and conforming changes to the agencies' rules. 
-
-
-4. The proposed amendments would reduce the overall number of disclosure requirements by 54 line items, including all quantitative disclosures, which are now included in regulatory reporting. 
-
-
-5. The estimated annual burden hours for the proposed amendments are 127,254 for the OCC, 89,622 for the Board, and 16,872 for the FDIC.
+ - Reporting and recordkeeping burden hours have been reduced by 37,632 hours, or 22.6%. 
+- Disclosure burden hours have been reduced by 172 hours, or 1.3%. 
+- The overall burden hours have been reduced by 37,804 hours, or 22.5%. 
+- The number of line items has been reduced by 54. 
+- All quantitative disclosures are now included in regulatory reporting.

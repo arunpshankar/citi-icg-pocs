@@ -1,13 +1,19 @@
- 1. The agencies propose a capital framework for banking organizations' market risk. 
+ - The agencies propose to require banking organizations to use the same reduced set of risk factors to identify the appropriate stress period and calculate the IMCCs. 
 
 
-2. The framework includes an internal models capital charge (IMCC) for modellable risk factors and a stressed expected shortfall (SES) capital charge for non-modellable risk factors. 
+- The proposal would require a banking organization to use a stress scenario that is calibrated to be at least as prudent as the expected shortfall-based measure for modellable risk factors and calculate the liquidity horizon-adjusted expected shortfall-based measure for non-modellable risk factors in stress using the same general process as proposed for modellable risk factors, with three key differences. 
 
 
-3. The IMCC is based on liquidity horizon-adjusted expected shortfall measures, while the SES is based on a stress scenario that is calibrated to be at least as prudent as the expected shortfall-based measure for modellable risk factors. 
+- The proposal would allow a banking organization to use proxies in designing the stress scenario for each risk class of non-modellable risk factors, as long as such proxies satisfy the data quality requirements for modellable risk factors. 
 
 
-4. The proposal also includes a backtesting requirement for VaR-based measures against both actual profit and loss as well as against hypothetical profit and loss. 
+- The proposal generally would retain the backtesting requirements in subpart F of the current capital rule, with two modifications. 
 
 
-5. The agencies seek comment on the appropriateness of the proposed treatment of non-modellable risk factors and the backtesting requirement.
+- The agencies seek comment on the appropriateness of requiring banking organizations to use the same reduced set of risk factors to both identify the appropriate stress period and calculate the IMCCs. 
+
+
+- The agencies seek comment on the treatment of non-modellable risk factors, specifically whether it is appropriate and commensurate with their risks. 
+
+
+- The agencies seek comment on whether they should consider scaling the

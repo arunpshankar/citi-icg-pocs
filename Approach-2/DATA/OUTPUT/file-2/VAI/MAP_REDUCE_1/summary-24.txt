@@ -1,5 +1,7 @@
- 1. The proposal specifies term-based haircuts for investment grade senior securitization exposures and a 30% market price volatility haircut for other securitization exposures.
-2. It requires a 20% haircut for main index equities and gold, 30% for other publicly traded equities and convertible bonds, and 30% for other exposure types.
-3. For mutual fund shares, the proposal provides an alternative method to calculate the haircut based on the weighted average of haircuts applicable to the instruments held by the fund.
-4. The proposal includes minimum haircut floors for certain eligible margin loans and repo-style transactions with unregulated financial institutions to limit excessive leverage outside the banking system.
-5. It defines unregulated financial institutions as those not subject to prudential regulation, including hedge funds and private equity firms.
+ 1. The proposal specifies term-based haircuts for investment grade senior securitization exposures that receive a risk weight of less than 100 percent under the securitization framework.
+2. Other securitization exposures would receive the 30 percent market price volatility haircut applicable to "other" exposure types.
+3. The proposal requires a banking organization to apply market price volatility haircuts of 20 percent for main index equities (including convertible bonds) and gold, 30 percent for other publicly traded equities and convertible bonds, and 30 percent for other exposure types.
+4. The proposal would maintain the requirement for a banking organization to apply a market price volatility haircut of 30 percent to address the potential market price volatility for any instruments that the banking organization has lent, sold subject to repurchase, or posted as collateral that is not of a type otherwise specified in Table 1.
+5. The proposal would allow banking organizations to apply the full look-through approach for certain collateral in the form of mutual fund shares.
+6. The proposal would require a banking organization to receive a minimum amount of collateral when undertaking certain repo-style transactions and eligible margin loans (in-scope transactions) with unregulated financial institutions.
+7. The

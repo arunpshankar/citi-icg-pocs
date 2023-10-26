@@ -1,4 +1,5 @@
- 1. A Board-regulated institution must deduct from capital investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
-2. Significant investments in the capital of unconsolidated financial institutions in the form of common stock are subject to a 10% common equity tier 1 capital deduction threshold. 
-3. DTAs arising from temporary differences, MSAs net of associated DTLs, and significant investments in the capital of unconsolidated financial institutions in the form of common stock are deducted from common equity tier 1 capital elements. 
-4. The amount of the items in paragraph (d)(2) of this section that is not deducted from common equity ti
+ - Significant investments in the capital of unconsolidated financial institutions that are not in the form of common stock are deducted from capital.
+- Significant investments in the capital of unconsolidated financial institutions in the form of common stock are deducted from capital, net of associated DTLs.
+- DTAs arising from temporary differences that the institution could not realize through net operating loss carrybacks are deducted from capital, net of any related valuation allowances and net of DTLs.
+- MSAs net of associated DTLs are deducted from capital.
+- The amount of the items in paragraph (d)(2) of this section that is not deducted from common equity tier 1 capital pursuant to thi

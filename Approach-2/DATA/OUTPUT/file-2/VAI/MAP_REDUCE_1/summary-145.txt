@@ -1,9 +1,7 @@
- 1. A banking organization must have a process for the prudent valuation of its market risk covered positions. 
-
-2. The process must include policies and procedures on the valuation of its market risk covered positions, determining the fair value of its market risk covered positions, independent price verification, and independent validation of the valuation models and valuation adjustments or reserves. 
-
-3. A banking organization must have a rigorous process for assessing its overall capital adequacy in relation to its market risk. 
-
-4. The assessment must take into account risks that may not be captured fully by the standardized measure for market risk or in the models-based measure for market risk, including concentration and liquidity risk under stressed market conditions. 
-
-5. A banking organization must demonstrate to the satisfaction of the [AGENCY] a comprehensive understanding of the features of a securitization position that would mater
+ - The regulation requires banking organizations to have a sound framework for managing market risk, including policies and procedures for identifying, measuring, and mitigating market risk exposures.
+- The regulation specifies requirements for the calculation of the standardized measure for market risk and the models-based measure for market risk.
+- The standardized measure for market risk is the sum of the sensitivities-based capital requirement, the standardized default risk capital requirement, and the residual risk add-on.
+- The models-based measure for market risk is the sum of the non-default risk capital requirement, the profit and loss attribution (PLA) add-on, the stressed add-on (SA), and the fallback capital requirement.
+- Banking organizations must have a rigorous process for assessing their overall capital adequacy in relation to their market risk, taking into account risks that may not be fully captured by the standardized or models-based measures for market risk.
+- Banking organizations must have a comprehensive understanding of the features of securitization positions and must conduct due diligence on such positions prior to acquiring them.
+- Banking organizations must adequately document all material aspects of their identification, management, and valuation of market risk covered positions, including internal risk transfers and any re-designations of their positions.

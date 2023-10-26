@@ -1,5 +1,21 @@
- 1. Vega risk factors for foreign exchange risk equal the simultaneous, relative change of all volatilities for the exchange rate between a [BANKING ORGANIZATION]'s reporting currency or base currency and each other currency.
-2. Vega risk weights for foreign exchange risk equal 100 percent.
-3. Vega cross-bucket correlation parameter for foreign exchange risk equals 60 percent for all currency pairs.
-4. Vega risk weights for reference credit spread risk equal 100 percent.
-5. Vega risk weights for equity risk equal 78 percent for large market cap buckets and 100 percent otherwise.
+ (i) The risk-based capital ratio of a national bank or Federal savings association
+subject to this part is calculated by dividing the bank's or association's total risk-based capital
+(as determined under § 3.10) by the bank's or association's expanded total risk-weighted
+assets (as determined under paragraph (c)(3) of this section).
+*
+*
+*
+(iii) A national bank or Federal savings association subject to this part must maintain a
+risk-based capital ratio of not less than 10.0 percent.
+*
+*
+*
+(f) Transition provisions. (1) A national bank or Federal savings association that is
+subject to this part and that has a risk-based capital ratio of less than 10.0 percent on the date
+that this part becomes effective must submit to the OCC a capital restoration plan that
+demonstrates how the bank or association will achieve a risk-based capital ratio of 10.0 percent
+by the date that is five years after the effective date of this part.
+*
+*
+*
+3. In § 3.10, revise paragraphs (c)(1)(ii)(A),

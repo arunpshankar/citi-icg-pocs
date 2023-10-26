@@ -1,13 +1,11 @@
- 1. A 100 percent CCF is applied to certain off-balance-sheet items and other similar transactions, including guarantees, repurchase agreements, credit-enhancing representations and warranties, off-balance sheet securities lending and borrowing transactions, financial standby letters of credit, and forward agreements.
+ 100% CCF applies to guarantees, repurchase agreements, credit-enhancing representations and warranties, off-balance sheet securities lending and borrowing transactions, financial standby letters of credit, and forward agreements. 
 
+Exposure amount for derivative contracts is determined using the standardized approach for counterparty credit risk (SA-CCR). 
 
-2. The exposure amount for derivative contracts is determined using the standardized approach for counterparty credit risk (SA-CCR).
+For credit derivatives, if the derivative is recognized as a credit risk mitigant for an exposure that is not a market risk covered position, no separate counterparty credit risk capital requirement is required. 
 
+For equity derivatives, the contract is treated as an equity exposure and a risk-weighted asset amount is computed. If the contract is also treated as a market risk covered position, a risk-based capital requirement for the counterparty credit risk must also be calculated. 
 
-3. Credit derivatives purchased as credit risk mitigants for exposures that are not market risk covered positions are not subject to a separate counterparty credit risk capital requirement.
+The exposure amount of a netting set is equal to 1.4 multiplied by the sum of the replacement cost and the potential future exposure of the netting set. 
 
-
-4. Equity derivative contracts are treated as equity exposures and risk-weighted under relevant sections, but a banking organization may choose not to hold risk-based capital against the counterparty credit risk of the equity derivative contract.
-
-
-5. The exposure amount of a netting set is calculated as 1.4 multiplied by the sum of the replacement cost and potential future exposure of the netting set, with certain exceptions for netting sets subject to variation margin agreements, fully paid options, and commercial end-users.
+There are certain exceptions to the exposure amount calculation for netting sets subject to variation margin agreements, fully paid options, and commercial end-users.

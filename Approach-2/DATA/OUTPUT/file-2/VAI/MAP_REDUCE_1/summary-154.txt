@@ -1,11 +1,13 @@
- The regulation defines the risk factors and corresponding risk weights and correlation parameters for calculating sensitivities-based capital requirements for market risk covered positions. 
-
-For interest rate risk, delta risk factors are defined for each currency and tenor, with risk weights specified in Table 1. 
-
-For credit spread risk, delta, vega, and curvature risk factors are defined for each credit spread curve. 
-
-For equity risk, delta, vega, and curvature risk factors are defined for each issuer. 
-
-For commodity risk, delta, vega, and curvature risk factors are defined for each commodity and maturity. 
-
-For foreign exchange risk, delta, vega, and curvature risk factors are defined for each currency pair and maturity.
+ - The sensitivities-based method requires the identification of relevant buckets, risk weights, and correlation parameters for each risk class. 
+- For interest rate risk, a separate bucket is established for each currency. 
+- Risk weights for each tenor of an interest rate curve are specified in Table 1. 
+- The risk weight for inflation rate risk factors and cross-currency basis risk factors equals 1.6 percent. 
+- For certain specified currencies, the risk weights may be divided by √2. 
+- For credit spread risk, a [BANKING ORGANIZATION] must establish a separate credit spread risk bucket for each credit spread curve. 
+- Risk weights for each tenor of a credit spread curve are specified in Table 2. 
+- For equity risk, a separate equity risk bucket is established for each issuer. 
+- Risk weights for each tenor of an equity spot price curve are specified in Table 3. 
+- For commodity risk, a separate commodity risk bucket is established for each commodity. 
+- Risk weights for each tenor of a commodity spot price curve are specified in Table 4. 
+- For foreign exchange risk, a separate foreign exchange risk bucket is established for each currency pair. 
+- Risk weights

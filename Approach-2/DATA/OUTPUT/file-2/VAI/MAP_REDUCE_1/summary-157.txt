@@ -1,9 +1,20 @@
- 1. The table in section 7 of this section specifies delta buckets, risk weights, and correlations for credit spread risk for securitization positions non-CTP. 
-
-2. For equity risk, section 8 of this section specifies delta buckets, risk weights, and correlations. 
-
-3. A banking organization must establish buckets along two dimensions, credit quality and sector, for credit spread risk for securitization positions non-CTP. 
-
-4. A banking organization must establish buckets along three dimensions, market capitalization, economy and sector, for equity risk. 
-
-5. For purposes of aggregating delta bucket-level risk positions across buckets within the credit spread risk for securitization positions non-CTP risk class as specified in § 206(b)(3), the cross-bucket correlation parameter Ybc equals zero percent.
+ 1. For credit spread risk for securitization positions non-CTP, a [BANKING ORGANIZATION] must establish buckets along two dimensions, credit quality and sector.
+2. For calculating risk weighted delta sensitivities for credit spread risk for securitization positions non-CTP, a [BANKING ORGANIZATION] must use the risk weights in Table 7 of this section.
+3. For purposes of aggregating risk weighted delta sensitivities of credit spread risk for securitization positions non-CTP within a bucket as specified in § _.206(b)(2), a [BANKING ORGANIZATION] must use the following correlation parameters:
+- For buckets 1 through 24, the correlation parameter Pk between risk weighted delta sensitivities WS and WS₁, equals:
+(tenor)
+(basis)
+Pkl
+(tranche)
+Pkl
+=
+× Pkl
+× Pkl
+where,
+(1) Pkl
+(tranche)
+equals 100 percent where the two delta sensitivities to risk factors k and l
+are within the same bucket and related to the same tranche, with more than 80 percent overlap in
+notional terms and 40 percent otherwise;
+(2) Pkl
+(tenor

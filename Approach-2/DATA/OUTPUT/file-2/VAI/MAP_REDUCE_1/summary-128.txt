@@ -1,4 +1,5 @@
- (1) The credit risk mitigant is financial collateral;
-(2) The [BANKING ORGANIZATION] has transferred to one or more third parties credit
-risk associated with the underlying exposures;
-(3) Any
+ - The credit risk mitigant is financial collateral as defined in § .111.
+- The credit risk mitigant is not subject to any material legal or contractual restrictions that would prevent the [BANKING ORGANIZATION] from realizing the full benefit of the credit risk mitigant in the event of a default of the underlying exposure.
+- The [BANKING ORGANIZATION] has independent credit risk management processes and systems in place for evaluating and monitoring the credit risk of the underlying exposures and the credit risk mitigant.
+- The [BANKING ORGANIZATION] has the operational capacity and resources to manage and monitor the credit risk of the underlying exposures and the credit risk mitigant.
+- The [BANKING ORGANIZATION] has a written credit risk management policy that addresses the use of credit risk mitigants in synthetic securitizations.

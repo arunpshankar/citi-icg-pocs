@@ -1,5 +1,5 @@
- 1. The proposal expands the application of the countercyclical capital buffer and supplementary leverage ratio to banking organizations subject to Category IV capital standards.
-2. The proposal would modify how the countercyclical capital buffer amount is determined to reflect the proposed changes to market risk capital requirements.
-3. The proposal would also expand application of the supplementary leverage ratio requirement to banking organizations subject to Category IV capital standards.
-4. The proposal would require large banking organizations to calculate total risk-weighted assets under two approaches: (1) the expanded risk-based approach, and (2) the standardized approach.
-5. The proposal would introduce an "output floor" to the calculation of expanded total risk-weighted assets.
+ - The proposal would expand the application of the countercyclical capital buffer and supplementary leverage ratio to banking organizations subject to Category IV capital standards.
+- The countercyclical capital buffer is a macroprudential tool that can be used to increase the resilience of the financial system by increasing capital requirements for large banking organizations during a period of elevated risk of above-normal losses.
+- The supplementary leverage ratio measures tier 1 capital relative to total leverage exposure, which includes on-balance sheet assets and certain off-balance sheet exposures.
+- The proposal would require large banking organizations to calculate total risk-weighted assets under two approaches: (1) the expanded risk-based approach, and (2) the standardized approach.
+- The proposal would introduce an "output floor" to the calculation of expanded total risk-weighted assets. This output floor would correspond to 72.5 percent of the sum of a banking organization's credit risk-weighted assets, equity risk-weighted assets, operational risk-weighted assets, and CVA risk-weighted assets under the expanded risk-based approach and risk-weighted assets calculated using the standardized measure for market risk.

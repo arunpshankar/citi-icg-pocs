@@ -1,5 +1,17 @@
- 1. Section 217.1 is amended to remove the definition of "advanced approaches Board-regulated institution" and add a definition of "Board-regulated institution subject to subpart E of this part".
-2. Section 217.2 is amended to remove the words "advanced approaches total risk-weighted assets" and add the words "expanded total risk-weighted assets".
-3. Section 217.22 is amended to remove the words "advanced approaches banking organizations” and add the words “banking organizations subject to subpart E of the agencies' capital rule”.
-4. Section 217.34 is amended to remove the reference to "§ 217.133" and add a reference to "§ 217.114".
-5. Appendix A to part 217 is amended to remove the words "advanced approaches institutions" and add the words "institutions subject to subpart E of the agencies' capital rule".
+ - Section 217.35(a)(3);
+- Section 217.61;
+- Section 217.300(c).
+- Remove the words "advanced approaches Board-regulated institution" and add, in their
+place, the words “Board-regulated institution subject to subpart E of this part” in the following
+places:
+- Section 217.1;
+- Section 217.2;
+- Section 217.22(b)(1)(ii), (b)(1)(iii), (c)(1), (c)(2)(ii)(D), (c)(3)(ii), (c)(5)(iii), (d)(1),
+and (f);
+- Section 217.34;
+- Remove the words "advanced approaches total risk-weighted assets” and add, in their
+place, the words “expanded total risk-weighted assets" in the following places:
+- Section 217.1;
+- Section 217.10(d);
+- Section 217.22(g).
+- Remove the word "§ 2

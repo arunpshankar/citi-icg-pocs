@@ -1,5 +1,8 @@
- 1. The proposal introduces an averaging methodology to calculate the undrawn credit exposure amount for commitments without pre-set limits. 
-2. The averaging methodology uses an eight-quarter average balance and applies a multiplier of 10 to the average total drawn amount. 
-3. The proposal retains the current credit conversion factors for most exposures but revises the treatment of commitments by applying a 40% credit conversion factor to all commitments, except for unconditionally cancellable commitments, which would be subject to a 10% credit conversion factor. 
-4. The proposal expands the scope of banking organizations required to use the SA-CCR approach for calculating risk-weighted assets and makes technical revisions to SA-CCR, including the treatment of collateral held by a QCCP and collateral held in a bankruptcy-remote manner. 
-5. The proposal eliminates the internal models methodology as an available approach to calculate the exposure amount of derivative contracts.
+ - The averaging methodology would apply a multiplier of 10 to the average total drawn amount.
+- The averaging methodology uses an eight-quarter average balance to better reflect a borrower's credit usage.
+- The proposal would provide the same credit conversion factors in the current capital rule except with respect to commitments.
+- The proposal would modify the credit conversion factors applicable to commitments and simplify the treatment relative to the current standardized approach by no longer differentiating such factors by maturity.
+- Under the proposal, a commitment, regardless of the maturity of the facility, would be subject to a credit conversion factor of 40 percent, except for the unused portion of a commitment that is unconditionally cancelable by the banking organization, which would be subject to a credit conversion factor of 10 percent.
+- The proposal would expand the scope of banking organizations that would be required to use one of the approaches, SA-CCR, and make certain technical revisions to that approach.
+- The proposal would require institutions subject to Category III or IV capital standards to use the expanded risk-based approach, which includes the requirement to use SA-CCR, and would eliminate the internal models methodology as an available approach to calculate the exposure amount of derivative contracts.
+- The proposal would change how collateral

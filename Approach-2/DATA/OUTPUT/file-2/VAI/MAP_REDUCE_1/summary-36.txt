@@ -1,5 +1,11 @@
- 1. The proposal introduces a capital requirement for operational risk based on a standardized approach. 
-2. The current capital rule defines operational risk as the risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events. 
-3. The proposal would require banking organizations to calculate risk-weighted assets for operational risk using the standardized approach for operational risk. 
-4. The standardized approach for operational risk would be based on a bank's gross income and would be phased in over a five-year period. 
-5. The proposal would also require banking organizations to have a risk management framework in place to manage operational risk.
+ Key points of the article:
+
+* The proposal would introduce a capital requirement for operational risk based on a standardized approach.
+* The current capital rule defines operational risk as the risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events.
+* Operational risk includes legal risk but excludes strategic and reputational risk.
+* Experience shows that operational risk is inherent in all banking products, activities, processes, and systems.
+* Under the current capital rule, banking organizations subject to Category I or II capital standards are required to calculate risk-weighted assets for operational risk using the advanced measurement approach (AMA).
+* The proposal would replace the AMA with the standardized approach for operational risk.
+* The standardized approach would be based on a formula that uses a combination of factors, including the banking organization's gross income, total assets, and number of employees.
+* The proposal would also require banking organizations to hold a capital buffer for operational risk.
+* The capital buffer would be based on the banking organization's risk profile and would be designed to absorb losses from operational risk events.

@@ -1,13 +1,16 @@
- 1. A proposal is made to require banking organizations to apply a lower capital multiplier to modellable risk factors based on the number of exceptions in the entity-wide backtesting results. 
+ - A lower capital multiplier (mc) would be applied to the 60-day average estimated capital required for modellable risk factors, based on the number of exceptions in the entity-wide backtesting results.
 
 
-2. The backtesting requirements aim to measure the conservatism of forecasting assumptions and valuation methods in expected shortfall models. 
+- The proposed backtesting requirements would measure the conservatism of the forecasting assumptions and the valuation methods in the expected shortfall models used for determining risk-based capital requirements.
 
 
-3. A PLA add-on is proposed to reflect an additional capital requirement for deficiencies in the accuracy of a banking organization's internal models. 
+- A high number of exceptions could indicate modeling issues and warrant increased capital requirements.
 
 
-4. The proposal requires all banking organizations to use the standardized default risk capital requirement, regardless of the method used for non-default market risk factors. 
+- The proposed PLA add-on would require a banking organization's market risk capital requirement to reflect an additional capital requirement for deficiencies in the accuracy of a banking organization's internal models.
 
 
-5. The PLA test metrics are designed to measure the materiality of the simplifications in internal risk management models relative to front-office models.
+- The PLA test would require a banking organization to compare the daily profit and loss values produced by its internal risk management models (risk-theoretical profit and loss) against the hypothetical profit and loss produced by the front office models.
+
+
+- The proposal would allow, subject to approval by the primary Federal supervisor, a banking organization, for a model-eligible trading desk that holds a limited amount of securitization positions or correlation trading positions pursuant to its trading or hedging strategy, to include such positions for the purposes of the PLA tests.

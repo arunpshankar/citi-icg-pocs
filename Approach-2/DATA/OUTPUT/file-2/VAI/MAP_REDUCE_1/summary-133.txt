@@ -1,5 +1,2 @@
- 1. The risk-weighted asset amount of an equity exposure to an investment fund is determined using one of three approaches: full look-through approach, alternative modified look-through approach, or 1250% risk weight. 
-2. Under the full look-through approach, the risk-weighted asset amount is calculated as the adjusted carrying value multiplied by the risk weight, which is a function of the risk-weighted asset amounts of the investment fund's on-balance sheet and off-balance sheet exposures, as well as the derivative contracts held by the investment fund. 
-3. Under the alternative modified look-through approach, the risk-weighted asset amount is calculated similarly to the full look-through approach, but with certain modifications, such as assigning the investment fund's total assets to different risk weight categories based on the investment limits in the investment fund's prospectus. 
-4. If the [BANKING ORGANIZATION] does not have sufficient information to use either the full look-through approach or the alternative modified look-through approach, it must assign a risk-weighted asset amount equal to the adjusted carrying value of the equity exposure multiplied by a 1,250 percent risk weight. 
-5. To determine the risk
+ - For exposures to an investment fund that would meet the definition of a traditional
+securitization were it not for the applic

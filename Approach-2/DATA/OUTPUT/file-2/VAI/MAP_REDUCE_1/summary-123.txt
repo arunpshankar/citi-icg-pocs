@@ -1,1 +1,2 @@
- 1. A clearing member [BANKING ORGANIZATION] must calculate a risk-weighted asset amount for any collateral provided to a CCP, c
+ - Collateral posted by a clearing member client [BANKING ORGANIZATION] that is held by a custodian in a manner that is bankruptcy remote from the CCP, clearing member, and other clearing member clients of the clearing member, is not subject to a capital requirement.
+- A clearing member [BANKING ORGANIZATION] must calculate a risk-weighted asset amount for any collateral provided t

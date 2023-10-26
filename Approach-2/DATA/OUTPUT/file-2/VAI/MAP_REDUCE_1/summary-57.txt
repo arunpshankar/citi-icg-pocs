@@ -1,13 +1,8 @@
- 1. The agencies propose a standardized approach to calculating market risk capital requirements for banking organizations with less sophisticated risk management capabilities. 
+ Key points of the article:
 
-
-2. The standardized approach would replace the current value-at-risk (VaR)-based measure with an expected shortfall measure to capture tail risk. 
-
-
-3. The proposal also would limit the regulatory capital benefit of hedging and portfolio diversification across different asset classes, which generally dissipates in stress periods. 
-
-
-4. For banking organizations with more sophisticated risk management capabilities, the agencies propose a models-based measure for market risk capital requirements that would allow them to use their own internal models to calculate capital requirements, subject to certain conditions. 
-
-
-5. The proposal also includes a fallback capital requirement for situations when a banking organization is unable to calculate market risk capital requirements under either the standardized approach or the internal models approach.
+* The agencies are proposing a new standardized measure for market risk capital requirements.
+* The standardized measure would replace the current VaR-based measure with an expected shortfall measure to capture tail risk.
+* The standardized measure would also replace the fixed ten business-day liquidity horizon in subpart F of the current capital rule with ones that vary based on the underlying risk factors in order to adequately capture the market risk of less liquid positions.
+* The proposal also would limit the regulatory capital benefit of hedging and portfolio diversification across different asset classes, which generally dissipates in stress periods.
+* The agencies are seeking comment on all aspects of the models-based measure for market risk calculation, including the capital requirement for instances where the capital requirement under the internal models approach for model-eligible desks exceeds the amount required for such desks under the standardized approach.
+* The agencies are also seeking comment on the fallback capital requirement, which would apply in instances where a banking organization is not able to calculate market risk capital requirements under the standardized approach and the internal models approach, if eligible.

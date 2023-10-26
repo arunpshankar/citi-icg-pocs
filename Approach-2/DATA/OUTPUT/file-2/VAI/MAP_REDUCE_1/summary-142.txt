@@ -1,13 +1,9 @@
- 1. The definition of "market risk covered position" includes various financial instruments and exposures, such as debt securities, equity positions, and derivative instruments.
-
-
-2. A model-eligible trading desk is a trading desk approved by the agency to use internal models for calculating risk-weighted assets.
-
-
-3. A non-modellable risk factor is a risk factor that does not satisfy the risk factor eligibility test or does not have sufficient data to meet the requirements.
-
-
-4. A net short risk position is a position where the notional amounts of the short position exceed the notional amounts of the long position and arises from certain credit derivatives, internal risk transfers, or equity or credit positions.
-
-
-5. A non-securitization position is a market risk covered position that is not a securitization position or a correlation trading position and reacts primarily to changes in interest rates or credit spreads.
+ * Non-publicly traded equity position that is not an equity position in an investment fund.
+* Equity position in an investment fund that does not meet at least one of the two following criteria:
+    * The [BANKING ORGANIZATION] has access to the investment fund's prospectus, partnership agreement, or similar contract that defines the fund's permissible investments and investment limits and is able to use the look-through approach to calculate a market risk capital requirement for its proportional ownership share of each exposure held by the investment fund;
+    * The [BANKING ORGANIZATION] has access to the investment fund's prospectus, partnership agreement, or similar contract that defines the fund's permissible investments and investment limits and obtains daily price quotes for the investment fund.
+* Any position a [BANKING ORGANIZATION] holds with the intent to securitize.
+* A direct real estate holding.
+* A derivative instrument or an exposure to a fund that has material exposure to the instrument types described in paragraphs (2)(i) through (viii) of this definition as underlying assets.
+* A debt security, for which the [BANKING ORGANIZATION] elects the fair value option for purposes of asset and liability management.
+* A significant investment in the capital of uncons

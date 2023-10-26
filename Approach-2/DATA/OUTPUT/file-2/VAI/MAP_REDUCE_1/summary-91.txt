@@ -1,5 +1,17 @@
- 1. The table presents supervisory risk weights for various sectors and counterparty credit qualities.
-2. The agencies seek comment on the appropriateness of the proposed risk weights, particularly for financials, including government-backed financials.
-3. The agencies also seek comment on the treatment of public-sector entities and GSEs, and whether there are more appropriate ways to capture their counterparty credit risk.
-4. The CVA capital requirement has a risk-based capital component and a risk-hedging component.
-5. The agencies seek comment on the calculation of the exposure amount for standalone CVA counterparty-level capital requirement, and whether it poses particular issues for nonfinancial counterparties.
+ - The proposal includes a table of supervisory risk weights for different sectors and credit
+qualities of counterparties. The agencies request comment on the appropriateness of these
+risk weights, particularly for financials, including government-backed financials.
+- The agencies request comment on the appropriateness of treating the counterparty credit
+risks of public-sector entities and the GSEs in the same way as those of government-backed
+non-financials, education, and public administration.
+- The agencies propose to apply a 0.65 calibration factor in the formula setting the capital
+requirement under the BA-CVA to ensure that CVA risk capital requirements
+appropriately reflect CVA risk. The agencies request comment on this calibration factor
+and whether other levels should be considered.
+- The agencies propose to use the counterparty credit risk framework to calculate the
+exposure amount for standalone CVA counterparty-level capital requirement. The
+agencies request comment on this approach and whether it poses particular issues in the
+case of nonfinancial counterparties.
+- The agencies propose a formula for calculating the risk-based capital requirements for
+CVA risk after recognizing the risk mitigation benefits of eligible counterparty credit
+spread hedges. The agencies request comment on this formula and its components.

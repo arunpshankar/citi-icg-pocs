@@ -1,5 +1,8 @@
- 1. The ES-based measure is a risk measure that captures potential future losses.
-2. The ES-based measure is calculated for each business day at the trading desk level, at the aggregate level, and on the aggregate for each risk class for all model-eligible trading desks.
-3. The ES-based measure is calculated using a one-tail, 97.5th percentile confidence level.
-4. A liquidity horizon-adjusted ES-based measure is calculated from an ES-based measure at a base liquidity horizon of 10 days, with scaling applied to this base horizon result.
-5. The liquidity horizon-adjusted ES-based measure is used to calculate the non-default risk capital measure.
+ - The table in row (A) shows the standard bucketing approach for interest rate, foreign exchange and commodity risk factors with a single maturity dimension.
+- The table in row (B) shows the standard bucketing approach for interest rate, foreign exchange and commodity risk factors with several maturity dimensions.
+- The table in row (C) shows the standard bucketing approach for credit spread and equity risk factors with one or several maturity dimensions.
+- The table in row (D) shows the standard bucketing approach for any risk factors with one or several strike dimensions.
+- The table in row (E) shows the standard bucketing approach for expiry and strike dimensions of implied volatility risk factors (excluding those of interest rate swaptions).
+- The table in row (F) shows the standard bucketing approach for maturity, expiry and strike dimensions of implied volatility risk factors from options on swaps.
+- A real price observation must be counted in a single bucket based on the maturity or based on the probability that an option is “in the money" at maturity associated with the position.
+- The data used to calibrate the ES-based measure must allow the internal models used to calculate the ES-based measure to capture both idiosyncratic risk and systematic risk, if applicable

@@ -1,13 +1,8 @@
- 1. The proposal requires banking organizations to include exposure models for regulatory CVA calculation in their CVA risk management framework and define criteria to assess the models and their inputs.
+ Key points pertaining specifically to CVA exposure models:
 
-
-2. The proposal requires banking organizations to validate their CVA models, including exposure models, annually and conduct additional validation under certain circumstances.
-
-
-3. The proposal requires banking organizations to obtain current and historical market data that are either independent of the line of business or validated independently of the line of business, to be used as an input for an exposure model.
-
-
-4. The proposal provides a basic measure for CVA risk and a standardized measure for CVA risk.
-
-
-5. The proposal requires banking organizations to calculate the CVA capital requirement using either the basic measure for CVA risk or the standardized measure for CVA risk, and the total capital requirements for CVA risk would equal the CVA capital requirement multiplied by 12.5.
+- The proposal would require banking organizations to include exposure models for the regulatory CVA calculation in their CVA risk management framework.
+- The proposal would require banking organizations to define criteria on which to assess the exposure models and their inputs and have a written policy in place describing the process for assessing the performance of exposure models and for remedying unacceptable performance.
+- The proposal would require banking organizations to document the process for initial and ongoing validation of their models used for calculating regulatory CVA, including exposure models, with sufficient detail to enable a third party to understand the model's operations, limitations, and key assumptions.
+- The proposal would require banking organizations to validate, no less than annually, their CVA models including exposure models, and would account for other circumstances, such as a sudden change in market behavior, under which additional validation would need to be conducted more frequently.
+- The proposal would require banking organizations to sufficiently document how the validation is conducted with respect to data flows and portfolios, what analyses are used, and how representative counterparty portfolios are constructed.
+- The proposal would require banking organizations to test the pricing models used to calculate exposure for given paths of market risk factors against appropriate independent benchmarks for a wide

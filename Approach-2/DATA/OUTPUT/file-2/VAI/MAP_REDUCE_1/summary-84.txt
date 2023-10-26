@@ -1,5 +1,19 @@
- 1. The proposal requires a banking organization to apply the look-through approach when calculating capital requirements for equity positions in investment funds. 
-2. For equity positions in publicly traded real estate investment trusts, the proposal requires a banking organization to treat the exposures as a single exposure. 
-3. The proposal only allows a banking organization to use the internal models approach for equity positions in an investment fund for which the banking organization is able to identify the underlying positions held by the fund on a quarterly basis. 
-4. The proposal would permit a banking organization to include term repo-style transactions in market risk covered positions, where the transactions are marked to market and provided that it includes all of such term repo-style transactions in market risk covered positions consistently over time. 
-5. The proposal does not change the requirements under subpart F regarding public disclosure policy and attestation, the frequency of required disclosures, the location of disclosures, or the treatment of proprietary and confidential information.
+ - The agencies propose to require banking organizations to disclose the following
+quantitative information on a quarterly basis:
+  - Total market risk capital requirements, broken down by risk type (i.e., interest
+    rate risk, equity risk, commodity risk, foreign exchange risk, and credit spread
+    risk) and by business line (i.e., trading and banking).
+  - Standardized approach capital requirements for equity positions in investment
+    funds, broken down by the type of investment fund (e.g., private equity funds,
+    hedge funds, real estate investment trusts, and exchange-traded funds).
+  - Internal models approach capital requirements for equity positions in investment
+    funds, broken down by the type of investment fund and the type of internal
+    model used.
+  - Market risk capital requirements for term repo-style transactions, broken down
+    by the type of collateral and the maturity of the transaction.
+- The agencies also propose to require banking organizations to disclose the
+following qualitative information on an annual basis:
+  - A description of the banking organization's market risk management framework,
+    including the risk management tools and processes used to identify, measure,
+    monitor, and control market risk.
+  - A

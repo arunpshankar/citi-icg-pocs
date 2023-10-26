@@ -1,9 +1,8 @@
- 1. A global systemically important BHC must update the disclosures provided in Table 15 of this section in the event of a redemption, conversion, write down, or other material change in the nature of an existing instrument, but in no event less frequently than semiannually. 
-
-2. A global systemically important BHC must also disclose the full terms and conditions of all eligible debt securities. 
-
-3. Table 15 to §.162 provides the main features of regulatory capital instruments and of other TLAC-eligible instruments. 
-
-4. Subpart F establishes risk-based capital requirements for banking organizations with significant exposure to market risk and CVA risk. 
-
-5. The market risk capital requirements and related public disclosure requirements specified in § __.203 through § __.217 apply to a [BANKING ORGANIZATION] that meets one or more of the standards in paragraph (b)(1) of this section.
+ - A global systemically important BHC must update the disclosures provided in accordance with Table 15 of this section in the event of a redemption, conversion, write down, or other material change in the nature of an existing instrument, but in no event less frequently than semiannually. 
+- A global systemically important BHC also must disclose the full terms and conditions of all eligible debt securities. 
+- The table contains 35 qualitative disclosures for regulatory capital instruments and other TLAC-eligible instruments. 
+- Subpart F establishes risk-based capital requirements for banking organizations with significant exposure to market risk and CVA risk. 
+- The market risk capital requirements and related public disclosure requirements apply to a banking organization that meets one or more of the following standards: 
+ - The banking organization is a depository institution holding company that is a global systemically important BHC, Category II Board-regulated institution, Category III Board-regulated institution, or Category IV Board-regulated institution; or 
+ - A subsidiary of a holding company that is listed under paragraph (b)(1)(i)(A) of this section, provided that the subsidiary has engaged in trading activity over any of the four most recent quarters; or 
+ - The banking organization has

@@ -1,42 +1,5 @@
- (2)
-(iv)
-(B) With respect to a national bank or Federal savings association subject to subpart E of
-part 3 of this chapter, the supplementary leverage ratio; and
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-(3)
-(iv)
-(B) With respect to a national bank or Federal savings association subject to subpart E of
-part 3 of this chapter, the supplementary leverage ratio; and
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-§ 6.5 [Amended]
-31. In § 6.5, revise paragraphs (a)(1)(ii)(B), (a)(2)(ii)(B), (b)(1)(ii)(B), and (b)(2)(ii)(B)
-to read as follows:
-(a)
-(1)
-(ii)
-(B) With respect to a national bank or Federal savings association subject to subpart E of
-part 3 of this chapter, the supplementary leverage ratio; and
-*
-(2)
-(ii)
-(B) With respect to a national bank or
+ - The final rule implements the CECL transition provisions in the Dodd-Frank Act (DFA) and makes conforming changes to the risk-based capital rules. 
+- The final rule requires banking organizations to record a CECL allowance for all covered assets and exposures. 
+- The final rule also provides for a five-year phase-in of the impact of the CECL transition on the supplementary leverage ratio (SLR). 
+- Banking organizations will be required to increase their SLR by 75% of their CECL transitional amount in the first year of the transition period, 50% in the second year, and 25% in the third year. 
+- The final rule also makes conforming changes to the risk-based capital rules to ensure that the rules are consistent with the CECL transition provisions.

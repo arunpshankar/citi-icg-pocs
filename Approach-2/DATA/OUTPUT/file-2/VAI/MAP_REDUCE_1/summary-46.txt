@@ -1,9 +1,6 @@
- 1. The proposal retains the existing three-part structure of the definition of covered positions, with several modifications. 
-
-2. The proposal expands the definition of trading assets and trading liabilities that would be market risk covered positions to include any trading asset or trading liability that is held for the purpose of regular dealing or making a market in securities or other instruments. 
-
-3. The proposal includes as market risk covered positions certain positions or hedges of such positions regardless of whether the position is a trading asset or trading liability. 
-
-4. The proposal continues to allow a banking organization to exclude structural positions in a foreign currency from market risk covered positions with prior approval from its primary Federal supervisor. 
-
-5. The proposal excludes from market risk covered positions foreign exchange and commodity positions that are entered into for the purpose of hedging other positions that are not market risk covered positions.
+ - The proposal retains the structure and major elements of the existing definition of "covered position" with several modifications. 
+  - Expands the definition to explicitly include trading assets and trading liabilities held for the purpose of regular dealing or making a market in securities or other instruments. 
+  - Includes certain positions or hedges of such positions regardless of whether the position is a trading asset or trading liability, including foreign exchange and commodity positions. 
+  - Excludes structural positions in a foreign currency and foreign exchange and commodity positions that are part of a customer-related transaction. 
+  - Clarifies that positions that are free of restrictive covenants on their tradability or for which the material risk elements may be hedged by the banking organization in a two-way market are included. 
+  - Specifies that correlation trading positions and instruments resulting from securities underwriting commitments are included, but excludes purchases that are held to maturity or available for sale purposes.

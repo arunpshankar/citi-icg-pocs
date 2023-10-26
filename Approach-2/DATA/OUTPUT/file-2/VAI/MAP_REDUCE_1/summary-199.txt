@@ -1,2 +1,2 @@
- 1. The countercyclical capital buffer amount is an extension of the capital conservation buffer.
-2. The countercyclical capital buffer amount for a Board-regulated institution is determined by calculating the weighted average of the countercyclical capita
+ - The countercyclical capital buffer amount is an extension of the capital conservation buffer.
+- The amount of the countercyclical capital buffer is determined by calculating the weighted average of the countercyclical capital buffer amounts established 

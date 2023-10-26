@@ -1,5 +1,8 @@
- 1. The proposal requires banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.
-2. The proposal requires banking organizations to include defaulted and distressed market risk covered positions in only the standardized default risk capital requirement.
-3. For equity positions in an investment fund, the proposal allows banking organizations to apply the look-through approach under the standardized measure for market risk.
-4. For equity positions in an investment fund that closely tracks an index benchmark, the proposal allows banking organizations to treat the equity position as if it was the tracked index in calculating the delta, vega, and curvature capital requirements.
-5. For equity positions in an investment fund for which the banking organization is unable to use the look-through approach, the proposal allows the banking organization to calculate capital requirements in one of three ways under the standardized measure for market risk.
+ * The proposal requires banking organizations to calculate market risk capital requirements for securitization positions using the standardized approach or the fallback capital requirement.
+* The proposal addresses regulatory arbitrage concerns and deficiencies in the modelling of securitization positions.
+* The proposal requires banking organizations to include defaulted and distressed market risk covered positions in only the standardized default risk capital requirement.
+* The proposal caps the overall market risk capital requirement for defaulted, distressed, and securitization positions at the maximum loss of the position.
+* For equity positions in an investment fund, the proposal allows banking organizations to use the look-through approach to calculate a market risk capital requirement for its proportional ownership share of each exposure held by the investment fund.
+* For equity positions in an investment fund that closely tracks an index benchmark, the proposal allows banking organizations to treat the equity position as if it was the tracked index in calculating the delta, vega, and curvature capital requirements.
+* For equity positions in an investment fund that holds a listed and well-diversified index, the proposal allows banking organizations to calculate the delta, vega, and curvature capital requirements for the underlying index position using the treatment for indices and apply the look-through approach to the other underlying exposures of the investment fund.
+* For equity

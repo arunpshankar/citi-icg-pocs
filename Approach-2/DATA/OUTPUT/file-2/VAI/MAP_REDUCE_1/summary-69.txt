@@ -1,13 +1,9 @@
- 1. The agencies propose allowing banking organizations to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract. 
-
-
-2. The agencies seek comment on the appropriateness of the proposed treatment of GSE exposures and alternative methods to measure more appropriately the default risk associated with such positions. 
-
-
-3. The agencies propose not allowing banking organizations to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. They seek comment on alternative methods to measure more appropriately the default risk associated with such positions. 
-
-
-4. The agencies propose risk buckets and corresponding risk weights for non-securitization debt or equity positions and securitization positions non-CTP. They seek comment on the appropriateness of the proposed risk weights and granularity and alternative approaches for assigning risk weights. 
-
-
-5. The agencies propose netting and decomposition criteria for calculating the net default exposure for securitization positions non-CTP. They seek comment on alternative non-model-based methodologies that would conservatively recognize some hedging benefits but still capture the basis risk between non-identical positions.
+ - The agencies propose to allow banking organizations to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract. 
+- The agencies seek comment on the appropriateness of this proposal and any additional criteria that should be considered to further clarify the netting of gross default exposures. 
+- The agencies also seek comment on what positions, if any, should be allowed to net that would not exhibit default risk. 
+- The agencies propose not to allow banking organizations to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. 
+- The agencies seek comment on the appropriateness of this proposal and any alternative methods that should be considered to measure more appropriately the default risk associated with such positions. 
+- The agencies propose to define the default risk buckets and corresponding risk weights for non-securitization positions based on the definition for Investment Grade, in the agencies' existing capital rule and the proposed definitions of Speculative Grade and Sub-speculative Grade. 
+- The agencies seek comment on the appropriateness of the proposed risk weights and granularity in Table 1. 
+- Commenters are encouraged to provide specific details on the mechanics of and rationale for any suggested methodology. 
+- For securi

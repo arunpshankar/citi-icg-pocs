@@ -1,13 +1,13 @@
- 1. The proposal establishes minimum haircut floors for in-scope transactions, which are transactions with unregulated financial institutions that are not for providing financing. 
+ * The proposal establishes minimum haircut floors for in-scope transactions, which are transactions involving an unregulated financial institution where the banking organization lends cash, or securities, or borrows cash or securities. 
 
 
-2. The haircut floors are derived from observed historical price volatilities as well as existing market and central bank haircut conventions. 
+*  The haircut floors are intended to reflect the minimum amount of collateral banking organizations should receive when undertaking in-scope transactions with unregulated financial institutions. 
 
 
-3. In-scope transactions that do not meet the applicable minimum haircut floor would be treated as uncollateralized exposures. 
+*  The proposal would require a banking organization to compare the haircut (H) and a single-transaction or portfolio haircut floor (f) to determine whether an in-scope transaction or a netting set of in-scope transactions meets the relevant floor. 
 
 
-4. The proposal would require banking organizations to maintain sufficient written documentation to exempt transactions with an unregulated financial institution where the banking organization is seeking to borrow securities from an unregulated financial institution to meet a current or anticipated demand. 
+*  If H is less than f, then the banking organization may not recognize the risk-mitigating effects of any financial collateral that secures the exposure. 
 
 
-5. The proposal would not allow the banking organization to recognize the risk-mitigating benefits of the collateral and would require the banking organization to calculate the exposure amount of its repo-style transaction or eligible margin loan as if it had not received any collateral from its counterparty.
+*  The proposal includes a detailed description of how to calculate H and f for single cash-lent-for-security in-scope transactions, single security-for-security repo-style transactions, and netting sets of in-scope transactions.

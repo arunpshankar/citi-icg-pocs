@@ -1,14 +1,6 @@
- 1. The effective notional principal amount is not deducted from tier 1 capital under
-§§ 324.22(a), (c), or (d); and
-2. The FDIC-supervised institution does not exclude the PFE of the credit derivative or
-other similar instrument from the calculation of its total leverage exposure under paragraph
-(c)(2)(ii)(B) of this section;
-(v) The potential future exposure (PFE) for each unsettled transaction, as determined
-under § 324.113(g), in which the term C in § 324.113(g)(1) equals zero, and, for any
-counterparty that is not a commercial end-user, multiplied by 1.4;
-(vi) The fair value of any unsettled transaction;
-(vii) The mark-to-market value of any derivative contract that is not subject to a qualifying
-master netting agreement or the governing rules of a QCCP; and
-(viii) The mark-to-market value of any security that is subject to a repurchase or reverse
-repurchase transaction or a securities lending or borrowing transaction that qualifies for sales
-treatment under GA
+ - Revises footnote 10 of § 324.4 to update the definition of "total assets"
+- Amends § 324.10 by:
+ - Revising the definition of "supplementary leverage ratio" for FDIC-supervised institutions subject to subpart E
+ - Revising the calculation of total leverage exposure
+ - Revising the calculation of replacement cost for derivative contracts
+ - Revising the effective notional principal amount of a credit derivative

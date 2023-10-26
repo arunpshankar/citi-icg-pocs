@@ -1,13 +1,5 @@
- 1. The banking regulators propose to revise the capital requirements for large banking organizations and those with significant trading activity. 
-
-
-2. The proposed revisions aim to improve risk-based capital requirements, reduce complexity, enhance consistency, and facilitate effective supervisory and market assessments. 
-
-
-3. The proposal includes replacing current requirements that use internal models for credit and operational risk with standardized approaches. 
-
-
-4. It also replaces current market risk and credit valuation adjustment risk requirements with revised approaches. 
-
-
-5. The proposed revisions generally align with recent changes to international capital standards issued by the Basel Committee on Banking Supervision.
+ - The proposal revises the capital requirements for large banking organizations and banking organizations with significant trading activity.
+- It replaces the current requirements that include the use of banking organizations' internal models for credit risk and operational risk with standardized approaches.
+- It replaces the current market risk and credit valuation adjustment risk requirements with revised approaches.
+- The proposed revisions would be generally consistent with recent changes to international capital standards issued by the Basel Committee on Banking Supervision.
+- The proposal would not amend the capital requirements applicable to smaller, less complex banking organizations.

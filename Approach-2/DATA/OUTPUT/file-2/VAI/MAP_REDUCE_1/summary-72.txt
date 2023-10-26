@@ -1,13 +1,5 @@
- 1. The proposal generally requires a look-through approach for index instruments and multi-underlying options, but it allows for a single sensitivity for listed and well-diversified credit or equity indices.
-
-
-2. For multi-underlying options (including index options), the proposal permits, but does not require, a banking organization to apply the look-through approach required for delta and calculate the vega capital requirements based on the implied volatility of options on the underlying constituents.
-
-
-3. The proposal requires a banking organization to apply the look-through approach when calculating the standardized default risk capital requirement for multi-underlying options that are non-securitization debt or equity positions.
-
-
-4. The proposal would provide greater hedging recognition by allowing such instruments to net with single-name positions issued by the same company.
-
-
-5. The agencies seek comment on the proposed threshold of 75 percent for assigning a credit or equity index to the corresponding sector or the investment grade indices bucket, as well as on all aspects of the proposed treatment of index instruments and multi-underlying options under the standardized measure for market risk.
+ - The proposal generally requires a banking organization to apply a look-through approach when calculating market risk capital requirements for index instruments and multi-underlying options. 
+- For listed and well-diversified credit or equity indices, however, the proposal would allow a banking organization to treat the index as a single position and assign the sensitivity of the index to the relevant sector or index bucket based on a waterfall approach. 
+- The agencies seek comment on the proposed 75 percent threshold for assigning a credit or equity index to the corresponding sector or the investment grade indices bucket, as well as any potential challenges from requiring the look-through approach for all index instruments and multi-underlying options that are non-securitization debt or equity positions for the standardized default risk capital calculation. 
+- The internal models approach capital requirements for model-eligible trading desks (IMAG,A) would consist of four components: (1) the internally modelled capital calculation for modellable risk factors (IMCC); (2) the stressed expected shortfall for non-modellable risk factors (SES); (3) the standardized default risk capital requirement; and (4) the aggregate trading portfolio backtesting capital multiplier. 
+- The IMCC and SES would capture risk and distinguish between risk factors

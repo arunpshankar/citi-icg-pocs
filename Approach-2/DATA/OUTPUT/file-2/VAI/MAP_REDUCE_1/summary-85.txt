@@ -1,9 +1,24 @@
- The proposal eliminates existing quantitative disclosures for calculating risk-based capital requirements, but retains existing quantitative disclosures related to securitizations and adds a new quantitative disclosure requiring a comparison of VaR-based estimates to actual gains or losses. 
+ **Key points of the proposal for market risk capital rule**
 
-The proposal revises existing qualitative disclosures for material portfolios and adds new qualitative disclosures related to a banking organization's processes and policies for managing market risk. 
+* The proposal eliminates the existing quantitative disclosures related to the calculations of VaR and incremental and comprehensive risk capital requirements.
 
-In addition to public disclosure requirements, the proposal requires a banking organization to provide a quarterly public regulatory report of its measure for market risk and submit confidential supervisory reports containing backtesting and PLA testing data. 
 
-The proposal streamlines the definitions related to securitizations in subpart F with those in subparts D and E of the capital rule. 
+* The proposal retains existing quantitative disclosures related to the aggregate amount of on-balance sheet and off-balance sheet securitization positions by exposure type, as well as the aggregate amount of correlation trading positions.
 
-The proposal also makes technical amendments to the market risk rule to conform to the revisions made to the standardized approach in the Basel III framework.
+
+* The proposal adds a quantitative disclosure requiring a banking organization that uses the models-based measure for calculating market risk capital requirements to disclose a comparison of VaR-based estimates to actual gains or losses for each material portfolio of market risk covered positions with an analysis of important outliers.
+
+
+* The proposal retains the existing qualitative disclosures for material portfolios but with certain revisions reflecting the changes to the market risk framework under the proposal.
+
+
+* The proposal adds new qualitative disclosures related to a banking organization's processes and policies for managing market risk.
+
+
+* The proposal requires a banking organization to provide a quarterly public regulatory report of its measure for market risk.
+
+
+* The proposal requires a banking organization using the models-based measure to calculate market risk capital requirements to submit, via confidential regulatory reporting, data pertaining to its backtesting and PLA testing.
+
+
+* The proposal streamlines the definitions related to sec

@@ -1,5 +1,21 @@
- 1. The proposal requires banking organizations to include operational loss events incurred by acquired or merged entities in their calculation of total net operational losses. 
-2.  A formula is provided for calculating annual total net operational losses for missing years for merged or acquired entities. 
-3.  Banking organizations with five to nine years of loss data meeting the collection requirements would use as many years of loss data as available in the calculation. 
-4.  The internal loss multiplier would equal one if the years of loss data are less than five, but the primary federal supervisor may require higher capital requirements if deemed insufficient. 
-5.  Banking organizations may request supervisory approval to exclude operational loss events that are no longer relevant to their risk profile, subject to certain conditions.
+ Key Points:
+
+* The proposal includes a formula for calculating annual total net operational losses for merged or acquired entities for missing years.
+
+
+* The internal loss multiplier would equal one in cases where the number of years of loss data meeting the internal loss event data collection requirements is less than five years.
+
+
+* Banking organizations would be able to request supervisory approval to exclude operational loss events that are no longer relevant to their risk profile from the internal loss multiplier calculation.
+
+
+* The agencies would only consider providing supervisory approval for exclusions after operational losses have been included in a banking organization's total net operational losses for at least three years.
+
+
+* Banking organizations would continue to be required to collect operational loss event data.
+
+
+* The proposal would introduce a requirement that banking organizations collect descriptive information about the drivers or causes of operational loss events that result in a gross operational loss of $20,000 or more.
+
+
+* The proposal would not include certain data requirements included in the AMA, such as estimating operational risk exposure, collecting external operational loss event data, scenario analysis, and business, environment, and internal control factors.

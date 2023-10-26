@@ -1,13 +1,8 @@
- 1. A depository institution holding company, U.S. intermediate holding company, or state member bank that meets certain criteria are considered Category IV Board-regulated institutions. 
-
-
-2. Corporate exposure is an exposure to a company that is not a sovereign, a public sector entity, a Government-Sponsored Enterprise, a depository institution, a foreign bank, a credit union, a cleared transaction, a default fund contribution, a securitization exposure, an equity exposure, an unsettled transaction, a policy loan, a separate account, a Paycheck Protection Program covered loan, a real estate exposure, or a retail exposure. 
-
-
-3. CVA risk-weighted assets are the measure for CVA risk calculated under § 217.221(a) multiplied by 12.5. 
-
-
-4. Effective notional amount for an eligible guarantee or eligible credit derivative is the lesser of the contractual notional amount of the credit risk mitigant and the exposures amount of the hedged exposure, multiplied by the percentage coverage of the credit risk mitigant. 
-
-
-5. An eligible guarantee is a written guarantee that is either unconditional or a contingent obligation of the U.S. government or its agencies, covers all or a pro rata portion of all contractual
+ - A depository institution holding company that is a Category IV banking organization.
+- A U.S. intermediate holding company that is a Category IV banking organization.
+- A state member bank that is not a Category II or Category III Board-regulated institution and has: 
+  - $100 billion or more in total consolidated assets, or
+  - Is a subsidiary of a Category IV banking organization. 
+- Corporate exposure means an exposure to a company that is not a sovereign, a public sector entity, a depository institution, a foreign bank, a credit union, a GSE, a multi-lateral development bank, a cleared transaction, a default fund contribution, a securitization exposure, an equity exposure, an unsettled transaction, a policy loan, a separate account, a Paycheck Protection Program covered loan, a real estate exposure, or a retail exposure.
+- CVA risk-weighted assets are the measure for CVA risk calculated under § 217.221(a) multiplied by 12.5.
+- Effective notional amount for an eligible guarantee or eligible credit derivative is the lesser of the contractual notional amount of the credit risk mitigant and the exposures amount of the hedged exposure, multiplied by

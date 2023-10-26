@@ -1,5 +1,7 @@
- 1. The risk weight of a securitization exposure is calculated using the SEC-SA formula.
-2. RW FLOOR is 100% for resecuritization and NPL securitization exposures and 15% for all other securitization exposures.
-3. KA is calculated based on the outstanding balance of all underlying assets in the securitization and the outstanding balance of all tranches that rank senior or pari passu to the tranche that contains the securitization exposure.
-4. A [BANKING ORGANIZATION] must include the funded portion of any reserve account funded by the accumulated cash flows from the underlying exposures that is subordinated to the [BANKING ORGANIZATION]'s securitization exposure in the calculation of A and D.
-5. K1 is calculated based on the ratio of the sum of the outstanding balance of any underlying exposures of the securitization that are not securitization exposures and that meet certain criteria to the outstanding balance of all underlying exposures.
+ - Guarantees and Credit Derivatives Other Than nth-to-Default Credit Derivatives
+ - Protection Provider: The risk weight for a guarantee or credit derivative (other than an nth-to-default credit derivative) provided by a banking organization that covers the full amount or a pro rata share of a securitization exposure's principal and interest is calculated as if the banking organization held the portion of the reference exposure covered by the guarantee or credit derivative.
+ - Protection Purchaser: 
+   - A banking organization that purchases a credit derivative (other than an nth-to-default credit derivative) that is recognized as a credit risk mitigant is not required to compute a separate counterparty credit risk capital requirement.
+   - If a banking organization cannot or chooses not to recognize a purchased credit derivative as a credit risk mitigant, the banking organization must determine the exposure amount of the credit derivative. 
+     -  If the banking organization purchases credit protection from a counterparty that is not a securitization SPE, the banking organization must determine the risk weight for the exposure according to relevant risk weight section.
+     - If the banking organization purchases credit protection from a counterparty that is a securitization SPE, the banking organization must determine the risk weight for the exposure according

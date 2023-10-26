@@ -1,9 +1,14 @@
- 1. A [BANKING ORGANIZATION]'s capital requirement for market risk is the sum of the non-default risk capital requirement, PLA add-on, standardized approach capital requirement, SA all desks, SAG,A, fallback capital requirement, and capital add-ons. 
-
-2. The non-default risk capital requirement is calculated as the maximum of the average of the IMCC and SES, and the product of the capital multiplier and the average of the IMCC and SES. 
-
-3. The fallback capital requirement is the sum of the standardized approach capital requirement for certain market risk covered positions and the absolute value of the fair values of all other market risk covered positions. 
-
-4. A [BANKING ORGANIZATION] may make a re-designation of an exposure or position if it receives prior approval of senior management and documents the re-designation. 
-
-5. For each re-designation, a [BANKING ORGANIZATION] must calculate its capital add-on for re-designation as the higher of zero and the total capital requirement before the re-designation minus the total capital requirement after the re-designation.
+ - The capital requirement for market risk covered positions is the sum of:
+  - Non-default risk capital requirement
+  - PLA add-on
+  - Standardized approach capital requirement for market risk covered positions and term repo-style transactions elected to be included in market risk on model-ineligible trading desks
+  - Standardized approach capital requirement for market risk covered positions and term repo-style transactions elected to be included in market risk on all trading desks
+  - Standardized approach capital requirement for market risk covered positions and term repo-style transactions elected to be included in market risk on model-eligible trading desks
+  - Fallback capital requirement
+  - Capital add-ons for re-designations
+  - Capital add-on for ineligible positions on model-eligible trading desks
+  - Additional capital requirement established by the [AGENCY]
+- The fallback capital requirement is the sum of:
+  - The standardized approach capital requirement for any market risk covered positions for which the [BANKING ORGANIZATION] is able to calculate all parts of the standardized approach capital requirement
+  - The sum of the absolute value of the fair values of all other market risk covered positions that must be included in the fallback capital requirement
+- A [BANKING ORGANIZATION] may make a re

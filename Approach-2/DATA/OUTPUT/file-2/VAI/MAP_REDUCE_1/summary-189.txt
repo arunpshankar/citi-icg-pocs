@@ -1,10 +1,7 @@
- 1. A national bank or Federal savings association not subject to subpart E of this part must use the current exposure methodology (CEM) to calculate the exposure amount for all its OTC derivative contracts, unless the national bank or Federal savings association makes an election provided in paragraph (a)(1)(ii) of this section. 
+ - A national bank or Federal savings association subject to subpart E of this part must calculate the exposure amount for all its derivative contracts using SA-CCR in § 3.113 for purposes of standardized total risk-weighted assets. 
 
 
-2. A national bank or Federal savings association that is subject to subpart E of this part must calculate the exposure amount for all its derivative contracts using the standardized approach for counterparty credit risk (SA-CCR) in § 3.113 for purposes of standardized total risk-weighted assets. 
+- A national bank or Federal savings association subject to subpart E of this part must apply the treatment of cleared transactions under § 3.114 to its derivative contracts that are cleared transactions and to all default fund contributions associated with such derivative contracts for purposes of standardized total risk-weighted assets.
 
 
-3. A national bank or Federal savings association that is subject to subpart E of this part or a national bank or Federal savings association that is not subject to subpart E of this part and that has elected to use SA-CCR under § 3.34(a)(1) must apply § 3.114 to its derivative contracts that are cleared transactions rather than this section. 
-
-
-4. Sections 3.61 through 3.63 of this subpart establish public disclosure requirements related to the ca
+- With prior written approval of the OCC, for the period of t

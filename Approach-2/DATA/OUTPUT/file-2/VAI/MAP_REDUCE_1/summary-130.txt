@@ -1,5 +1,2 @@
- 1. The rule specifies capital requirements for securitization exposures. 
-2. A 1250% risk weight applies if the standardized approach is not used. 
-3. Overlapping exposures may use the highest risk-based capital treatment. 
-4. Implicit support requires capital deductions and public disclosure. 
-5. Small-business loans and leases on personal property transferred with retained contractual exposure are included in risk-weighted assets.
+ - The standardized approach for securitization exposures is a 1,250 percent risk weight.
+- Total risk-weighted assets for securitization exposures equals the sum of the risk-weighted asset am

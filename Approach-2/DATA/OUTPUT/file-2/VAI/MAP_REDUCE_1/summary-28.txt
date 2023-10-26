@@ -1,13 +1,7 @@
- 1. The attachment point calculation would include noncash assets in a reserve account and exclude interest rate and foreign exchange derivatives. 
-
-
-2. The definition of the W parameter would exclude underlying securitization exposures from the numerator for resecuritization exposures. 
-
-
-3. The delinquency-adjusted (KA) and non-adjusted (KG) weighted-average capital requirement would be modified for SEC-SA. 
-
-
-4. A supervisory parameter p of 1.0 would be applied to securitization exposures that are not resecuritization exposures and a supervisory parameter p of 1.5 to resecuritization exposures. 
-
-
-5. A risk weight floor of 15 percent would be applied to securitization exposures that are not resecuritization exposures.
+ - The attachment point (parameter A) of a securitization exposure equals the ratio of the current dollar amount of underlying exposures that are subordinated to the exposure of the banking organization to the current dollar amount of underlying exposures.
+- The proposal would modify the definition of attachment point so that it refers to the outstanding balance of the underlying assets in the pool rather than the current dollar value of the underlying exposures.
+- Parameter W, which is expressed as a decimal value between zero and one, reflects the proportion of underlying exposures that are not performing or are delinquent.
+- The proposal would apply a similar definition of parameter W for subpart E, but clarify that for resecuritization exposures, any underlying exposure that is a securitization exposure would only be included in the denominator of the ratio and would be excluded from the numerator of the ratio.
+- Under the proposal, Ka would reflect the delinquency-adjusted, weighted-average capital requirement of the underlying exposures and would be a function of KG and W.
+- KG would equal the weighted average total capital requirement of the underlying exposures, calculated using the risk weights according to subpart E of the proposed rule.
+- The proposal would apply a risk weight floor of 15 percent for securitization exposures that are not re

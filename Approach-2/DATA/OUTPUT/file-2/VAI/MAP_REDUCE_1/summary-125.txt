@@ -1,3 +1,3 @@
- This section of the regulation describes the rules for recognizing the credit risk mitigation benefits of eligible guarantees and eligible credit derivatives that are not nth-to-default credit derivatives. 
-
-A banking organization may recognize the credit risk mitigation benefits of an eligible guarantee or eligible c
+ - A [BANKING ORGANIZATION] may recognize the credit risk mitigation benefits of eligible guarantees and eligible credit derivatives that are not nth-to-default credit derivatives. 
+- The rules of recognition are that a [BANKING ORGANIZATION] may only recognize the credit risk mitigation benefits of eligible guarantees and eligible credit derivatives that are not nth-to-default credit derivatives. 
+- A [BANKING ORGANIZATION] may only recognize the credit risk mitigation benefits of an eligible credit derivative to hedge an exposure that is different from the credit derivative's reference exposure used for determining the derivative's cash settlement value, deliverable obligation, or occurrence of a credit event if the reference exposure ranks pari passu with, or is subordinated to, the hedged exposure; the reference exposure and the hedged exposure are to the same legal entity; and legally enforceable cross-default or cross-acceleration clauses are in place to ensure payments under the credit derivative are t

@@ -1,7 +1,9 @@
- 1. A model-eligible trading desk must conduct backtesting and PLA testing quarterly. 
-2. Backtesting compares actual and hypothetical profit and loss with the VaR-based measure. 
-3. PLA testing measures the potential impact of stressed market conditions on the trading desk. 
-4. The trading desk must provide 250 business days of backtesting and PLA test results to the 
-    regulator. 
-5. The regulator may rescind approval of a model-eligible trading desk if it no longer complies 
-    with the requirements.
+ - A model-eligible trading desk must conduct backtesting and PLA testing quarterly. 
+- Trading desk-level backtesting compares daily actual and hypothetical profit and loss with the VaR-based measure calculated by the internal models at the 97.5th and 99th percentiles. 
+- An exception for actual or hypothetical profit and loss occurs when the loss exceeds the corresponding VaR-based measure. 
+- PLA testing compares daily actual profit and loss with the daily stressed expected shortfall. 
+- PLA testing results in a green, yellow, or red zone. 
+- A trading desk must remain subject to the PLA add-on until it provides at least 250 business days of trading desk-level backtesting and PLA test results, produces results in the PLA test green zone, and passes trading desk-level backtesting. 
+- A banking organization must receive prior written approval from the agency before implementing any change to its trading desk structure that would result in a material change in its market risk capital requirement. 
+- A banking organization must promptly notify the agency when it makes any change to its trading desk structure that would result in a non-material change in its market risk capital requirement. 
+- The agency

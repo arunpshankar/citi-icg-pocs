@@ -1,5 +1,2 @@
- 1. The rule removes the reference to "bank or bank that is a Category III Board-regulated institution" and replaces it with "bank". 
-2. It revises the definition of "residential mortgage exposure" by removing the reference to "family; and". 
-3. It revises the definitions of "Category II Board-regulated institution" and "Category III Board-regulated institution" by removing references to specific paragraphs and replacing them with more general references. 
-4. It adds the definitions for "Category IV Board-regulated institution", "CVA risk-weighted assets", and "Expanded total risk-weighted assets". 
-5. It revises the definitions for "Corporate exposure," "Effective notional amount", "Eligible guarantee", "Exposure amount", "Market risk Board-regulated institution", "Netting set", "Net independent collateral amount", "Protection amount (P)", "Qualifying master netting agreement", "Speculative grade", "Standardized market risk-weighted assets", "Standardized total risk-weighted assets", "Sub-speculative grade", "Unregulated financial institution", and "Variation margin amount".
+ - Removes the words “bank or bank that is a Category III Board-regulated institution (as defined in § 217.2 of this chapter),” wherever they appear and adds, in their place, the word "bank,”.
+- A state member bank that controls or holds an interest in a f

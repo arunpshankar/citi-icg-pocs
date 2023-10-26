@@ -1,13 +1,14 @@
- 1. The proposal introduces a risk-weight floor of 100% for resecuritization exposures and NPL securitization exposures. 
-
-
-2.  Exceptions to the SEC-SA risk-based capital treatment for securitization exposures are proposed, including for nth-to-default credit derivatives and derivative contracts that do not provide credit enhancements.
-
-
-3.  A new treatment for certain interest rate or foreign exchange derivative contracts that qualify as securitization exposures is proposed.
-
-
-4.  The proposal introduces new provisions for overlapping exposures, allowing a banking organization to treat two non-overlapping securitization exposures as overlapping to the degree that the banking organization assumes that obligations with respect to one of the exposures covers obligations with respect to the other exposure.
-
-
-5.  A look-through approach for senior securitization exposures is proposed, allowing a banking organization to cap the risk weight applied to a senior securitization exposure that is not a resecuritization exposure at the weighted-average risk weight of the underlying exposures.
+ exposures.
+Question 68: What are the potential benefits and costs of the proposed look-through
+approach for senior securitization exposures? To what extent do banking organizations
+anticipate using the look-through approach?
+iii.
+Risk-weight floors for certain exposures
+The proposal would apply a risk-weight floor of 15 percent to all non-defaulted exposures
+that are not resecuritization exposures and are not NPL securitization exposures. The proposal
+would also apply a risk-weight floor of 20 percent to all exposures that are resecuritization
+exposures but are not NPL securitization exposures. The proposal would apply a risk-weight
+floor of 50 percent to all NPL securitization exposures.
+Question 69: What are the potential benefits and costs of the proposed risk-weight floors
+for certain exposures? To what extent do banking organizations anticipate the risk-weight
+floors to affect their risk-based capital requirements?

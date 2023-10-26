@@ -1,13 +1,11 @@
- 1. The proposal introduces enhanced operational requirements for banking organizations that use the internal models approach under the models-based measure for market risk. 
+ Key points of the article:
 
+1. The proposal requires a banking organization to receive prior written approval from its primary Federal supervisor for at least one trading desk to apply the internal models approach.
 
-2. These requirements include validation, documentation, model eligibility, ongoing eligibility, and changes to trading desk structure or internal models. 
+2. The approval process for internal models would be granted at the individual trading desk level.
 
-
-3. The proposal establishes a framework for initial approval of internal models, including criteria for trading desks to satisfy in order to be considered model-eligible. 
-
-
-4. Ongoing eligibility requirements include quarterly backtesting and PLA testing, and prior written approval from the primary Federal supervisor for any changes that could materially impact risk-weighted asset amounts or internal modelled capital calculations. 
-
-
-5. The proposal aims to ensure that internal models accurately capture market risk and are appropriate for the trading desks they are applied to.
+3. To receive approval as a model-eligible trading desk, the proposal would require a trading desk to satisfy one of the following criteria:
+  - Provide to the primary Federal supervisor at least 250 business days of backtesting and PLA test results for the trading desk.
+  - Provide at least 125 business days of backtesting and PLA test results for the trading desk and demonstrate to the satisfaction of the primary Federal supervisor that the internal models would be able to satisfy the backtesting and PLA requirements on an ongoing basis.
+  - Demonstrate that the trading desk consists of market risk covered positions similar to those of another trading desk that has received approval from the primary Federal supervisor and such other trading desk has provided at least 250 business days of backtesting and PLA results.
+  - Subject the trading desk to the PLA add-on until the desk provides at least 250 business days of backtesting and PLA test results that pass the trading

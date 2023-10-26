@@ -1,105 +1,163 @@
- SECTION 1: 
-The proposal would increase RWA for trading activities, raising required capital ratios by as much as 67 basis points. 
-
-The proposal would also affect large banking organizations through changes in the calculation of regulatory capital, TLAC, LTD, single counter-party credit limits, and method 2 GSIB scores. 
-
-The proposal would require banking organizations subject to Category III or IV capital standards to include AOCI in their regulatory capital. 
-
-SECTION 2: 
-The RWA changes would affect TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and the average LTD requirement by 2.0%. 
-
-The proposal eliminates the internal models method for calculating derivatives exposures, requiring all large banking organizations to use the standardized approach, which may result in higher derivative exposures and more stringent credit limits. 
-
-The RWA changes would decrease the method 2 scores of U.S. GSIBs by 32 points on average, reducing their GSIB capital surcharges by about 16 basis points. 
-
-The proposal makes technical corrections and clarifications to the capital rule, including updates to terminology, removal of expired provisions, and addressing errors. 
-
-The OCC proposes to revise the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard. 
-
-SECTION 3: 
-The proposal revises the definition of financial collateral, corrects errors in the capital rule, and makes technical amendments to the rule. 
-
-It also proposes to remove expired or obsolete provisions from the rule and amend the prompt corrective action provisions. 
-
-The proposal also makes conforming amendments to other Board rules that reference the capital rule. 
-
-The proposal would broaden the scope of application of the supplementary leverage ratio requirement. 
-
-The proposal also contains collections of information within the meaning of the Paperwork Reduction Act of 1995 (PRA). 
-
-SECTION 4: 
-The proposed rule contains revisions to information collections subject to the PRA. 
-
-The revisions would extend for three years the Reporting, Recordkeeping, and Disclosure Requirements Associated with Regulatory Capital Rules and Market Risk Capital Rules. 
-
-The Board would also revise and extend for three years the Financial Statements for Holding Companies, Capital Assessments and Stress Testing, and Systemic Risk Report. 
-
-The agencies, under the auspices of the FFIEC, would also propose related revisions to the Consolidated Reports of Condition and Income (Call Reports), Regulatory Capital Reporting for Institutions Subject to the Advanced Capital Adequacy Framework, and Market Risk Regulatory Report for Institutions Subject to the Market Risk Capital Rule. 
-
-Comments are invited on the necessity, accuracy, quality, utility, burden, and costs of the proposed revisions. 
-
-SECTION 5: 
-The proposal modifies reporting, recordkeeping, and disclosure requirements for regulatory capital rules. 
-
-It adds new requirements and revises existing ones. 
-
-It includes new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP, the management of hedged exposures during bankruptcy, reorganization, or restructuring, and the monitoring of operational risk. 
-
-It includes new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. 
-
-It revises existing disclosure requirements and adds new ones. 
-
-SECTION 6: 
-The OCC, Board, and FDIC are proposing to amend their respective market risk capital rules to implement the final rule issued by the Basel Committee on Banking Supervision (Basel Committee) in January 2019. 
-
-The Basel Committee's final rule revises the market risk framework, including the standardized approach, the internal models approach, and the trading book capital requirements. 
-
-The proposed amendments would align the agencies' market risk capital rules with the Basel Committee's final rule and would also make certain technical corrections and conforming changes to the agencies' rules. 
-
-The proposed amendments would reduce the overall number of disclosure requirements by 54 line items, including all quantitative disclosures, which are now included in regulatory reporting. 
-
-The estimated annual burden hours for the proposed amendments are 127,254 for the OCC, 89,622 for the Board, and 16,872 for the FDIC. 
-
-SECTION 7: 
-The agencies are proposing to amend their market risk information collections to reflect the proposed recordkeeping, disclosure, and reporting requirements associated with the proposed market risk capital requirements. 
-
-A banking organization subject to the proposed market risk capital requirements would have to provide public regulatory reports and receive prior written approval from its primary Federal supervisor for calculating market risk capital requirements using internal models. 
-
-The proposal would also include recordkeeping requirements for banking organizations subject to the credit valuation adjustment, such as having a clear documented hedging policy for CVA risk and documenting the initial and ongoing validation of models used for calculating regulatory CVA. 
-
-The Board is proposing to amend the FR Y-9C report form and instructions to align with the proposal, including revising Schedule HC-R, Part I, Regulatory Capital Components and Ratios, to align the calculation of regulatory capital for HCs subject to Category III and IV standards with the calculation for HCs subject to Category I and II standards. 
-
-The Board estimates that revisions to the FR Y-9C would increase the estimated annual burden by 49 hours. 
-
-SECTION 8: 
-The FR Y-14 reports collect data on balance sheet, income, losses, capital, and risk management practices from large firms. 
-
-The data is used to set firms' stress capital buffer requirements and support other supervisory efforts. 
-
-The proposed rule would revise the FR Y-14 reports to reflect changes to the capital rules. 
-
-The proposed rule would also make conforming changes to the FR Y-14 reports to reflect changes to the operational risk and credit risk mitigation rules. 
-
-The proposed changes would be effective for the July 31, 2025, as of date for the FR Y-14M, the September 30, 2025, as of date for the FR Y-14Q, and the December 31, 2025, as of date for the FR Y-14A. 
-
-SECTION 9: 
-The proposal specifies that TLAC risk-weighted asset buffer items be reported similarly to FR Y-9C and requires expanded risk-based approach firms to report certain capital ratios if binding. 
-
-The proposal eliminates the AOCI opt-out option for banking organizations subject to expanded risk-based standards. 
-
-The proposal revises regulatory capital deductions to align thresholds for expanded risk-based standards with other categories. 
-
-The proposal replaces references to the IRB approach in RWA schedules and specifies calculation methods for expanded risk-based standards. 
-
-The proposal introduces two market risk RWA methodologies, revises market risk RWA items, and adds items for model-ineligible desks and approved models. 
-
-SECTION 10: 
-Banking organizations are required to submit a complete history of operational losses at and above the institution's established collection threshold(s). 
-
-The collection and reporting threshold on Schedules E.1 and E.4 should be no greater than $20,000 on a nominal and net loss basis. 
-
-Insurance recoveries are excluded from the "Recovery Amount ($USD))" item in Schedule E.1 and added as the "Insurance Recovery Amount ($USD))" item. 
-
-Banking organizations subject to the advanced approaches framework report probability of default (PD), loss given default (LGD), expected loss given default (ELGD), and exposure at default (EAD) values on FR Y-14Q, Schedule A (Retail) and Schedule H (Wholesale). 
-
-The Board is proposing to amend the FR Y-15 form and instructions to align with the proposed capital rule. 
+ I. Introduction
+A. Overview of the Proposal
+  - The proposal modifies the regulatory capital requirements for large banking organizations and those with significant trading activity. 
+  - It replaces the current internal models approach for credit and operational risk with standardized approaches and revises market risk and credit valuation adjustment risk requirements. 
+  - The proposal is consistent with recent changes to international capital standards issued by the Basel Committee on Banking Supervision. 
+B. Use of Internal Models Under the
+Proposed Framework
+  - The proposal generally prohibits the use of internal models to calculate risk-weighted assets for credit risk and operational risk. 
+  - Standardized approaches will be used instead. 
+  - The proposal permits the use of internal models to calculate market risk capital requirements and CVA risk capital requirements, subject to certain conditions. 
+II. Scope of Application
+  - The proposal applies to banking organizations with total assets of $100 billion or more and their subsidiary depository institutions, as well as to banking organizations with significant trading activity. 
+  - The proposal would not have a significant economic impact on a substantial number of small entities supervised by the Board. 
+III. Proposed Changes to the Capital Rule
+A. Calculation of Capital Ratios and
+Application of Buffer Requirements
+  1. Standardized Output Floor
+     - The proposal establishes a standardized output floor of 75% for all banking organizations subject to the capital rule. 
+     - This means that a banking organization's risk-weighted assets cannot be less than 75% of what they would be under the standardized approaches. 
+  2. Stress Capital Buffer Requirement
+     - The proposal increases the stress capital buffer requirement from 2.5% to 3.0% for banking organizations with total assets of $250 billion or more. 
+     - The stress capital buffer requirement remains at 2.0% for banking organizations with total assets of less than $250 billion. 
+B. Definition of Capital
+  1. Accumulated Other Comprehensive
+     Income
+     - The proposal includes all AOCI components in common equity tier 1 capital elements. 
+  2. Regulatory Capital Deductions
+     - The proposal provides that banking organizations subject to Category III and Category IV standards would have the same deduction thresholds as banking organizations subject to Category I and II standards. 
+  3. Additional Definition of Capital
+     Adjustments
+     - The proposal makes a number of technical adjustments to the definition of capital, including updates to terminology, removal of expired transition provisions, and corrections to errors. 
+  4. Changes to the Definition of Tier 2
+     Capital Applicable to Large Banking
+     Organizations
+     - The proposal revises the definition of Tier 2 capital to exclude subordinated debt instruments that are not eligible for inclusion in Tier 2 capital under the Basel III framework. 
+C. Credit Risk
+  1. Due Diligence
+     - The proposal requires banking organizations to conduct due diligence on all exposures, including those to sovereigns, central banks, and other public sector entities. 
+  2. Proposed Risk Weights for Credit Risk
+     - The proposal revises the risk weights for certain exposures, including sovereign exposures, exposures to central banks and other public sector entities, and exposures to banks and other financial institutions. 
+  3. Off-Balance Sheet Exposures
+     - The proposal revises the capital treatment of off-balance sheet exposures, including guarantees, credit derivatives, and commitments. 
+  4. Derivatives
+     - The proposal replaces the current internal models approach for derivatives with a standardized approach. 
+  5. Credit Risk Mitigation
+     - The proposal revises the capital treatment of credit risk mitigation techniques, including guarantees, credit derivatives, and collateral. 
+D. Securitization Framework
+  1. Operational Requirements
+     - The proposal requires banking organizations to have policies and procedures in place to manage the risks associated with securitization exposures. 
+  2. Securitization Standardized Approach
+     (SEC–SA)
+     - The proposal introduces a new standardized approach for calculating the risk-weighted assets of securitization exposures. 
+  3. Exceptions to the SEC–SA Risk-Based
+     Capital Treatment for Securitization
+     Exposures
+     - The proposal provides a number of exceptions to the SEC–SA risk-based capital treatment for securitization exposures, including for exposures to certain high-quality securitizations and exposures that are fully guaranteed by a sovereign or central bank. 
+  4. Credit Risk Mitigation for Securitization
+     Exposures
+     - The proposal revises the capital treatment of credit risk mitigation techniques for securitization exposures, including guarantees, credit derivatives, and collateral. 
+E. Equity Exposures
+  1. Risk-Weighted Asset Amount
+     - The proposal revises the risk-weighted asset amount for equity exposures, including common stock, preferred stock, and other equity instruments. 
+F. Operational Risk
+  1. Business Indicator
+     - The proposal revises the definition of the business indicator, which is used to calculate the operational risk capital requirement. 
+  2. Business Indicator Component
+     - The proposal revises the calculation of the business indicator component, which is a component of the business indicator. 
+  3. Internal Loss Multiplier
+     - The proposal revises the calculation of the internal loss multiplier, which is a component of the operational risk capital requirement. 
+  4. Operational Risk Management and Data
+     Collection Requirements
+     - The proposal revises the operational risk management and data collection requirements for banking organizations. 
+G. Disclosure Requirements
+  1. Proposed Disclosure Requirements
+     - The proposal requires banking organizations to make certain disclosures about their capital structure, capital adequacy, risk management, and other financial information. 
+  2. Specific Public Disclosure Requirements
+     - The proposal requires banking organizations to make specific public disclosures about their risk-weighted assets, capital ratios, and other financial information. 
+H. Market Risk
+  1. Background
+     - The proposal revises the market risk capital requirements to align them with the revised market risk framework issued by the Basel Committee on Banking Supervision. 
+  2. Scope and Application of the Proposed
+     Rule
+     - The proposal applies to banking organizations with significant exposure to market risk. 
+  3. Market Risk Covered Position
+     - The proposal defines a market risk covered position as a position that is subject to market risk. 
+  4. Internal Risk Transfers
+     - The proposal permits banking organizations to transfer market risk internally, subject to certain conditions. 
+  5. General Requirements for Market Risk
+     - The proposal establishes general requirements for market risk management, including requirements for risk management policies and procedures, stress testing, and internal controls. 
+  6. Measure for Market Risk
+     - The proposal establishes a measure for market risk that is based on the sum of the sensitivities-based capital requirement, the standardized default risk capital requirement, and the residual risk add-on. 
+  7. Standardized Measure for Market Risk
+     - The proposal establishes a standardized measure for market risk that is based on the sum of the sensitivities-based capital requirement, the standardized default risk capital requirement, and the residual risk add-on. 
+  8. Models-Based Measure for Market Risk
+     - The proposal establishes a models-based measure for market risk that is based on the sum of the non-default risk capital requirement, the profit and loss attribution (PLA) add-on, the stressed add-on (SA), and the fallback capital requirement. 
+  9. Treatment of Certain Market Risk
+     Covered Positions
+     - The proposal provides special treatment for certain market risk covered positions, such as positions that are hedged with an eligible hedge. 
+  10. Reporting and Disclosure Requirements
+     - The proposal requires banking organizations to report and disclose information about their market risk exposures. 
+  11. Technical Amendments
+     - The proposal makes a number of technical amendments to the market risk capital requirements. 
+I. Credit Valuation Adjustment Risk
+  1. Background
+     - The proposal revises the CVA risk capital requirements to align them with the revised CVA risk framework issued by the Basel Committee on Banking Supervision. 
+  2. Scope of Application
+     - The proposal applies to banking organizations with significant exposure to CVA risk. 
+  3. CVA Risk Covered Positions and CVA
+     Hedges
+     - The proposal defines a CVA risk covered position as a position that is subject to CVA risk. 
+  4. General Risk Management Requirements
+     - The proposal establishes general requirements for CVA risk management, including requirements for risk management policies and procedures, stress testing, and internal controls. 
+  5. Measure for CVA Risk
+     - The proposal establishes a measure for CVA risk that is based on the sum of the sensitivities-based capital requirement, the standardized default risk capital requirement, and the residual risk add-on. 
+IV. Transition Provisions
+A. Transitions for Expanded Total Risk-Weighted Assets
+  - The proposal provides transition provisions for banking organizations that would experience a significant increase in their total risk-weighted assets as a result of the proposed changes. 
+B. AOCI Regulatory Capital Adjustments
+  - The proposal provides transition provisions for banking organizations that would experience a significant decrease in their regulatory capital as a result of the proposed changes to the treatment of AOCI. 
+V. Impact and Economic Analysis
+A. Scope and Data
+  - The proposal analyzes the impact of the proposed changes on banking organizations, including the impact on risk-weighted assets, capital ratios, lending activity, and trading activity. 
+B. Impact on Risk-Weighted Assets and
+Capital Requirements
+  - The proposal estimates that the average long-run effect of both proposed changes on domestic holding companies subject to Category III standards would be equivalent to a 4.6-percent and 3.8-percent relative increase in the common equity tier 1 and leverage capital requirements, respectively. 
+  - The RWA changes would affect the risk-based TLAC and LTD requirements for Category I bank holding companies, increasing the average TLAC requirement by 15.2% and the average LTD requirement by 2.0%. 
+C. Economic Impact on Lending Activity
+  - The proposal estimates that the proposed changes would have a small negative impact on lending activity. 
+D. Economic Impact on Trading Activity
+  - The proposal estimates that the proposed changes would have a significant negative impact on trading activity. 
+E. Additional Impact Considerations
+  - The proposal discusses additional impact considerations, such as the impact on competition, financial stability, and the global financial system. 
+VI. Technical Amendments to the Capital
+Rule
+A. Additional OCC Technical Amendments
+  - The OCC is proposing to revise the methodology for identifying national banks and Federal savings associations subject to the enhanced supplementary leverage ratio (eSLR) standard. 
+B. Additional FDIC Technical
+Amendments
+  - The FDIC is proposing to make a number of technical amendments to the capital rule, including updates to terminology, removal of expired transition provisions, and corrections to errors. 
+VII. Proposed Amendments to Related Rules
+and Related Proposals
+A. OCC Amendments
+  - The OCC is proposing to amend its regulations to implement the proposed changes to the capital rule. 
+B. Board Amendments
+  - The Board is proposing to amend its regulations to implement the proposed changes to the capital rule. 
+C. Related Proposals
+  - The proposal discusses related proposals that are being considered by other regulators. 
+VIII. Administrative Law Matters
+A. Paperwork Reduction Act
+  - The proposal has been submitted to OMB for review and approval under the Paperwork Reduction Act. 
+B. Regulatory Flexibility Act
+  - The proposal certifies that the proposed rule would not have a significant economic impact on a substantial number of small entities. 
+C. Plain Language
+  - The proposal is written in plain language to make it easier for the public to understand. 
+D. Riegle Community Development and
+Regulatory Improvement Act of 1994
+  - The proposal complies with the Riegle Community Development and Regulatory Improvement Act of 1994. 
+E. OCC Unfunded Mandates Reform Act of
+1995 Determination
+  - The OCC has determined that the proposal does not impose any unfunded mandates on state, local, or tribal governments. 
+F. Providing Accountability Through
+Transparency Act of 2023
+  - The proposal complies with the Providing Accountability Through Transparency Act of 2023.

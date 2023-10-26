@@ -1,15 +1,12 @@
- 1. The Black-Scholes-Merton option pricing model;
-2. A model that is based on the Black-Scholes-Merton option pricing model and that
-incorporates an adjustment for early exercise; or
-3. Another option pricing model that is approved by the [AGENCY].
-(b) Delta sensitivities. A [BANKING ORGANIZATION] must calculate delta
-sensitivities as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift in the level of a risk factor, assuming all other relevant risk factors are held at the
-current level.
-(c) Vega sensitivities. A [BANKING ORGANIZATION] must calculate vega
-sensitivities as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift in the volatility of a risk factor, assuming all other relevant risk factors are held at
-the current level.
-(d) Curvature scenarios. A [BANKING ORGANIZATION] must calculate curvature
-scenarios as the change in the value of a market risk covered position as a result of a 1 percent
-upward shift and a 1 percent downward shift in the level of a risk factor, assuming all other
+ - Key points related to curvature risk position calculation:
+  - The curvature capital requirement is calculated for each market risk covered position.
+  - Upward and downward shocks are applied to the risk factor to determine the net curvature risk position.
+  - The delta sensitivity is used to calculate the curvature risk position.
+  - The curvature bucket-level risk position is calculated by aggregating the net curvature risk positions within the bucket.
+  - The curvature capital requirement is calculated by aggregating the curvature bucket-level risk positions across buckets within each risk class.
+  - Three different values of the correlation parameters are used to calculate the delta capital requirement, the vega capital requirement, and the curvature capital requirement.
+- Key points related to sensitivities-based capital requirement:
+  - Delta sensitivities, vega sensitivities, and curvature scenarios are calculated to determine the capital requirement.
+  - Delta sensitivities are calculated based on the change in the value of a market risk covered position as a result of applying a specified shift to each risk factor.
+  - Vega sensitivities are calculated based on the change in the value of a market risk covered position as a result of applying a specified shift to the volatility of the underlying risk factor.
+  - Curvature scenarios are calculated based on the change in

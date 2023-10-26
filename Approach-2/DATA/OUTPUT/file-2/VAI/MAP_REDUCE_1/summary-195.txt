@@ -1,6 +1,4 @@
- (a) General. A Board-regulated institution must comply with the operational requirements in this section with respect to any exposure to a counterparty that is not a regulated financial institution.
-(b) Documentation. A Board-regulated institution must maintain written documentation of the terms and conditions of each transaction with a counterparty that is not a regulated financial institution.
-(c) Credit risk management. A Board-regulated institution must have a process in place to manage the credit risk of its exposures to counterparties that are not regulated financial institutions.
-(d) Credit limits. A Board-regulated institution must establish and maintain credit limits for each counterparty that is not a regulated financial institution.
-(e) Collateral. A Board-regulated institution must obtain collateral for its exposures to counterparties that are not regulated financial institutions.
-(f) Margin. A Board-regulated institution must obtain margin for its exposures to counterparties that are not regulated financial institutions.
+ - The market risk-weighted assets are calculated by multiplying the measure for market risk by 12.5.
+- The standardized market risk-weighted assets are calculated by multiplying the standardized measure for market risk by 12.5.
+- The standardized total risk-weighted assets are the sum of the total risk-weighted assets for general credit risk, cleared transactions and default fund contributions, unsettled transactions, securitization exposures, equity exposures, and market risk-weighted assets (for market risk Board-regulated institutions only), less any amount of the Board-regulated institution's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of "allocated transfer risk reserves."
+- The total credit risk-weighted assets are the sum of the total risk-weighted assets for general credit risk, cleared transactions and default fund contributions, unsettled transactions, and securitization exposures.

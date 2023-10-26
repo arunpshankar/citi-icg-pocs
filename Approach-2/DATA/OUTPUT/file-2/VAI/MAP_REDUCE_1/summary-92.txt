@@ -1,5 +1,9 @@
- 1. The initial hypothetical (IH) is the sum of the expected shortfalls of each index hedge, where each term is a product of the risk weight, minimum binding default probability, and the notional amount of the index hedge. 
-2. The supervisory risk weight for each index hedge is adjusted based on the constituents of the index, with a 0.7 factor applied to recognize diversification. 
-3. The standardized approach for CVA risk (SA-CVA) is an adaptation of the sensitivities-based method used in the standardized measure for market risk, with some exceptions. 
-4. Regulatory CVA is the sum of counterparty-level regulatory CVAs, which is an estimate of the market expectation of future loss in the event of a counterparty's default. 
-5. The proposal requires the use of market-implied PD, market-consensus ELGD, and simulated paths of discounted future exposure in calculating regulatory CVA.
+ Key points:
+
+- The proposal introduces a standardized approach for calculating risk-based capital requirements for index hedges and CVA risk.
+- For index hedges, the proposal assigns risk weights based on the constituents of the index and applies a diversification factor.
+- For CVA risk, the proposal uses a sensitivities-based method with some modifications, including reduced granularity of risk factors and a capital multiplier to account for model risk.
+- The proposal defines regulatory CVA as an estimate of the market expectation of future loss in the event of a counterparty's default.
+- The calculation of regulatory CVA requires inputs such as the term structure of market-implied PD, market-consensus ELGD, and simulated paths of discounted future exposure.
+- The proposal allows the use of proxies to estimate the term structure of market-implied PD for illiquid counterparties.
+- The proposal generally requires the use of the same market-consensus ELGD as the one used in calculations of the market-implied PD from the credit spreads.

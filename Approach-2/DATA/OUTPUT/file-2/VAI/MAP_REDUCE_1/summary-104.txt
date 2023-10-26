@@ -1,13 +1,11 @@
- 1. The proposal modifies reporting, recordkeeping, and disclosure requirements for regulatory capital rules. 
+ **Summary of Key Points**
 
+- The proposal would modify the reporting, recordkeeping, and disclosure requirements of the regulatory capital rules. 
 
-2. It adds new requirements and revises existing ones. 
+- The proposal would include new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP; the management of hedged exposures during bankruptcy, reorganization, or restructuring; and the monitoring of operational risk. 
 
+- The proposal would include new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. 
 
-3. It includes new recordkeeping requirements related to the legal status in bankruptcy of collateral posted to a QCCP, the management of hedged exposures during bankruptcy, reorganization, or restructuring, and the monitoring of operational risk. 
+- The proposal would also revise existing disclosure requirements and add new disclosure requirements. 
 
-
-4. It includes new reporting requirements related to the exclusion of certain operational loss data from a banking organization's operational risk calculation. 
-
-
-5. It revises existing disclosure requirements and adds new ones.
+- The estimated annual burden hours for the proposal are 77,001 (17,956 initial setup and 59,045 ongoing) for state nonmember banks, state savings associations, and certain subsidiaries of those entities, and 118,392 (4,371 initial setup and 114,021 ongoing) for FDIC-supervised institutions.

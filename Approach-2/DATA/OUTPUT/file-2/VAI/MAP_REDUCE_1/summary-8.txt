@@ -1,13 +1,5 @@
  1. The proposal introduces an expanded risk-based approach for credit risk applicable to large banking organizations. 
-
-
-2. The proposal retains many of the same definitions from the current capital rule, including sovereign, sovereign exposure, supranational entities, multilateral development bank, public sector entity, government-sponsored enterprise, other assets, and commitment. 
-
-
-3. The proposal would apply the same risk-weight treatment provided in the current standardized approach to certain on-balance sheet exposures, including exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, public sector entities (PSEs), and other assets. 
-
-
-4. The proposal would also apply the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures. 
-
-
-5. The proposal would introduce new definitions for defaulted exposures and defaulted real estate exposures.
+2. The proposal retains many of the same definitions from the current capital rule, including sovereign, sovereign exposure, supranational entities, multilateral development bank, public sector entity (PSE), government-sponsored enterprise (GSE), other assets, and a commitment. 
+3. The proposal applies the same risk-weight treatment provided in the current standardized approach for on-balance sheet exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, 49 public sector entities (PSEs), and other assets. 
+4. The proposal also applies the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures. 
+5. The proposal introduces the expanded risk-based approach for exposures to depository institutions, foreign banks, and credit unions; exposures to subordinated debt instruments, including those to GSE

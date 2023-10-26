@@ -1,5 +1,8 @@
- 1. The proposal requires banking organizations to separately calculate risk-based capital requirements for delta and vega using the specified steps. 
-2. Delta and vega risk factors are identified for each risk class, with specific treatment for counterparty credit spread risk and reference credit spread risk. 
-3. The proposal specifies the sensitivity calculations to measure the impact of risk factors on the aggregate regulatory CVA and eligible CVA hedges. 
-4. For vega risk factors, a banking organization should apply the shift to the relevant volatility used for generating risk factor simulation paths and, if applicable, the volatility used to price options. 
-5. The proposal allows the introduction of additional risk factors that directly correspond to qualified credit and equity indices, subject to certain conditions.
+ - The proposal requires banking organizations to separately calculate risk-based capital requirements for delta and vega using the specified steps.
+- A banking organization should always measure the sensitivity of regulatory CVA to vega risk factors, regardless of whether the CVA risk covered positions include positions with optionality.
+- The proposal specifies risk classes for delta and vega risk factors related to expected exposure under SA-CVA, which are generally consistent with those under the sensitivities-based method for market risk.
+- For credit spread risk, the proposal specifies two distinct risk classes: counterparty credit spread risk and reference credit spread risk.
+- Vega risk factor sensitivities of the aggregate regulatory CVA, in addition to delta risk factor sensitivities, should be computed for each of the five exposure-related risk classes, regardless of whether the portfolio includes options.
+- The proposal specifies the sensitivity calculations for delta and vega risk factors.
+- For CVA risk covered positions or eligible CVA hedges referencing an index, the proposal requires calculating sensitivities to all risk factors upon which the value of the index depends.
+- The SA-CVA allows introducing a set of additional risk factors that directly correspond to qualified credit and equity indices for counterparty credit spread risk, reference credit spread risk, and equity risk.

@@ -1,17 +1,19 @@
- (i) A [BANKING ORGANIZATION] must treat an index instrument as a single
-security; and
-(ii) A [BANKING ORGANIZATION] must treat a multi-underlying option as a single
-security.
-(2) For purposes of calculating the vega capital requirement under § __.206(c), a
-[BANKING ORGANIZATION] must treat each underlying instrument of an index instrument or
-multi-underlying option as a separate security.
+ - A [BANKING ORGANIZATION] must treat an index instrument as a single underlying
+instrument.
+- A [BANKING ORGANIZATION] must treat a multi-underlying option as a single
+underlying instrument.
+(2) For purposes of calculating the vega capital requirement under § ___.206(c), a
+[BANKING ORGANIZATION] must treat an index instrument as a portfolio of underlying
+instruments.
+(3) For purposes of calculating the vega capital requirement under § ___.206(c), a
+[BANKING ORGANIZATION] must treat a multi-underlying option as a portfolio of
+underlying instruments.
 (e) Treatment of equity positions in an investment fund in the standardized approach
 capital requirement. A [BANKING ORGANIZATION] must calculate the standardized
-approach capital requirement for equity positions in an investment fund by multiplying the
-market value of the equity position in the investment fund by the applicable risk weight
-specified in Table 2 of this section.
-TABLE 2 TO § __.205—RISK WEIGHTS FOR EQUITY POSITIONS IN AN INVESTMENT
-FUND
-Equity position in an investment fund Risk weight
-Equity position in an investment fund that is not a covered fund 100%
-Equity position in an investment fund that is a covered fund 20%
+approach capital requirement for equity positions in an investment fund on a quarterly basis.
+(f) Treatment of term repo-style transactions. A [BANKING ORGANIZATION] may
+exclude term repo-style transactions from the market risk capital requirement if the
+[BANKING ORGANIZATION] meets the following conditions:
+(1) The [BANKING ORGANIZATION] has a written policy that addresses the
+eligibility criteria for term repo-style transactions and the treatment of term repo-style
+transactions in

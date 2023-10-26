@@ -1,13 +1,10 @@
- 1. The proposal would require banking organizations to reflect potential losses from increases in CVA for OTC derivative contracts in risk-weighted assets. 
+ - The CVA risk capital requirements would apply to large banking organizations and their subsidiary depository institutions subject to Category I standards, and to large banking organizations subject to Category II, III or IV standards. 
 
 
-2. The proposal provides two measures for calculating CVA risk capital requirements: the basic measure for CVA risk and the standardized measure for CVA risk. 
+- The proposal would provide two measures for calculating CVA risk capital requirements: (1) the basic measure for CVA risk which includes the basic CVA approach (BA-CVA) capital requirement, which recognizes only the credit spread component of CVA risk and is similar to the current capital rule's simple CVA approach, and (2) a standardized measure for CVA risk which includes a new standardized CVA approach (SA-CVA) capital requirement and the basic CVA approach capital requirement. 
 
 
-3. The scope of application would apply CVA risk capital requirements to large, complex banking organizations. 
+- The SA-CVA would account for both credit spread and exposure components of CVA risk and would allow a banking organization to recognize hedges for the exposure component of CVA risk. 
 
 
-4. The proposal defines a CVA risk covered position as a derivative contract that is not a cleared transaction. 
-
-
-5. The proposal would allow a banking organization to choose to exclude an eligible credit derivative for which the banking organization recognizes credit risk mitigation benefits from the calculation of CVA risk.
+- The proposal would require a banking organization to receive a prior approval from the primary federal supervisor to calculate the CVA risk capital requirements under the standardized measure for CVA risk.

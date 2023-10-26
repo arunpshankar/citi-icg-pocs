@@ -1,9 +1,7 @@
- 1. Delta sensitivities are assigned to different buckets based on the type of risk, with different risk weights applied to each bucket. 
-
-2. For equity risk, delta sensitivities are further categorized into 13 buckets based on market capitalization and liquidity, with varying correlation parameters applied within and between buckets. 
-
-3. For commodity risk, delta sensitivities are assigned to 11 buckets based on the commodity type, with specific risk weights and correlation parameters applied within and between buckets. 
-
-4. For foreign exchange risk, buckets are established for each exchange rate between the currency of a market risk covered position and the reporting currency, with a risk weight of 8% applied to all foreign exchange risk. 
-
-5. Cross-bucket correlation parameters are applied to aggregate delta bucket-level risk positions within and across risk classes.
+ - The Pkl parameter is used to calculate the risk-weighted delta sensitivities for equity and commodity risk. 
+- For equity risk, Pkl is set at 99.9% when one delta sensitivity is to an equity spot price and the other delta sensitivity is to an equity repo rate, and both are related to the same equity issuer. 
+- When both delta sensitivities are to equity spot prices, or both delta sensitivities are to equity repo rates, Pkl varies depending on the bucket to which the delta sensitivities are assigned. 
+- For commodity risk, Pkl is set at 100% when the two delta sensitivities to risk factors k and l are identical, and the intra-bucket correlation parameters set out in Table 10 of this section otherwise. 
+- The cross-bucket correlation parameter Ybc is used to aggregate delta bucket-level risk positions across buckets within the equity and commodity risk classes. 
+- For equity risk, Ybc varies depending on the buckets to which the delta sensitivities are assigned. 
+- For commodity risk, Ybc is set at 20% if bucket b and bucket c fall within buckets 1 to 10 of Table 10 of this section, and 0%

@@ -1,2 +1,7 @@
- (v) For interest rate risk, use the correlation parameters in Table 2, with 99.9% for same tenor and curve, 40% for inflation curve, and 0% for cross-currency basis curve. 
-(vi) For credit spread risk for non-securitizations, establish buckets along credit quality and sector, use risk weights in Table 3, and use the correlation parameters specified.
+ - For purposes of aggregating risk-weighted delta sensitivities of interest rate risk within a bucket, a [BANKING ORGANIZATION] must use the specified correlation parameters.
+
+- For credit spread risk for non-securitizations, a [BANKING ORGANIZATION] must establish buckets along two dimensions, credit quality and sector.
+
+- For calculating risk weighted delta sensitivities for credit spread risk for non-securitizations, a [BANKING ORGANIZATION] must use the risk weights in Table 3 of this section. 
+
+- For purposes of aggregating risk weighted delta sensitivities of credit spread risk for non-securitizations within a bucket, a [BANKING ORGANIZATION] must use the specified correlation parameters.

@@ -1,13 +1,7 @@
- 1. The proposal revises the definition of financial collateral, corrects errors in the capital rule, and makes technical amendments to the rule. 
-
-
-2. It also proposes to remove expired or obsolete provisions from the rule and amend the prompt corrective action provisions. 
-
-
-3. The proposal also makes conforming amendments to other Board rules that reference the capital rule. 
-
-
-4. The proposal would broaden the scope of application of the supplementary leverage ratio requirement. 
-
-
-5. The proposal also contains collections of information within the meaning of the Paperwork Reduction Act of 1995 (PRA).
+ - The proposal revises the definition of financial collateral, corrects spelling and footnote errors, and removes expired or obsolete provisions. 
+- The proposal does not apply to intermediate holding companies of foreign banking organizations.
+- The proposal would broaden the scope of application of the supplementary leverage ratio requirement. 
+- The proposal aligns the definition of eligible guarantee with the definition of eligible guarantor. 
+- The proposal makes conforming changes to other Board rules that reference the capital rule. 
+- The proposal requires all banking organizations that file the FR Y-15 to report data for the total exposures systemic indicator. 
+- The proposal has been submitted to OMB for review and approval under the Paperwork Reduction Act.

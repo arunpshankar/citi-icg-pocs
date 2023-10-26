@@ -1,9 +1,3 @@
- 1. The supplementary leverage ratio for Board-regulated institutions subject to subpart E of this part is revised to 3 percent.
-
-2. Total leverage exposure is calculated as the sum of the mean of the on-balance sheet assets and the mean of the off-balance sheet exposures, minus applicable deductions.
-
-3. The PFE for each netting set to which the Board-regulated institution is a counterparty is determined under § 217.113(g), multiplied by 1.4 for any counterparty that is not a commercial end-user.
-
-4. The replacement cost of each derivative contract or single product netting set of derivative contracts to which the Board-regulated institution is a counterparty is calculated according to a specified formula, multiplied by 1.4 for any counterparty that is not a commercial end-user.
-
-5. The effective notional principal amount of a credit derivative, or other similar instrument, through 
+ - The minimum capital requirements for Board-regulated institutions are being revised.
+- A new supplementary leverage ratio of 3 percent is being introduced for Board-regulated institutions subject to subpart E of this part.
+- The standardized capital ratio calculations are being revised to exclude the value of securities received in security-for-security repo-style transactions, 

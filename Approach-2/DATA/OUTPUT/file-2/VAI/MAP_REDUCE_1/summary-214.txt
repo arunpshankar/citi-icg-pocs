@@ -1,7 +1,5 @@
- 1. An FDIC-supervised institution subject to subpart E of this part must make deductions from regulatory capital for DTAs, MSAs, significant investments in the capital of unconsolidated financial institutions in the form of common stock, and non-significant investments in the capital of unconsolidated financial institutions and investments in covered debt instruments. 
-
-2. The amount to be deducted is the greater of the amount of the investment or 10% of the sum of the FDIC-supervised institution's common equity tier 1 capital elements. 
-
-3. If the FDIC-supervised institution does not have a sufficient amount of a specific component of capital to effect the full amount of any deduction required, the FDIC-supervised institution must deduct the shortfall amount from the next higher (that is, more subordinated) component of regulatory capital. 
-
-4. With the prior written approval of the FDIC, for the period of time stipulated by the FDIC, an FDIC-s
+ - Deductions from regulatory capital are required for certain investments in the capital of unconsolidated financial institutions.
+- The amount of the deduction is based on the percentage of the investment to the FDIC-supervised institution's total capital.
+- Significant investments in the capital of unconsolidated financial institutions in the form of common stock are subject to a 10% common equity tier 1 capital deduction threshold.
+- Significant investments in the capital of unconsolidated financial institutions in the form of common stock are subject to a 15% common equity tier 1 capital deduction threshold.
+- If a FDIC-supervised institution does not have a sufficient amount of a specific component of capital to effect the full amount of any deduction from capital required, the FDIC-supervised institution must deduct the shortfall amount from the next higher (that is, more subordinated) component of regulatory capital.

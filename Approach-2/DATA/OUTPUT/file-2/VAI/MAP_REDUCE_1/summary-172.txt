@@ -1,5 +1,22 @@
- 1. Counterparty risk exposure amount is calculated based on netting sets with different multipliers for different counterparties.
-2. Khedged is calculated as a function of correlation parameter, CVA risk covered positions, single-name eligible CVA hedges, and index hedges.
-3. SNHc is calculated as a summation of products of correlation, risk weight, remaining maturity, notional amount, and discount factor.
-4. IH is calculated as a summation of products of risk weight, remaining maturity, notional amount, and discount factor for index hedges.
-5. HMAc is calculated as a summation of products of correlation, risk weight, remaining maturity, notional amount, and discount factor for single-name eligible CVA hedges.
+ - Khedged is calculated as follows:
+Khedged =
+2
+-
+(p. Σcse
+Σ (SCVAC - SNH) - IH) + (1 − p²) · Σ (SCVA¸ − SNH¸)² + ΣΗΛ
+− · —
+HMAC
+Where,
+(i) The correlation parameter, p, is defined in paragraph (a)(2)(i) of this section;
+(ii) Σc( ) refers to a summation across all counterparties, c, of CVA risk covered
+positions, SCVAČ, as defined in paragraph (a)(2)(iii) of this section;
+(iii) SNH is calculated as follows:
+C
+SNH₁ = (The RW MSN, BSN · DFS)
+h
+hec
+Where,
+(A) Σhec() refers to a summation across all single-name eligible CVA hedges, h, that
+the [BANKING ORGANIZATION] uses to hedge the CVA risk of counterparty, c;
+(B) The is the correlation between the credit spread of counterparty, c, and the credit
+spread of a single-name hedge, h, of counterparty, c,

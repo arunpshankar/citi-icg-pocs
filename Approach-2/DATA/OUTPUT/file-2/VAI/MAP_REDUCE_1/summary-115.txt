@@ -1,5 +1,14 @@
- 1. The risk weight of an exposure to a sovereign is based on the sovereign's credit risk category (CRC).
-2. A sovereign exposure with a CRC of 0-1 is assigned a risk weight of 20%.
-3. A sovereign exposure with a CRC of 2 is assigned a risk weight of 50%.
-4. A sovereign exposure with a CRC of 3 is assigned a risk weight of 100%.
-5. A sovereign exposure with a CRC of 4-7 is assigned a risk weight of 150%.
+ - Sovereign exposures: 
+ - 0-100% risk weight based on sovereign's credit risk category (CRC) or OECD membership status. 
+ - Certain sovereign exposures denominated in the sovereign's currency and subject to conditions may receive lower risk weight. 
+ - Sovereign default results in 150% risk weight. 
+ - Certain supranational entities and multilateral development banks (MDBs): 
+ - 0% risk weight. 
+ - Exposures to GSEs: 
+ - 20% risk weight, except for exposures to subordinated debt instruments which are generally 150% risk weight. 
+ - Exposures to a depository institution, a foreign bank, or a credit union: 
+ - Risk weight based on bank's credit risk category, unless otherwise specified. 
+ - Certain exposures to foreign banks may receive lower risk weight if denominated in local currency or are self-liquidating trade-related contingent items. 
+ - Exposures to public sector entities (PSEs): 
+ - U.S. PSEs: 20% risk weight for general obligation exposures and 50% risk weight for revenue obligation exposures. 
+ - Foreign PSEs: Risk weight based on

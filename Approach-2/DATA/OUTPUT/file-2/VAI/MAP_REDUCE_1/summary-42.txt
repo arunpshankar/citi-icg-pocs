@@ -1,5 +1,13 @@
- 1. The proposal requires banking organizations to collect information on operational loss events and report them to business unit management, senior management, and the board of directors. 
-2. The proposal also requires banking organizations to have processes to identify, measure, monitor, and control operational risk in their products, activities, processes, and systems. 
-3. The proposal revises certain existing qualitative disclosure requirements and introduces new and enhanced qualitative disclosure requirements related to the proposed revisions. 
-4. The proposal would remove most of the existing quantitative disclosures from the disclosure tables and include them in regulatory reporting forms instead. 
-5. The proposal would apply enhanced public disclosure and reporting requirements to all large banking organizations, bringing consistency across large banking organizations and promoting transparency for market participants.
+ - The proposal would require banking organizations to collect information on the drivers of operational loss events, with the level of detail of any descriptive information commensurate with the size of the gross loss amount.
+  - Advantages: 
+     - The collection of information on the drivers of operational loss events would allow banking organizations to better understand and manage their operational risk.
+     - The collection of information on the drivers of operational loss events would allow regulators to better understand and monitor the operational risk of banking organizations.
+  - Disadvantages: 
+     - The collection of information on the drivers of operational loss events could be costly and burdensome for banking organizations.
+     - The collection of information on the drivers of operational loss events could be difficult for banking organizations to implement.
+- The proposal would revise certain existing qualitative disclosure requirements and introduce new and enhanced qualitative disclosure requirements related to the proposed revisions described in this Supplementary Information.
+  - Advantages: 
+     - The revised and enhanced qualitative disclosure requirements would provide market participants with more information about the risk profile of banking organizations.
+     - The revised and enhanced qualitative disclosure requirements would help to support robust market discipline.
+  - Disadvantages: 
+     - The revised and enhanced qualitative disclosure requirements could be costly and burdensome for banking organizations.

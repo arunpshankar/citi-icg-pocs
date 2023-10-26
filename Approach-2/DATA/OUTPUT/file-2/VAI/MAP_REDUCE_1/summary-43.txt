@@ -1,11 +1,9 @@
- 1. The agencies are proposing to enhance the risk-based capital rules for market risk to
-better align with the Basel Committee's Fundamental Review of the Trading Book (FRTB). 
+ **Key points related to proposed rule on risk-based capital requirements for banking organizations**
 
-2. The proposal would replace the current value-at-risk (VaR)-based market risk capital
-framework with a new framework that includes stressed value-at-risk (SVaR) and incremental risk capital (IRC) requirements. 
-
-3. The proposal would also make changes to the internal models used to calculate market risk capital requirements, including requiring the use of more sophisticated models and data. 
-
-4. The proposal would also require banking organizations to disclose more information about their market risk exposures, including their SVaR and IRC requirements. 
-
-5. The proposal would also make changes to the market risk capital requirements for covered positions and trading positions.
+* The agencies are proposing a new risk-based capital framework for banking organizations that would replace the current framework.
+* The new framework would be based on the Basel III capital framework, which was developed by the Basel Committee on Banking Supervision (BCBS).
+* The new framework would make significant changes to the way that banking organizations calculate their risk-based capital requirements.
+* The new framework would be more risk-sensitive than the current framework, meaning that banking organizations would be required to hold more capital for riskier activities.
+* The new framework would also be more countercyclical, meaning that banking organizations would be required to hold more capital during periods of economic stress.
+* The agencies are also proposing a number of changes to the risk-based capital framework for banking organizations that are not based on the Basel III framework.
+* These changes include a new requirement for banking organizations to hold capital for operational risk, a new requirement for banking organizations to hold capital for credit valuation adjustment (CVA) risk, and a new requirement for banking organizations to hold capital for market risk.

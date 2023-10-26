@@ -1,13 +1,6 @@
- 1. The proposal eliminates the use of models for credit risk under the current capital rule and replaces certain methodologies for recognizing the risk-reducing benefits of financial collateral and eligible guarantees and credit derivatives. 
-
-
-2. For eligible guarantees and eligible credit derivatives, the proposal would permit banking organizations to use the substitution approach from subpart D of the current capital rule with a modification for eligible credit derivatives that do not include restructuring as a credit event. 
-
-
-3. For all collateralized transactions, the corporate issuer of any financial collateral in the form of a corporate debt security must have an outstanding publicly traded security or the corporate issuer must be controlled by a company that has an outstanding publicly traded security in order to be recognized. 
-
-
-4. For eligible margin loans and repo-style transactions, the proposal would also permit banking organizations to use the collateral haircut approach with standard supervisory market price volatility haircuts from subpart D with two proposed modifications to increase risk sensitivity. 
-
-
-5. The proposal would introduce minimum haircut floors for certain eligible margin loan and repo-style transactions with unregulated financial institutions that banking organizations must meet in order to recognize the risk-mitigation benefits of financial collateral.
+ - The proposal would eliminate the use of models for credit risk under the current capital rule and replace certain methodologies for recognizing the risk-reducing benefits of financial collateral and eligible guarantees and credit derivatives with standardized approaches. 
+ - For eligible guarantees and eligible credit derivatives, the proposal would permit banking organizations to use the substitution approach from subpart D of the current capital rule with a modification for eligible credit derivatives that do not include restructuring as a credit event. 
+ - For all collateralized transactions, the corporate issuer of any financial collateral in the form of a corporate debt security must have an outstanding publicly traded security or the corporate issuer must be controlled by a company that has an outstanding publicly traded security in order to be recognized. 
+ - For collateralized transactions where financial collateral secures exposures that are not derivative contracts or netting sets of derivative contracts, the proposal would permit banking organizations to use the simple approach from subpart D without any modification. 
+ - For eligible margin loans and repo-style transactions, the proposal would also permit banking organizations to use the collateral haircut approach with standard supervisory market price volatility haircuts from subpart D with two proposed modifications to increase risk sensitivity. 
+ - The proposal would introduce minimum haircut floors for certain eligible margin loan and repo-style transactions with unregulated financial institutions that banking organizations

@@ -1,13 +1,6 @@
- 1. The proposal specifies that TLAC risk-weighted asset buffer items be reported similarly to FR Y-9C and requires expanded risk-based approach firms to report certain capital ratios if binding. 
-
-
-2. The proposal eliminates the AOCI opt-out option for banking organizations subject to expanded risk-based standards. 
-
-
-3. The proposal revises regulatory capital deductions to align thresholds for expanded risk-based standards with other categories. 
-
-
-4. The proposal replaces references to the IRB approach in RWA schedules and specifies calculation methods for expanded risk-based standards. 
-
-
-5. The proposal introduces two market risk RWA methodologies, revises market risk RWA items, and adds items for model-ineligible desks and approved models.
+ - TLAC risk-weighted asset buffer: specify that these items be reported in the same manner as the corresponding item on FR Y-9C, Schedule HC-R (Regulatory Capital).
+- Accumulated Other Comprehensive Income (AOCI): banking organizations subject to Category III and IV standards would be required to include all AOCI components in common equity tier 1 capital elements.
+- Regulatory Capital Deductions: banking organizations subject to Category III and Category IV standards would have the same deduction thresholds as banking organization subject to Category I and II standards.
+- General RWAS: banking organizations subject to the advanced approaches framework are required to report the RWA amount based on the internal ratings-based (IRB) capital formula in Schedule A.1 (International Auto Loan) and Schedule A.2 (US Auto Loan) of the FR Y-14Q.
+- Market Risk RWAs: the Board proposes to introduce two methodologies for calculating market risk RWAs: the standardized measure and the models-based measure.
+- Operational Risk: the Board proposes several revisions to FR Y-14Q, Schedule E (Operational Risk) to align with the changes described in the proposed rule.

@@ -1,13 +1,8 @@
- 1. The proposal defines the construction and use of interest rate curves for the currency in which interest rate-sensitive market risk covered positions are denominated. 
-
-
-2. It also defines the delta, vega, and curvature risk factors for interest rate risk, credit spread risk, equity risk, and commodity risk. 
-
-
-3. For interest rate risk, the proposal requires the use of separate curves for onshore and offshore currencies, as well as for different interest rate curve types. 
-
-
-4. For credit spread risk, the proposal defines the delta, vega, and curvature risk factors for non-securitization positions, securitization positions that are not correlation trading positions, and correlation trading positions. 
-
-
-5. For equity risk, the proposal defines the delta, vega, and curvature risk factors for each issuer, and for commodity risk, the proposal defines the delta, vega, and curvature risk factors for each commodity type.
+ Key points:
+- The proposal defines the construction and use of interest rate curves for the currency in which interest rate-sensitive market risk covered positions are denominated. 
+- The proposal defines the delta, vega, and curvature risk factors for interest rate risk, credit spread risk, equity risk, and commodity risk. 
+- The proposal requires banking organizations to consider the inflation risk factor and the cross-currency basis risk factor, if applicable, in addition to the sensitivity for the other delta risk factors for the interest rate risk (currency, tenor and interest rate curve) of the market risk covered position. 
+- The proposal defines the vega risk factors for credit spread risk as the implied volatilities of options referencing the credit spreads, defined along one dimension: the option's maturity. 
+- The proposal defines the delta risk factors for equity risk as the spot prices of each equity (for example, for cash equity positions) and an equity repo rate (for example, for term repo-style transactions), as appropriate. 
+- The proposal defines the delta risk factors for commodity risk as the contracted delivery location of the commodity and the remaining maturity of the contract. 
+- The proposal defines the vega risk factors for commodity risk based on the implied volatilities

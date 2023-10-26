@@ -1,13 +1,7 @@
- 1. The expanded risk-based capital framework proposed by banking regulators in the United States would result in higher risk-weighted assets and capital requirements for large banking organizations.
-
-
-2. The new framework would replace the current standardized approach as the binding risk-based approach for most large banks, making capital requirements more sensitive to their specific risks.
-
-
-3. The proposal would increase the binding common equity tier 1 capital requirement by an estimated 16 percent for large holding companies, with smaller increases for other categories of depository institutions.
-
-
-4. While most large banking organizations already have enough capital to meet the proposed requirements, it could lead to an increase in equity capital funding maintained by these organizations.
-
-
-5. The agencies estimated that the proposal would increase risk-weighted assets associated with lending activities by $380 billion for holding companies subject to capital standards, but the benefits of a more resilient banking system outweigh the potential modest reduction in bank lending.
+ Key Points:
+- The expanded risk-based framework generally produces greater overall risk-weighted assets than either of the current approaches.
+- The most commonly binding capital requirement would shift from the current standardized approach to the expanded risk-based approach.
+- The proposal would increase binding common equity tier 1 capital requirements by an estimated 16 percent for large holding companies.
+- The proposal would likely result in an increase in equity capital funding maintained by large banking organizations.
+- The proposal's potential impact on lending is estimated to increase risk-weighted assets (RWA) associated with banking organizations' lending activities by $380 billion.
+- Increases in capital requirements in general should enhance the resilience of the banking system, supporting lending and economic activity in downturns.

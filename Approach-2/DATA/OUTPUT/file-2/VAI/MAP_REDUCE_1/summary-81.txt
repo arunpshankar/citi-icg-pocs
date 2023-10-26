@@ -1,13 +1,13 @@
- 1. The proposal introduces PLA test metrics, including the Spearman correlation and Kolmogorov-Smirnov metric, to assess the robustness of internal models. 
+ - The proposal introduces PLA test metrics, which are intended to support sound risk management by assessing the correlation and similarity between the daily risk-theoretical profit and loss and the hypothetical profit and loss for a model-eligible trading desk. 
 
 
-2.  Banking organizations must allocate model-eligible trading desks to PLA test zones based on the test results. 
+-  The PLA test metrics include the Spearman correlation coefficient and the Kolmogorov-Smirnov metric.
 
 
-3. The PLA add-on is calculated as the greater of zero and the capital benefit from the internal models approach, multiplied by a multiplication factor k. 
+-  Banking organizations are required to allocate each model-eligible trading desk to a PLA test zone based on the results of the PLA tests.
 
 
-4. The value of k gradually increases from 0 to 0.5 as the number of model-eligible trading desks within the amber zone increases. 
+-  The PLA add-on is calculated as the greater of zero and the aggregate capital benefit to the banking organization from the internal models approach, multiplied by a multiplication factor of k.
 
 
-5. The agencies seek comment on the PLA test metrics, the alignment of risk input data, the inclusion of non-modellable risk factors, and the calculation of the PLA add-on.
+-  The value of k gradually increases from 0 to 0.5 as the number of model-eligible trading desks within the amber zone increases.

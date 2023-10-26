@@ -1,13 +1,10 @@
- 1. The proposal requires banking organizations to define their trading desk structure and identify trading desks that are used for internal risk transfers and notional trading desks. 
-
-
-2. Notional trading desks must satisfy all general requirements for trading desks and those applicable for the models-based measure. 
-
-
-3. The proposal would require a banking organization to have clearly defined trading and hedging strategies for their trading positions that are approved by senior management. 
-
-
-4. The proposal would maintain certain operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation. 
-
-
-5. The proposal would strengthen a banking organization's prudent valuation practices by incorporating requirements that build on the agencies' overall regulatory framework for market risk management.
+ - A banking organization would be required to define its trading desk structure, which must define each trading desk and identify: 
+  - Model-eligible trading desks 
+  - Model-ineligible trading desks 
+  - Trading desks for internal risk transfers 
+  - Notional trading desks 
+- A banking organization would need to receive prior written approval from the primary Federal supervisor of its trading desk structure. 
+- The agencies would consider whether the level at which a banking organization is proposing to establish its trading desks is consistent with the level at which trading activities are actively managed and operated. 
+- The agencies would also consider whether the level at which the banking organization defines each trading desk is sufficiently granular to allow the banking organization and the primary Federal supervisor to assess the adequacy of the internal models used by the trading desk. 
+- The proposal would require a banking organization to have a clearly defined policy, approved by senior management, that describes the general strategy of the trading desk, the risk and position limits established for the trading desk, and the internal controls and governance structure established to oversee the risk-taking activities of the trading desk. 
+- The proposal would maintain certain operational requirements for active management of market risk covered positions, stress testing, control and oversight

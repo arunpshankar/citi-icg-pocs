@@ -1,5 +1,24 @@
- 1. Exposure models used in calculating regulatory CVA must be part of a risk management framework. 
-2. Senior management must oversee the risk control process. 
-3. An independent risk control unit must validate the models annually. 
-4. The models must be tested against benchmarks and reviewed internally. 
-5. A [BANKING ORGANIZATION] must define criteria to assess exposure models and their inputs and have a written policy to describe the process to assess the performance of exposure models and remedy unacceptable performance.
+ 2
+K = Σ K /² + Σ Σ (Ybc · K · K )
+bЄc
+bЄc cЄc,c#b
+(c) CVA vega capital requirement.
+(1) The CVA vega capital requirement equals the sum of the risk class-level CVA vega
+capital requirements calculated pursuant to paragraph (c)(4) of this section for each of the
+following six risk classes:
+(i) Interest rate risk;
+(ii) Foreign exchange risk;
+(iii) Counterparty credit spread risk;
+(iv) Reference credit spread risk;
+(v) Equity risk; and
+(vi) Commodity risk.
+(2) Net weighted sensitivity calculation. For each risk factor, k, specified in § _.225(a), a
+[BANKING ORGANIZATION] must:
+(i) Calculate the CVA vega sensitivity of aggregate regulatory CVA to the risk factor,
+SEVA, and the CVA vega sensitivity of the aggregate market value of standardized CVA hedges
+k
+to the risk factor, SHg, pursuant to paragraph (e) of this section.
+"
+Page 871 of 1089
+
+(ii)

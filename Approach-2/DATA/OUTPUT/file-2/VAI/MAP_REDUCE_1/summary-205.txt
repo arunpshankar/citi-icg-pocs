@@ -1,13 +1,7 @@
- 1. The definitions of "advanced approaches" are removed, and the definition of "regulatory capital ratio" is revised in the regulation. 
+ - The definitions of "advanced approaches" are removed from 12 CFR 238.130, 238.141, 252.12, and 252.42. 
 
 
-2. The regulatory capital ratio is defined as a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including applicable regulatory capital ratios calculated under 12 CFR part 217 and deductions required under 12 CFR 248.12. 
+- The definition of "regulatory capital ratio" is revised in 12 CFR 238.130, 238.141, 238.170, 252.12, and 252.42. The revised definition clarifies that the regulatory capital ratio is a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including, as applicable, any regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12. 
 
 
-3. For savings and loan holding companies, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
-
-
-4. For state member banks with over $250 billion in total consolidated assets, the regulatory capital ratios are calculated using either 12 CFR part 217, subpart D, or 12 CFR part 217, subpart E, whichever subpart resulted in the higher total risk-weighted assets as of the last day of the previous stress test cycle. 
-
-
-5. For U.S. banking organizations with $100 billion or more
+- In 12 CFR 238.141 and 252.12, the definition of "regulatory capital ratio" is further revised to specify that a savings and loan holding company or state member bank must calculate its regulatory capital ratios using either 12 CFR part 217, subpart D, or 12 CFR part 2

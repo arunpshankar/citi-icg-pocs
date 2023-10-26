@@ -1,13 +1,15 @@
- 1. The proposal introduces a standardized approach (SA-CVA) for calculating regulatory capital requirements for counterparty credit risk associated with derivative contracts. 
+ **Key points:**
+
+- The proposal requires a banking organization to generally assume that derivative contracts' seniority is the same as the seniority of senior unsecured bonds.
 
 
-2. The SA-CVA approach is based on the exposure models used by banking organizations for calculating CVA for financial reporting purposes, adjusted to meet regulatory requirements. 
+- The proposal would allow a banking organization to adjust the market-consensus ELGD to appropriately reflect the lower or higher losses arising from such exposures.
 
 
-3. The proposal also includes a sensitivities-based method for calculating the SA-CVA capital requirement, which is similar to the proposed sensitivities-based method for market risk. 
+- The proposal would require that these exposure models be subject to the same model calibration processes (with the exception of the margin period of risk, which would have to meet the regulatory floors), and use the same market and transaction data as the exposure models that the banking organization uses for calculating CVA for financial reporting purposes.
 
 
-4. The SA-CVA approach captures the effects of margining collateral and appropriately considers contractual features such as the nature of the margin agreement, frequency of margin calls, type of collateral, thresholds, independent amounts, initial margins, and minimum transfer amounts. 
+- The proposal would require that (1) simulated paths of discounted future exposure capture the effects of margining collateral that is recognized as a risk mitigant along each exposure path; and (2) the exposure model appropriately captures all the relevant contractual features such as the nature of the margin agreement (that is, unilateral versus bilateral), the frequency of margin calls, the type of collateral, thresholds, independent amounts, initial margins, and minimum transfer amounts.
 
 
-5. The proposal establishes applicable risk factors, methods for calculating sensitivities, shock sizes, and aggregation formulas to ensure consistency in the application of risk-based capital requirements across banking organizations.
+- The proposal would require a banking organization's exposure model to assume that the counterparty will not post or return any collateral within a certain time period immediately prior to that time, known as the margin

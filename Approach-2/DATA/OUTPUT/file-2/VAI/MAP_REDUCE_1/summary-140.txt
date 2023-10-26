@@ -1,5 +1,18 @@
- 1. The definition of eligible CVA hedge is provided, which can be used to mitigate CVA risk. 
-2. CVA risk is the risk of loss due to an increase in CVA resulting from the deterioration in the creditworthiness of a counterparty perceived by the market or changes in the exposure of CVA risk covered positions. 
-3. CVA risk covered position is defined as a position that is a derivative contract that is not a cleared transaction. 
-4. Delta risk is the risk of loss that could result from changes in the value of a position due to small changes in underlying risk factors. 
-5. Equity risk is the risk of loss that could arise from changes in underlying equity risk factors.
+ **Unordered Key Bullet Points**: 
+
+-  The definition of eligible CVA hedge under the CVA capital requirements. 
+-  The definition of exotic exposure under the market risk capital requirement. 
+-  The definition of expected shortfall under the market risk capital requirement. 
+-  The definition of exposure model under the CVA capital requirements. 
+-  The definition of external exposure under the CVA capital requirements. 
+-  The definition of failed trade under the market risk capital requirement. 
+-  The definition of financial institution under the market risk capital requirement. 
+-  The definition of foreign exchange rate risk under the market risk capital requirement. 
+-  The definition of forward rate agreement under the market risk capital requirement. 
+-  The definition of futures contract under the market risk capital requirement. 
+-  The definition of general obligation bond under the market risk capital requirement. 
+-  The definition of government agency under the market risk capital requirement. 
+-  The definition of government-sponsored enterprise under the market risk capital requirement. 
+-  The definition of guarantee under the market risk capital requirement. 
+-  The definition of haircut under the market risk capital requirement. 
+-

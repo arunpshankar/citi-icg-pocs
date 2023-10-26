@@ -1,13 +1,4 @@
- 1. The final rule implements the risk-based capital rules issued by the Basel Committee on Banking Supervision (Basel III) and endorsed by the Financial Stability Board (FSB). 
-
-
-2. The final rule revises the risk-weighted asset (RWA) framework for exposures to certain types of counterparties and exposures secured by financial collateral. 
-
-
-3. The final rule also revises the standardized approach for calculating RWA for derivative contracts and revises the treatment of cleared transactions. 
-
-
-4. The final rule implements the Basel III leverage ratio framework, which is a non-risk-based measure of capital adequacy. 
-
-
-5. The final rule revises the risk-based capital framework for exposures to securitizations and revises the definition of “well capitalized” for purposes of the risk-based capital rules.
+ - An FDIC-supervised institution not subject to subpart E of this part must use the current exposure methodology (CEM) described in paragraph (b) of this section to calculate the exposure amount for all its OTC derivative contracts, unless the FDIC-supervised institution makes the election provided in paragraph (a)(1)(ii) of this section.
+- An FDIC-supervised institution that is not subject to subpart E of this part may elect to calculate the exposure amount for all its OTC derivative contracts under the standardized approach for counterparty credit risk (SA-CCR) in § 324.113 by notifying the FDIC, rather than calculating the exposure amount for all its derivative contracts using CEM. 
+- An FDIC-supervised institution that is subject to subpart E of this part must calculate the exposure amount for all its derivative contracts using SA-CCR in § 324.113 for purposes of standardized total risk-weighted assets. 
+- An FDIC-supervised institution that is subject to subpart E of this part or an FDIC-supervised institution that is not subject to subpart E of this part and that has elected to use SA-CCR under § 324.34(a)(1) must apply

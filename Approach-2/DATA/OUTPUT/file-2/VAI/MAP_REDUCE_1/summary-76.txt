@@ -1,13 +1,16 @@
- 1. The IMCC for modellable risk factors is intended to capture potential losses from market risk covered positions on model-eligible trading desks during substantial market stress. 
+ - The proposal requires banking organizations to exclude risk factors that do not pass the risk factor eligibility test and data quality requirements from the expected shortfall model and subject them to the SES capital requirements for non-modellable risk factors.
 
 
-2. The proposal requires daily calculation of an expected shortfall-based measure for each risk class and across risk classes under stressed market conditions. 
+- The agencies request comment on the appropriateness of the proposed data quality requirements for modellable risk factors, the challenges they might pose for banking organizations, and any additional requirements that should be considered to ensure the data used to calculate the IMCC appropriately captures potential losses.
 
 
-3. Expected shortfall internal models must satisfy backtesting and PLA testing requirements, capture risks associated with options, and appropriately model the volatility surface. 
+- The agencies also request comment on the appropriateness of requiring banking organizations to update data inputs weekly, the challenges this might pose, and how concerns could be mitigated while ensuring the integrity of the data inputs.
 
 
-4. A banking organization may exclude non-modellable risk factors from expected shortfall-based internal models with approval from its primary Federal supervisor. 
+- The proposal requires banking organizations to re-estimate parameters in line with the frequency specified in their policies and procedures, and the agencies request comment on the challenges this might pose.
 
 
-5. The proposal allows the use of either the full set of modellable risk factors or an appropriate subset to estimate potential losses throughout a twelve-month stress period.
+- The proposal requires banking organizations to model the idiosyncratic risk of an issuer that satisfies the risk factor eligibility test and data quality requirements using data inputs for that issuer. The agencies request comment on the operational burden of this requirement and alternative approaches that could be considered, such as allowing banking organizations to use data from similar names.
+
+
+- The IMCC for modellable risk factors is intended to capture estimated losses for

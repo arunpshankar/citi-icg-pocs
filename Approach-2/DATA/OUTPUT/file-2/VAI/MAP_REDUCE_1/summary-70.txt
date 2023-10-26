@@ -1,9 +1,6 @@
- 1. The proposal introduces a standardized approach to calculate the default risk capital requirement for correlation trading positions. 
-
-2. The gross default exposure is measured as the position's market value, and the net default exposure is calculated by offsetting long and short exposures in specific cases. 
-
-3. Risk buckets are defined by index, and a bespoke correlation trading position is assigned to its own unique bucket unless it is substantially similar to an index instrument. 
-
-4. The risk weights corresponding to the proposed risk buckets are based on the treatment under either subpart D or subpart E of the capital rule. 
-
-5. A residual risk add-on capital requirement is proposed to capture exotic risks and other residual risks not fully reflected in the sensitivities-based capital requirement or the standardized default risk capital requirement.
+ * The proposal defines the gross default exposure for correlation trading positions as the position's market value. 
+* The proposal allows for the offsetting of gross long and short default exposures in specific cases, such as for positions that are otherwise identical except for maturity, for long and short exposures of tranches that are perfect replications of non-tranched correlation trading positions, for indices and single-name constituents in the indices through decomposition, for different series (non-tranched) of the same index through decomposition, and for different tranches of the same index and series through replication and decomposition. 
+* The proposal defines risk buckets by index, with each index comprising its own risk bucket. 
+* The risk weights corresponding to the proposed risk buckets for correlation trading positions are based on the treatment under either subpart D or subpart E of the capital rule. 
+* The total standardized default risk capital requirement for correlation trading positions would be calculated as the sum of the risk-bucket level capital requirements for the net long default exposures plus half of the sum of the risk-weighted exposures for the net short default exposures. 
+* The residual risk add-on capital requirement is intended to capture exotic risks, such as weather, longevity, and natural disasters, as well as other residual

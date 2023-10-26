@@ -1,5 +1,7 @@
- (1) The liquidity horizon is the period over which a [BANKING ORGANIZATION] measures the change in the risk factors. 
-(2) The liquidity horizon is determined by the type of risk factor and the maturity of the market risk covered position. 
-(3) A [BANKING ORGANIZATION] must update its input data for internal models used to calculate the ES-based measure no less frequently than quarterly. 
-(4) Internal models used to calculate the ES-based measure must address non-linearities, as well as correlation and relevant basis risks. 
-(5) A [BANKING ORGANIZATION] must consistently assign a liquidity horizon to each of its risk factors and map each of its risk factors to one of the risk factor categories and corresponding liquidity horizons in Table 2 of this section.
+ - The liquidity horizon (LH) is the length of time over which a position can be liquidated without significant market impact.
+- The time series of changes in risk factors over the base liquidity horizon T may be calculated using observations of price differentials from overlapping 10-day periods.
+- A [BANKING ORGANIZATION] must identify a 12-month period of stress over the observation horizon in which the [BANKING ORGANIZATION]'s market risk covered positions on model-eligible trading desks would experience the largest loss.
+- A [BANKING ORGANIZATION] must calibrate the liquidity horizon-adjusted ES-based measure to a period of stress for its entire portfolio of market risk covered positions (on model-eligible trading desks) using one of the two approaches set forth in this paragraph (6).
+- A [BANKING ORGANIZATION] must update its input data for internal models used to calculate the ES-based measure no less frequently than quarterly and reassess its input data whenever market prices are subject to material changes.
+- Internal models used to calculate the ES-based measure must address non-linearities, as well as correlation and relevant basis risks.
+- A [BANKING ORGANIZATION] may recognize empirical correlations within risk factor classes. Empirical correlations across risk factor classes are

@@ -1,13 +1,14 @@
- 1. Subparts E and F are amended to replace the existing text with new provisions.
-
-
-2. The amendments include removing and replacing certain terms and phrases, such as "[AGENCY]", "[BANKING ORGANIZATION]", "[REAL ESTATE LENDING GUIDELINES]", and "[APPRAISAL RULE]".
-
-
-3. The purpose and applicability section is revised to clarify that the subpart applies to certain categories of national banks and Federal savings associations based on their size and complexity.
-
-
-4. The risk-weighted assets for securitization exposures section is revised to clarify the capital treatment for transfers of small-business obligations with recourse.
-
-
-5. The CVA risk-based capital requirements are revised to apply to certain categories of national banks and Federal savings associations based on their size and complexity.
+ * Amendments to Subparts E and F:
+  - Removal and replacement of Subparts E and F
+  - Replacement of "[AGENCY]" with "OCC"
+  - Replacement of "[BANKING ORGANIZATION]" with "national bank or Federal savings association"
+  - Replacement of "[BANKING ORGANIZATION]'s" with "national bank's or Federal savings association's"
+  - Replacement of "[REAL ESTATE LENDING GUIDELINES]" with "12 CFR part 34, appendix A to subpart D"
+  - Replacement of "[APPRAISAL RULE]" with "12 CFR part 34, subpart C"
+  - Replacement of "[REGULATORY REPORT]" with "Call Report"
+  - Replacement of "_." with "3."
+* Amendments to § 3.100:
+  - Revision of paragraph (b)(1) to include national banks and Federal savings associations that are subsidiaries of global systemically important BHCs, Category II national banks or Federal savings associations, Category III national banks or Federal savings associations, or Category IV national banks or Federal savings associations.
+* Amendments to § 3.111:
+  - Removal of paragraph (j)(1)(i)
+  -

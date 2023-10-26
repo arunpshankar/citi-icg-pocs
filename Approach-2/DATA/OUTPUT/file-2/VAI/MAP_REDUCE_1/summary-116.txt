@@ -1,12 +1,15 @@
- 1. The risk weight for exposures to a QCCP that is an OECD bank is 20 percent. 
-2. The risk weight for exposures to a QCCP that is not an OECD bank is 50 percent. 
-3. The risk weight for exposures to a QCCP that is a non-bank affiliate of a banking organization is 100 percent. 
-4. The risk weight for exposures to a QCCP that is not a non-bank affiliate of a banking organization is 150 percent. 
-
-(4) A [BANKING ORGANIZATION] must assign a 150 percent risk weight to a corporate exposure that is not an exposure described in paragraphs (h)(1) through (3) of this section.
+ -  Unrated exposures to a QCCP. A [BANKING ORGANIZATION] must assign a 100
+percent risk weight to an unrated exposure to a QCCP.
+-  Investment-grade rated exposures to a QCCP. A [BANKING ORGANIZATION] must
+assign a 65 percent risk weight to an investment-grade rated exposure to a QCCP.
+-  Below investment-grade rated exposures to a QCCP. A [BANKING ORGANIZATION]
+must assign a 130 percent risk weight to a below investment-grade rated exposure to a QCCP.
+(4) A [BANKING ORGANIZATION] must assign a 150 percent risk weight to a corporate
+exposure that is not a project finance exposure, a project finance operational phase exposure, or
+an exposure to a QCCP.
 (i) Equity exposures. A [BANKING ORGANIZATION] must assign a 300 percent risk
 weight to an equity exposure.
 (j) Exposures to funds. A [BANKING ORGANIZATION] must assign a risk weight to
 an exposure to a fund according to the following:
-(1) Exposures to an open-end investment company. A [BANKING ORGANIZATION]
-must assign a risk weight to an exposure to an open-end investment company based on
+(1) Exposures to open-end funds. A [BANKING ORGANIZATION] must assign a risk
+weight

@@ -1,9 +1,9 @@
- 1. A banking organization may use an alternative modeling approach for calculating market risk capital requirements with prior approval from the [AGENCY]. 
-
-2. Equity positions in an investment fund where the underlying positions are not identifiable on a quarterly basis must be excluded from the calculation of IMAGA. 
-
-3. Term repo-style transactions can be included in market risk if certain conditions are met, such as marking to market and capturing market price and issuer-default risk. 
-
-4. Internal risk transfers can be used to hedge credit and interest rate risk, subject to certain criteria. 
-
-5. The sensitivities-based capital requirement is calculated by identifying market risks, determining relevant risk factors and buckets, and aggregating delta and vega sensitivities and curvature scenarios.
+ - A banking organization may elect to include term repo-style transactions in market risk if it meets certain conditions, including marking the transaction to market and capturing market price risk and issuer-default risk.
+- The banking organization must elect to include all of its term repo-style transactions in market risk and do so consistently over time.
+- The banking organization must recognize the credit risk mitigation benefits of collateral for term repo-style transactions included in market risk.
+- A banking organization may recognize the risk mitigation benefits of an external hedge under subpart D or subpart E of this part if the internal risk transfer meets the applicable criteria in this paragraph (h).
+- A banking organization may capitalize the trading desk segment of an eligible internal risk transfer as a market risk covered position.
+- A banking organization may consider the internal risk transfer of CVA risk to be an eligible internal risk transfer, if the following requirements are satisfied:
+  - The CVA segment of the transaction is an eligible CVA hedge;
+  - The documentation of the internal risk transfer of CVA risk identifies the CVA risk being hedged and the source(s) of such risk.
+  - If the internal risk transfer of CVA risk is subject to curvature risk, default risk, or the

@@ -1,5 +1,19 @@
- 1. A banking organization may not recognize diversification benefits across default risk categories. 
-2. The standardized default risk capital requirement for non-securitization debt or equity positions is the sum of the default risk capital requirement for each default risk category. 
-3. A banking organization must calculate the gross default exposure for each non-securitization debt or equity position. 
-4. A banking organization must assign LGD rates to non-securitization debt or equity positions based on the position's seniority and the credit quality of the reference exposure. 
-5. A banking organization must calculate the standardized default risk capital requirement for securitization positions non-CTP by summing the bucket-level default risk capital requirements.
+ - A [BANKING ORGANIZATION] may not recognize any diversification benefits
+across default risk categories. 
+- The overall standardized default risk capital requirement is the
+sum of the default risk capital requirement for each default risk category.
+- A [BANKING ORGANIZATION] must calculate the gross default exposure for each
+non-securitization debt or equity position.
+- A [BANKING ORGANIZATION] must assign LGD rates to non-securitization debt
+or equity positions as follows:
+ - 100 percent for equity and non-senior debt and defaulted positions;
+ - 75 percent for senior debt;
+ - 75 percent for GSE debt issued, but not guaranteed, by GSEs;
+ - 25 percent for GSE debt guaranteed by GSES;
+ - 25 percent for covered bonds; 
+ - Zero percent if the value of the non-securitization debt or equity position is not linked
+to the recovery rate of the defaulter.
+- To calculate the standardized default risk capital requirement for non-securitization
+debt or equity positions, a [BANKING ORGANIZATION] must assign each non-securitization
+debt or equity position to one of four buckets:
+ - Non-

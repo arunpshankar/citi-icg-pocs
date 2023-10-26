@@ -1,97 +1,20 @@
- (B) b equals:
-b
+ - 0.5 for counterparties with a PD less than or equal to 0.01;
+- 0.25 for counterparties with a PD greater than 0.01 but less than or equal to 0.1;
+- 0.1 for counterparties with a PD greater than 0.1 but less than or equal to 0.5; and
+- 0 for counterparties with a PD greater than 0.5;
+(B) MNS is the maturity netting set;
+(C) EADNS is the exposure at default for the netting set;
+(D) DFNS is the default probability for the netting set; and
+(E) RWC is the risk weight capital for the netting set;
+(iv) SEVA is equal to:
+SEVA
 =
+C
 1
-1
-+
-1
+RWC Σ (MNS • EAD NS DFNS)
 α
-(C) c equals:
-c
-=
-1
-1
-+
-1
-α
-(D) d equals:
-d
-=
-1
-1
-+
-1
-α
-(E) e equals:
-e
-=
-1
-1
-+
-1
-α
-(F) f equals:
-f
-=
-1
-1
-+
-1
-α
-(G) g equals:
-g
-=
-1
-1
-+
-1
-α
-(H) h equals:
-h
-=
-1
-1
-+
-1
-α
-(I) i equals:
-i
-=
-1
-1
-+
-1
-α
-(J) j equals:
-j
-=
-1
-1
-+
-1
-α
-(K) k equals:
-k
-=
-1
-1
-+
-1
-α
-(L) l equals:
-l
-=
-1
-1
-+
-1
-α
-(M) m equals:
-m
-=
-1
-1
-+
-1
-α
-(N) n
+NS
+Where,
+(A) a equals:
+- 0.5 for counterparties with a PD less than or equal to 0.01;
+- 0.25 for counterparties with a PD greater than 0.01 but less than or equal

@@ -1,13 +1,16 @@
- 1. The calculation of curvature risk-weighted sensitivity involves applying upward and downward shocks to the yield curve and measuring the change in value.
+ - The calculation of curvature risk-weighted sensitivity involves applying upward and downward shocks to the yield curve and measuring the change in value of the position. 
 
 
-2. The proposal requires a banking organization to apply the highest risk weight across risk buckets to each tenor point along the curve for conservatism.
+-  For interest rate, credit spread, and commodity risk classes, the proposal applies shocks assuming a parallel shift of all tenors for each curve based on the highest prescribed delta risk weight for the applicable risk bucket.
 
 
-3. For the foreign exchange and equity risk classes, the shocks represent a relative shift of the spot prices equal to the delta risk weight.
+-  The proposal requires a banking organization to apply the highest risk weight across risk buckets to each tenor point along the curve (parallel shift assumption) for conservatism and to help ensure the curvature capital requirements reflect incremental losses from curvature and not those due to changes in the shape or slope of the curve. 
 
 
-4. The proposal allows a banking organization to divide the net curvature risk positions by a scalar of 1.5 for positions that do not reference the reporting or base currency.
+-  For the foreign exchange and equity risk classes, the upward and downward shocks represent a relative shift of the foreign exchange spot prices or equity spot prices, respectively, equal to the delta risk weight prescribed for the risk factor. 
 
 
-5. The agencies seek comment on the appropriateness of calculating the curvature risk-weighted sensitivity for the commodity risk class using a parallel shift of all tenors.
+-  The proposal allows a banking organization to divide the net curvature risk positions by a scalar of 1.5 for options that do not reference the reporting or base currency of the banking organization as an underlying exposure, to account for exchange rate fluctuations. 
+
+
+-  To aggregate the risk bucket-level capital requirements and risk class-level capital requirements for curvature,

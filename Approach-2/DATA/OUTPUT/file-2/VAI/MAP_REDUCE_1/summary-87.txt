@@ -1,5 +1,7 @@
- 1. The proposal would introduce a capital requirement for CVA risk. 
-2. CVA risk is the risk of loss that arises when a counterparty to a derivative transaction defaults. 
-3. The proposal would require banking organizations to hold capital against their CVA risk exposures. 
-4. The proposal would also allow banking organizations to use certain CVA hedges to reduce their capital requirements. 
-5. The proposal would not allow banking organizations to recognize the risk mitigating benefits of CVA hedges that are securitization positions or correlation trading positions.
+ - CVA risk is the risk of loss that arises when a counterparty to a derivative transaction defaults and the value of the transaction changes unfavorably between the time of default and the time the transaction is closed out.
+- The proposal would require banking organizations to hold capital against CVA risk for non-cleared derivative transactions and for SFTs.
+- The proposal would not consider a cleared transaction or an SFT to be a CVA risk covered position and therefore would not extend the CVA risk-based capital requirements to such positions.
+- The proposal would set forth general requirements for the recognition of CVA hedges, as well as specific requirements under BA-CVA and SA-CVA.
+- The proposal would allow a banking organization to include certain CVA hedges as risk-reducing elements in risk-weighted asset calculations for CVA risk (eligible CVA hedges).
+- The proposal would define a CVA hedge as a transaction the banking organization enters into with a counterparty that is a third party (external CVA hedge) or an internal trading desk (internal CVA hedge), as described in section III.I.3.b of this Supplementary Information and manages for the purpose of mitigating CVA risk.
+- The proposal would not allow

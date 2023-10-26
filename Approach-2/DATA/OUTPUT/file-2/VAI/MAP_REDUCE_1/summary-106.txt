@@ -1,13 +1,18 @@
- 1. The agencies are proposing to amend their market risk information collections to reflect the proposed recordkeeping, disclosure, and reporting requirements associated with the proposed market risk capital requirements. 
+ **Key Points - Proposed Amendments to Market Risk Information Collections**
+
+- The agencies propose to amend market risk information collections to reflect proposed recordkeeping, disclosure, and reporting requirements associated with the proposed market risk capital requirements. 
 
 
-2. A banking organization subject to the proposed market risk capital requirements would have to provide public regulatory reports and receive prior written approval from its primary Federal supervisor for calculating market risk capital requirements using internal models. 
+- Banking organizations subject to the market risk capital requirements would provide public regulatory reports and receive prior written approval from their primary Federal supervisor for calculating market risk capital requirements using internal models. 
 
 
-3. The proposal would also include recordkeeping requirements for banking organizations subject to the credit valuation adjustment, such as having a clear documented hedging policy for CVA risk and documenting the initial and ongoing validation of models used for calculating regulatory CVA. 
+- Confidential supervisory reports, backtesting information, and PLA testing information would be submitted to the primary Federal supervisor. 
 
 
-4. The Board is proposing to amend the FR Y-9C report form and instructions to align with the proposal, including revising Schedule HC-R, Part I, Regulatory Capital Components and Ratios, to align the calculation of regulatory capital for HCs subject to Category III and IV standards with the calculation for HCs subject to Category I and II standards. 
+- Recordkeeping requirements for banking organizations subject to the credit valuation adjustment would include having a clear documented hedging policy, documenting identification and management of covered positions and eligible hedges, validating models used for calculating regulatory CVA, and maintaining current and historical data inputs to exposure models. 
 
 
-5. The Board estimates that revisions to the FR Y-9C would increase the estimated annual burden by 49 hours.
+- The FR Y-9 family of reporting forms continues to be the primary source of financial data on holding companies (HCs) on which examiners rely between on-site inspections. 
+
+
+- The Board proposes to amend the FR Y-9C report form and instructions to align with the proposal, including updates to Schedule HC-R, Part I, Line item 60, a, b and c to apply the stress capital buffer requirement to the risk-based capital

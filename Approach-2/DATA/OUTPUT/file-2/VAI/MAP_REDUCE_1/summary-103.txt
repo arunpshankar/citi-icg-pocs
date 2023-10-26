@@ -1,5 +1,14 @@
- 1. The proposed rule contains revisions to information collections subject to the PRA. 
-2. The revisions would extend for three years the Reporting, Recordkeeping, and Disclosure Requirements Associated with Regulatory Capital Rules and Market Risk Capital Rules. 
-3. The Board would also revise and extend for three years the Financial Statements for Holding Companies, Capital Assessments and Stress Testing, and Systemic Risk Report. 
-4. The agencies, under the auspices of the FFIEC, would also propose related revisions to the Consolidated Reports of Condition and Income (Call Reports), Regulatory Capital Reporting for Institutions Subject to the Advanced Capital Adequacy Framework, and Market Risk Regulatory Report for Institutions Subject to the Market Risk Capital Rule. 
-5. Comments are invited on the necessity, accuracy, quality, utility, burden, and costs of the proposed revisions.
+ **Proposed revisions to information collections subject to the PRA:**
+
+- Reporting, Recordkeeping, and Disclosure Requirements Associated with Regulatory Capital Rules
+  - OMB Nos. 1557-0318, 3064-0153, and 7100-0313
+- Reporting, Recordkeeping, and Disclosure Requirements Associated with Market Risk Capital Rules
+  - OMB Nos. 1557-0247, 3064-0178, and 7100-0314
+- Financial Statements for Holding Companies (FR Y-9)
+  - OMB No. 7100-0128
+- Capital Assessments and Stress Testing (FR Y-14A/Q/M)
+  - OMB No. 7100-0341
+- Systemic Risk Report (FR Y-15)
+  - OMB No. 7100-0352
+- Related revisions to the Consolidated Reports of Condition and Income (Call Reports) (FFIEC 031, FFIEC 041, and FFIEC 051)
+  -

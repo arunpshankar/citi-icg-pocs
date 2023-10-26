@@ -1,5 +1,10 @@
- The proposal requires banking organizations to satisfy certain general risk management requirements related to the identification and management of CVA risk covered positions and eligible CVA hedges. 
-Documentation requirements are designed to facilitate regulatory review and a banking organization's internal risk management and oversight processes. 
-Banking organizations that use the standardized measure for CVA risk would be required to comply with additional operational requirements on documentation, initial approval, and ongoing performance of regulatory CVA models. 
-The proposal would require a banking organization to maintain an independent risk control unit that is responsible for the effective initial and ongoing validation of the models used for calculating regulatory CVA. 
-Senior management of the banking organization would be required to have oversight of the CVA risk control process.
+ Key points of the CVA Risk Management Requirements:
+
+* A banking organization should identify CVA risk covered positions, CVA hedges, and eligible CVA hedges.
+* The organization should have a CVA risk management policy approved by senior management.
+* The organization should document all material aspects of CVA risk management.
+* The organization should have policies and procedures for determining CVA risk capital requirements.
+* The organization should have an independent risk control unit responsible for validating CVA models.
+* Senior management should oversee the CVA risk control process.
+* The organization should have a regular independent audit review of the CVA risk management process.
+* Exposure models used in calculating regulatory CVA should meet certain eligibility requirements.

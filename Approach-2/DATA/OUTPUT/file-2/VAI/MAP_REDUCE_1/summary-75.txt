@@ -1,13 +1,9 @@
- 1. The proposal introduces data quality requirements for modellable risk factors.
+ Key points:
 
-
-2. Risk factors passing the eligibility test but failing to meet any of the seven data quality requirements would be non-modellable.
-
-
-3. Data should reflect market prices or be reasonably representative of real prices.
-
-
-4. Data should capture systematic and idiosyncratic risk, volatility, and correlation of risk factors.
-
-
-5. Data should be updated weekly, and expected shortfall models calibrated to current market prices regularly.
+- The proposal would establish a minimum observation period for new issuances, which would begin on the issuance date and would be pro-rated until 12 months after the issuance date.
+- For market risk covered positions that reference new reference rates, the proposal would allow the banking organization to use quotes of discontinued reference rates that the new reference rate is replacing to pass the risk factor eligibility test until the new reference rate liquidity improves.
+- Once a risk factor has passed the risk factor eligibility test, the banking organization would be required to choose the most appropriate data for calculating the IMCC for modellable risk factors.
+- The proposal would establish data quality requirements for risk factors to be deemed modellable risk factors.
+- The proposal would require a banking organization to update the data inputs at a sufficient frequency and on at least a weekly basis.
+- In determining the liquidity horizon-adjusted expected shortfall-based measure, a banking organization would be required to use data that are reflective of market prices observed or quoted in periods of stress.
+- The data for modellable risk factors could include proxies if the banking organization were able to demonstrate the appropriateness of such proxies to the satisfaction of the primary Federal supervisor.

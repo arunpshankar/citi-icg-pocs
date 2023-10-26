@@ -1,13 +1,9 @@
- 1. The Basel Committee published a new framework for market risk capital requirements in January 2016. 
+ Key points of the proposal to improve the risk-sensitivity and calibration of market risk capital requirements:
 
-
-2. In January 2019, the Basel Committee published an amended framework for market risk capital requirements. 
-
-
-3. The proposal would improve the risk-sensitivity and calibration of market risk capital requirements relative to the current capital rule. 
-
-
-4. The proposal would introduce a risk-sensitive standardized methodology for calculating risk-weighted assets for market risk and a new models-based methodology to replace the framework in subpart F of the current capital rule. 
-
-
-5. The standardized measure for market risk would be the default methodology for calculating market risk capital requirements for all banking organizations subject to market risk requirements.
+Introduction of a risk-sensitive standardized methodology for calculating risk-weighted assets for market risk (standardized measure for market risk).
+A new models-based methodology (models-based measure for market risk) to replace the framework in subpart F of the current capital rule.
+The standardized measure for market risk would be the default methodology for calculating market risk capital requirements for all banking organizations subject to market risk requirements.
+A banking organization would be required to obtain prior approval from its primary Federal supervisor to use the models-based measure for market risk to determine its market risk capital requirements.
+The proposal would introduce the concept of a trading desk and restrict application of the proposed models-based approach to the trading desk level, limiting use of the internal models approach to only those trading desks that can appropriately capture the risk of market risk covered positions in banking organizations' internal models.
+The proposal would replace the VaR-based measure of market risk with an expected shortfall-based measure that better accounts for extreme losses.
+The proposal would replace the fixed ten-business-day liquidity horizon in the current capital rule with liquidity horizons that vary based on the underlying risk factors to adequately capture the market

@@ -1,5 +1,14 @@
- 1. A new category, Category IV FDIC-supervised institution, is added. 
-2. The definition of "Category II FDIC-supervised institution" is revised.
-3. The definition of "Category III FDIC-supervised institution" is revised. 
-4. The definitions of "residential mortgage exposure" and "cross-jurisdictional activity" are revised. 
-5. The definitions of "total nonbank assets," "off-balance sheet exposure," and "weighted short-term wholesale funding" are added.
+ * The final rule revises the definition of "Category II FDIC-supervised institution" to include an FDIC-supervised institution that is not a subsidiary of a global systemically important BHC and has either:
+  * Total consolidated assets of $700 billion or more, or
+  * Total consolidated assets of $100 billion or more but less than $700 billion and has cross-jurisdictional activity of $75 billion or more.
+
+
+* The final rule revises the definition of "Category III FDIC-supervised institution" to include an FDIC-supervised institution that is not a subsidiary of a global systemically important BHC or a Category II FDIC-supervised institution and has either:
+  * Total consolidated assets of $250 billion or more, or
+  * Total consolidated assets of $100 billion or more but less than $250 billion and has at least one of the following:
+    * Total nonbank assets of $75 billion or more, 
+    * Off-balance sheet exposure of $75 billion or more, or 
+    * Weighted short-term wholesale funding of $75 billion or more.
+
+
+* The final rule removes the definition

@@ -1,9 +1,8 @@
- 1. Trading desks must have clearly defined trading and hedging strategies approved by senior management. 
-
-2. Trading desks must have a clearly defined risk scope consistent with the trading desk's pre-established business strategy and objectives. 
-
-3. A clearly defined policy describing the general strategy of the trading desk, the risk and position limits established for the trading desk, and the internal controls and governance structure established to oversee the risk-taking activities of the trading desk must be approved by senior management. 
-
-4. The stress tests must take into account concentration risk, illiquidity under stressed market conditions, and risks arising from the [BANKING ORGANIZATION]'s trading activities that may not be adequately captured in the standardized measure for market risk or in the models-based measure for market risk, as applicable. 
-
-5. A risk control unit independent of the business trading unit must be responsible for the design and implementation of the [BANKING ORGANIZATION]'s market risk management system.
+ - Trading and hedging strategies must be approved by senior management. 
+- Trading desks must have a clearly defined structure and strategy. 
+- Trading desks must have a clearly defined risk scope. 
+- The organization must have policies and procedures for actively managing market risk covered positions. 
+- The organization must stress test the market risk of its market risk covered positions. 
+- The organization must have in place internal market risk management systems and processes. 
+- The organization must have a risk control unit that is responsible for the design and implementation of the market risk management system. 
+- The organization must have an internal audit function that at least annually assesses the effectiveness of the controls supporting the market risk measurement systems.

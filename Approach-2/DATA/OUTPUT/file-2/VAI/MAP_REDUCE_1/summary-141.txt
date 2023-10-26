@@ -1,5 +1,30 @@
- 1. Foreign exchange risk is the risk of loss from changes in foreign exchange rates.
-2. Foreign exchange position is a position for which price risk arises from changes in foreign exchange rates.
-3. GSE debt is an exposure to a GSE that is not an equity exposure or exposure to a subordinated debt instrument issued by a GSE.
-4. A hedge is a position or positions that offset all, or substantially all, of the price risk of another position or positions.
-5. A hybrid instrument is an instrument that has characteristics in common with both debt and equity instruments, including traditional convertible bonds.
+ **Essential details of the provided information:**
+
+- Foreign exchange risk is the risk of loss from changes in underlying foreign exchange risk factors.
+
+
+- Foreign exchange position is a position for which price risk arises from changes in foreign exchange rates.
+
+
+- GSE debt is an exposure to a GSE that is not an equity exposure or exposure to a subordinated debt instrument issued by a GSE.
+
+
+- A hedge is a position or positions that offset all, or substantially all, of the price risk of another position or positions.
+
+
+- A hybrid instrument is an instrument that has characteristics in common with both debt and equity instruments, including traditional convertible bonds.
+
+
+- Hypothetical profit and loss is the change in the value of the market risk covered positions that would have occurred due to changes in the market data at the end of the current day if the end-of-previous-day market risk covered positions remained unchanged.
+
+
+- Idiosyncratic risk is the risk of loss in the value of a position that arises from changes in risk factors unique to the issuer.
+
+
+- Idiosyncratic risk factor means categories of risk factors that present idiosyncratic risk.
+
+
+- Interest rate risk is the risk of loss that could arise from changes in underlying interest rate risk factors.
+
+
+- Internal risk

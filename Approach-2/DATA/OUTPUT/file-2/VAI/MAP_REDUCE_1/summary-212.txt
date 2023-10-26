@@ -1,15 +1,12 @@
- 1. The final rule implements the capital requirements of the Basel III international accord. 
-
-
-2. The final rule revises the definition of total capital and introduces a new definition of
-expanded total capital.
-
-
-3. The final rule revises the risk-based capital ratio framework, including the leverage ratio, to
-incorporate the revised definitions of total capital and expanded total capital.
-
-
-4. The final rule revises the calculation of the tangible capital ratio for state savings associations.
-
-
-5. The final rule makes conforming changes to the capital conservation buffer and countercyclical capital buffer rules.
+ * The final rule amends the capital rules for FDIC-supervised institutions with $10 billion or more in total assets and certain other institutions. 
+* The final rule implements the Basel III capital framework, which is a set of international standards designed to strengthen the capital requirements for banks. 
+* The final rule also implements certain provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act).
+* The final rule makes a number of changes to the capital rules, including: 
+ * Increasing the minimum common equity tier 1 capital ratio from 4.5% to 4.5%; 
+ * Increasing the minimum total capital ratio from 8% to 8.5%; and 
+ * Introducing a new capital conservation buffer of 2.5%. 
+* The final rule also makes a number of changes to the risk-weighted asset framework, including: 
+ * Revising the risk-weighting of certain exposures, such as exposures to sovereign debt and exposures to residential mortgages; and 
+ * Introducing a new risk-weighting framework for exposures to securitizations. 
+* The final rule also makes a number of changes to the treatment of minority interests, including: 
+ *

@@ -1,5 +1,7 @@
- 1. A [BANKING ORGANIZATION] must calculate an aggregate capital measure for modellable risk factors, IMCC, on each business day. 
-2. The [BANKING ORGANIZATION] must also calculate a series of partial liquidity horizon-adjusted ES-based measures (with risk factors of all other risk factor classes held constant) for each risk factor class. 
-3. The aggregate capital measure for modellable risk factors, IMCC, must be calculated as the weighted average of the constrained and unconstrained ES-based measures. 
-4. A [BANKING ORGANIZATION] must calculate an aggregate capital measure for non-modellable risk factors, SES, using stressed expected shortfall methodologies. 
-5. A [BANKING ORGANIZATION] must make timely public reports and disclosures each calendar quarter.
+ - The IMCC is calculated as the weighted average of the constrained and unconstrained ES-based measures.
+- The SES is calculated using stressed expected shortfall methodologies.
+- The stress scenario for non-modellable risk factors must be calibrated to be at least as prudent as the ES-based measure used for modellable risk factors.
+- The stress scenario must be the greater of (1) the risk factor's liquidity horizon assigned pursuant to paragraph (b)(11) of this section and (2) 20 days.
+- For non-modellable risk factors arising from idiosyncratic credit spread risk or from idiosyncratic equity risk due to spot, futures and forward prices, equity repo rates, dividends and volatilities, the [BANKING ORGANIZATION] may apply a common 12-month period of stress.
+- The [BANKING ORGANIZATION] must make timely public reports and disclosures each calendar quarter.
+- The [BANKING ORGANIZATION] must have a formal reporting and disclosure policy approved by the board of directors that addresses the [BANKING ORGANIZATION]'s approach for determining its market risk reports and disclosures.

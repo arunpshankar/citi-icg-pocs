@@ -1,6 +1,24 @@
  1. The proposal defines market risk covered positions and introduces a standardized 
 measure for market risk. 
-2. The standardized measure for market risk consists of three components: standardized approach capital requirement, fallback capital requirement, and capital add-on requirement for re-designations. 
-3. The proposal requires banking organizations to calculate the standardized measure for market risk at least weekly. 
-4. The sensitivities-based method under the standardized measure for market risk uses risk weights calibrated to a defined liquidity time horizon consistent with the expected shortfall measurement framework under stressed conditions. 
-5. The proposal establishes a process to determine the sensitivities-based capital requirement for the portfolio, including assigning market risk covered positions to risk classes and establishing risk factors, calculating the sensitivity of a market risk covered position for each risk factor, describing the shock applied to each risk factor, and aggregating the weighted sensitivities.
+2. The standardized measure for market risk consists of three components:
+a. Standardized approach capital requirement
+b. Fallback capital requirement
+c. Capital add-on requirement for re-designations
+3. The proposal requires banking organizations to calculate the standardized measure for 
+market risk at least weekly.
+4. The sensitivities-based method (SBM) is a component of the standardized measure 
+for market risk. 
+5. Under the SBM, banking organizations assign market risk covered positions to risk 
+classes and establish risk factors for positions within the same risk class. 
+6. The proposal prescribes seven risk classes: 
+a. Interest rate risk
+b. Credit spread risk for non-securitization positions
+c. Credit spread risk for correlation trading positions
+d. Credit spread risk for securitization positions that are not correlation trading 
+positions
+e. Equity risk
+f. Commodity risk
+g. Foreign exchange risk
+7. Banking organizations must map positions to the appropriate risk factors within the risk 
+bucket. 
+8. The proposal provides a detailed description of the SBM methodology, including

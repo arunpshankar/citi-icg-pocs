@@ -1,5 +1,8 @@
- 1. The final rule implements the risk-based capital requirements for CVA risk. 
-2. The final rule amends the definition of "prime RMBS" to include securities that reference underlying exposures that consist primarily of qualified residential mortgages. 
-3. The final rule provides transition provisions for AOCI and expanded total risk-weighted assets. 
-4. The final rule provides a three-year transition period for FDIC-supervised institutions to implement the CECL accounting standard. 
-5. The final rule makes conforming changes to the risk-based capital requirements for OTC derivatives.
+ - The final rule implements the risk-based capital requirements of the Basel III international accord and makes certain technical changes to the risk-based capital framework.
+- The final rule revises the definition of “qualifying residential mortgage” to conform to the definition used by the Federal Reserve Board and the Office of the Comptroller of the Currency.
+- The final rule implements the standardized approach for calculating risk-weighted assets for exposures to securitizations and revises the framework for calculating risk-weighted assets for exposures to certain types of derivatives.
+- The final rule revises the market risk capital requirements to incorporate the Fundamental Review of the Trading Book.
+- The final rule revises the internal models approach for calculating risk-weighted assets for credit risk to align with the Basel III framework.
+- The final rule revises the CVA risk-based capital requirements to align with the Basel III framework.
+- The final rule makes certain technical changes to the risk-based capital framework, including revising the definition of “small business loan” and the treatment of exposures to sovereign entities.
+- The final rule provides for a three-year transition period for certain provisions of the final rule.

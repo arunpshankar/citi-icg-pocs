@@ -1,13 +1,5 @@
- 1. The proposed rule amends the Federal Reserve's regulations implementing the prompt corrective action (PCA) framework. 
-
-
-2. The changes are intended to conform the PCA framework to the Basel III capital framework, which was finalized by the Basel Committee on Banking Supervision in December 2017. 
-
-
-3.  The Basel III capital framework includes a number of changes to the risk-based capital framework, including a revised definition of total risk-weighted assets and a new leverage ratio. 
-
-
-4. The proposed rule would make conforming changes to the PCA framework to ensure that it remains consistent with the Basel III capital framework. 
-
-
-5. The proposed rule would also make a number of technical changes to the PCA framework to improve its clarity and effectiveness.
+ -	Eligible credit derivative:  The derivative contract meets the requirements of paragraphs (1) through (9) of an eligible guarantee, as defined in § 3.2 of this chapter, and has been confirmed by the protection purchaser and the protection provider.
+-	Total risk-based capital ratio means the ratio of total capital to total risk-weighted assets, as calculated in accordance with § 217.10(b)(3) or § 217.10(d)(3) of Regulation Q (12 CFR 217.10(b)(3) or 12 CFR 217.10(d)(3)), as applicable.
+-	Total risk-weighted assets means standardized total risk-weighted assets, and for an expanded risk-based bank also includes expanded total risk-weighted assets, as defined in § 217.2 of Regulation Q (12 CFR 217.2).
+-	Total leverage exposure means the total leverage exposure as defined in § 217.10(c)(2) of Regulation Q (12 CFR 217.10(c)(2)).
+-	Tier 1 risk-

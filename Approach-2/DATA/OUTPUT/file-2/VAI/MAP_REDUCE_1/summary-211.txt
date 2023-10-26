@@ -1,3 +1,1 @@
- 1. The effective notional principal amount of a credit derivative can be reduced by the amount of any reduction in its mark-to-fair value if it is recognized in common equity tier 1 capital.
-2. It can also be reduced by the effective notional principal amount of a purchased credit derivative if certain conditions are met.
-3. The counterparty credit risk of a repo-style transaction is calculated as the greater of zero and the total fair value o
+ - The effective notional principal amount of a credit derivative can be reduced by the amount of any reduction in the mark-to-fair value of the credit derivative if the reduction is recognize

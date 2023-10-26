@@ -1,13 +1,19 @@
- 1. The proposal expands the applicability of operational requirements regarding early amortization provisions to synthetic securitizations. 
-
-
-2. The proposal prohibits originating banking organizations from recognizing the risk-mitigating benefits of synthetic securitizations that include synthetic excess spread.
-
-
-3. The proposal includes a new requirement that any applicable minimum payment threshold for the credit risk mitigant be consistent with standard market practice.
-
-
-4. The proposal requires originating banking organizations to exclude transferred exposures from the calculation of their risk-weighted assets and maintain risk-based capital against any credit risk retained in connection with the resecuritization.
-
-
-5. The proposal requires banking organizations to determine the capital requirements for most securitization exposures under the SEC-SA, which is substantively similar to the SSFA in the current capital rule except for certain changes.
+ - The proposal revises the definition of "attachment point" and introduces the concept of
+"detachment point" to provide greater clarity on the capital treatment of securitization
+exposures.
+- Attachment point means the percentage of the total principal balance of the underlying
+exposures at which the credit risk of the securitization exposure begins to increase.
+- Detachment point means the percentage of the total principal balance of the underlying
+exposures at which the credit risk of the securitization exposure is fully detached from the
+credit risk of the underlying exposures.
+- The detachment point is a new concept that is intended to provide greater clarity on the
+point at which a securitization exposure is no longer exposed to the credit risk of the
+underlying exposures.
+b. Subordinated tranches
+- The proposal revises the capital treatment of subordinated tranches of securitization
+exposures.
+- Under the current capital rule, subordinated tranches of securitization exposures are
+assigned a risk weight of 1,250 percent.
+- The proposal would assign a risk weight of 1,250 percent to subordinated tranches of
+securitization exposures that are not rated by an external credit assessment institution.
+- The

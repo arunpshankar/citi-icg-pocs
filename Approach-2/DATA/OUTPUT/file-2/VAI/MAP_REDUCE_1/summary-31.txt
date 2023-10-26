@@ -1,13 +1,8 @@
- 1. The proposal revises the existing credit risk mitigation framework for securitization exposures. 
-
-
-2. The proposal eliminates references to model-based approaches and the formula for collateral recognition under subpart E. 
-
-
-3. The proposal does not include an internal models approach for equity exposures. 
-
-
-4. The proposal would require banking organizations to use a standardized approach to determine capital requirements for illiquid or infrequently traded equity exposures. 
-
-
-5. The proposal enhances the risk-sensitivity of the current capital rule's look-through approaches for equity exposures to investment funds.
+ - The proposal revises the existing capital framework for securitization exposures and equity exposures.
+- For securitization exposures, the proposal introduces a new approach that is consistent with the credit risk mitigation framework under subpart D of the current capital rule.
+- The proposal eliminates references to model-based approaches and the formula for collateral recognition under the current capital rule.
+- The proposal generally assigns higher risk weights to equity exposures than exposures subject to the proposed credit risk framework.
+- The proposal does not include an internal models approach for equity exposures, as the framework would primarily cover illiquid or infrequently traded equity exposures.
+- The proposal requires banking organizations to use a standardized approach to determine capital requirements for such equity exposures.
+- The proposal enhances the risk-sensitivity of the current capital rule's look-through approaches for equity exposures to investment funds.
+- The proposal retains the risk-weighted asset amount calculation under the current capital rule and specifies the adjusted carrying value for equity exposures.

@@ -1,13 +1,4 @@
- 1. The final rule amends the capital rule for bank holding companies and savings and loan holding companies with $100 billion or more in total consolidated assets. 
-
-
-2. The final rule implements the standardized approach for measuring counterparty credit risk exposures. 
-
-
-3. The final rule implements the framework for calculating risk-weighted assets for exposures to covered funds. 
-
-
-4. The final rule revises the definition of "trading account" to exclude certain positions from the trading book. 
-
-
-5. The final rule makes conforming changes to the market risk capital rule and the supplementary leverage ratio.
+ - The final rule implements the standardized approach to measuring counterparty credit risk exposures for all banking organizations. 
+- Banking organizations will calculate counterparty credit risk exposures using haircuts prescribed by the agencies. 
+- Banking organizations with more sophisticated risk management practices may use their own estimates of haircuts with prior approval from the Board. 
+- The final rule also makes conforming changes to the capital rule disclosure requirements and revises the phase-in of the current expected credit losses (CECL) accounting standard for certain banking organizations.

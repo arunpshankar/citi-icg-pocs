@@ -1,13 +1,7 @@
- 1. The proposal requires banking organizations to calculate a residual risk add-on for market risk covered positions with exotic exposures and certain other residual risks. 
-
-
-2. The residual risk add-on capital requirement would equal the sum of such capital requirements across subject market risk covered positions. 
-
-
-3. Positions subject to the residual risk add-on include those with exotic exposures, certain correlation trading positions, options or positions with embedded optionality, and other positions as determined by the primary Federal supervisor. 
-
-
-4. Excluded positions include those that are listed on an exchange, eligible to be cleared by a CCP or QCCP, certain options, and certain offsetting positions. 
-
-
-5. The agencies seek comment on all aspects of the proposed residual risk add-on, including alternative methods to identify exotic exposures and other residual risks, additional instruments and offsetting positions that should be excluded, and quantitative measures to identify or distinguish residual risks.
+ - The residual risk add-on is a capital requirement for market risk covered positions that are not subject to the standardized default risk capital requirement and that have an exotic exposure or other residual risks.
+- The residual risk add-on capital requirement would equal the sum of such capital requirements across subject market risk covered positions.
+- Positions subject to the residual risk add-on include those with exotic exposures, certain market risk covered positions that carry residual risks, and any other market risk covered positions that the primary Federal supervisor determines should be subject to the residual risk add-on.
+- Excluded positions include those that are listed on an exchange, eligible to be cleared by a CCP or QCCP, or an option with two or fewer underlying positions and does not contain path dependent pay-offs.
+- The proposal would also allow a banking organization to exclude certain off-setting positions that may exhibit insignificant residual risks and for which the residual risk add-on would be overly punitive.
+- Hybrid instruments are instruments that have characteristics in common with both debt and equity instruments, including traditional convertible bonds.
+- The proposal would require a banking organization to assign risk sensitivities for these instruments into the interest rate risk class, credit spread risk class for non-securitization positions, and equity risk

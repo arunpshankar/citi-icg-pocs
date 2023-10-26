@@ -1,1 +1,3 @@
- 1. The effective notional principal amount of a credit derivative is reduced by the amount of any reduction in the mark-to-fair value of the credit derivative if the reduction is recognized i
+ - CVM = Amount of cash collateral received from a counterparty to a derivative contract.
+- CVMp = Amount of cash collateral that is posted to a counterparty to a derivative contract.
+- Variation margin is calculated and transferred on a daily basis based 

@@ -1,65 +1,202 @@
- **Section 1: Capital Requirements for Large Banking Organizations**
-
-The banking regulators propose to revise the capital requirements for large banking organizations and those with significant trading activity. 
-
-The proposed revisions aim to improve risk-based capital requirements, reduce complexity, enhance consistency, and facilitate effective supervisory and market assessments. 
-
-The proposal includes replacing current requirements that use internal models for credit and operational risk with standardized approaches. 
-
-It also replaces current market risk and credit valuation adjustment risk requirements with revised approaches. 
-
-The proposed revisions generally align with recent changes to international capital standards issued by the Basel Committee on Banking Supervision.
-
-**Section 2: Standardized Approach for Credit Risk**
-
-The proposal introduces a standardized approach for credit risk applicable to large banking organizations. 
-
-It retains many of the same definitions from the current capital rule, including sovereign, sovereign exposure, supranational entities, multilateral development bank, public sector entity, government-sponsored enterprise, other assets, and commitment. 
-
-The proposal would apply the same risk-weight treatment provided in the current standardized approach to certain on-balance sheet exposures, including exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, public sector entities (PSEs), and other assets. 
-
-The proposal would also apply the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures. 
-
-The proposal would introduce new definitions for defaulted exposures and defaulted real estate exposures.
-
-**Section 3: Risk-Based Approach for Retail Exposures**
-
-The proposal introduces a risk-based capital framework for retail exposures, which assigns risk weights to regulatory retail exposures, transactor exposures, and other retail exposures based on product type and portfolio diversification. 
-
-The proposal also includes a definition of retail exposure that includes exposures to natural persons, individuals, and small or medium-sized entities meeting specific criteria. 
-
-The proposal differentiates the risk-weight treatment for retail exposures based on whether the exposure qualifies as a regulatory retail exposure, a transactor exposure, or an other retail exposure. 
-
-Regulatory retail exposures are limited on an aggregate and granular basis, and only exposures up to 0.2% of the banking organization's total retail exposures would be considered regulatory retail exposures. 
-
-Transactor exposures, which are regulatory retail exposures with a history of full repayment, would receive a 55% risk weight, while other regulatory retail exposures would receive an 85% risk weight. All other retail exposures would be assigned a 110% risk weight.
-
-**Section 4: Standardized Approach for Operational Risk**
-
-The proposal introduces a standardized approach for operational risk capital requirements, replacing the advanced measurement approaches. 
-
-The standardized approach uses a business indicator component and an internal loss multiplier to determine the operational risk capital requirement. 
-
-The business indicator component measures a banking organization's operational risk exposure and is based on a three-year rolling average of various financial statement items. 
-
-The internal loss multiplier is based on the ratio of a banking organization's historical operational losses to its business indicator component and increases as historical operational losses increase. 
-
-The proposal also includes definitions for total interest income, total interest expense, and dividend income.
-
-**Section 5: Market Risk**
-
-The proposal revises criteria for determining whether a banking organization is subject to market risk-based capital requirements. 
-
-A banking organization with significant trading activity would be required to calculate market risk capital requirements. 
-
-The proposed scope is designed to apply market risk capital requirements to all large banking organizations. 
-
-The proposal would retain a trading activity threshold and increase the trading activity dollar threshold from $1 billion to $5 billion. 
-
-The proposal would help promote consistency and comparability in market risk capital requirements across banking organizations.
-
-**Section 6: Other Changes**
-
-The proposal makes changes to the definition of capital, credit risk, securitization framework, equity risk, operational risk, market risk, and credit valuation adjustment risk. 
-
-The proposal also includes technical amendments to the capital rule, amendments to related rules and related proposals, and addressing administrative law matters.
+ I. Introduction
+A. Overview of the Proposal
+- The proposal revises the capital requirements for large banking organizations and banking organizations with significant trading activity.
+- It replaces the current requirements that include the use of banking organizations' internal models for credit risk and operational risk with standardized approaches.
+- It replaces the current market risk and credit valuation adjustment risk requirements with revised approaches.
+- The proposed revisions would be generally consistent with recent changes to international capital standards issued by the Basel Committee on Banking Supervision.
+- The proposal would not amend the capital requirements applicable to smaller, less complex banking organizations.
+B. Use of Internal Models Under the
+Proposed Framework
+- The agencies are proposing to modify the capital requirements applicable to large banking organizations and banking organizations with significant trading activity.
+- The revisions would strengthen the calculation of risk-based capital requirements to better reflect the risks of these banking organizations' exposures.
+- The revisions would also enhance the consistency of requirements across large banking organizations and facilitate more effective supervisory and market assessments of capital adequacy.
+- The proposal includes changes to the calculation of capital ratios and application of buffer requirements, the definition of capital, credit risk, securitization framework, equity risk, operational risk, market risk, and credit valuation adjustment risk.
+- The proposal also includes transition provisions, technical amendments, and proposed amendments to related rules and related proposals.
+II. Scope of Application
+- The proposal would apply to banking organizations with total assets of $100 billion or more and their subsidiary depository institutions.
+- Banking organizations with significant trading activities are subject to substantial market risk and, therefore, would be subject to market risk capital requirements.
+- The proposal would increase the dollar-based threshold for the application of market risk requirements from $1 billion to $5 billion of trading assets plus trading liabilities.
+III. Proposed Changes to the Capital Rule
+A. Calculation of Capital Ratios and
+Application of Buffer Requirements
+1. Standardized Output Floor
+- The proposal would introduce an "output floor" to the calculation of expanded total risk-weighted assets. This output floor would correspond to 72.5 percent of the sum of a banking organization's credit risk-weighted assets, equity risk-weighted assets, operational risk-weighted assets, and CVA risk-weighted assets under the expanded risk-based approach and risk-weighted assets calculated using the standardized measure for market risk.
+2. Stress Capital Buffer Requirement
+- The stress capital buffer requirement integrates the results of the Board's supervisory stress tests with the risk-based requirements of the capital rule to determine capital distribution limitations.
+- The stress capital buffer requirement is generally calculated as (1) the difference between the banking organization's starting and minimum projected common equity tier 1 capital ratios under the severely adverse scenario in the supervisory stress test (stress test losses) plus (2) the sum of the dollar amount of the banking organization's planned common stock dividends for each of the fourth through seventh quarters of the planning horizon as a percentage of risk-weighted assets (dividend add-on).
+- The proposal would amend the Board's stress testing and capital plan rules to require banking organizations subject to Category I, II, or III standards to project their risk-based capital ratios in their company-run stress tests and capital plans using the calculation approach that results in the binding ratios as of the start of the projection horizon (generally, as of December 31 of a given year).
+- The proposal would also require banking organizations subject to Category IV standards to project their risk-based capital ratios under baseline conditions in their capital plans and FR Y-14A submissions using the risk-weighted assets calculation approach that results in the
+B. Definition of Capital
+1. Accumulated Other Comprehensive
+Income
+- Banking organizations subject to Category III or IV capital standards would be required to recognize most elements of AOCI in regulatory capital consistent with the treatment for banking organizations subject to Category I or II capital standards.
+- This would require all net unrealized holding gains and losses on AFS debt securities from changes in fair value to flow through to common equity tier 1 capital, including those that result primarily from fluctuations in benchmark interest rates.
+- Banking organizations subject to Category III or IV capital standards would also apply the capital deductions and minority interest treatments that are currently applicable to banking organizations subject to Category I or II capital standards.
+- The proposal would also apply TLAC holdings deduction treatments to banking organizations subject to Category III or IV capital standards.
+- The proposal includes a three-year transition period for AOCI.
+2. Regulatory Capital Deductions
+- Banking organizations subject to Category III or IV capital standards would be required to make deductions for nonsignificant investments in the capital of unconsolidated financial institutions and covered debt instruments issued by U.S. or foreign GSIBs.
+- The limitations on minority interests that apply to banking organizations subject to Category I or II capital standards would also apply to banking organizations subject to Category III or IV capital standards.
+- An additional capital eligibility criterion would be applied to banking organizations subject to Category III or IV capital standards for their additional tier 1 and tier 2 capital instruments.
+3. Additional Definition of Capital
+Adjustments
+- A large banking organization would determine its expanded risk-based approach-adjusted total capital by (1) deducting from its total capital AACL included in its tier 2 capital and; (2) adding to its total capital any AACL up to 1.25 percent of total credit risk-weighted assets.
+- The agencies seek comment on the proposed definition of total credit risk-weighted assets in connection with determining a banking organization's total capital ratio.
+4. Changes to the Definition of Tier 2
+Capital Applicable to Large Banking
+Organizations
+- The proposal would amend the definition of tier 2 capital to exclude from tier 2 capital any amount of AACL that is included in a banking organization's total capital.
+- The proposal would also make conforming changes to the definition of tier 2 capital to ensure that the definition is consistent with the definition of tier 2 capital in the Basel III framework.
+C. Credit Risk
+1. Due Diligence
+- The proposal would require banking organizations to conduct due diligence on all exposures to identify and assess the risks associated with those exposures.
+- The proposal would also require banking organizations to establish and maintain policies and procedures to ensure that the due diligence process is effective.
+2. Proposed Risk Weights for Credit Risk
+- The proposal introduces an expanded risk-based approach for credit risk applicable to large banking organizations.
+- The proposal retains many of the same definitions from the current capital rule, including sovereign, sovereign exposure, supranational entities, multilateral development bank, public sector entity (PSE), government-sponsored enterprise (GSE), other assets, and a commitment.
+- The proposal applies the same risk-weight treatment provided in the current standardized approach for on-balance sheet exposures to sovereigns, certain supranational entities and multilateral development banks, government sponsored entities (GSEs) in the form of senior debt and guaranteed exposures, Federal Home Loan Bank (FHLB) and Federal Agricultural Mortgage Corporation (Farmer Mac) equity exposures, 49 public sector entities (PSEs), and other assets.
+- The proposal also applies the same risk-weight treatment provided in the current standardized approach to the following real estate exposures: pre-sold construction loans, statutory multifamily mortgages, and high-volatility commercial real estate (HVCRE) exposures.
+- The proposal introduces the expanded risk-based approach for exposures to depository institutions, foreign banks, and credit unions; exposures to subordinated debt instruments, including those to GSEs; and exposures to residential mortgage loans.
+3. Off-Balance Sheet Exposures
+- The proposal would update the credit conversion factors for off-balance sheet items to reflect the current risk environment.
+- The proposal would also require banking organizations to use a more conservative approach to calculating the exposure amount for certain off-balance sheet items, such as commitments.
+4. Derivatives
+- The proposal would make a number of changes to the capital requirements for derivatives, including:
+ - Introducing a new framework for risk-weighting regulatory residential real estate exposures and regulatory commercial real estate exposures.
+- The proposed framework is based on loan-to-value (LTV) ratios and dependency upon cash flows generated by the real estate.
+- The proposal also includes a definition of defaulted real estate exposure and introduces new criteria for determining when a residential mortgage exposure or a non-residential mortgage exposure is in default.
+- The agencies seek comment on the impact of the proposed treatment on home affordability and home ownership opportunities, particularly for LMI borrowers or other historically underserved markets.
+- The agencies also seek comment on assigning risk weights to residential mortgage exposures, consistent with the current U.S. standardized risk-based capital framework.
+- The agencies seek comment on the potential market effects of the proposed treatment on residential and commercial real estate mortgage lending.
+E. Equity Exposures
+1. Risk-Weighted Asset Amount
+- The proposal would revise the risk-weighted asset amount calculation for equity exposures to investment funds.
+- The proposal would also introduce a new approach for calculating the risk-weighted asset amount for equity exposures to investment funds that are not subject to the full look-through approach or the alternative modified look-through approach.
+F. Operational Risk
+1. Business Indicator
+- The proposal would introduce a business indicator component that would be used to calculate the operational risk capital requirement.
+- The business indicator would reflect the volume of financial activities of a banking organization.
+2. Business Indicator Component
+- The business indicator component would increase at a rate of: (a) 12 percent per unit of business indicator for levels of business indicator up to $1 billion; (b) 15 percent per unit of business indicator for levels of business indicator above $1 billion and up to $30 billion; and (c) 18 percent per unit of business indicator for levels of business indicator above $30 billion.
+3. Internal Loss Multiplier
+- The internal loss multiplier would be calculated as follows:
+Internal Loss Multiplier
+= maximum 1, In
+. In (exp(1
+exp(1) – 1
+0.8
+15 x Average Annual Total Net Operational Losses
+Business Indicator Component
+- Average annual total net operational losses would correspond to the average of annual
+total net operational losses over the previous ten years (on a rolling quarter basis).
+- The constant used is consistent with the Basel III reforms.
+4. Operational Risk Management and Data
+Collection Requirements
+- The proposal would require banking organizations to have a risk management framework in place to identify, assess, and manage operational risk.
+- The proposal would also require banking organizations to collect data on operational losses.
+G. Disclosure Requirements
+1. Proposed Disclosure Requirements
+- The proposal would require banking organizations to disclose information about their operational risk capital requirements.
+- The proposal would also require banking organizations to disclose information about their operational risk management framework and data collection practices.
+2. Specific Public Disclosure Requirements
+- The proposal would require banking organizations to publicly disclose information about their operational risk capital requirements and their operational risk management framework.
+H. Market Risk
+1. Background
+- The proposal would revise the market risk capital requirements to make them more risk-sensitive and better aligned with the Basel III framework.
+2. Scope and Application of the Proposed
+Rule
+- The proposal would apply to banking organizations with significant trading activity.
+- The proposal would increase the dollar-based threshold for the application of market risk requirements from $1 billion to $5 billion of trading assets plus trading liabilities.
+3. Market Risk Covered Position
+- The proposal would define market risk covered positions as all positions that are subject to market risk capital requirements under subparts D, E, or F of the capital rule, except for certain excluded positions.
+4. Internal Risk Transfers
+- The proposal would allow banking organizations to transfer certain risks internally to reduce their market risk capital requirements.
+5. General Requirements for Market Risk
+- The proposal would require banking organizations to have a risk management framework in place to identify, assess, and manage market risk.
+- The proposal would also require banking organizations to have a stress testing framework in place to assess the impact of market risk on their capital adequacy.
+6. Measure for Market Risk
+- The proposal would introduce a new measure for market risk that is based on expected shortfall.
+7. Standardized Measure for Market Risk
+- The proposal would introduce a standardized measure for market risk that would be used by banking organizations that do not have the capability to use the models-based measure for market risk.
+8. Models-Based Measure for Market Risk
+- The proposal would introduce a models-based measure for market risk that would be used by banking organizations that have the capability to use internal models to measure market risk.
+9. Treatment of Certain Market Risk
+Covered Positions
+- The proposal would provide special treatment for certain market risk covered positions, such as positions in sovereign debt and positions in exchange-traded derivatives.
+10. Reporting and Disclosure Requirements
+- The proposal would require banking organizations to report information about their market risk capital requirements to their primary federal supervisor.
+- The proposal would also require banking organizations to publicly disclose information about their market risk capital requirements.
+11. Technical Amendments
+- The proposal would make a number of technical amendments to the market risk capital requirements.
+I. Credit Valuation Adjustment Risk
+1. Background
+- Credit valuation adjustment (CVA) risk is the risk of loss that arises when a counterparty to a derivative contract defaults on its obligations.
+2. Scope of Application
+- The proposal would apply to banking organizations that have significant trading activity.
+- The proposal would increase the dollar-based threshold for the application of CVA risk requirements from $1 billion to $5 billion of trading assets plus trading liabilities.
+3. CVA Risk Covered Positions and CVA
+Hedges
+- The proposal would define CVA risk covered positions as all positions that are subject to CVA risk capital requirements under subpart E of the capital rule.
+- The proposal would also define CVA hedges as positions that are used to reduce CVA risk.
+4. General Risk Management Requirements
+- The proposal would require banking organizations to have a risk management framework in place to identify, assess, and manage CVA risk.
+- The proposal would also require banking organizations to have a stress testing framework in place to assess the impact of CVA risk on their capital adequacy.
+5. Measure for CVA Risk
+- The proposal would introduce a new measure for CVA risk that is based on expected shortfall.
+IV. Transition Provisions
+A. Transitions for Expanded Total RiskWeighted Assets
+- The proposal would provide a three-year transition period for banking organizations to implement the new expanded risk-based approach for calculating total risk-weighted assets.
+B. AOCI Regulatory Capital Adjustments
+- The proposal would provide a three-year transition period for banking organizations to adjust their regulatory capital for changes in AOCI.
+V. Impact and Economic Analysis
+A. Scope and Data
+- The impact and economic analysis covers the proposed revisions to the capital rule, including the introduction of the expanded risk-based approach, the revised market risk capital requirements, and the new CVA risk capital requirements.
+- The analysis uses data from a sample of large U.S. banking organizations.
+B. Impact on Risk-Weighted Assets and
+Capital Requirements
+- The proposal would increase risk-weighted assets and capital requirements for large banking organizations.
+- The increase in risk-weighted assets would be driven by the introduction of the expanded risk-based approach and the revised market risk capital requirements.
+- The increase in capital requirements would be driven by the increase in risk-weighted assets and the revised CVA risk capital requirements.
+C. Economic Impact on Lending Activity
+- The proposal would have a small negative impact on lending activity.
+- The impact on lending activity would be driven by the increase in capital requirements.
+D. Economic Impact on Trading Activity
+- The proposal would have a small negative impact on trading activity.
+- The impact on trading activity would be driven by the increase in capital requirements.
+E. Additional Impact Considerations
+- The proposal would have a number of other impacts, including:
+ - Increasing the cost of capital for large banking organizations.
+ - Reducing the profitability of large banking organizations.
+ - Making it more difficult for large banking organizations to raise capital.
+ - Increasing the risk of financial instability.
+VI. Technical Amendments to the Capital
+Rule
+A. Additional OCC Technical Amendments
+- The OCC is proposing a number of technical amendments to the capital rule to conform the rule to the Basel III framework.
+B. Additional FDIC Technical
+Amendments
+- The FDIC is proposing a number of technical amendments to the capital rule to conform the rule to the Basel III framework.
+VII. Proposed Amendments to Related Rules
+and Related Proposals
+A. OCC Amendments
+- The OCC is proposing amendments to its risk-based capital rule to conform the rule to the Basel III framework.
+B. Board Amendments
+- The Board is proposing amendments to its risk-based capital rule to conform the rule to the Basel III framework.
+C. Related Proposals
+- The agencies are proposing a number of related proposals to implement the Basel III framework.
+VIII. Administrative Law Matters
+A. Paperwork Reduction Act
+- The proposal would impose new reporting requirements on banking organizations.
+- The agencies estimate that the cost of compliance with the new reporting requirements would be $1.2 billion per year.
+B. Regulatory Flexibility Act
+- The proposal would not have a significant economic impact on a substantial number of small entities.
+C. Plain Language
+- The proposal is written in plain language.
+D. Riegle Community Development and
+Regulatory Improvement Act of 1994
+- The proposal would not have a significant adverse effect on the availability of credit to low- and moderate-income communities.
+E. OCC Unfunded Mandates Reform Act of
+1995 Determination
+- The proposal would not impose any significant costs on state, local, or tribal governments.
+F. Providing Accountability Through
+Transparency Act of 2023.

@@ -1,155 +1,213 @@
- SECTION 1: GENERAL REQUIREMENTS
-- The proposal specifies capital treatment of internal CVA risk transfers.
-- Banking organizations must maintain an internal written record of each internal derivative transaction.
-- If the internal risk transfer is subject to curvature risk, default risk, or the residual risk add-on, the trading desk would have to execute an external transaction with a third party.
-- The proposal sets forth general requirements for the recognition of CVA hedges that would be applicable to both internal transfers of CVA risk and external CVA hedges.
-- The agencies propose to introduce the concept of a trading desk and apply the proposed internal models approach at the trading desk level.
-- The proposal would define trading desk as a unit of organization of a banking organization that purchases or sells market risk covered positions and satisfies three requirements.
-- The proposed trading desk definition is intended to help ensure that a banking organization structures its trading desks to capture the level at which trading activities are managed and operated and at which the profit and loss of the trading strategy is attributed.
-- The proposal would also introduce the concept of a notional trading desk to which certain types of positions that may not arise from, and may be unrelated to, a banking organization's trading activities would be allocated.
-- Notional trading desks would be subject to only a subset of the general risk management requirements applicable to trading desks.
+ I. Introduction
+A. Overview of the Proposal
+The agencies propose a comprehensive set of revisions to the capital rule. The proposal would strengthen risk-based capital requirements for large banking organizations by improving their comprehensiveness and risk sensitivity. It also includes a number of technical amendments to the capital rule. 
 
-SECTION 2: INTERNAL RISK MANAGEMENT REQUIREMENTS
-- The proposal requires banking organizations to define their trading desk structure and identify trading desks that are used for internal risk transfers and notional trading desks.
-- Notional trading desks must satisfy all general requirements for trading desks and those applicable for the models-based measure.
-- The proposal would require a banking organization to have clearly defined trading and hedging strategies for their trading positions that are approved by senior management.
-- The proposal would maintain certain operational requirements for active management of market risk covered positions, stress testing, control and oversight, and documentation.
-- The proposal would strengthen a banking organization's prudent valuation practices by incorporating requirements that build on the agencies' overall regulatory framework for market risk management.
+B. Use of Internal Models Under the
+Proposed Framework
+The agencies propose to allow banking organizations to use internal models to calculate risk-based capital requirements for certain exposures. 
 
-SECTION 3: OPERATIONAL REQUIREMENTS FOR THE MODELS-BASED MEASURE
-- Banking organizations should have clear policies and procedures for actively managing and monitoring market risk covered positions, including daily monitoring of position limits and a broader set of risk metrics at the trading desk level.
-- Stress testing and internal assessment of capital adequacy should be conducted at both the entity-wide and trading desk level, and results should be reviewed by senior management and reflected in policies and limits set by management and the board of directors.
-- The independent risk control unit should have oversight responsibilities for the design and implementation of market risk management systems, and the internal audit function should assess the effectiveness of risk controls and the calculation of market risk capital requirements.
-- Banking organizations should maintain conceptually sound systems and processes for identifying, measuring, monitoring, and managing market risk, and the internal audit function should assess the effectiveness of these systems and processes.
-- The proposal enhances documentation requirements to reflect changes in the market risk capital framework, including the use of standardized and models-based measures for market risk and the introduction of a capital add-on requirement for re-designations.
+II. Scope of Application
+The proposal applies to large banking organizations with more than $100 billion in total consolidated assets or $50 billion in total on-balance sheet foreign exposure. 
 
-SECTION 4: STANDARDIZED MEASURE FOR MARKET RISK
-- The agencies are proposing a market risk capital framework that requires banking organizations to adequately document all material aspects of their identification, management, and valuation of market risk covered positions.
-- The proposal also includes additional operational requirements for the models-based measure for market risk, such as requiring trading desks to satisfy certain additional operational requirements to ensure they have allocated sufficient resources to develop and rely on internal models that appropriately capture market risk.
-- The proposal would require eligibility for use of the internal models approach to be determined at the trading desk level, rather than for the entire banking organization.
-- To help ensure that internal models appropriately capture a model-eligible trading desk's market risk exposure on an ongoing basis, the proposal would require banking organizations to satisfy additional model review and validation standards for model-eligible trading desks.
-- The proposal also would require banking organizations to establish a validation process that at a minimum includes an evaluation of the internal models' conceptual soundness and adequacy in appropriately capturing and reflecting all material risks.
+III. Proposed Changes to the Capital Rule
+A. Calculation of Capital Ratios and
+Application of Buffer Requirements
+1. Standardized Output Floor
+The proposal would establish a standardized output floor that would apply to all banking organizations. The floor would be set at 75% of the risk-based capital requirement calculated under the standardized approach. 
 
-SECTION 5: INTERNAL MODELS APPROACH FOR MARKET RISK
-- The proposal introduces enhanced operational requirements for banking organizations that use the internal models approach under the models-based measure for market risk.
-- These requirements include validation, documentation, model eligibility, ongoing eligibility, and changes to trading desk structure or internal models.
-- The proposal establishes a framework for initial approval of internal models, including criteria for trading desks to satisfy in order to be considered model-eligible.
-- Ongoing eligibility requirements include quarterly backtesting and PLA testing, and prior written approval from the primary Federal supervisor for any changes that could materially impact risk-weighted asset amounts or internal modelled capital calculations.
-- The proposal aims to ensure that internal models accurately capture market risk and are appropriate for the trading desks they are applied to.
+2. Stress Capital Buffer Requirement
+The proposal would increase the stress capital buffer requirement from 2.5% to 3.5%. 
 
-SECTION 6: SENSITIVITIES-BASED METHOD FOR MARKET RISK
-- The proposal defines market risk covered positions and introduces a standardized measure for market risk.
-- The standardized measure for market risk consists of three components: sensitivities-based method capital requirement, fallback capital requirement, and capital add-on requirement for re-designations.
-- The proposal requires banking organizations to calculate the standardized measure for market risk at least weekly.
-- The sensitivities-based method under the standardized measure for market risk uses risk weights calibrated to a defined liquidity time horizon consistent with the expected shortfall measurement framework under stressed conditions.
-- The proposal establishes a process to determine the sensitivities-based capital requirement for the portfolio, including assigning market risk covered positions to risk classes and establishing risk factors, calculating the sensitivity of a market risk covered position for each risk factor, describing the shock applied to each risk factor, and aggregating the weighted sensitivities.
+B. Definition of Capital
+1. Accumulated Other Comprehensive
+Income
+The proposal would exclude accumulated other comprehensive income (AOCI) from Tier 1 capital. 
 
-SECTION 7: RISK FACTORS AND PARAMETERS
-- The sensitivities-based method for market risk proposed by the agencies captures the risks of positions subject to the market risk capital requirement by mapping them to specified risk factors and calculating capital requirements for delta, vega, and curvature.
-- The proposed risk factors differ for each risk class to reflect the specific market risk variables relevant for each class.
-- For risk classes that include specific tenors or maturities as risk factors, the proposal requires a banking organization to assign the risk factors to the proposed tenors through linear interpolation or a method that is most consistent with the pricing functions used by the internal risk management models.
-- The sensitivities-based method is intended to promote consistency and comparability in regulatory capital requirements across banking organizations and to help ensure the appropriate capitalization of market risk covered positions.
-- Comment is sought on the sensitivities-based method, including to what extent it appropriately captures the risks of positions subject to the market risk capital requirement, and what additional features, adjustments, or alternative methodology could be included to reflect these risks more appropriately.
+2. Regulatory Capital Deductions
+The proposal would revise the regulatory capital deductions framework. 
 
-SECTION 8: INTEREST RATE RISK
-- The proposal defines the construction and use of interest rate curves for the currency in which interest rate-sensitive market risk covered positions are denominated.
-- It also defines the delta, vega, and curvature risk factors for interest rate risk, credit spread risk, equity risk, and commodity risk.
-- For interest rate risk, the proposal requires the use of separate curves for onshore and offshore currencies, as well as for different interest rate curve types.
-- For credit spread risk, the proposal defines the delta, vega, and curvature risk factors for non-securitization positions, securitization positions that are not correlation trading positions, and correlation trading positions.
-- For equity risk, the proposal defines the delta, vega, and curvature risk factors for each issuer, and for commodity risk, the proposal defines the delta, vega, and curvature risk factors for each commodity type.
+3. Additional Definition of Capital
+Adjustments
+The proposal would make a number of additional changes to the definition of capital. 
 
-SECTION 9: FOREIGN EXCHANGE RISK
-- The proposal defines delta risk factors for foreign exchange risk as the exchange rate between the currency in which the market risk covered position is denominated and the reporting currency of the banking organization.
-- For positions referencing two currencies other than the reporting currency, the banking organization would calculate delta risk factors using exchange rates between each non-reporting currency and the reporting currency.
-- The proposal allows a banking organization to calculate delta risk factors for foreign exchange risk relative to a base currency instead of the reporting currency, if approved by the primary Federal supervisor.
-- The vega risk factors for foreign exchange risk are defined as the implied volatility of options that reference exchange rates between currency pairs along one dimension: the maturity of the option.
-- The proposal would allow (but not require) a banking organization to treat a currency's onshore exchange rate and an offshore exchange rate as two distinct risk factors in the delta, vega and curvature calculations for foreign exchange risk.
+4. Changes to the Definition of Tier 2
+Capital Applicable to Large Banking
+Organizations
+The proposal would make changes to the definition of Tier 2 capital applicable to large banking organizations. 
 
-SECTION 10: DELTA, VEGA, AND CURVATURE
-- The delta sensitivity for positions with optionality is calculated using the sticky strike rule, sticky delta rule, or another assumption approved by the primary Federal supervisor.
-- The vega sensitivity is calculated as the vega of an option multiplied by the volatility of the option.
-- The vega capital requirement only applies to options or instruments with embedded optionality, including instruments with material prepayment risk.
-- The curvature capital requirements are intended to capture the price risks inherent in instruments with optionality that are not already captured by delta.
-- The proposal would require a banking organization to use the same risk buckets applied in the delta capital calculation to calculate curvature capital requirements.
+C. Credit Risk
+1. Due Diligence
+The proposal would require banking organizations to conduct due diligence on all exposures. 
 
-SECTION 11: CALCULATION OF CURVATURE RISK-WEIGHTED SENSITIVITY
-- The calculation of curvature risk-weighted sensitivity involves applying upward and downward shocks to the yield curve and measuring the change in value.
-- The proposal requires a banking organization to apply the highest risk weight across risk buckets to each tenor point along the curve for conservatism.
-- For the foreign exchange and equity risk classes, the shocks represent a relative shift of the spot prices equal to the delta risk weight.
-- The proposal allows a banking organization to divide the net curvature risk positions by a scalar of 1.5 for positions that do not reference the reporting or base currency.
-- The agencies seek comment on the appropriateness of calculating the curvature risk-weighted sensitivity for the commodity risk class using a parallel shift of all tenors.
+2. Proposed Risk Weights for Credit Risk
+The proposal would revise the risk weights for credit risk. 
 
-SECTION 12: RISK WEIGHTS
-- The proposal introduces a lower risk weight for interest rate risk factors for listed liquid currencies and other currencies specified by the primary Federal supervisor.
-- The proposal defines delta credit spread risk buckets and corresponding risk weights for non-securitization positions, correlation trading positions, and securitization positions non-CTP based on investment grade, speculative grade, and sub-speculative grade.
-- The proposal includes GSE debt and public sector entities in the sector for government-backed non-financials, education, and public administration.
-- The proposal provides a separate risk bucket with higher risk weights for sub-speculative grade sovereigns and multilateral development banks.
-- The proposal clarifies the treatment of personal loans and dealer floorplan loans within the delta credit spread risk buckets and provides definitions for prime and sub-prime residential mortgage-backed securities.
+3. Off-Balance Sheet Exposures
+The proposal would revise the capital treatment of off-balance sheet exposures. 
 
-SECTION 13: DEFINITIONS
-- The agencies propose using existing definitions for prime, subprime, and mid-prime residential mortgage-backed securities based on Regulation Z definitions.
-- The agencies seek comment on the appropriateness of adding a sub-speculative grade category for non-securitizations and correlation trading positions.
-- The agencies seek comment on the risk weight for covered bonds and alternative approaches to differentiate the credit quality of highly rated covered bonds without referring to credit ratings.
-- The agencies seek comment on whether the proposed definitions for each sector bucket appropriately capture the characteristics to distinguish between the categories of residential mortgage-backed securities.
-- The agencies seek comment on whether the proposed sector bucket definitions for residential mortgage-backed securities are sufficiently clear and what additional criteria should be considered to define "primarily."
+4. Derivatives
+The proposal would revise the capital treatment of derivatives. 
 
-SECTION 14: LIQUIDITY MARKET ECONOMIES
-- The proposal defines liquid market economies based on objective criteria, including GDP per capita, market capitalization, and trading volume.
-- The proposal groups trading positions into risk buckets based on sector and market capitalization for large market capitalization issuers and by emerging market economy or liquid market economy for small market capitalization issuers.
-- The proposal includes three additional risk buckets for equity indices and other equity indices.
-- The proposal defines commodity risk factors into eleven risk buckets based on commodity classes.
-- The proposal requires a banking organization to establish separate risk buckets for each exchange rate between the currency in which a market risk covered position is denominated and the reporting currency.
+5. Credit Risk Mitigation
+The proposal would revise the capital treatment of credit risk mitigation. 
 
-SECTION 15: CORRELATION PARAMETERS
-- The proposal introduces a 100% delta correlation parameter for securitization positions in the same bucket and related to the same securitization tranche with more than 80% overlap in notional terms.
-- For securitization positions non-CTP, the agencies seek comments on alternative criteria for application of the 100% correlation parameter, such as allowing a banking organization to apply a 100% delta correlation parameter if the securitization tranches can offset all or substantially all of the price risk of the position.
-- The agencies request comment on the appropriateness of allowing banking organizations to apply a higher intra-bucket correlation parameter of 99.5% to 99.9% for energy – carbon trading.
-- The agencies request comment on requiring banking organizations to apply a 35% correlation parameter for Uniform Mortgage Backed Securities.
+D. Securitization Framework
+1. Operational Requirements
+The proposal would revise the operational requirements for securitization. 
 
-SECTION 16: STANDARDIZED DEFAULT RISK CAPITAL REQUIREMENT
-- The standardized default risk capital requirement is intended to capture the incremental loss if the issuer of an equity or credit position were to immediately default.
-- The proposal generally follows the Basel III calculation steps for non-securitization debt or equity positions.
-- The gross default exposure is calculated as the product of notional amount and LGD, plus cumulative profits (losses).
-- LGD rates are proposed for different categories of instruments, generally consistent with Basel III.
-- Net default exposure allows full or partial offsetting of long and short positions with the same obligor and seniority.
-- Scaling is applied to offsetting treatment for market risk covered positions with maturities of one year or less.
+2. Securitization Standardized Approach
+(SEC–SA)
+The proposal would revise the SEC-SA. 
 
-SECTION 17: TREATMENT OF DERIVATIVE CONTRACTS AND UNDERLYING POSITIONS
-- The agencies propose allowing banking organizations to net the gross default exposures of derivative contracts and the underlying positions that are deliverable to satisfy the derivative contract.
-- The agencies seek comment on the appropriateness of the proposed treatment of GSE exposures and alternative methods to measure more appropriately the default risk associated with such positions.
-- The agencies propose not allowing banking organizations to recognize any offsetting benefit for market risk covered positions where the obligor is not identified. They seek comment on alternative methods to measure more appropriately the default risk associated with such positions.
-- The agencies propose risk buckets and corresponding risk weights for non-securitization debt or equity positions and securitization positions non-CTP. They seek comment on the appropriateness of the proposed risk weights and granularity and alternative approaches for assigning risk weights.
-- The agencies propose netting and decomposition criteria for calculating the net default exposure for securitization positions non-CTP. They seek comment on alternative non-model-based methodologies that would conservatively recognize some hedging benefits but still capture the basis risk between non-identical positions.
+3. Exceptions to the SEC–SA Risk-Based
+Capital Treatment for Securitization
+Exposures
+The proposal would make exceptions to the SEC-SA risk-based capital treatment for securitization exposures. 
 
-SECTION 18: STANDARDIZED APPROACH FOR CORRELATION TRADING POSITIONS
-- The proposal introduces a standardized approach to calculate the default risk capital requirement for correlation trading positions.
-- The gross default exposure is measured as the position's market value, and the net default exposure is calculated by offsetting long and short exposures in specific cases.
-- Risk buckets are defined by index, and a bespoke correlation trading position is assigned to its own unique bucket unless it is substantially similar to an index instrument.
-- The risk weights corresponding to the proposed risk buckets are based on the treatment under either subpart D or subpart E of the capital rule.
-- A residual risk add-on capital requirement is proposed to capture exotic risks and other residual risks not fully reflected in the sensitivities-based capital requirement or the standardized default risk capital requirement.
+4. Credit Risk Mitigation for Securitization
+Exposures
+The proposal would revise the capital treatment of credit risk mitigation for securitization exposures. 
 
-SECTION 19: RESIDUAL RISK ADD-ON
-- The proposal requires banking organizations to calculate a residual risk add-on for market risk covered positions with exotic exposures and certain other residual risks.
-- The residual risk add-on capital requirement would equal the sum of such capital requirements across subject market risk covered positions.
-- Positions subject to the residual risk add-on include those with exotic exposures, certain correlation trading positions, options or positions with embedded optionality, and other positions as determined by the primary Federal supervisor.
-- Excluded positions include those that are listed on an exchange, eligible to be cleared by a CCP or QCCP, certain options, and certain offsetting positions.
-- The agencies seek comment on all aspects of the proposed residual risk add-on, including alternative methods to identify exotic exposures and other residual risks, additional instruments and offsetting positions that should be excluded, and quantitative measures to identify or distinguish residual risks.
+E. Equity Exposures
+1. Risk-Weighted Asset Amount
+The proposal would revise the risk-weighted asset amount for equity exposures. 
 
-SECTION 20: TREATMENT OF INDEX INSTRUMENTS AND MULTI-UNDERLYING OPTIONS
-- The proposal generally requires a look-through approach for index instruments and multi-underlying options, but it allows for a single sensitivity for listed and well-diversified credit or equity indices.
-- For multi-underlying options (including index options), the proposal permits, but does not require, a banking organization to apply the look-through approach required for delta and calculate the vega capital requirements based on the implied volatility of options on the underlying constituents.
-- The proposal requires a banking organization to apply the look-through approach when calculating the standardized default risk capital requirement for multi-underlying options that are non-securitization debt or equity positions.
-- The proposal would provide greater hedging recognition by allowing such instruments to net with single-name positions issued by the same company.
-- The agencies seek comment on the proposed threshold of 75 percent for assigning a credit or equity index to the corresponding sector or the investment grade indices bucket, as well as on all aspects of the proposed treatment of index instruments and multi-underlying options under the standardized measure for market risk.
+F. Operational Risk
+1. Business Indicator
+The proposal would revise the business indicator. 
 
-SECTION 21: INTERNAL MODELS APPROACH FOR MARKET RISK
-- The agencies seek comment on the internal models approach for market risk.
-- The proposal would require a banking organization to identify an appropriate set of risk factors that is sufficiently representative of the risks inherent in all of the market risk covered positions held by model-eligible trading desks.
-- For the identified risk factors, the proposal would require banking organization to conduct the risk factor eligibility test to determine which risk factors are modellable, and thus subject to the IMCC, and which are non-modellable, and thus subject to the SES capital requirements.
-- The agencies recognize that a banking organization may need to obtain pricing information from third parties to demonstrate the market liquidity of the underlying risk factors, and this may pose unique challenges for validation and other model risk management activities.
-- In certain cases, obtaining information on the prices of individual transactions from third parties may raise legal concerns for the banking organization, the third-party provider, or both.
+2. Business Indicator Component
+The proposal would revise the business indicator component. 
 
-SECTION 22: REAL PRICES
-- The proposal defines a real price as a price, or other information, that is used to determine the fair value of a banking organization's covered positions and is obtained from either internal or external sources.
-- To qualify as a real price, the price or other information must meet certain requirements, including being observable, verifiable, and representative of the market liquidity of the risk factor.
-- The proposal also provides a standard bucketing approach that banking organizations can use to group real prices for the purpose of determining
+3. Internal Loss Multiplier
+The proposal would revise the internal loss multiplier. 
+
+4. Operational Risk Management and Data
+Collection Requirements
+The proposal would revise the operational risk management and data collection requirements. 
+
+G. Disclosure Requirements
+1. Proposed Disclosure Requirements
+The proposal would revise the disclosure requirements. 
+
+2. Specific Public Disclosure Requirements
+The proposal would make specific public disclosure requirements. 
+
+H. Market Risk
+1. Background
+The proposal would revise the market risk framework. 
+
+2. Scope and Application of the Proposed
+Rule
+The proposal would revise the scope and application of the market risk rule. 
+
+3. Market Risk Covered Position
+The proposal would define market risk covered positions. 
+
+4. Internal Risk Transfers
+The proposal would address internal risk transfers. 
+
+5. General Requirements for Market Risk
+The proposal would establish general requirements for market risk. 
+
+6. Measure for Market Risk
+The proposal would establish a measure for market risk. 
+
+7. Standardized Measure for Market Risk
+The proposal would establish a standardized measure for market risk. 
+
+8. Models-Based Measure for Market Risk
+The proposal would establish a models-based measure for market risk. 
+
+9. Treatment of Certain Market Risk
+Covered Positions
+The proposal would address the treatment of certain market risk covered positions. 
+
+10. Reporting and Disclosure Requirements
+The proposal would establish reporting and disclosure requirements for market risk. 
+
+11. Technical Amendments
+The proposal would make technical amendments to the market risk rule. 
+
+I. Credit Valuation Adjustment Risk
+1. Background
+The proposal would revise the CVA risk framework. 
+
+2. Scope of Application
+The proposal would revise the scope and application of the CVA risk rule. 
+
+3. CVA Risk Covered Positions and CVA
+Hedges
+The proposal would define CVA risk covered positions and CVA hedges. 
+
+4. General Risk Management Requirements
+The proposal would establish general risk management requirements for CVA risk. 
+
+5. Measure for CVA Risk
+The proposal would establish a measure for CVA risk. 
+
+IV. Transition Provisions
+A. Transitions for Expanded Total Risk-Weighted Assets
+The proposal would provide transition provisions for expanded total risk-weighted assets. 
+
+B. AOCI Regulatory Capital Adjustments
+The proposal would provide transition provisions for AOCI regulatory capital adjustments. 
+
+V. Impact and Economic Analysis
+A. Scope and Data
+The proposal would provide an impact and economic analysis. 
+
+B. Impact on Risk-Weighted Assets and
+Capital Requirements
+The proposal would provide an impact on risk-weighted assets and capital requirements. 
+
+C. Economic Impact on Lending Activity
+The proposal would provide an economic impact on lending activity. 
+
+D. Economic Impact on Trading Activity
+The proposal would provide an economic impact on trading activity. 
+
+E. Additional Impact Considerations
+The proposal would provide additional impact considerations. 
+
+VI. Technical Amendments to the Capital
+Rule
+A. Additional OCC Technical Amendments
+The proposal would make additional OCC technical amendments. 
+
+B. Additional FDIC Technical
+Amendments
+The proposal would make additional FDIC technical amendments. 
+
+VII. Proposed Amendments to Related Rules
+and Related Proposals
+A. OCC Amendments
+The proposal would make OCC amendments. 
+
+B. Board Amendments
+The proposal would make Board amendments. 
+
+C. Related Proposals
+The proposal would make related proposals. 
+
+VIII. Administrative Law Matters
+A. Paperwork Reduction Act
+The proposal would comply with the Paperwork Reduction Act. 
+
+B. Regulatory Flexibility Act
+The proposal would comply with the Regulatory Flexibility Act. 
+
+C. Plain Language
+The proposal would be written in plain language. 
+
+D. Riegle Community Development and
+Regulatory Improvement Act of 1994
+The proposal would comply with the Riegle Community Development and Regulatory Improvement Act of 1994. 
+
+E. OCC Unfunded Mandates Reform Act of
+1995 Determination
+The proposal would comply with the OCC Unfunded Mandates Reform Act of 1995. 
+
+F. Providing Accountability Through
+Transparency Act of 2023
+The proposal would comply with the Providing Accountability Through Transparency Act of 2023.

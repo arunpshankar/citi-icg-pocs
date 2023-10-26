@@ -1,7 +1,7 @@
- 1. An FDIC-supervised institution subject to subpart E of this part may increase its total leverage exposure for purposes of the supplementary leverage ratio during a five-year transition period. 
+ - An FDIC-supervised institution subject to subpart E of this part that has elected the 2020 CECL transition provision may increase total leverage exposure for purposes of the supplementary leverage ratio by specified percentages during each of the five years of the transition period.
 
-2. The amount of the increase is based on a percentage of the institution's modified CECL transitional amount. 
 
-3. The percentage decreases each year from 100% in the first year to 25% in the fifth year. 
+- The supplementary leverage ratio is a capital measure that is calculated by dividing Tier 1 capital by total leverage exposure.
 
-4. Total assets means quarterly average total assets as reported in an FDIC-supervised institution's Call 
+
+- Total assets means quarterly average total assets as reported in an FDIC-supervised insti

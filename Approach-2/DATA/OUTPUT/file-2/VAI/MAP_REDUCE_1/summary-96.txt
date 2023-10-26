@@ -1,13 +1,7 @@
- 1. The SA-CVA would assign one delta (and, separately, one vega) risk factor per risk bucket for the foreign exchange, reference credit spread, equity, and commodity risk classes.
-
-
-2. For the interest rate risk class, the SA-CVA would have two groups of risk buckets/currencies: the "specified" currencies (USD, EUR, GBP, AUD, CAD, SEK, and JPY) and the other currencies.
-
-
-3. The risk weights for counterparty credit spread risk factors under the SA-CVA would exactly match those for reference credit spread delta risk factors.
-
-
-4. The proposal would merge the investment grade bucket and speculative and sub-speculative grade bucket of each sector into a single bucket for the counterparty credit spread risk class.
-
-
-5. The agencies propose to set the cross-bucket correlations, Yûc, equal to the corresponding correlations that would be applicable under the assumption of the same credit quality in the non-securitization credit spread risk class in the sensitivities-based method for market risk.
+ - SA-CVA would assign one delta (and, separately, one vega) risk factor per risk bucket for FX, reference credit spread, equity, and commodity risk classes.
+- For the interest rate risk class, SA-CVA would have two groups of risk buckets/currencies: "specified" currencies and other currencies.
+- Risk weights for delta risk factors for specified currencies would be set approximately equal to the general risk weights for the inflation rate and for the corresponding tenors of risk-free yields in the sensitivities-based method for market risk divided by √2. 
+- For each of the non-specified currencies, the SA-CVA would provide two delta risk factors per bucket/currency: the absolute change of the inflation rate and the parallel shift of the entire risk-free yield curve for a given currency. 
+- The vega risk weights for both risk factors would be set equal to the single value of the vega risk weight used for all interest rate vega risk factors in the sensitivities-based method for market risk. 
+- Counterparty credit spread risk factors under the SA-CVA would exactly match those for reference credit spread delta risk factors. 
+- The proposal would modify risk bucket definitions for non-securitization credit spread

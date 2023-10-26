@@ -1,6 +1,31 @@
- 1. The proposal defines liquid market economies based on objective criteria, including GDP per capita, 
-market capitalization, and trading volume.
-2. The proposal groups trading positions into risk buckets based on sector and market capitalization for large market capitalization issuers and by emerging market economy or liquid market economy for small market capitalization issuers.
-3. The proposal includes three additional risk buckets for equity indices and other equity indices.
-4. The proposal defines commodity risk factors into eleven risk buckets based on commodity classes.
-5. The proposal requires a banking organization to establish separate risk buckets for each exchange rate between the currency in which a market risk covered position is denominated and the reporting currency.
+ - The proposal includes a set of criteria to define liquid market economies for the purpose of
+determining equity risk weights.
+- The criteria include:
+ - GDP per capita
+ - Market capitalization
+ - Trading volume
+ - Number of listed companies
+ - Foreign ownership
+- The proposal also includes a set of risk buckets for equity risk, which are based on the
+volatility of the equity prices.
+- The risk buckets are:
+ - Large market capitalization issuers in liquid market economies
+ - Large market capitalization issuers in emerging market economies
+ - Small market capitalization issuers in liquid market economies
+ - Small market capitalization issuers in emerging market economies
+ - Equity indices that are both large market capitalization and liquid market economy (non-
+sector specific)
+ - Other equity indices (non-sector specific)
+- The proposal also includes a set of risk buckets for commodity risk, which are based on the
+volatility of the commodity prices.
+- The risk buckets are:
+ - Energy – solid combustibles
+ - Energy – liquid combustibles
+ - Energy - carbon trading
+ - Freight
+ - Metals – non-precious
+ - Gaseous combustibles and electricity
+ - Precious metals (including gold)
+ - Grains and oilseed
+ - Livestock and dairy
+ - Forestry

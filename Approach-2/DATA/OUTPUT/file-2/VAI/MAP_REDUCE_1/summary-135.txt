@@ -1,9 +1,21 @@
- 1. A [BANKING ORGANIZATION] must calculate its annual total net operational loss for the most recent ten-year period. 
+ - A [BANKING ORGANIZATION] must calculate its annual total net operational loss for each year by adding:
+  - The total net operational losses for each quarter of the year; and
+  - The total net operational losses for each quarter of the preceding year that are associated with operational loss events whose accounting impacts extend into the current year.
 
-2. The annual total net operational loss is the sum of the total net operational losses for each quarter in the ten-year period. 
 
-3. A material operational loss is an operational loss that resulted in a net loss greater than or equal to $20,000 after taking into account all subsequent recoveries related to the operational loss. 
+- The total net operational losses for a quarter equal the sum of any portions of losses or recoveries of any material operational losses allocated to the quarter.
 
-4. A [BANKING ORGANIZATION] may request approval from the [AGENCY] to exclude from the calculation of annual total net operational losses operational loss events associated with an activity that the [BANKING ORGANIZATION] has ceased to directly or indirectly conduct. 
 
-5. A [BANKING ORGANIZATION] must have an operational risk management function that is independent of business line management and is responsible for designing, implementing, and overseeing the [BANKING ORGANIZATION]'s internal loss event data collection processes.
+- A material operational loss is an operational loss incurred by the [BANKING ORGANIZATION] that resulted in a net loss greater than or equal to $20,000 after taking into account all subsequent recoveries related to the operational loss.
+
+
+- For purposes of calculating annual total net operational losses, operational losses and recoveries must be based on the date of accounting, including for legal loss events.
+
+
+- Reductions in the legal reserves associated with an ongoing legal event are to be treated as recoveries for the calculation of total net operational losses.
+
+
+- Losses and recoveries related to a common operational loss event, but with accounting impacts across several quarters, must be allocated to the quarters in which the accounting impacts occur.
+
+
+- If a [BANKING ORGANIZATION] does not have complete operational loss

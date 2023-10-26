@@ -1,5 +1,11 @@
- 1. A banking organization must establish delta buckets for interest rate risk, foreign exchange risk, counterparty credit spread risk, reference credit spread risk, and equity risk. 
-2. The delta risk factors for interest rate risk are the absolute changes of the inflation rate and of the risk-free yields for the following five tenors: 1 year, 2 years, 5 years, 10 years, and 30 years. 
-3. The delta risk factors for foreign exchange risk equal the relative change of the foreign exchange spot rate between a given currency and a [BANKING ORGANIZATION]'s reporting currency or base currency. 
-4. The delta risk factors for counterparty credit spread risk are based on changes in credit spreads for five credit quality buckets and one additional bucket for qualified indices. 
-5. The delta risk factors for reference credit spread risk are based on changes in credit spreads for five credit quality buckets and one additional bucket for qualified indices.
+ - The CVA delta capital requirement is calculated separately for each currency.
+- For specified currencies, there are five delta risk factors for interest rate risk: absolute changes in inflation rate and risk-free yields for 1, 2, 5, 10, and 30 years.
+- For currencies not specified, the delta risk factors for interest rate risk are the absolute change in inflation rate and the parallel shift of the entire risk-free yield curve.
+- The delta risk weights for interest rate risk are specified in Table 1.
+- The delta within-bucket correlation parameters for interest rate risk are specified in Table 2.
+- The delta cross-bucket correlation parameter for interest rate risk is 50% for all currency pairs.
+- For foreign exchange risk, there is a separate delta bucket for each currency, except for the reporting currency.
+- The delta risk factors for foreign exchange risk are the relative change of the foreign exchange spot rate between a given currency and the reporting currency.
+- The delta risk weights for foreign exchange risk are 11% for all exchange rates.
+- The delta cross-bucket correlation parameter for foreign exchange risk is 60% for all currency pairs.
+- For counterparty

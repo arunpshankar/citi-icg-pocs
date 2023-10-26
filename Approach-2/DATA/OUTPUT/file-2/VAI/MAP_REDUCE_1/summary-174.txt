@@ -1,9 +1,20 @@
- 1. The CVA vega capital requirement equals the sum of the risk class-level CVA vega capital requirements for each of the five risk classes: interest rate risk, foreign exchange risk, equity risk, reference credit spread risk, and commodity risk. 
+ - The CVA capital requirement is the sum of the risk class-level CVA vega capital requirements for each of the following five risk classes:
+  - Interest rate risk
+  - Foreign exchange risk
+  - Reference credit spread risk
+  - Equity risk
+  - Commodity risk
 
-2. The risk class-level CVA vega capital requirement is calculated by aggregating the bucket-level CVA vega capital requirements for each bucket in the risk class using the correlation parameters specified in § __.225(b). 
 
-3. The bucket-level CVA vega capital requirement is calculated by aggregating the net weighted vega sensitivities for each risk factor in a bucket using the buckets and correlation parameters specified in § __.225(b). 
+- The CVA vega capital requirement is calculated by aggregating the net weighted vega sensitivities for each risk factor in a bucket, b, using the buckets and correlation parameters, Pkl, applicable to each risk class as specified in § .225(b).
 
-4. The net weighted vega sensitivity is calculated by subtracting the weighted hedge vega sensitivity from the weighted CVA vega sensitivity. 
 
-5. The weighted CVA vega sensitivity and the weighted hedge vega sensitivity are calculated by multiplying the CVA vega sensitivity and the hedge vega sensitivity by the corresponding risk weight specified in § __.225(b).
+- The risk class-level CVA vega capital requirement, K, is calculated by aggregating the bucket-level CVA vega capital requirements, Кы, far each bucket in the risk class using the correlation parameters, Ybc, applicable to each risk class as specified in § .225(b).
+
+
+- A [BANKING ORGANIZATION] must calculate regulatory CVA at the counterparty level as the expected loss resulting from default of the counterparty and assuming non-default of the [BANKING ORGANIZATION].
+
+
+- The calculation of regulatory CVA must be based, at a minimum, on the following inputs:
+  - Term structure of market-implied probability of default
+  - Market-consensus expected

@@ -1,5 +1,5 @@
- 1. The proposal aligns the capital standards for banking organizations subject to Category III or IV capital standards with those subject to Category I or II capital standards. 
-2. It requires banking organizations subject to Category III or IV capital standards to recognize most elements of AOCI in regulatory capital. 
-3. It applies capital deductions and minority interest treatments that are currently applicable to banking organizations subject to Category I or II capital standards to banking organizations subject to Category III or IV capital standards. 
-4. It also applies TLAC holdings deduction treatments to banking organizations subject to Category III or IV capital standards. 
-5. The proposal includes a three-year transition period for AOCI.
+ - Banking organizations subject to Category III or IV capital standards would be required to recognize most elements of AOCI in regulatory capital consistent with the treatment for banking organizations subject to Category I or II capital standards.
+- This would require all net unrealized holding gains and losses on AFS debt securities from changes in fair value to flow through to common equity tier 1 capital, including those that result primarily from fluctuations in benchmark interest rates.
+- Banking organizations subject to Category III or IV capital standards would also apply the capital deductions and minority interest treatments that are currently applicable to banking organizations subject to Category I or II capital standards.
+- The proposal would also apply TLAC holdings deduction treatments to banking organizations subject to Category III or IV capital standards.
+- The proposal includes a three-year transition period for AOCI.

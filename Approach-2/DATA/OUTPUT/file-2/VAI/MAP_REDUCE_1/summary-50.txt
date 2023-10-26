@@ -1,5 +1,19 @@
- 1. The proposal specifies the capital treatment of internal CVA risk transfers between a CVA desk and a trading desk to hedge CVA risk. 
-2. An internal CVA risk transfer involves two perfectly offsetting positions of a derivative transaction. 
-3. The proposal requires a banking organization to maintain an internal written record of each internal derivative transaction. 
-4. If the internal risk transfer is subject to curvature risk, default risk, or the residual risk add-on, the trading desk would have to execute an external transaction with a third party. 
-5. The proposal sets forth general requirements for the recognition of CVA hedges that would be applicable to both internal transfers of CVA risk and external CVA hedges.
+ 1. The proposal specifies the capital treatment of internal CVA risk transfers between a CVA desk and a trading desk to hedge CVA risk from exposures subject to the proposed capital requirements for CVA risk.
+
+
+2. An internal CVA risk transfer involves two perfectly offsetting positions of a derivative transaction between a CVA desk and a trading desk.
+
+
+3. To recognize risk mitigation benefits, a banking organization must have a dedicated CVA desk or functional equivalent that manages internal risk transfers of CVA risk.
+
+
+4. The proposal requires a banking organization to maintain an internal written record of each internal derivative transaction between the CVA desk and the trading desk, identifying the underlying exposure being hedged and the sources of risk.
+
+
+5. If the internal risk transfer is subject to curvature risk, default risk, or the residual risk add-on under the proposed market risk capital rule, the trading desk must execute an external transaction with a third party that perfectly offsets the risk transferred.
+
+
+6. The external matching transaction would be included in market risk covered positions, with no impact to the market risk capital required for the trading desk.
+
+
+7. The proposal sets forth general requirements for the recognition of CVA hedges applicable to both internal transfers of CVA risk and external CVA
